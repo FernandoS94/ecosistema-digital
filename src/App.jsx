@@ -77,7 +77,7 @@ function AppContent() {
         
         {/*<FaqSection />*/}
       </main>
-      {/*<Footer />*/}
+      <Footer />
     </>
   );
 }
