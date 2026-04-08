@@ -1,0 +1,75 @@
+/* ── AboutSection ──────────────────────────────── */
+.about-section-new {
+  background: #fff;
+  padding: 90px 0 90px;
+  padding-top: 150px;
+  border-bottom: 1px solid #eee;
+}
+
+.about-new-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 40px;
+  display: flex;
+  align-items: center;
+  gap: 60px;
+}
+
+
+
+
+.about-new-title {
+  font-size: clamp(1.4rem, 2.5vw, 2.6rem);
+  font-weight: 700;
+  color: #1a202c;
+  margin-bottom: 14px;
+  line-height: 1.2;
+}
+
+.about-new-desc {
+  font-size: clamp(1.4rem, 2.5vw, 2.2rem);
+  color: #555;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.about-new-image {
+  flex: 0 0 260px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.about-new-image img {
+  width: 100%;
+  max-width: 260px;
+  height: auto;
+  object-fit: contain;
+}
+
+/* ── Responsive ─────────────────────────────────── */
+@media (max-width: 768px) {
+  .about-new-container {
+    flex-direction: column;
+    gap: 36px;
+    padding: 0 24px;
+    text-align: center;
+  }
+
+  
+
+  .about-new-image {
+    flex: unset;
+  }
+
+  .about-new-image img {
+    max-width: 200px;
+  }
+}
+
+/* Forzar visibilidad si animate-on-scroll no dispara */
+.about-new-text,
+.about-new-image {
+    opacity: 1 !important;
+    transform: none !important;
+}
