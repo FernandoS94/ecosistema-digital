@@ -44,9 +44,9 @@ export function Navbar() {
       <div className="navbar-container">
 
         {/* Logo izquierda — siempre visible */}
-        <a href="#" className="logo logo-left" onClick={(e) => scrollToSection(e, '#')}>
+        <div href="#" className="logo logo-left" onClick={(e) => scrollToSection(e, '#')}>
           <img src="./img/ECO_HORIZONTAL.png" alt="Logo Ecosistema Digital" />
-        </a>
+        </div>
 
         {/* Hamburger — solo mobile, pegado a la derecha */}
         <button
@@ -82,9 +82,9 @@ export function Navbar() {
         </div>
 
         {/* Logo derecha — oculto en mobile */}
-        <a href="#" className="logo logo-right" onClick={(e) => scrollToSection(e, '#')}>
+        <div href="#" className="logo logo-right" onClick={(e) => scrollToSection(e, '#')}>
           <img src="./img/ba_aprende.png" alt="Logo Buenos Aires Aprende" />
-        </a>
+        </div>
 
       </div>
     </nav>
