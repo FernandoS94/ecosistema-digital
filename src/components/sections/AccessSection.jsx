@@ -53,9 +53,25 @@ function FlipCard({ label, desc, to, btnText, colorClass }) {
   );
 }
 
-export function AccessSection() {
+{/*export function AccessSection() {
   return (
     <section className="access-section-new" id="access">
+      <div className="access-new-container">
+        {PROFILES.map((profile) => (
+          <FlipCard key={profile.id} {...profile} />
+        ))}
+      </div>
+    </section>
+  );
+}*/}
+
+export function AccessSection() {
+  return (
+    <section
+      className="access-section-new"
+      id="access"
+      style={{ backgroundImage: `url(${import.meta.env.BASE_URL}img/banner.png)` }}
+    >
       <div className="access-new-container">
         {PROFILES.map((profile) => (
           <FlipCard key={profile.id} {...profile} />
