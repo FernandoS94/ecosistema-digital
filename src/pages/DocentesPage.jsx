@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import { useEffect } from 'react';
 import { useVideo } from '../context/VideoContext';
 import './DocentesPage.css';
@@ -24,9 +25,9 @@ function DocentesIntro() {
           <a href="#" className="docentes-intro-btn">
             Videos tutoriales
           </a>
-          <a href="#" className="docentes-intro-btn">
-            Docentes<br />Secundaria Aprende
-          </a>
+          <Link to="/docentes-secundaria-aprende" className="docentes-intro-btn">
+  Docentes<br />Secundaria Aprende
+</Link>
         </div>
       </div>
     </section>

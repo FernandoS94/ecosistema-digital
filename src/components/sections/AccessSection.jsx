@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { Link } from 'react-router-dom';
 import './AccessSection.css';
 
 const PROFILES = [
@@ -6,7 +7,7 @@ const PROFILES = [
     id: 'docentes',
     label: 'Docentes',
     desc: 'Planificá tus clases con materiales y herramientas para el aprendizaje con IA',
-    href: 'docentes.html',
+    to: '/docentes',
     btnText: 'Ingresar',
     colorClass: 'card-yellow',
   },
@@ -14,13 +15,13 @@ const PROFILES = [
     id: 'familias',
     label: 'Familias',
     desc: 'Acompañá el proceso de aprendizaje y accedé a recursos para apoyar a tus hijos',
-    href: 'familias.html',
+    to: '/familias',
     btnText: 'Ingresar',
     colorClass: 'card-pink',
   },
 ];
 
-function FlipCard({ label, desc, href, btnText, colorClass }) {
+function FlipCard({ label, desc, to, btnText, colorClass }) {
   const [flipped, setFlipped] = useState(false);
 
   return (
@@ -39,13 +40,13 @@ function FlipCard({ label, desc, href, btnText, colorClass }) {
         {/* DORSO */}
         <div className={`flip-card-back ${colorClass}`}>
           <p className="flip-card-desc">{desc}</p>
-          <a
-            href={href}
+          <Link
+            to={to}
             className="flip-card-btn"
             onClick={(e) => e.stopPropagation()}
           >
             {btnText}
-          </a>
+          </Link>
         </div>
       </div>
     </div>

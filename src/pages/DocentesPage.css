@@ -43,12 +43,12 @@
   min-width: 200px;
   min-height: 120px;
   padding: 28px 24px;
-  background-color: var(--primary-color);
+  background-color: #4CC3C8;
   color: #1a202c;
   font-size: 1.7rem;
   font-weight: 700;
   text-align: center;
-  text-decoration: underline;
+  text-decoration: none;
   text-underline-offset: 4px;
   border-radius: 12px;
   transition: background 0.2s, transform 0.2s;

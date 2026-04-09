@@ -85,7 +85,7 @@ export function Navbar() {
               </svg>
             </a>
             <div className="nav-dropdown-menu">
-              <Link to="#" className="nav-dropdown-item" onClick={closeMenu}>Docentes</Link>
+              <Link to="/docentes" className="nav-dropdown-item" onClick={closeMenu}>Docentes</Link>
               <Link to="#" className="nav-dropdown-item" onClick={closeMenu}>Familias</Link>
             </div>
           </div>
