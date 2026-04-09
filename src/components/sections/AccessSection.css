@@ -9,14 +9,14 @@
   overflow: hidden;
 }
 
-/* Overlay teal semitransparente encima de la foto */
+/* Overlay teal semitransparente encima de la foto 
 .access-section-new::before {
   content: '';
   position: absolute;
   inset: 0;
   background: rgba(36, 160, 165, 0.55);
   backdrop-filter: blur(2px);
-}
+}*/
 
 .access-new-container {
   position: relative;
