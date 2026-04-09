@@ -1,9 +1,11 @@
 import { useState, useEffect } from 'react';
-
+import { Link, useNavigate, useLocation } from 'react-router-dom';
 
 export function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [dropdownOpen, setDropdownOpen] = useState(false);
+  const navigate = useNavigate();
+  const location = useLocation();
 
   const toggleMenu = () => setMenuOpen((prev) => !prev);
 
@@ -28,10 +30,24 @@ export function Navbar() {
   const scrollToSection = (e, id) => {
     e.preventDefault();
     closeMenu();
-    if (id === '#') {
+
+    if (location.pathname !== '/') {
+      navigate('/');
+      setTimeout(() => {
+        const el = document.querySelector(id);
+        const navbar = document.querySelector('.navbar');
+        if (el && navbar) {
+          window.scrollTo({ top: el.offsetTop - navbar.offsetHeight, behavior: 'smooth' });
+        }
+      }, 300);
+      return;
+    }
+
+    if (!id || id === '#') {
       window.scrollTo({ top: 0, behavior: 'smooth' });
       return;
     }
+
     const el = document.querySelector(id);
     const navbar = document.querySelector('.navbar');
     if (el && navbar) {
@@ -43,12 +59,10 @@ export function Navbar() {
     <nav className="navbar visible">
       <div className="navbar-container">
 
-        {/* Logo izquierda — siempre visible */}
-        <div href="#" className="logo logo-left" onClick={(e) => scrollToSection(e, '#')}>
+        <div className="logo logo-left">
           <img src="./img/ECO_HORIZONTAL.png" alt="Logo Ecosistema Digital" />
         </div>
 
-        {/* Hamburger — solo mobile, pegado a la derecha */}
         <button
           className={`hamburger${menuOpen ? ' open' : ''}`}
           aria-label="Abrir menú"
@@ -60,7 +74,6 @@ export function Navbar() {
           <span></span>
         </button>
 
-        {/* Links centrados */}
         <div className={`nav-links-centered${menuOpen ? ' open' : ''}`} id="navMenu">
           <a href="#about" className="nav-link" onClick={(e) => scrollToSection(e, '#about')}>Inicio</a>
 
@@ -72,17 +85,15 @@ export function Navbar() {
               </svg>
             </a>
             <div className="nav-dropdown-menu">
-              <a href="docentes.html" className="nav-dropdown-item" onClick={closeMenu}>Docentes</a>
-              <a href="familias.html" className="nav-dropdown-item" onClick={closeMenu}>Familias</a>
+              <Link to="#" className="nav-dropdown-item" onClick={closeMenu}>Docentes</Link>
+              <Link to="#" className="nav-dropdown-item" onClick={closeMenu}>Familias</Link>
             </div>
           </div>
 
-         
           <a href="#faq" className="nav-link" onClick={(e) => scrollToSection(e, '#faq')}>Ayuda</a>
         </div>
 
-        {/* Logo derecha — oculto en mobile */}
-        <div href="#" className="logo logo-right" onClick={(e) => scrollToSection(e, '#')}>
+        <div className="logo logo-right">
           <img src="./img/ba_aprende.png" alt="Logo Buenos Aires Aprende" />
         </div>
 

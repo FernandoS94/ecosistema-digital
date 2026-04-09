@@ -2,7 +2,7 @@
 .access-section-new {
   position: relative;
   padding: 80px 0 90px;
-  background-image: url('/img/banner.png');
+  background-image: url('./img/banner.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

@@ -1,4 +1,5 @@
 import { useEffect } from 'react';
+import { Routes, Route } from 'react-router-dom';
 import { VideoProvider } from './context/VideoContext';
 import { useScrollAnimation } from './hooks/useScrollAnimation';
 
@@ -7,14 +8,14 @@ import { Footer } from './components/Footer';
 import { FlyerModal } from './components/FlyerModal';
 import { VideoModal } from './components/VideoModal';
 
-{/*import { HeroSection } from './components/sections/HeroSection';*/}
 import { AboutSection } from './components/sections/AboutSection';
 import { AvatarsSection } from './components/sections/AvatarsSection';
 import { AppsSection } from './components/sections/AppsSection';
 import { AccessSection } from './components/sections/AccessSection';
 import { FaqSection } from './components/sections/FaqSection';
 
-// Partículas flotantes (replicando el script.js original)
+import { DocentesPage } from './pages/DocentesPage';
+
 function useParticles() {
   useEffect(() => {
     const colors = ['#24a0a5', '#f18489', '#eed464', '#a7d5d6'];
@@ -39,7 +40,6 @@ function useParticles() {
   }, []);
 }
 
-// Bloquear click derecho y devtools (igual que script.js original)
 function useSecurityBlocks() {
   useEffect(() => {
     const blockContext = (e) => e.preventDefault();
@@ -57,8 +57,21 @@ function useSecurityBlocks() {
   }, []);
 }
 
-function AppContent() {
+function HomePage() {
   useScrollAnimation();
+
+  return (
+    <main>
+      <AboutSection />
+      {/*<AccessSection />
+      <AvatarsSection />
+      <AppsSection />
+      <FaqSection />*/}
+    </main>
+  );
+}
+
+function AppContent() {
   useParticles();
   useSecurityBlocks();
 
@@ -67,17 +80,11 @@ function AppContent() {
       <Navbar />
       <FlyerModal />
       <VideoModal />
-      <main>
-      
-       {/*} <AboutSection />
-        <AccessSection />
-        <AppsSection />*/}
-        {/*<AvatarsSection />*/}
-        
-        
-        {/*<FaqSection />*/}
-      </main>
-      {/*<Footer />*/}
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/docentessjjkjk" element={<DocentesPage />} />
+      </Routes>
+      <Footer />
     </>
   );
 }
