@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import './SecundariaAprende.css';
 import { AvatarsSection } from '../components/sections/AvatarsSection';
 import { useScrollAnimation } from '../hooks/useScrollAnimation';
+import { RecursosSection } from '../components/sections/RecursosSection';
 
 
 
@@ -99,6 +100,7 @@ export function SecundariaAprendePage() {
       <SecundariaStats />
       <SecundariaIntro />
        <AvatarsSection />
+       <RecursosSection />
     </main>
   );
 }

@@ -1,7 +1,9 @@
 import { useVideo } from '../../context/VideoContext';
 import { AvatarCategory } from '../ui/AvatarCategory';
-import { HowToUseSteps } from '../ui/HowToUseSteps';
+import {  NewHowToUseSteps } from '../ui/NewHowToUseSteps';
 import { AVATAR_CATEGORIES } from '../../data/avatars';
+import { AvatarsTabs } from '../ui/AvatarsTabs';
+
 
 export function AvatarsSection() {
   const { openAppVideo } = useVideo();
@@ -14,19 +16,11 @@ export function AvatarsSection() {
           Avatares de Secundaria Aprende
         </h2>
 
-        <div className="about-text animate-on-scroll">
-          <p>
-            Los Avatares de Secundaria Aprende son asistentes pedagógicos que, entrenados con IA,
-            ayudan a los docentes a resolver consultas, armar planes de aprendizaje, recibir
-            explicaciones y retroalimentación inmediata. Funcionan como una puerta de entrada simple:
-            elegís un avatar, preguntás y obtenés apoyo concreto que te permitirá potenciar tus
-            prácticas de enseñanza.
-          </p>
-        </div>
 
-        <HowToUseSteps />
+        {/*<NewHowToUseSteps />*/}
+        <AvatarsTabs />
 
-        <div className="categorias-wrapper">
+        {/*<div className="categorias-wrapper">
           {AVATAR_CATEGORIES.map((cat) => (
             <AvatarCategory
               key={cat.id}
@@ -35,7 +29,7 @@ export function AvatarsSection() {
               fullWidth={cat.fullWidth}
             />
           ))}
-        </div>
+        </div>  */}
 
         <div className="beta-notice-bottom animate-on-scroll">
           <p>
@@ -68,6 +62,7 @@ export function AvatarsSection() {
           </div>
         </div>
       </div>
+      
     </section>
   );
 }

@@ -1,0 +1,335 @@
+import { useState, useEffect, useCallback, useRef } from 'react';
+import './RecursosSection.css';
+
+const PAGE_SIZE = 24;
+
+function normalize(str) {
+  return str.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+}
+
+function splitValues(value) {
+  if (!value) return [];
+  return value.split(',').map(v => v.trim()).filter(Boolean);
+}
+
+function matchesFilter(resourceValue, filterSet) {
+  if (filterSet.size === 0) return true;
+  return splitValues(resourceValue).some(v => filterSet.has(v));
+}
+
+// ── Resource Card ────────────────────────────────
+function ResourceCard({ resource }) {
+  return (
+    <div className="resource-card">
+      <div className="resource-header">
+        <span className="resource-level">{resource.level}</span>
+        <h3 className="resource-title">{resource.title}</h3>
+      </div>
+      <div className="resource-meta">
+        <p className="resource-description">{resource.description}</p>
+        <div className="resource-tags">
+          <span className="tag category">{resource.category}</span>
+          <span className="tag subject">{resource.subject}</span>
+          {resource.mode && <span className="tag mode">{resource.mode}</span>}
+          {resource.tags?.map(t => <span className="tag" key={t}>{t}</span>)}
+        </div>
+      </div>
+      <div className="resource-actions">
+        <button
+          className="btn-view-pdf"
+          onClick={() => window.open(resource.url, '_blank')}
+        >
+          Ver Material
+        </button>
+      </div>
+    </div>
+  );
+}
+
+// ── Chips ────────────────────────────────────────
+function Chips({ values, activeSet, filterType, extraClass, onToggle }) {
+  return (
+    <div className="chips-container">
+      {values.map(v => (
+        <div
+          key={v}
+          className={`chip ${extraClass} ${activeSet.has(v) ? 'active' : ''}`}
+          onClick={() => onToggle(filterType, v)}
+        >
+          {v}
+        </div>
+      ))}
+    </div>
+  );
+}
+
+// ── Subject Dropdown ─────────────────────────────
+function SubjectDropdown({ allSubjects, activeSubjects, onToggle }) {
+  const [query, setQuery] = useState('');
+  const [open, setOpen] = useState(false);
+  const wrapperRef = useRef(null);
+
+  const filtered = query
+    ? allSubjects.filter(s => normalize(s).includes(normalize(query)))
+    : allSubjects;
+
+  useEffect(() => {
+    const handleOutside = (e) => {
+      if (wrapperRef.current && !wrapperRef.current.contains(e.target)) {
+        setOpen(false);
+      }
+    };
+    document.addEventListener('click', handleOutside);
+    return () => document.removeEventListener('click', handleOutside);
+  }, []);
+
+  return (
+    <div className="subject-search-wrapper" ref={wrapperRef}>
+      <input
+        type="text"
+        className="subject-search-input"
+        placeholder="Buscar materia..."
+        value={query}
+        onChange={e => setQuery(e.target.value)}
+        onFocus={() => setOpen(true)}
+        autoComplete="off"
+      />
+      <i className="fas fa-search subject-search-icon"></i>
+      {open && (
+        <div className="subject-dropdown open">
+          {filtered.length === 0 ? (
+            <div className="subject-dropdown-empty">Sin resultados</div>
+          ) : (
+            filtered.map(subject => (
+              <div
+                key={subject}
+                className={`subject-dropdown-item ${activeSubjects.has(subject) ? 'selected' : ''}`}
+                onClick={(e) => { e.stopPropagation(); onToggle('subject', subject); }}
+              >
+                <span className="item-check">{activeSubjects.has(subject) ? '✓' : ''}</span>
+                <span>{subject}</span>
+              </div>
+            ))
+          )}
+        </div>
+      )}
+    </div>
+  );
+}
+
+// ── Componente principal ─────────────────────────
+export function RecursosSection() {
+  const [resources, setResources]     = useState([]);
+  const [filtered, setFiltered]       = useState([]);
+  const [rendered, setRendered]       = useState([]);
+  const [renderedCount, setRenderedCount] = useState(0);
+  const [searchQuery, setSearchQuery] = useState('');
+  const [loading, setLoading]         = useState(true);
+  const [error, setError]             = useState(false);
+  const [activeFilters, setActiveFilters] = useState({
+    level:    new Set(),
+    category: new Set(),
+    subject:  new Set(),
+    mode:     new Set(),
+  });
+
+  const allLevels     = [...new Set(resources.flatMap(r => splitValues(r.level)))].sort();
+  const allCategories = [...new Set(resources.flatMap(r => splitValues(r.category)))].sort();
+  const allModes      = [...new Set(resources.flatMap(r => splitValues(r.mode)).filter(Boolean))].sort();
+  const allSubjects   = [...new Set(resources.flatMap(r => splitValues(r.subject)))].sort();
+
+  // Carga del JSON
+  useEffect(() => {
+    fetch('./resources.json')
+      .then(r => { if (!r.ok) throw new Error(); return r.json(); })
+      .then(data => { setResources(data); setFiltered(data); setLoading(false); })
+      .catch(() => { setError(true); setLoading(false); });
+  }, []);
+
+  // Aplicar filtros
+  useEffect(() => {
+    const q = normalize(searchQuery.trim());
+    const hasFilters = Object.values(activeFilters).some(s => s.size > 0);
+
+    let result = resources;
+
+    if (hasFilters) {
+      result = result.filter(r =>
+        matchesFilter(r.level,    activeFilters.level)    &&
+        matchesFilter(r.category, activeFilters.category) &&
+        matchesFilter(r.subject,  activeFilters.subject)  &&
+        matchesFilter(r.mode,     activeFilters.mode)
+      );
+    }
+
+    if (q) {
+      result = result.filter(r =>
+        normalize(r.title).includes(q)       ||
+        normalize(r.description).includes(q) ||
+        normalize(r.subject).includes(q)     ||
+        r.tags?.some(t => normalize(t).includes(q))
+      );
+    }
+
+    setFiltered(result);
+    setRenderedCount(PAGE_SIZE);
+    setRendered(result.slice(0, PAGE_SIZE));
+  }, [resources, searchQuery, activeFilters]);
+
+  // Scroll infinito
+  useEffect(() => {
+    const onScroll = () => {
+      if (renderedCount >= filtered.length) return;
+      if (window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 300) {
+        const next = renderedCount + PAGE_SIZE;
+        setRendered(filtered.slice(0, next));
+        setRenderedCount(next);
+      }
+    };
+    window.addEventListener('scroll', onScroll, { passive: true });
+    return () => window.removeEventListener('scroll', onScroll);
+  }, [filtered, renderedCount]);
+
+  // Toggle filtro
+  const toggleFilter = useCallback((type, value) => {
+    setActiveFilters(prev => {
+      const newSet = new Set(prev[type]);
+      newSet.has(value) ? newSet.delete(value) : newSet.add(value);
+      return { ...prev, [type]: newSet };
+    });
+  }, []);
+
+  // Reset
+  const resetFilters = () => {
+    setActiveFilters({ level: new Set(), category: new Set(), subject: new Set(), mode: new Set() });
+    setSearchQuery('');
+  };
+
+  const hasActiveFilters = Object.values(activeFilters).some(s => s.size > 0);
+  const allActiveTags = [
+    ...Array.from(activeFilters.level).map(v    => ({ type: 'level',    value: v })),
+    ...Array.from(activeFilters.category).map(v => ({ type: 'category', value: v })),
+    ...Array.from(activeFilters.subject).map(v  => ({ type: 'subject',  value: v })),
+    ...Array.from(activeFilters.mode).map(v     => ({ type: 'mode',     value: v })),
+  ];
+
+  return (
+    <section id="recursos" className="recursos-section">
+      <div className="container">
+
+         {/* Encabezado */}
+      <div className="recursos-header">
+        <h2 className="recursos-title">Material didáctico</h2>
+        <p className="recursos-desc">
+          Para explorar el material didáctico, utilizá los filtros por año, nivel, espacio,
+          materia y modalidad; luego, simplemente seleccioná el recurso, previsualizalo,
+          vinculalo a tu aula virtual y adaptalo a las necesidades de tus estudiantes.
+        </p>
+      </div>
+
+        {/* Buscador global */}
+        <div className="global-search-bar">
+          <div className="global-search-wrapper">
+            <i className="fas fa-search global-search-icon"></i>
+            <input
+              type="text"
+              className="global-search-input"
+              placeholder="Buscar recurso..."
+              value={searchQuery}
+              onChange={e => setSearchQuery(e.target.value)}
+              autoComplete="off"
+            />
+            {searchQuery && (
+              <button className="global-search-clear" onClick={() => setSearchQuery('')}>
+                <i className="fas fa-times"></i>
+              </button>
+            )}
+          </div>
+        </div>
+
+        {/* Header filtros */}
+        <div className="filters-header">
+          <h2 className="filters-title">
+            <i className="fas fa-filter"></i> Filtros
+          </h2>
+          <button className="reset-filters-btn" onClick={resetFilters}>
+            <i className="fas fa-redo"></i> Limpiar
+          </button>
+        </div>
+
+        {/* Filtros */}
+        <div className="filters-content">
+          <div className="filter-categories">
+
+            <div className="filter-category">
+              <div className="filter-category-title">Nivel:</div>
+              <Chips values={allLevels} activeSet={activeFilters.level} filterType="level" extraClass="" onToggle={toggleFilter} />
+            </div>
+
+            <div className="filter-category">
+              <div className="filter-category-title">Espacio:</div>
+              <Chips values={allCategories} activeSet={activeFilters.category} filterType="category" extraClass="category-chip" onToggle={toggleFilter} />
+            </div>
+
+            <div className="filter-category">
+              <div className="filter-category-title">Materia:</div>
+              <SubjectDropdown allSubjects={allSubjects} activeSubjects={activeFilters.subject} onToggle={toggleFilter} />
+            </div>
+
+            <div className="filter-category">
+              <div className="filter-category-title">Modalidad:</div>
+              <Chips values={allModes} activeSet={activeFilters.mode} filterType="mode" extraClass="mode-chip" onToggle={toggleFilter} />
+            </div>
+
+          </div>
+        </div>
+
+        {/* Tags activos */}
+        {allActiveTags.length > 0 && (
+          <div className="filters-footer">
+            <div className="active-filter-tags">
+              {allActiveTags.map(f => (
+                <div key={f.type + f.value} className="active-filter-tag">
+                  {f.value}
+                  <span className="remove-filter" onClick={() => toggleFilter(f.type, f.value)}>×</span>
+                </div>
+              ))}
+            </div>
+            <div className="results-count">{filtered.length} de {resources.length} recursos</div>
+          </div>
+        )}
+        {!hasActiveFilters && !searchQuery && (
+          <div className="results-count-simple">{resources.length} recursos</div>
+        )}
+
+      </div>
+
+      {/* Grid de recursos */}
+      <div className="container">
+        {loading && (
+          <div className="recursos-loading">
+            <p>Cargando recursos...</p>
+          </div>
+        )}
+        {error && (
+          <div className="recursos-error">
+            <h3>⚠️ Error al cargar los recursos</h3>
+            <p>Por favor, recargá la página.</p>
+          </div>
+        )}
+        {!loading && !error && rendered.length === 0 && (
+          <div className="no-results">
+            <h3>No se encontraron resultados</h3>
+            <p>Intentá ajustar tus filtros de búsqueda.</p>
+          </div>
+        )}
+        {!loading && !error && rendered.length > 0 && (
+          <div className="resources-grid">
+            {rendered.map(r => <ResourceCard key={r.id} resource={r} />)}
+          </div>
+        )}
+      </div>
+
+    </section>
+  );
+}

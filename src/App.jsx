@@ -41,8 +41,8 @@ function HomePage() {
   return (
     <main>
       <AboutSection />
-      {/*<AccessSection />
-      <AppsSection />*/}
+    <AccessSection />
+     {/*   <AppsSection />*/}
       <FaqSection />
     </main>
   );
@@ -59,7 +59,7 @@ function AppContent() {
       <VideoModal />
       <Routes>
         <Route path="/" element={<HomePage />} />
-        <Route path="/docentesdsfsdf" element={<DocentesPage />} />
+        <Route path="/docentesfsdfdsfdsf" element={<DocentesPage />} />
         <Route path="/docentes-secundaria-aprende" element={<SecundariaAprendePage />} />
       </Routes>
       <Footer />

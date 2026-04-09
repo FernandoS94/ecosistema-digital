@@ -1,0 +1,149 @@
+/* ── Sección ────────────────────────────────────── */
+.how-to-section {
+  background: #f8f9fa;
+  padding: 60px 40px;
+  overflow: hidden;
+  position: relative;
+}
+
+.how-to-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  position: relative;
+}
+
+/* ── Estrella decorativa ────────────────────────── */
+.how-to-estrella {
+  position: absolute;
+  top: -30px;
+  left: -10px;
+  width: 120px;
+  opacity: 0.9;
+  pointer-events: none;
+  mix-blend-mode: multiply;
+}
+
+/* ── Card de texto ──────────────────────────────── */
+.how-to-card {
+  flex: 1;
+  background: #fff;
+  border-radius: 20px;
+  padding: 36px 40px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.07);
+  position: relative;
+  z-index: 1;
+}
+
+.how-to-text {
+  font-size: clamp(0.95rem, 1.4vw, 1.05rem);
+  color: #444;
+  line-height: 1.8;
+  margin-bottom: 18px;
+}
+
+.how-to-text:last-of-type {
+  margin-bottom: 28px;
+}
+
+.how-to-text strong {
+  font-weight: 700;
+  color: #1a202c;
+}
+
+/* ── Botón ──────────────────────────────────────── */
+.how-to-video-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 28px;
+  background: var(--tercer-color);
+  color: #1a202c;
+  border: none;
+  border-radius: 50px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  cursor: pointer;
+  font-family: var(--font-main);
+  transition: all 0.3s ease;
+}
+
+.how-to-video-button:hover {
+  background: var(--cuarto-color);
+  transform: translateY(-2px);
+}
+
+/* ── Avatares flotantes ─────────────────────────── */
+.how-to-avatares {
+  flex-shrink: 0;
+  width: 180px;
+  position: relative;
+  height: 340px;
+}
+
+.how-to-av {
+  position: absolute;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  border: 3px solid #fff;
+  transition: transform 0.3s ease;
+}
+
+.how-to-av:hover {
+  transform: scale(1.06);
+  z-index: 2;
+}
+
+.how-to-av-top {
+  width: 110px;
+  height: 110px;
+  top: 0;
+  right: 0;
+}
+
+.how-to-av-mid {
+  width: 130px;
+  height: 130px;
+  top: 90px;
+  left: 0;
+}
+
+.how-to-av-bot {
+  width: 110px;
+  height: 110px;
+  bottom: 0;
+  right: 10px;
+}
+
+/* ── Responsive ─────────────────────────────────── */
+@media (max-width: 768px) {
+  .how-to-section {
+    padding: 40px 20px;
+  }
+
+  .how-to-inner {
+    flex-direction: column;
+  }
+
+  .how-to-avatares {
+    width: 100%;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+  }
+
+  .how-to-av {
+    position: static;
+    width: 90px !important;
+    height: 90px !important;
+  }
+
+  .how-to-estrella {
+    width: 80px;
+    top: -10px;
+  }
+}

@@ -1,0 +1,186 @@
+/* ── Tabs header ────────────────────────────────── */
+.avatars-tabs {
+  width: 100%;
+}
+
+.avatars-tabs-header {
+  display: flex;
+  border-bottom: 2px solid #e2e8f0;
+  margin-bottom: 32px;
+}
+
+.avatars-tab-btn {
+  padding: 14px 32px;
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: var(--font-main);
+  background: none;
+  border: none;
+  border-bottom: 3px solid transparent;
+  margin-bottom: -2px;
+  color: #888;
+  cursor: pointer;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+.avatars-tab-btn:hover {
+  color: var(--primary-color);
+}
+
+.avatars-tab-btn.active {
+  color: var(--secondary-color);
+  border-bottom-color: var(--primary-color);
+}
+
+/* ── Tab panel ──────────────────────────────────── */
+.avatars-tab-panel {
+  animation: tabFadeIn 0.25s ease;
+}
+
+@keyframes tabFadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ── Info tab layout ────────────────────────────── */
+.avatars-info-content {
+  display: flex;
+  align-items: center;
+  gap: 48px;
+  background: #fff;
+  border-radius: 20px;
+  padding: 40px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06);
+}
+
+.avatars-info-text {
+  flex: 1;
+}
+
+.avatars-info-text p {
+  font-size: clamp(0.95rem, 1.4vw, 1.05rem);
+  color: #444;
+  line-height: 1.8;
+  margin-bottom: 16px;
+}
+
+.avatars-info-text strong {
+  font-weight: 700;
+  color: #1a202c;
+}
+
+.avatars-info-actions {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-top: 24px;
+  flex-wrap: wrap;
+}
+
+.avatars-video-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 28px;
+  background: var(--tercer-color);
+  color: #1a202c;
+  border: none;
+  border-radius: 50px;
+  font-weight: 600;
+  font-size: 0.95rem;
+  cursor: pointer;
+  font-family: var(--font-main);
+  transition: all 0.2s ease;
+}
+
+.avatars-video-btn:hover {
+  background: var(--cuarto-color);
+  transform: translateY(-2px);
+}
+
+.avatars-tab-goto {
+  background: none;
+  border: none;
+  color: var(--primary-color);
+  font-weight: 600;
+  font-size: 0.95rem;
+  cursor: pointer;
+  font-family: var(--font-main);
+  transition: color 0.2s;
+  padding: 0;
+}
+
+.avatars-tab-goto:hover {
+  color: var(--secondary-color);
+}
+
+/* ── Avatares preview ───────────────────────────── */
+.avatars-info-imgs {
+  flex-shrink: 0;
+  width: 160px;
+  position: relative;
+  height: 300px;
+}
+
+.av-preview {
+  position: absolute;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #fff;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+  transition: transform 0.3s;
+}
+
+.av-preview:hover {
+  transform: scale(1.07);
+  z-index: 2;
+}
+
+.av-top {
+  width: 100px;
+  height: 100px;
+  top: 0;
+  right: 0;
+}
+
+.av-mid {
+  width: 120px;
+  height: 120px;
+  top: 80px;
+  left: 0;
+}
+
+.av-bot {
+  width: 100px;
+  height: 100px;
+  bottom: 0;
+  right: 10px;
+}
+
+/* ── Responsive ─────────────────────────────────── */
+@media (max-width: 768px) {
+  .avatars-tab-btn {
+    padding: 12px 20px;
+    font-size: 0.9rem;
+  }
+
+  .avatars-info-content {
+    flex-direction: column;
+    padding: 24px;
+    gap: 28px;
+  }
+
+  .avatars-info-imgs {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+  }
+
+  .av-preview {
+    position: static;
+    width: 80px !important;
+    height: 80px !important;
+  }
+}
