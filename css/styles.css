@@ -1132,7 +1132,7 @@ span {
 
 
 .avatares-section {
-    background: white;
+    background:white;
     padding: 60px 0;
 }
 
@@ -2023,4 +2023,17 @@ span {
   .nav-links-centered {
     order: 3;
   }
+}
+
+.about-text.animate-on-scroll,
+.categoria-header.animate-on-scroll,
+.beta-notice-bottom.animate-on-scroll,
+.avatar-action-container.animate-on-scroll {
+  opacity: 1 !important;
+  transform: none !important;
+}
+
+.animate-on-scroll {
+  opacity: 1 !important;
+  transform: none !important;
 }
