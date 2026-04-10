@@ -838,6 +838,7 @@ span {
     background: var(--light-color);
     overflow: hidden;
     padding: 10px 0 10px;
+    
 }
 
 .carousel-container {
@@ -854,6 +855,13 @@ span {
     display: flex;
     transition: transform 0.5s ease;
     gap: 20px;
+}
+
+.apps-section .section-title {
+  color: black;
+  -webkit-text-fill-color: black;
+  background: none;
+  margin-top: 40px;
 }
 
 .app-card {
@@ -1785,7 +1793,7 @@ span {
 
 .faq-title {
     text-align: center;
-    font-size: 2rem;
+    font-size: 2.5rem;
     font-weight: 700;
     color: black;
     margin-bottom: 40px;

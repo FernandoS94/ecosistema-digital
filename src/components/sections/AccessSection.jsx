@@ -6,7 +6,7 @@ const PROFILES = [
   {
     id: 'docentes',
     label: 'Docentes',
-    desc: 'Planificá tus clases con materiales y herramientas para el aprendizaje con IA',
+    desc: 'Planificá tus clases con IA.',
     to: '/docentes',
     btnText: 'Ingresar',
     colorClass: 'card-yellow',
@@ -14,7 +14,7 @@ const PROFILES = [
   {
     id: 'familias',
     label: 'Familias',
-    desc: 'Acompañá el proceso de aprendizaje y accedé a recursos para apoyar a tus hijos',
+    desc: 'Acompañá el proceso de aprendizaje y accedé a recursos innovadores.',
     to: '/familias',
     btnText: 'Ingresar',
     colorClass: 'card-pink',

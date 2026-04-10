@@ -42,7 +42,7 @@ function HomePage() {
     <main>
       <AboutSection />
     <AccessSection />
-     {/*   <AppsSection />*/}
+       <AppsSection />
       <FaqSection />
     </main>
   );
