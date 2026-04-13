@@ -43,7 +43,7 @@
   min-width: 200px;
   min-height: 120px;
   padding: 28px 24px;
-  background-color: #4CC3C8;
+  background-color: var(--primary-color);
   color: #1a202c;
   font-size: 1.7rem;
   font-weight: 700;

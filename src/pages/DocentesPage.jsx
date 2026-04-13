@@ -2,6 +2,9 @@ import { Link } from 'react-router-dom';
 import { useEffect } from 'react';
 import { useVideo } from '../context/VideoContext';
 import './DocentesPage.css';
+import { VideosSection } from '../components/sections/VideosSection';
+
+
 
 function DocentesHero() {
   return (
@@ -22,7 +25,7 @@ function DocentesIntro() {
         </p>
 
         <div className="docentes-intro-buttons">
-          <a href="#" className="docentes-intro-btn">
+          <a href="#videos" className="docentes-intro-btn">
             Videos tutoriales
           </a>
           <Link to="/docentes-secundaria-aprende" className="docentes-intro-btn">
@@ -86,7 +89,8 @@ export function DocentesPage() {
     <main>
       <DocentesHero />
       <DocentesIntro />
-      <DocentesGem />
+     {/*} <DocentesGem /> */}
+     {/*} <VideosSection/> */}
     </main>
   );
 }

@@ -86,7 +86,8 @@ export function Navbar() {
             </a>
             <div className="nav-dropdown-menu">
               <Link to="/docentes" className="nav-dropdown-item" onClick={closeMenu}>Docentes</Link>
-              <Link to="#" className="nav-dropdown-item" onClick={closeMenu}>Familias</Link>
+              <Link to="/familias" className="nav-dropdown-item" onClick={closeMenu}>Familias</Link>
+              <Link to="#" className="nav-dropdown-item" onClick={closeMenu}>Documento PDF del Ecosistema</Link>
             </div>
           </div>
 

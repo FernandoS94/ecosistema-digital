@@ -1,0 +1,169 @@
+/* ── Sección ────────────────────────────────────── */
+.docs-section {
+  background: #002733;
+  padding: 80px 20px;
+}
+
+.docs-section h2 {
+  text-align: center;
+  font-size: clamp(1.9rem, 4vw, 2.3rem);
+  font-weight: 700;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.docs-intro {
+  text-align: left;
+  max-width: 1100px;
+  margin: 10px auto 50px;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: #555;
+  padding: 0 20px;
+}
+
+/* ── Grid ───────────────────────────────────────── */
+.docs-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* ── Card ───────────────────────────────────────── */
+.doc-card {
+  background: white;
+  border-radius: 20px;
+  padding: 28px 28px 24px;
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  text-decoration: none;
+  color: inherit;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.07), 0 1px 3px rgba(0, 0, 0, 0.04);
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  border: 2px solid transparent;
+}
+
+.doc-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 50px rgba(36, 160, 165, 0.18), 0 5px 15px rgba(0, 0, 0, 0.08);
+  border-color: var(--primary-color);
+}
+
+/* ── Ícono ──────────────────────────────────────── */
+.doc-icon-wrap {
+  width: 64px;
+  height: 64px;
+  min-width: 64px;
+  border-radius: 16px;
+  background: linear-gradient(135deg, #f18489 0%, #e06b71 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 28px;
+  color: white;
+  transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 14px rgba(241, 132, 137, 0.4);
+}
+
+.doc-card:hover .doc-icon-wrap {
+  transform: scale(1.1) rotate(5deg);
+}
+
+.doc-icon-wrap--pdf {
+  background: linear-gradient(135deg, #f18489 0%, #e06b71 100%);
+  box-shadow: 0 4px 14px rgba(241, 132, 137, 0.4);
+}
+
+.doc-icon-wrap--infografia {
+  background: linear-gradient(135deg, var(--primary-color) 0%, #1d8a8f 100%);
+  box-shadow: 0 4px 14px rgba(36, 160, 165, 0.4);
+}
+
+.doc-icon-wrap--otro {
+  background: linear-gradient(135deg, #f5a623 0%, #e08c0a 100%);
+  box-shadow: 0 4px 14px rgba(245, 166, 35, 0.4);
+}
+
+/* ── Contenido ──────────────────────────────────── */
+.doc-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.doc-badge {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  padding: 3px 10px;
+  border-radius: 20px;
+  margin-bottom: 8px;
+}
+
+.doc-badge--pdf {
+  background: rgba(241, 132, 137, 0.12);
+  color: #c0464c;
+}
+
+.doc-badge--infografia {
+  background: rgba(36, 160, 165, 0.12);
+  color: var(--primary-color);
+}
+
+.doc-badge--otro {
+  background: rgba(245, 166, 35, 0.12);
+  color: #c47d00;
+}
+
+.doc-content h3 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--secondary-color);
+  margin-bottom: 6px;
+  transition: color 0.3s ease;
+}
+
+.doc-card:hover .doc-content h3 {
+  color: var(--primary-color);
+}
+
+.doc-content p {
+  font-size: 0.88rem;
+  color: #777;
+  line-height: 1.5;
+  margin: 0;
+}
+
+/* ── Flecha ─────────────────────────────────────── */
+.doc-arrow {
+  color: var(--primary-color);
+  font-size: 1rem;
+  opacity: 0;
+  transform: translateX(-8px);
+  transition: all 0.3s ease;
+  min-width: 20px;
+}
+
+.doc-card:hover .doc-arrow {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+/* ── Responsive ─────────────────────────────────── */
+@media (max-width: 768px) {
+  .docs-section {
+    padding: 60px 20px;
+  }
+
+  .docs-grid {
+    gap: 20px;
+  }
+
+  .doc-card {
+    padding: 22px 20px;
+  }
+}

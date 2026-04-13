@@ -1,0 +1,107 @@
+/* ── Sección ────────────────────────────────────── */
+.videos-section {
+  background: linear-gradient(180deg, #f4f6f9 0%, #eef1f5 100%);
+  padding: 80px 20px;
+}
+
+.videos-section h2 {
+  text-align: center;
+  font-size: clamp(1.9rem, 4vw, 2.3rem);
+  font-weight: 700;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.videos-section > p {
+  text-align: left;
+  max-width: 1100px;
+  margin: 0 auto 50px;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: #555;
+  padding: 0 20px;
+}
+
+/* ── Grid ───────────────────────────────────────── */
+.videos-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 30px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* ── Card ───────────────────────────────────────── */
+.video-card {
+  background: white;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08), 0 1px 3px rgba(0, 0, 0, 0.05);
+  transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1),
+              box-shadow 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+}
+
+.video-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 50px rgba(36, 160, 165, 0.18), 0 5px 15px rgba(0, 0, 0, 0.08);
+}
+
+/* ── Video frame 16:9 ───────────────────────────── */
+.video-frame {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  background: #000;
+}
+
+.video-frame iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+/* ── Contenido ──────────────────────────────────── */
+.video-content {
+  padding: 20px 24px 24px;
+}
+
+.video-content h3 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--secondary-color);
+  margin-bottom: 10px;
+  line-height: 1;
+  transition: color 0.3s ease;
+}
+
+.video-card:hover .video-content h3 {
+  color: var(--primary-color);
+}
+
+.video-content p {
+  font-size: 0.9rem;
+  color: #666;
+  line-height: 1;
+  margin: 0;
+}
+
+/* ── Responsive ─────────────────────────────────── */
+@media (max-width: 768px) {
+  .videos-section {
+    padding: 60px 16px;
+  }
+
+  .videos-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .videos-section > p {
+    padding: 0;
+  }
+}

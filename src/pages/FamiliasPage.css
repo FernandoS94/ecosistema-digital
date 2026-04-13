@@ -1,0 +1,82 @@
+/* ── Hero ───────────────────────────────────────── */
+.familias-hero {
+  background-color: var(--cuarto-color);
+  padding: 150px 20px 60px;
+  text-align: center;
+}
+
+.familias-hero-title {
+  font-size: clamp(3rem, 8vw, 4rem);
+  font-weight: 800;
+  color: #1a202c;
+  margin: 0;
+}
+
+/* ── Intro ──────────────────────────────────────── */
+.familias-intro {
+  background: #fff;
+  padding: 60px 20px;
+}
+
+.familias-intro-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding-left: 28px;
+}
+
+.familias-intro-text {
+  font-size: clamp(1rem, 1.5vw, 1.15rem);
+  color: #444;
+  line-height: 1.7;
+  margin-bottom: 40px;
+}
+
+.familias-intro-buttons {
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.familias-intro-btn {
+  flex: 1;
+  min-width: 200px;
+  min-height: 120px;
+  padding: 24px;
+  background-color: var(--primary-color);
+  color: #1a202c;
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-align: center;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  border-radius: 12px;
+  transition: background 0.2s, transform 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1.4;
+  text-decoration: none !important;
+}
+
+.familias-intro-btn:hover {
+  background-color: var(--tercer-color);
+  transform: translateY(-3px);
+}
+
+/* ── Responsive ─────────────────────────────────── */
+@media (max-width: 768px) {
+  .familias-intro-container {
+    padding-left: 0;
+    border-top: 4px solid var(--accent-color);
+    padding-top: 20px;
+  }
+
+  .familias-intro-buttons {
+    flex-direction: column;
+  }
+
+  .familias-intro-btn {
+    min-width: unset;
+    width: 100%;
+  }
+}

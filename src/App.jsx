@@ -16,6 +16,7 @@ import { FaqSection } from './components/sections/FaqSection';
 
 import { DocentesPage } from './pages/DocentesPage';
 import { SecundariaAprendePage } from './pages/SecundariaAprende';
+import { FamiliasPage } from './pages/FamiliasPage';
 
 
 function useSecurityBlocks() {
@@ -59,8 +60,9 @@ function AppContent() {
       <VideoModal />
       <Routes>
         <Route path="/" element={<HomePage />} />
-        <Route path="/docentesfsdfdsfdsf" element={<DocentesPage />} />
-        <Route path="/docentes-secundaria-aprende" element={<SecundariaAprendePage />} />
+        <Route path="/docentes" element={<DocentesPage />} />
+        <Route path="/docentes-secundaria-aprendefgkfjkgjkdfljgkldf" element={<SecundariaAprendePage />} />
+        <Route path="/familias" element={<FamiliasPage />} />
       </Routes>
       <Footer />
     </>

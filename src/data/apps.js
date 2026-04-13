@@ -13,7 +13,7 @@ export const APPS = [
     img: './img/asistente-de-ai.png',
     alt: 'Asistente IA',
     name: 'Asistente IA',
-    description: ' Ayuda con tareas de investigación, escritura y programación',
+    description: ' Ayuda con tareas de investigación, escritura y programación.',
     tag: 'IA',
     videoKey: 'gemini',
   },
