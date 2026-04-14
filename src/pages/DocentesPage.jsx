@@ -3,6 +3,7 @@ import { useEffect } from 'react';
 import { useVideo } from '../context/VideoContext';
 import './DocentesPage.css';
 import { VideosSection } from '../components/sections/VideosSection';
+import { VideosGrid } from '../components/sections/VideosGrid';
 
 
 
@@ -44,17 +45,16 @@ function DocentesGem() {
     <section className="docentes-gem">
       <div className="docentes-gem-container">
 
-        <div className="docentes-gem-header">
-          <div className="docentes-gem-icon">
-            <img
-              src="./img/estrella.png"
-              alt=""
-              aria-hidden="true"
-              onError={(e) => { e.target.style.display = 'none'; }}
-            />
-          </div>
-          <h2 className="docentes-gem-title">Docente GEM</h2>
-        </div>
+<div className="docentes-gem-icon">
+  <img
+    src="./img/estrella.png"
+    alt=""
+    aria-hidden="true"
+    onError={(e) => { e.target.style.display = 'none'; }}
+  />
+</div>
+
+<h2 className="docentes-gem-title">Docente GEM</h2>
 
         <p className="docentes-gem-desc">
           Diseñá tu propio asistente de planificación especializado en el área que necesites.
@@ -90,7 +90,8 @@ export function DocentesPage() {
       <DocentesHero />
       <DocentesIntro />
       <DocentesGem /> 
-      <VideosSection/> 
+      <VideosGrid />
+   
     </main>
   );
 }

@@ -21,6 +21,16 @@ const DOCUMENTOS = [
     title: 'Escuela en familia',
     desc: 'Accedé a la oferta de talleres virtuales para acompañar la crianza y las trayectorias escolares de los chicos.',
   },
+   {
+    id: 3,
+    href: 'https://educaciondigital.bue.edu.ar/recursos/infografia-mapa-de-riesgos-digitales-en-el-entorno-escolar?id=1f79116f-0717-439c-b454-b78ef9c83640',
+    iconClass: 'doc-icon-wrap--infografia',
+    icon: 'fas fa-image',
+    badge: 'Lectura',
+    badgeClass: 'doc-badge--infografia',
+    title: 'Mapa de riesgos digitales en el entorno escolar',
+    desc: 'Infografía que presenta los riesgos digitales en el entorno escolar.',
+  },
   // Para agregar un nuevo documento, copiá este bloque y completá los datos:
   // {
   //   id: 3,

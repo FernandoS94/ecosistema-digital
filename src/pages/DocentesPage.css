@@ -81,11 +81,13 @@
 }
 
 .docentes-gem-header {
+  position: relative;
+  width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 12px;
 }
+
 
 .docentes-gem-icon {
   height: 60px;
@@ -95,10 +97,14 @@
 }
 
 .docentes-gem-icon img {
-  height: 60px;
+  height: 50px;
   width: auto;
   object-fit: contain;
   mix-blend-mode: screen;
+  transform: rotate(-15deg);
+    flex-shrink: 0;
+  margin-right: 200px;  /* aleja del título */
+  margin-top: 120px;    /* baja la imagen */
 }
 
 .docentes-gem-title {
@@ -106,6 +112,7 @@
   font-weight: 700;
   color: #fff;
   margin: 0;
+  text-align: center;
 }
 
 .docentes-gem-desc {
