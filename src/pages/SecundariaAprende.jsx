@@ -97,10 +97,10 @@ export function SecundariaAprendePage() {
   return (
     <main>
       <SecundariaHero />
-      <SecundariaStats />
+      {/*<SecundariaStats />
       <SecundariaIntro />
        <AvatarsSection />
-       <RecursosSection />
+       <RecursosSection />*/}
     </main>
   );
 }

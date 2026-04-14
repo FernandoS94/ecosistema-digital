@@ -61,7 +61,7 @@ function AppContent() {
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/docentes" element={<DocentesPage />} />
-        <Route path="/docentes-secundaria-aprendefgkfjkgjkdfljgkldf" element={<SecundariaAprendePage />} />
+        <Route path="/docentes-secundaria-aprende" element={<SecundariaAprendePage />} />
         <Route path="/familias" element={<FamiliasPage />} />
       </Routes>
       <Footer />
