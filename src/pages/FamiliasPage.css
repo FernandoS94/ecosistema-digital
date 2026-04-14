@@ -65,11 +65,7 @@
 
 /* ── Responsive ─────────────────────────────────── */
 @media (max-width: 768px) {
-  .familias-intro-container {
-    padding-left: 0;
-    border-top: 4px solid var(--accent-color);
-    padding-top: 20px;
-  }
+ 
 
   .familias-intro-buttons {
     flex-direction: column;

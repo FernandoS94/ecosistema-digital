@@ -89,8 +89,8 @@ export function DocentesPage() {
     <main>
       <DocentesHero />
       <DocentesIntro />
-     {/*} <DocentesGem /> */}
-     {/*} <VideosSection/> */}
+      <DocentesGem /> 
+      <VideosSection/> 
     </main>
   );
 }
