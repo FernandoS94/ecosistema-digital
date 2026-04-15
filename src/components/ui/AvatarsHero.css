@@ -1,0 +1,167 @@
+/* ── Sección ────────────────────────────────────── */
+.avatars-hero {
+  background-color: #1a2f3f;
+  padding: 60px 40px;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+   margin-bottom: -40px;
+  padding-bottom: 0;
+}
+/* ── Titulo ───────────────────────────────────── */
+.avatars-hero-title {
+  text-align: center;
+  font-size: clamp(1.8rem, 4vw, 2.5rem);
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 30px;
+}
+/* ── Estrella ───────────────────────────────────── */
+.avatars-hero-estrella {
+  position: absolute;
+  left: 30px;
+  top: 40px;
+  width: 140px;
+  pointer-events: none;
+  mix-blend-mode: screen;
+  transform: rotate(-10deg);
+}
+
+/* ── Layout inner ───────────────────────────────── */
+.avatars-hero-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 48px;
+}
+
+/* ── Card blanca ────────────────────────────────── */
+.avatars-hero-card {
+  flex: 1;
+  background: #fff;
+  border-radius: 20px;
+  padding: 36px 40px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+}
+
+.avatars-hero-text {
+  font-size: clamp(0.95rem, 1.4vw, 1.05rem);
+  color: #444;
+  line-height: 1.8;
+  margin-bottom: 16px;
+}
+
+.avatars-hero-text:last-child {
+  margin-bottom: 0;
+}
+
+.avatars-hero-text strong {
+  font-weight: 700;
+  color: #1a202c;
+}
+
+/* ── Botón amarillo inline ──────────────────────── */
+.avatars-hero-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 20px;
+  background: var(--tercer-color);
+  color: #1a202c;
+  border: none;
+  border-radius: 50px;
+  font-weight: 700;
+  font-size: 0.9rem;
+  cursor: pointer;
+  font-family: var(--font-main);
+  transition: background 0.2s, transform 0.2s;
+  margin-left: 8px;
+  vertical-align: middle;
+}
+
+.avatars-hero-btn:hover {
+  background: var(--cuarto-color);
+  transform: translateY(-2px);
+}
+
+/* ── Avatares circulares ────────────────────────── */
+.avatars-hero-imgs {
+  flex-shrink: 0;
+  width: 180px;
+  position: relative;
+  height: 320px;
+}
+
+.avatars-hero-av {
+  position: absolute;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s;
+}
+
+.avatars-hero-av:hover {
+  transform: scale(1.07);
+  z-index: 2;
+}
+
+.avatars-hero-av--top {
+  width: 110px;
+  height: 110px;
+  top: 0;
+  right: 0;
+}
+
+.avatars-hero-av--mid {
+  width: 130px;
+  height: 130px;
+  top: 90px;
+  left: 0;
+}
+
+.avatars-hero-av--bot {
+  width: 110px;
+  height: 110px;
+  bottom: 0;
+  right: 10px;
+}
+
+/* ── Responsive ─────────────────────────────────── */
+@media (max-width: 768px) {
+  .avatars-hero {
+    padding: 50px 20px;
+  }
+
+  .avatars-hero-inner {
+    flex-direction: column;
+    gap: 32px;
+  }
+
+  .avatars-hero-estrella {
+    width: 90px;
+    top: 20px;
+    left: 10px;
+  }
+
+  .avatars-hero-imgs {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+  }
+
+  .avatars-hero-av {
+    position: static;
+    width: 85px !important;
+    height: 85px !important;
+  }
+
+  .avatars-hero-card {
+    padding: 24px 20px;
+  }
+}

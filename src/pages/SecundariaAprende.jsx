@@ -7,6 +7,7 @@ import { RecursosSection } from '../components/sections/RecursosSection';
 
 
 
+
 const STATS = [
   { value: '350', label: 'Recursos disponibles' },
   { value: '30', label: 'Materias cubiertas' },
@@ -15,8 +16,8 @@ const STATS = [
 ];
 
 const BUTTONS = [
-  { label: 'Avatares', to: '/#avatares' },
-  { label: 'Docente GEM', to: '/docentes' },
+  { label: 'Avatares', to: '#' },
+  { label: 'Docente GEM', to: '#' },
   { label: 'Material didáctico', to: '#' },
 ];
 
@@ -97,10 +98,11 @@ export function SecundariaAprendePage() {
   return (
     <main>
       <SecundariaHero />
-    {/*<SecundariaStats />
-         <SecundariaIntro />
-     <AvatarsSection />
-        <RecursosSection />*/}
+   <SecundariaStats />
+   
+        <SecundariaIntro />
+    {/* <AvatarsSection />
+          <RecursosSection />*/}
     </main>
   );
 }
