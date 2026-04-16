@@ -3,7 +3,9 @@ import { useNavigate } from 'react-router-dom';
 import './SecundariaAprende.css';
 import { AvatarsSection } from '../components/sections/AvatarsSection';
 import { useScrollAnimation } from '../hooks/useScrollAnimation';
-import { RecursosSection } from '../components/sections/RecursosSection';
+{/*import { RecursosSection } from '../components/sections/RecursosSection';*/}
+import { DocenteGemSection } from '../components/sections/DocenteGemSection';
+import { RecursosSection } from '../components/sections/RecursosSection2';
 
 
 
@@ -97,12 +99,15 @@ export function SecundariaAprendePage() {
 
   return (
     <main>
+      
       <SecundariaHero />
    <SecundariaStats />
    
         <SecundariaIntro />
-    {/* <AvatarsSection />
-          <RecursosSection />*/}
+    <AvatarsSection />
+         
+    {/*         <DocenteGemSection /> 
+       <RecursosSection />  */}
     </main>
   );
 }

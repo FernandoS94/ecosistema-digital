@@ -11,7 +11,7 @@ export function AvatarsSection() {
 
       <AvatarsHero />
 
-      <div className="categorias-bg">
+   {/*   <div className="categorias-bg">
   <div className="categorias-wrapper">
         {AVATAR_CATEGORIES.map((cat) => (
           <AvatarCategory
@@ -38,28 +38,9 @@ export function AvatarsSection() {
           </p>
         </div>
 
-        <div className="avatar-action-container animate-on-scroll">
-         <p className="action-note">
-            Diseñá tu propio asistente de planificación especializado en el área que necesites.
-          </p>
-         
-          <button className="cta-button" onClick={() => openAppVideo('gem')}>
-            Docente GEM
-          </button>
-          
-          <div className="button-left-container">
-            <a
-              href="https://docs.google.com/document/d/1_u8-sATfpOuY80t9z3HtkdbcyrBaIIMVqVG2z0HQc3A/edit?usp=sharing"
-              className="secondary-button"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Políticas y usos
-            </a>
-          </div>
+     
         </div>
-        </div>
-      </div>
+      </div>         */}
 
     </section>
   );

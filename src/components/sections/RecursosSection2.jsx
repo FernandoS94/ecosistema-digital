@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
-import './RecursosSection.css';
+import './RecursosSection2.css';
 
-const PAGE_SIZE = 24;
+const PAGE_SIZE = 12;
 
 function normalize(str) {
   return str.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
@@ -35,10 +35,7 @@ function ResourceCard({ resource }) {
         </div>
       </div>
       <div className="resource-actions">
-        <button
-          className="btn-view-pdf"
-          onClick={() => window.open(resource.url, '_blank')}
-        >
+        <button className="btn-view-pdf" onClick={() => window.open(resource.url, '_blank')}>
           Ver Material
         </button>
       </div>
@@ -46,7 +43,7 @@ function ResourceCard({ resource }) {
   );
 }
 
-// ── Chips ────────────────────────────────────────
+// ── Chips ─────────────────────────────────────────
 function Chips({ values, activeSet, filterType, extraClass, onToggle }) {
   return (
     <div className="chips-container">
@@ -63,7 +60,7 @@ function Chips({ values, activeSet, filterType, extraClass, onToggle }) {
   );
 }
 
-// ── Subject Dropdown ─────────────────────────────
+// ── Subject Dropdown ──────────────────────────────
 function SubjectDropdown({ allSubjects, activeSubjects, onToggle }) {
   const [query, setQuery] = useState('');
   const [open, setOpen] = useState(false);
@@ -75,9 +72,7 @@ function SubjectDropdown({ allSubjects, activeSubjects, onToggle }) {
 
   useEffect(() => {
     const handleOutside = (e) => {
-      if (wrapperRef.current && !wrapperRef.current.contains(e.target)) {
-        setOpen(false);
-      }
+      if (wrapperRef.current && !wrapperRef.current.contains(e.target)) setOpen(false);
     };
     document.addEventListener('click', handleOutside);
     return () => document.removeEventListener('click', handleOutside);
@@ -117,55 +112,47 @@ function SubjectDropdown({ allSubjects, activeSubjects, onToggle }) {
   );
 }
 
-// ── Paginación ───────────────────────────────────
+// ── Paginación ────────────────────────────────────
 function Pagination({ currentPage, totalPages, onPageChange }) {
   if (totalPages <= 1) return null;
 
-  const pages = [];
-  const delta = 2;
-  const left = currentPage - delta;
-  const right = currentPage + delta;
-
-  for (let i = 1; i <= totalPages; i++) {
-    if (i === 1 || i === totalPages || (i >= left && i <= right)) {
-      pages.push(i);
+  const getPages = () => {
+    const pages = [];
+    const delta = 2;
+    for (let i = 1; i <= totalPages; i++) {
+      if (i === 1 || i === totalPages || (i >= currentPage - delta && i <= currentPage + delta)) {
+        pages.push(i);
+      }
     }
-  }
-
-  const withEllipsis = [];
-  let prev = null;
-  for (const page of pages) {
-    if (prev && page - prev > 1) {
-      withEllipsis.push('...');
+    const result = [];
+    let prev = null;
+    for (const page of pages) {
+      if (prev && page - prev > 1) result.push('...');
+      result.push(page);
+      prev = page;
     }
-    withEllipsis.push(page);
-    prev = page;
-  }
-
-  const scrollToTop = () => {
-    const section = document.getElementById('recursos');
-    if (section) section.scrollIntoView({ behavior: 'smooth' });
+    return result;
   };
 
   const handlePage = (page) => {
     onPageChange(page);
-    scrollToTop();
+    document.getElementById('recursos')?.scrollIntoView({ behavior: 'smooth' });
   };
 
   return (
     <div className="pagination">
-      <button
-        className="pagination-btn"
-        onClick={() => handlePage(currentPage - 1)}
-        disabled={currentPage === 1}
-      >
-        ← Anterior
-      </button>
+     <button
+  className="pagination-btn"
+  onClick={() => handlePage(currentPage - 1)}
+  disabled={currentPage === 1}
+>
+  <i className="fas fa-chevron-left"></i>
+</button>
 
       <div className="pagination-pages">
-        {withEllipsis.map((item, i) =>
+        {getPages().map((item, i) =>
           item === '...' ? (
-            <span key={`ellipsis-${i}`} className="pagination-ellipsis">...</span>
+            <span key={`e${i}`} className="pagination-ellipsis">…</span>
           ) : (
             <button
               key={item}
@@ -179,29 +166,26 @@ function Pagination({ currentPage, totalPages, onPageChange }) {
       </div>
 
       <button
-        className="pagination-btn"
-        onClick={() => handlePage(currentPage + 1)}
-        disabled={currentPage === totalPages}
-      >
-        Siguiente →
-      </button>
+  className="pagination-btn"
+  onClick={() => handlePage(currentPage + 1)}
+  disabled={currentPage === totalPages}
+>
+  <i className="fas fa-chevron-right"></i>
+</button>
     </div>
   );
 }
 
-// ── Componente principal ─────────────────────────
+// ── Componente principal ──────────────────────────
 export function RecursosSection() {
-  const [resources, setResources]     = useState([]);
-  const [filtered, setFiltered]       = useState([]);
-  const [currentPage, setCurrentPage] = useState(1);
-  const [searchQuery, setSearchQuery] = useState('');
-  const [loading, setLoading]         = useState(true);
-  const [error, setError]             = useState(false);
+  const [resources, setResources]         = useState([]);
+  const [filtered, setFiltered]           = useState([]);
+  const [currentPage, setCurrentPage]     = useState(1);
+  const [searchQuery, setSearchQuery]     = useState('');
+  const [loading, setLoading]             = useState(true);
+  const [error, setError]                 = useState(false);
   const [activeFilters, setActiveFilters] = useState({
-    level:    new Set(),
-    category: new Set(),
-    subject:  new Set(),
-    mode:     new Set(),
+    level: new Set(), category: new Set(), subject: new Set(), mode: new Set(),
   });
 
   const allLevels     = [...new Set(resources.flatMap(r => splitValues(r.level)))].sort();
@@ -209,38 +193,38 @@ export function RecursosSection() {
   const allModes      = [...new Set(resources.flatMap(r => splitValues(r.mode)).filter(Boolean))].sort();
   const allSubjects   = [...new Set(resources.flatMap(r => splitValues(r.subject)))].sort();
 
-  const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
-  const rendered   = filtered.slice((currentPage - 1) * PAGE_SIZE, currentPage * PAGE_SIZE);
+  const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
+  const start      = (currentPage - 1) * PAGE_SIZE;
+  const rendered   = filtered.slice(start, start + PAGE_SIZE);
 
-  // Carga del JSON
+  // Carga JSON
   useEffect(() => {
-    fetch('./resources.json')
+    fetch(`${import.meta.env.BASE_URL}resources.json`)
       .then(r => { if (!r.ok) throw new Error(); return r.json(); })
       .then(data => { setResources(data); setFiltered(data); setLoading(false); })
       .catch(() => { setError(true); setLoading(false); });
   }, []);
 
-  // Aplicar filtros
+  // Filtros
   useEffect(() => {
     const q = normalize(searchQuery.trim());
     const hasFilters = Object.values(activeFilters).some(s => s.size > 0);
-
     let result = resources;
 
     if (hasFilters) {
       result = result.filter(r =>
-        matchesFilter(r.level,    activeFilters.level)    &&
+        matchesFilter(r.level, activeFilters.level) &&
         matchesFilter(r.category, activeFilters.category) &&
-        matchesFilter(r.subject,  activeFilters.subject)  &&
-        matchesFilter(r.mode,     activeFilters.mode)
+        matchesFilter(r.subject, activeFilters.subject) &&
+        matchesFilter(r.mode, activeFilters.mode)
       );
     }
 
     if (q) {
       result = result.filter(r =>
-        normalize(r.title).includes(q)       ||
+        normalize(r.title).includes(q) ||
         normalize(r.description).includes(q) ||
-        normalize(r.subject).includes(q)     ||
+        normalize(r.subject).includes(q) ||
         r.tags?.some(t => normalize(t).includes(q))
       );
     }
@@ -249,7 +233,6 @@ export function RecursosSection() {
     setCurrentPage(1);
   }, [resources, searchQuery, activeFilters]);
 
-  // Toggle filtro
   const toggleFilter = useCallback((type, value) => {
     setActiveFilters(prev => {
       const newSet = new Set(prev[type]);
@@ -258,7 +241,6 @@ export function RecursosSection() {
     });
   }, []);
 
-  // Reset
   const resetFilters = () => {
     setActiveFilters({ level: new Set(), category: new Set(), subject: new Set(), mode: new Set() });
     setSearchQuery('');
@@ -277,7 +259,6 @@ export function RecursosSection() {
     <section id="recursos" className="recursos-section">
       <div className="container">
 
-        {/* Encabezado */}
         <div className="recursos-header">
           <h2 className="recursos-title">Material didáctico</h2>
           <p className="recursos-desc">
@@ -287,7 +268,6 @@ export function RecursosSection() {
           </p>
         </div>
 
-        {/* Buscador global */}
         <div className="global-search-bar">
           <div className="global-search-wrapper">
             <i className="fas fa-search global-search-icon"></i>
@@ -307,17 +287,13 @@ export function RecursosSection() {
           </div>
         </div>
 
-        {/* Header filtros */}
         <div className="filters-header">
-          <h2 className="filters-title">
-            <i className="fas fa-filter"></i> Filtros
-          </h2>
+          <h2 className="filters-title"><i className="fas fa-filter"></i> Filtros</h2>
           <button className="reset-filters-btn" onClick={resetFilters}>
             <i className="fas fa-redo"></i> Limpiar
           </button>
         </div>
 
-        {/* Filtros */}
         <div className="filters-content">
           <div className="filter-categories">
             <div className="filter-category">
@@ -339,7 +315,6 @@ export function RecursosSection() {
           </div>
         </div>
 
-        {/* Tags activos */}
         {allActiveTags.length > 0 && (
           <div className="filters-footer">
             <div className="active-filter-tags">
@@ -359,7 +334,6 @@ export function RecursosSection() {
 
       </div>
 
-      {/* Grid de recursos */}
       <div className="container">
         {loading && <div className="recursos-loading"><p>Cargando recursos...</p></div>}
         {error && (
@@ -376,6 +350,9 @@ export function RecursosSection() {
         )}
         {!loading && !error && rendered.length > 0 && (
           <>
+            <p className="pagination-info">
+              Mostrando {start + 1}–{Math.min(start + PAGE_SIZE, filtered.length)} de {filtered.length} recursos
+            </p>
             <div className="resources-grid">
               {rendered.map(r => <ResourceCard key={r.id} resource={r} />)}
             </div>
@@ -387,7 +364,6 @@ export function RecursosSection() {
           </>
         )}
       </div>
-
     </section>
   );
 }

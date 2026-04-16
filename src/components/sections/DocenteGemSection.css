@@ -1,0 +1,103 @@
+/* ── Docente GEM ────────────────────────────────── */
+.docentes-gem {
+  background-color: #1a2535;
+  padding: 70px 20px 80px;
+  text-align: center;
+  position: relative;
+}
+
+.docentes-gem-container {
+  max-width: 700px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.docentes-gem-icon {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 30px;
+  margin-top: 20px;
+}
+
+.docentes-gem-icon img {
+  height: 60px;
+  width: auto;
+  object-fit: contain;
+  mix-blend-mode: screen;
+  transform: rotate(-15deg);
+}
+
+.docentes-gem-title {
+  font-size: clamp(1.8rem, 4vw, 2.5rem);
+  font-weight: 700;
+  color: #fff;
+  margin: 0;
+  text-align: center;
+}
+
+.docentes-gem-desc {
+  font-size: clamp(1rem, 1.5vw, 1.4rem);
+  color: rgba(255, 255, 255, 0.85);
+  line-height: 1.6;
+  margin: 0;
+  max-width: 1100px;
+  white-space: nowrap;
+}
+
+.docentes-gem-btn {
+  padding: 14px 48px;
+  font-size: 1rem;
+  font-weight: 700;
+  background: var(--cuarto-color);
+  color: #1a202c;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  font-family: var(--font-main);
+  transition: background 0.2s, transform 0.2s;
+  margin-top: 8px;
+}
+
+.docentes-gem-btn:hover {
+  background: var(--tercer-color);
+  transform: translateY(-2px);
+}
+
+.docentes-politicas-btn {
+  position: absolute;
+  bottom: 24px;
+  right: 60px;
+  padding: 10px 22px;
+  font-size: 0.875rem;
+  background-color: #f5f0d8;
+  color: #1a202c;
+  border: none;
+  border-radius: 50px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: background 0.2s, transform 0.2s;
+}
+
+.docentes-politicas-btn:hover {
+  background: #fff;
+  transform: translateY(-2px);
+}
+
+@media (max-width: 768px) {
+  .docentes-gem-desc {
+    white-space: normal;
+  }
+
+  .docentes-politicas-btn {
+    position: static;
+    display: block;
+    margin: 20px auto 0;
+    text-align: center;
+    width: fit-content;
+  }
+}

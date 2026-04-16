@@ -56,8 +56,8 @@ export function FamiliasPage() {
     <main>
       <FamiliasHero />
       <FamiliasIntro />
-      {/*<DocumentosSection />
-      <VideosFamiliasSection /> */}
+      <DocumentosSection />
+     {/* <VideosFamiliasSection /> */}
     </main>
   );
 }
