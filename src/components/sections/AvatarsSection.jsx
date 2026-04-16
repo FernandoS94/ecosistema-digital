@@ -11,7 +11,7 @@ export function AvatarsSection() {
 
       <AvatarsHero />
 
-   {/*   <div className="categorias-bg">
+      <div className="categorias-bg">
   <div className="categorias-wrapper">
         {AVATAR_CATEGORIES.map((cat) => (
           <AvatarCategory
@@ -40,7 +40,7 @@ export function AvatarsSection() {
 
      
         </div>
-      </div>         */}
+      </div>         
 
     </section>
   );

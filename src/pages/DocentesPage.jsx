@@ -4,6 +4,7 @@ import { useVideo } from '../context/VideoContext';
 import './DocentesPage.css';
 import { VideosSection } from '../components/sections/VideosSection';
 import { VideosGrid } from '../components/sections/VideosGrid';
+import { DocenteGemSection } from '../components/sections/DocenteGemSection1';
 
 
 
@@ -89,7 +90,8 @@ export function DocentesPage() {
     <main>
       <DocentesHero />
       <DocentesIntro />
-      <DocentesGem /> 
+      {/*<DocentesGem />*/} 
+      <DocenteGemSection />
       <VideosGrid />
    
     </main>

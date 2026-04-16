@@ -106,7 +106,7 @@ export function SecundariaAprendePage() {
         <SecundariaIntro />
     <AvatarsSection />
          
-    {/*         <DocenteGemSection /> 
+       {/* <DocenteGemSection />
        <RecursosSection />  */}
     </main>
   );
