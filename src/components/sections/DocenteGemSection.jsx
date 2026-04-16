@@ -5,7 +5,7 @@ export function DocenteGemSection() {
   const { openAppVideo } = useVideo();
 
   return (
-    <section className="docentes-gem">
+    <section className="docentes-gem" id="docentegem">
       <div className="docentes-gem-container">
 
 

@@ -24,20 +24,28 @@ function FamiliasIntro() {
           <a
             href="#videos-familias"
             className="familias-intro-btn"
-            onClick={(e) => {
-              e.preventDefault();
-              document.querySelector('#videos-familias')?.scrollIntoView({ behavior: 'smooth' });
-            }}
+           onClick={(e) => {
+  e.preventDefault();
+  const el = document.querySelector('#videos-familias');
+  const navbar = document.querySelector('.navbar');
+  if (el && navbar) {
+    window.scrollTo({ top: el.offsetTop - navbar.offsetHeight, behavior: 'smooth' });
+  }
+}}
           >
             Videos educativos
           </a>
           <a
-            href="#comunicacion"
+            href="#documentos"
             className="familias-intro-btn"
-            onClick={(e) => {
-              e.preventDefault();
-              document.querySelector('#comunicacion')?.scrollIntoView({ behavior: 'smooth' });
-            }}
+           onClick={(e) => {
+  e.preventDefault();
+  const el = document.querySelector('#documentos');
+  const navbar = document.querySelector('.navbar');
+  if (el && navbar) {
+    window.scrollTo({ top: el.offsetTop - navbar.offsetHeight, behavior: 'smooth' });
+  }
+}}
           >
             Comunicación y<br />acompañamiento
           </a>
@@ -57,7 +65,7 @@ export function FamiliasPage() {
       <FamiliasHero />
       <FamiliasIntro />
       <DocumentosSection />
-     {/* <VideosFamiliasSection /> */}
+     {/*<VideosFamiliasSection /> */}
     </main>
   );
 }

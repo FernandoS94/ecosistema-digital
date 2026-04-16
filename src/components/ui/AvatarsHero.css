@@ -21,12 +21,12 @@
 /* ── Estrella ───────────────────────────────────── */
 .avatars-hero-estrella {
   position: absolute;
-  left: 30px;
-  top: 40px;
-  width: 140px;
+  left: 300px;
+  top: 110px;
+  width: 190px;
   pointer-events: none;
   mix-blend-mode: screen;
-  transform: rotate(-10deg);
+  transform: rotate(-30deg);
 }
 
 /* ── Layout inner ───────────────────────────────── */

@@ -2,6 +2,7 @@
 .recursos-section {
   padding: 30px 0 60px;
   background: white;
+ 
 }
 /* ── Encabezado ────────────────────────────── */
 .recursos-header {
@@ -11,17 +12,18 @@
 }
 
 .recursos-title {
-  font-size: clamp(1.5rem, 3vw, 2rem);
+  font-size: clamp(1.8rem, 4vw, 2.5rem);
   font-weight: 700;
   color: black;
   margin-bottom: 10px;
+  text-align: center;
 }
 
 .recursos-desc {
   font-size: clamp(0.9rem, 1.4vw, 1rem);
   color: black;
   line-height: 1.7;
-  max-width: 800px;
+  max-width: 1100px;
 }
 
 /* ── Buscador global ────────────────────────────── */

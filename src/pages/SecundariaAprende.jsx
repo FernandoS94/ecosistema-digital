@@ -18,9 +18,9 @@ const STATS = [
 ];
 
 const BUTTONS = [
-  { label: 'Avatares', to: '#' },
-  { label: 'Docente GEM', to: '#' },
-  { label: 'Material didáctico', to: '#' },
+  { label: 'Avatares', to: 'avatares' },
+  { label: 'Docente GEM', to: 'docentegem' },
+  { label: 'Material didáctico', to: 'recursos' },
 ];
 
 function SecundariaHero() {
@@ -49,7 +49,7 @@ function SecundariaStats() {
 function SecundariaIntro() {
   const navigate = useNavigate();
 
-  const handleClick = (e, to) => {
+  /*const handleClick = (e, to) => {
     e.preventDefault();
     if (to === '#') return;
     if (to.startsWith('/#')) {
@@ -65,7 +65,18 @@ function SecundariaIntro() {
     } else {
       navigate(to);
     }
-  };
+  };*/
+
+  const handleClick = (e, to) => {
+  e.preventDefault();
+  if (to === '#') return;
+  const el = document.getElementById(to);
+  const navbar = document.querySelector('.navbar');
+  if (el && navbar) {
+    const top = el.getBoundingClientRect().top + window.scrollY - navbar.offsetHeight;
+    window.scrollTo({ top, behavior: 'smooth' });
+  }
+};
 
   return (
     <section className="secundaria-intro">
@@ -106,8 +117,8 @@ export function SecundariaAprendePage() {
         <SecundariaIntro />
     <AvatarsSection />
          
-       {/* <DocenteGemSection />
-       <RecursosSection />  */}
+      <DocenteGemSection />
+        {/*<RecursosSection /> */}
     </main>
   );
 }

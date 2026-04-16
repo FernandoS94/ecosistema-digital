@@ -1,7 +1,7 @@
 /* ── Docente GEM ────────────────────────────────── */
 .docentes-gem {
-  background-color: #1a2535;
-  padding: 70px 20px 80px;
+  background-color: #1a2f3f;
+  padding: 50px 20px 80px;
   text-align: center;
   position: relative;
 }
@@ -71,7 +71,7 @@
 .docentes-politicas-btn {
   position: absolute;
   bottom: 24px;
-  right: 60px;
+  right: 400px;
   padding: 10px 22px;
   font-size: 0.875rem;
   background-color: #f5f0d8;

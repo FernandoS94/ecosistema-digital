@@ -27,9 +27,20 @@ function DocentesIntro() {
         </p>
 
         <div className="docentes-intro-buttons">
-          <a href="#videos" className="docentes-intro-btn">
-            Videos tutoriales
-          </a>
+          <a 
+          href="#videos"
+  className="docentes-intro-btn"
+  onClick={(e) => {
+    e.preventDefault();
+    const el = document.querySelector('#videos');
+    const navbar = document.querySelector('.navbar');
+    if (el && navbar) {
+      window.scrollTo({ top: el.offsetTop - navbar.offsetHeight, behavior: 'smooth' });
+    }
+  }}
+>
+  Videos tutoriales
+</a>
           <Link to="/docentes-secundaria-aprende" className="docentes-intro-btn">
   Docentes<br />Secundaria Aprende
 </Link>
