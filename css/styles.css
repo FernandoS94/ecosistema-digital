@@ -1436,7 +1436,7 @@ span {
 /* Móviles */
 @media (max-width: 480px) {
     .avatares-section {
-        padding: 40px 0;
+        padding: 0px 0;
     }
 
     .categorias-wrapper {
