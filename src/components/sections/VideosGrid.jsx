@@ -107,7 +107,7 @@ const VIDEO_CATEGORIES = [
   { id: 5, label: '', url: '', colorClass: 'vg-teal' },
   { id: 6, label: '', url: '', colorClass: 'vg-purple' },
   { id: 7, label: '', url: '', colorClass: 'vg-olive-dark' },
-  { id: 8, label: '', url: '', colorClass: 'vg-slate' },
+  { id: 8, label: '', url: '', colorClass: 'vg-purple' },
   { id: 9, label: '', url: '', colorClass: 'vg-yellow' },
   { id: 10, label: '', url: '', colorClass: 'vg-teal' },
   { id: 11, label: '', url: '', colorClass: 'vg-purple' },

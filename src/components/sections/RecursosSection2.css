@@ -27,6 +27,8 @@
 }
 
 /* ── Buscador global ────────────────────────────── */
+
+
 .global-search-bar {
   padding: 14px 0 12px;
   border-bottom: 1px solid #e8e8e8;
@@ -86,6 +88,14 @@
 .global-search-clear:hover { color: var(--accent-color); }
 
 /* ── Filtros ────────────────────────────────────── */
+
+.filters-section-full {
+  background: var(--light-color);
+  padding: 15px 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  border-bottom: 1px solid #e0e0e0;
+  width: 100%;
+}
 .filters-header {
   display: flex;
   justify-content: space-between;
@@ -339,9 +349,16 @@
 }
 
 /* ── Grid de recursos ───────────────────────────── */
-.resources-grid {
+/*.resources-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 20px;
+  margin-top: 30px;
+}*/
+
+.resources-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   gap: 20px;
   margin-top: 30px;
 }
@@ -382,9 +399,10 @@
 }
 
 .resource-title {
-  font-size: 0.95rem;
+  font-size: 1rem;
   font-weight: 700;
   color: var(--secondary-color);
+  line-height: 1;
 }
 
 .resource-meta {
@@ -396,7 +414,7 @@
 
 .resource-description {
   color: #555;
-  font-size: 0.82rem;
+  font-size: 0.9rem;
   line-height: 1.5;
   margin-bottom: 10px;
 }
@@ -472,11 +490,15 @@
   .subject-search-input { width: 100%; }
   .subject-dropdown { width: 100%; }
 
-  .resources-grid {
+ /* .resources-grid {
     grid-template-columns: 1fr;
   }
 }
-
+*/
+ .resources-grid {
+    grid-template-columns: 1fr;
+  }
+}
 /* ── Info de paginación ─────────────────────────── */
 .pagination-info {
   font-size: 0.85rem;

@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
 import './RecursosSection2.css';
 
-const PAGE_SIZE = 4;
+const PAGE_SIZE = 3;
 
 function normalize(str) {
   return str.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
@@ -256,17 +256,23 @@ export function RecursosSection() {
   ];
 
   return (
-    <section id="recursos" className="recursos-section">
-      <div className="container">
+      <section id="recursos" className="recursos-section">
 
-        <div className="recursos-header">
-          <h2 className="recursos-title">Material didáctico</h2>
-          <p className="recursos-desc">
-            Para explorar el material didáctico, utilizá los filtros por año, nivel, espacio,
-            materia y modalidad; luego, simplemente seleccioná el recurso, previsualizalo,
-            vinculalo a tu aula virtual y adaptalo a las necesidades de tus estudiantes.
-          </p>
-        </div>
+    {/* Encabezado */}
+    <div className="container">
+      <div className="recursos-header">
+        <h2 className="recursos-title">Material didáctico</h2>
+        <p className="recursos-desc">
+          Para explorar el material didáctico, utilizá los filtros por año, nivel, espacio,
+          materia y modalidad; luego, simplemente seleccioná el recurso, previsualizalo,
+          vinculalo a tu aula virtual y adaptalo a las necesidades de tus estudiantes.
+        </p>
+      </div>
+    </div>
+
+    {/* Filtros — ocupa todo el ancho */}
+    <div className="filters-section-full">
+      <div className="container">
 
         <div className="global-search-bar">
           <div className="global-search-wrapper">
@@ -288,7 +294,9 @@ export function RecursosSection() {
         </div>
 
         <div className="filters-header">
-          <h2 className="filters-title"><i className="fas fa-filter"></i> Filtros</h2>
+          <h2 className="filters-title">
+            <i className="fas fa-filter"></i> Filtros
+          </h2>
           <button className="reset-filters-btn" onClick={resetFilters}>
             <i className="fas fa-redo"></i> Limpiar
           </button>
@@ -333,37 +341,37 @@ export function RecursosSection() {
         )}
 
       </div>
+    </div>
 
-      <div className="container">
-        {loading && <div className="recursos-loading"><p>Cargando recursos...</p></div>}
-        {error && (
-          <div className="recursos-error">
-            <h3>⚠️ Error al cargar los recursos</h3>
-            <p>Por favor, recargá la página.</p>
+    {/* Grid de recursos */}
+    <div className="container">
+      {loading && <div className="recursos-loading"><p>Cargando recursos...</p></div>}
+      {error && (
+        <div className="recursos-error">
+          <h3>⚠️ Error al cargar los recursos</h3>
+          <p>Por favor, recargá la página.</p>
+        </div>
+      )}
+      {!loading && !error && rendered.length === 0 && (
+        <div className="no-results">
+          <h3>No se encontraron resultados</h3>
+          <p>Intentá ajustar tus filtros de búsqueda.</p>
+        </div>
+      )}
+      {!loading && !error && rendered.length > 0 && (
+        <>
+          <div className="resources-grid">
+            {rendered.map(r => <ResourceCard key={r.id} resource={r} />)}
           </div>
-        )}
-        {!loading && !error && rendered.length === 0 && (
-          <div className="no-results">
-            <h3>No se encontraron resultados</h3>
-            <p>Intentá ajustar tus filtros de búsqueda.</p>
-          </div>
-        )}
-        {!loading && !error && rendered.length > 0 && (
-          <>
-            <p className="pagination-info">
-              Mostrando {start + 1}–{Math.min(start + PAGE_SIZE, filtered.length)} de {filtered.length} recursos
-            </p>
-            <div className="resources-grid">
-              {rendered.map(r => <ResourceCard key={r.id} resource={r} />)}
-            </div>
-            <Pagination
-              currentPage={currentPage}
-              totalPages={totalPages}
-              onPageChange={setCurrentPage}
-            />
-          </>
-        )}
-      </div>
-    </section>
+          <Pagination
+            currentPage={currentPage}
+            totalPages={totalPages}
+            onPageChange={setCurrentPage}
+          />
+        </>
+      )}
+    </div>
+
+  </section>
   );
 }
