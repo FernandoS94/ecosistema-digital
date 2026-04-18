@@ -1,39 +1,39 @@
 import './VideosGrid.css';
 
-/*const VIDEO_CATEGORIES = [
+const VIDEO_CATEGORIES = [
   {
     id: 1,
-    label: 'Ecosistema Digital',
+    label: 'Conocé el ecosistema digital',
     url: 'https://www.youtube.com/watch?v=jZ51YyQFiK0',
     colorClass: 'vg-purple',
   },
   {
     id: 2,
-    label: 'Asistente IA para planificar clases',
+    label: 'Creá un asistente para planificar clases',
     url: 'https://www.youtube.com/watch?v=tG1RtI9Vq4g',
     colorClass: 'vg-teal',
   },
   {
     id: 3,
-    label: 'Entorno digital de trabajo',
+    label: 'Mejorá tu entorno digital de trabajo',
     url: 'https://www.youtube.com/watch?v=kLXKp_Z0xnE',
-    colorClass: 'vg-olive',
+    colorClass: 'vg-purple',
   },
   {
     id: 4,
-    label: 'Invitar estudiantes al aula',
+    label: ' Invitá estudiantes a tu clase',
     url: 'https://www.youtube.com/watch?v=axETzvL7l7c',
     colorClass: 'vg-slate',
   },
   {
     id: 5,
-    label: 'Corregir tareas en el aula virtual',
+    label: 'Corregí tareas en el aula virtual',
     url: 'https://www.youtube.com/watch?v=zza_s6ah8cs',
     colorClass: 'vg-teal',
   },
   {
     id: 6,
-    label: 'Hojas de ruta y cronogramas con IA',
+    label: 'Creá cronogramas con IA',
     url: 'https://www.youtube.com/watch?v=CnnFwh0vPkY',
     colorClass: 'vg-purple',
   },
@@ -45,34 +45,24 @@ import './VideosGrid.css';
   },
   {
     id: 8,
-    label: 'Copiar clase y reutilizar tareas',
+    label: 'Reutilizá clases y tareas',
     url: 'https://www.youtube.com/watch?v=NCBTIQ3rKgU',
-    colorClass: 'vg-slate',
-  },
-  {
-    id: 9,
-    label: 'Rúbricas de evaluación con IA',
-    url: 'https://www.youtube.com/watch?v=ZtzELSMulYc',
-    colorClass: 'vg-yellow',
-  },
-  {
-    id: 10,
-    label: 'IA para planificar',
-    url: 'https://www.youtube.com/watch?v=qNupmww7IwA',
-    colorClass: 'vg-teal',
-  },
-  {
-    id: 11,
-    label: 'Bialfabetización potenciada por IA',
-    url: 'https://www.youtube.com/watch?v=hMalaXzdRb8',
     colorClass: 'vg-purple',
   },
   {
-    id: 12,
-    label: 'Aula digital',
-    url: 'https://www.youtube.com/watch?v=L6RJ-gpAROE',
-    colorClass: 'vg-olive',
+    id: 9,
+    label: ' Creá rúbricas con IA',
+    url: 'https://www.youtube.com/watch?v=ZtzELSMulYc',
+    colorClass: 'vg-olive-dark',
   },
+  {
+    id: 10,
+    label: 'Planificar con IA',
+    url: 'https://www.youtube.com/watch?v=qNupmww7IwA',
+    colorClass: 'vg-teal',
+  },
+ 
+ 
   {
     id: 13,
     label: 'Introducción a la IA',
@@ -81,15 +71,25 @@ import './VideosGrid.css';
   },
   {
     id: 14,
-    label: 'IA para organización e investigación',
+    label: 'Organizar e investigar con IA',
     url: 'https://www.youtube.com/watch?v=-jtBN6_VsK4',
     colorClass: 'vg-olive-dark',
   },
-  {
+ 
+];
+
+/*
+ {
+    id: 11,
+    label: 'Bialfabetización potenciada por IA',
+    url: 'https://www.youtube.com/watch?v=hMalaXzdRb8',
+    colorClass: 'vg-purple',
+  },
+   {
     id: 15,
     label: 'Khanmigo',
     url: 'https://www.youtube.com/watch?v=yJ8fpSxSzP8',
-    colorClass: 'vg-yellow',
+    colorClass: 'vg-slate',
   },
   {
     id: 16,
@@ -97,7 +97,12 @@ import './VideosGrid.css';
     url: 'https://www.youtube.com/watch?v=M81Aez7PJX0',
     colorClass: 'vg-teal',
   },
-];*/
+   {
+    id: 12,
+    label: 'Aula digital',
+    url: 'https://www.youtube.com/watch?v=L6RJ-gpAROE',
+    colorClass: 'vg-olive-dark',
+  },
 
 const VIDEO_CATEGORIES = [
   { id: 1, label: '', url: '', colorClass: 'vg-purple' },
@@ -116,7 +121,7 @@ const VIDEO_CATEGORIES = [
   { id: 14, label: '', url: '', colorClass: 'vg-olive-dark' },
   { id: 15, label: '', url: '', colorClass: 'vg-yellow' },
   { id: 16, label: '', url: '', colorClass: 'vg-teal' },
-];
+];*/
 
 export function VideosGrid() {
   return (

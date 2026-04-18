@@ -2055,3 +2055,21 @@ span {
   opacity: 1 !important;
   transform: none !important;
 }
+
+/*------------------LUPA------------------------*/
+
+.search-nav-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--secondary-color);
+  font-size: 1.5rem;
+  padding: 8px;
+  transition: color 0.2s;
+   margin-right: 100px; 
+   
+}
+
+.search-nav-btn:hover {
+  color: var(--primary-color);
+}

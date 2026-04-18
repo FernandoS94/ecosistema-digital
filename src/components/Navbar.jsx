@@ -1,7 +1,13 @@
 import { useState, useEffect } from 'react';
 import { Link, useNavigate, useLocation } from 'react-router-dom';
 
+
+import { SearchModal } from './SearchModal';
+
 export function Navbar() {
+const [searchOpen, setSearchOpen] = useState(false);
+
+
   const [menuOpen, setMenuOpen] = useState(false);
   const [dropdownOpen, setDropdownOpen] = useState(false);
   const navigate = useNavigate();
@@ -93,6 +99,14 @@ export function Navbar() {
 
           <a href="#faq" className="nav-link" onClick={(e) => scrollToSection(e, '#faq')}>Ayuda</a>
         </div>
+{/* BOTON LUPA*/}
+      {/*   <button className="search-nav-btn" onClick={() => setSearchOpen(true)}>
+  <i className="fas fa-search"></i>
+</button>  
+
+<SearchModal isOpen={searchOpen} onClose={() => setSearchOpen(false)} />  */}
+{/* BOTON LUPA*/}
+
 
         <div className="logo logo-right">
           <img src="./img/ba_aprende.png" alt="Logo Buenos Aires Aprende" />

@@ -118,7 +118,7 @@ export function SecundariaAprendePage() {
     <AvatarsSection />
          
       <DocenteGemSection />
-       {/* <RecursosSection /> */}
+       <RecursosSection /> 
     </main>
   );
 }
