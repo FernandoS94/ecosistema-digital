@@ -20,7 +20,7 @@ export const AVATAR_CATEGORIES = [
   },
   {
     id: 'idiomas',
-    title: 'Idiomas',
+    title: 'Lenguas Adicionales ',
     fullWidth: false,
     avatars: [
       {

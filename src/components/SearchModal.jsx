@@ -7,22 +7,13 @@ function normalize(str) {
   return str.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
 }
 
-const STATIC_INDEX = buildSearchIndex();
+const INDEX = buildSearchIndex();
 
 export function SearchModal({ isOpen, onClose }) {
   const [query, setQuery]     = useState('');
   const [results, setResults] = useState([]);
-  const [resources, setResources] = useState([]);
-  const inputRef = useRef(null);
-  const navigate = useNavigate();
-
-  // Cargar recursos del JSON
-  useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}resources.json`)
-      .then(r => r.json())
-      .then(data => setResources(data))
-      .catch(() => {});
-  }, []);
+  const inputRef              = useRef(null);
+  const navigate              = useNavigate();
 
   // Foco al abrir
   useEffect(() => {
@@ -44,57 +35,36 @@ export function SearchModal({ isOpen, onClose }) {
   useEffect(() => {
     if (!query.trim()) { setResults([]); return; }
     const q = normalize(query.trim());
-
-    // Buscar en índice estático
-    const staticResults = STATIC_INDEX.filter(item =>
-      normalize(item.title).includes(q) || normalize(item.desc).includes(q)
-    );
-
-    // Buscar en recursos JSON
-    const resourceResults = resources
-      .filter(r =>
-        normalize(r.title).includes(q) ||
-        normalize(r.description || '').includes(q) ||
-        normalize(r.subject || '').includes(q) ||
-        r.tags?.some(t => normalize(t).includes(q))
-      )
-      .slice(0, 5)
-      .map(r => ({
-        id: `recurso-${r.id}`,
-        title: r.title,
-        desc: r.subject || r.description,
-        type: 'recurso',
-        route: '/docentes-secundaria-aprende',
-        section: 'recursos',
-        icon: 'fas fa-file-alt',
-        url: r.url,
-      }));
-
-    setResults([...staticResults.slice(0, 10), ...resourceResults]);
-  }, [query, resources]);
+    const found = INDEX.filter(item =>
+      normalize(item.title).includes(q) ||
+      normalize(item.desc || '').includes(q)
+    ).slice(0, 20);
+    setResults(found);
+  }, [query]);
 
   const handleSelect = (item) => {
     onClose();
-    if (item.url) {
-      window.open(item.url, '_blank');
-      return;
-    }
     navigate(item.route);
     setTimeout(() => {
+      if (!item.section) return;
       const el = document.getElementById(item.section);
       const navbar = document.querySelector('.navbar');
       if (el && navbar) {
         window.scrollTo({ top: el.offsetTop - navbar.offsetHeight, behavior: 'smooth' });
       }
-    }, 300);
+    }, 600);
   };
 
   if (!isOpen) return null;
 
   return (
-    <div className="search-modal">
-      <div className="search-modal-overlay" onClick={onClose} />
-      <div className="search-modal-content">
+    <div className="search-modal"
+    onClick={onClose}
+    >
+    
+      <div className="search-modal-content"
+       onClick={(e) => e.stopPropagation()}
+      >
 
         <div className="search-modal-input-wrap">
           <i className="fas fa-search search-modal-icon"></i>
@@ -126,16 +96,24 @@ export function SearchModal({ isOpen, onClose }) {
                 <p className="search-modal-count">{results.length} resultado{results.length !== 1 ? 's' : ''}</p>
                 {results.map(item => (
                   <div key={item.id} className="search-result-item" onClick={() => handleSelect(item)}>
-                    <div className="search-result-icon" style={{ background: TYPE_COLORS[item.type] }}>
+                    <div
+                      className="search-result-icon"
+                      style={{ background: TYPE_COLORS[item.type] || '#24a0a5' }}
+                    >
                       <i className={item.icon}></i>
                     </div>
                     <div className="search-result-text">
                       <span className="search-result-title">{item.title}</span>
-                      <span className="search-result-desc">{item.desc}</span>
+                      {item.desc && <span className="search-result-desc">{item.desc}</span>}
                     </div>
-                    <span className="search-result-badge" style={{ color: TYPE_COLORS[item.type] }}>
-                      {TYPE_LABELS[item.type]}
-                    </span>
+                    {item.type && (
+                      <span
+                        className="search-result-badge"
+                        style={{ color: TYPE_COLORS[item.type] || '#24a0a5' }}
+                      >
+                        {TYPE_LABELS[item.type]}
+                      </span>
+                    )}
                   </div>
                 ))}
               </>
@@ -143,16 +121,18 @@ export function SearchModal({ isOpen, onClose }) {
           </div>
         )}
 
-       {/* {!query && (
+        {!query && (
           <div className="search-modal-hint">
             <p>Escribí para buscar en todo el sitio</p>
             <div className="search-modal-tags">
-              {['Avatar', 'Videos', 'Tutoriales', 'Planificación', 'IA'].map(tag => (
-                <button key={tag} className="search-hint-tag" onClick={() => setQuery(tag)}>{tag}</button>
+              {['Avatar', 'IA', 'Videos', 'Material didáctico', 'Planificación', 'Familias'].map(tag => (
+                <button key={tag} className="search-hint-tag" onClick={() => setQuery(tag)}>
+                  {tag}
+                </button>
               ))}
             </div>
           </div>
-        )} */}
+        )}
 
       </div>
     </div>

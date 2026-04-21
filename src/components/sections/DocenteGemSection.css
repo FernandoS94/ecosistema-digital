@@ -72,12 +72,12 @@
   position: absolute;
   bottom: 24px;
   right: 400px;
-  padding: 10px 22px;
+  padding: 6px 14px; 
   font-size: 0.875rem;
   background-color: #f5f0d8;
   color: #1a202c;
   border: none;
-  border-radius: 50px;
+  border-radius: 8px;
   text-decoration: none;
   font-weight: 600;
   transition: background 0.2s, transform 0.2s;
@@ -100,4 +100,9 @@
     text-align: center;
     width: fit-content;
   }
+  
+  .docentes-gem-icon {
+    display: none;
+  }
+
 }

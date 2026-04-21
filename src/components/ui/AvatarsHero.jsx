@@ -33,6 +33,8 @@ export function AvatarsHero() {
             personalizado y consultá para recibir apoyo pedagógico inmediato.{' '}
            
           </p>
+          <p><strong>Los siguientes avatares corresponden a los espacios curriculares de la Formación General de la NES</strong> </p>
+          <br></br>
            <button className="avatars-hero-btn" onClick={() => openAppVideo('avatar')}>
               Video tutorial
             </button>

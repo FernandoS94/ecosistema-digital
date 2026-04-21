@@ -7,13 +7,19 @@
   align-items: flex-start;
   justify-content: center;
   padding-top: 80px;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(4px);
+  cursor: pointer;
+  min-height: 100vh
 }
 
 .search-modal-overlay {
-  position: absolute;
+  position: relative;
   inset: 0;
   background: rgba(0, 0, 0, 0.5);
   backdrop-filter: blur(4px);
+   cursor: default;
+  z-index: 1;
 }
 
 /* ── Contenido ──────────────────────────────────── */
@@ -28,6 +34,7 @@
   overflow: hidden;
   animation: searchFadeIn 0.2s ease;
   margin: 0 20px;
+   cursor: default;
 }
 
 @keyframes searchFadeIn {

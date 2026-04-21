@@ -1,39 +1,54 @@
 // ── Índice de búsqueda global ─────────────────────
-// Cada item tiene: id, title, desc, type, route, section
 
 import { AVATAR_CATEGORIES } from './avatars';
 import { APPS } from './apps';
 
 // Videos de docentes
 const VIDEOS_DOCENTES = [
-  { id: 'v1', title: 'Conocé el Ecosistema Digital para la innovación', desc: 'Conocé de qué se trata el Ecosistema Digital para la innovación.' },
-  { id: 'v2', title: '¿Cómo crear un asistente personalizado con IA para planificar tus clases?', desc: 'Paso a paso para crear tu asistente.' },
-  { id: 'v3', title: '¿Cómo potenciar tu entorno digital de trabajo?', desc: 'Posibilidades para potenciar tus herramientas digitales.' },
-  { id: 'v4', title: '¿Cómo invitar a estudiantes a nuestra clase?', desc: 'Tutorial para sumar estudiantes al aula digital.' },
-  { id: 'v5', title: '¿Cómo corregir tareas en tu aula virtual?', desc: 'Configuración de tareas en Classroom.' },
-  { id: 'v6', title: '¿Cómo crear hojas de ruta y cronogramas con IA?', desc: 'Guía paso a paso.' },
-  { id: 'v7', title: '¿Cómo crear un asistente de planificación con IA?', desc: 'Tutorial para crear Gemas personalizadas.' },
-  { id: 'v8', title: '¿Cómo copiar una clase y reutilizar tareas?', desc: 'Reutilizá tareas, clases y optimizá el tiempo.' },
-  { id: 'v9', title: 'Conocé la IA para crear rúbricas de evaluación', desc: 'Cómo crear rúbricas con IA.' },
-  { id: 'v10', title: 'IA para planificar', desc: 'Herramienta con IA para planificar tus trabajo/clases.' },
-  { id: 'v11', title: 'Bialfabetización potenciada por IA', desc: 'La IA potencia el Plan de Bialfabetización.' },
-  { id: 'v12', title: '¿Qué es un aula digital?', desc: 'El entorno del aula digital y cómo funciona.' },
-  { id: 'v13', title: 'Introducción a la herramienta de IA', desc: 'Cómo funciona y sus potencialidades.' },
-  { id: 'v14', title: '¿Conocías esta herramienta de IA para la organización e investigación?', desc: 'De qué se trata esta herramienta y cómo funciona.' },
-  { id: 'v15', title: '¿Qué es Khanmigo?', desc: 'Cómo funciona Khanmigo.' },
-  { id: 'v16', title: '¿Qué es Khan Academy?', desc: 'Las potencialidades de Khan Academy.' },
+  { id: 'vd1',  title: 'Conocé el ecosistema digital' },
+  { id: 'vd2',  title: 'Creá un asistente para planificar clases' },
+  { id: 'vd3',  title: 'Mejorá tu entorno digital de trabajo' },
+  { id: 'vd4',  title: 'Invitá estudiantes a tu clase' },
+  { id: 'vd5',  title: 'Corregí tareas en el aula virtual' },
+  { id: 'vd6',  title: 'Creá cronogramas con IA' },
+  { id: 'vd7',  title: 'Asistente de planificación con IA' },
+  { id: 'vd8',  title: 'Reutilizá clases y tareas' },
+  { id: 'vd9',  title: 'Creá rúbricas con IA' },
+  { id: 'vd10', title: 'Planificar con IA' },
+  { id: 'vd13', title: 'Introducción a la IA' },
+  { id: 'vd14', title: 'Organizar e investigar con IA' },
 ];
 
 // Videos de familias
 const VIDEOS_FAMILIAS = [
-  { id: 'vf1', title: '¿Qué es el bienestar digital?', desc: 'Profundizá el concepto de bienestar digital.' },
-  { id: 'vf2', title: '¿Cómo acompañar a los niños en entornos digitales?', desc: '¿Qué es el bienestar digital?' },
-  { id: 'vf3', title: 'IA en casa y en la escuela', desc: 'Cómo se aborda la IA en la escuela y en el hogar.' },
+  { id: 'vf1', title: '¿Qué es el bienestar digital?' },
+  { id: 'vf2', title: '¿Cómo acompañar a los niños en entornos digitales?' },
+  { id: 'vf3', title: 'IA en casa y en la escuela' },
 ];
 
-// Construir índice
+// Documentos de familias
+const DOCUMENTOS_FAMILIAS = [
+  { id: 'df1', title: 'Guía de Protección Digital Infantil', desc: 'Documento - Recomendaciones para proteger a tus hijos en entornos digitales.' },
+  { id: 'df2', title: 'Escuela en familia', desc: 'Documento - Talleres virtuales para acompañar la crianza y las trayectorias escolares.' },
+  {id:'df3', title:'Mapa de riesgos digitales en el entorno escolar', desc:'Documento - Infografía que presenta los riesgos digitales en el entorno escolar.'}
+];
+
+// Páginas principales
+const PAGES = [
+  { id: 'p1', title: 'Inicio',                   desc: 'Página principal del Ecosistema Digital',           route: '/',                              section: 'about',      icon: 'fas fa-home' },
+  { id: 'p2', title: 'Docentes',                  desc: 'Recursos y materiales para docentes',               route: '/docentes',                       section: null,         icon: 'fas fa-chalkboard-teacher' },
+  { id: 'p3', title: 'Docentes Secundaria Aprende', desc: 'Materiales, avatares y recursos para secundaria', route: '/docentes-secundaria-aprende',    section: null,         icon: 'fas fa-school' },
+  { id: 'p4', title: 'Familias',                  desc: 'Recursos y videos para familias',                   route: '/familias',                       section: null,         icon: 'fas fa-users' },
+  { id: 'p5', title: 'Avatares',                  desc: 'Asistentes pedagógicos con IA por materia',          route: '/docentes-secundaria-aprende',   section: 'avatares', icon: 'fas fa-robot' },
+  { id: 'p6', title: 'Aplicaciones',              desc: 'Apps del ecosistema digital',                       route: '/',                              section: 'apps',       icon: 'fas fa-th-large' },
+  { id: 'p7', title: 'Preguntas frecuentes',      desc: 'Ayuda y preguntas frecuentes',                      route: '/',                              section: 'faq',        icon: 'fas fa-question-circle' },
+  { id: 'p8', title: 'Material didáctico',        desc: 'Recursos didácticos por nivel, espacio y materia',  route: '/docentes-secundaria-aprende',   section: 'recursos',   icon: 'fas fa-book' },
+  { id: 'p9', title: 'Videos tutoriales',         desc: 'Tutoriales en video para docentes',                 route: '/docentes',                      section: 'videos',     icon: 'fas fa-play-circle' },
+  { id: 'p10', title: 'Docente GEM',              desc: 'Creá tu propio asistente de planificación con IA',  route: '/docentes',                      section: null,         icon: 'fas fa-star' },
+];
+
 export function buildSearchIndex() {
-  const index = [];
+  const index = [...PAGES];
 
   // Avatares
   AVATAR_CATEGORIES.forEach(cat => {
@@ -43,7 +58,7 @@ export function buildSearchIndex() {
         title: avatar.label,
         desc: `Avatar de ${cat.title}`,
         type: 'avatar',
-        route: '/',
+        route: '/docentes-secundaria-aprende',
         section: 'avatares',
         icon: 'fas fa-robot',
       });
@@ -68,7 +83,7 @@ export function buildSearchIndex() {
     index.push({
       id: v.id,
       title: v.title,
-      desc: v.desc,
+      desc: 'Video tutorial para docentes',
       type: 'video',
       route: '/docentes',
       section: 'videos',
@@ -81,7 +96,7 @@ export function buildSearchIndex() {
     index.push({
       id: v.id,
       title: v.title,
-      desc: v.desc,
+      desc: 'Video educativo para familias',
       type: 'video',
       route: '/familias',
       section: 'videos-familias',
@@ -89,20 +104,32 @@ export function buildSearchIndex() {
     });
   });
 
+  // Documentos familias
+  DOCUMENTOS_FAMILIAS.forEach(d => {
+    index.push({
+      id: d.id,
+      title: d.title,
+      desc: d.desc,
+      type: 'documento',
+      route: '/familias',
+      section: 'documentos',
+      icon: 'fas fa-file-alt',
+    });
+  });
+
   return index;
 }
 
-// Etiquetas por tipo
 export const TYPE_LABELS = {
-  avatar: 'Avatar',
-  app: 'Aplicación',
-  video: 'Video',
-  recurso: 'Material',
+  avatar:    'Avatar',
+  app:       'Aplicación',
+  video:     'Video',
+  documento: 'Documento',
 };
 
 export const TYPE_COLORS = {
-  avatar:  '#24a0a5',
-  app:     '#4A487A',
-  video:   '#f18489',
-  recurso: '#e67e22',
+  avatar:    '#24a0a5',
+  app:       '#4A487A',
+  video:     '#f18489',
+  documento: '#e67e22',
 };
