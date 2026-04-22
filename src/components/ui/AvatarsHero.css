@@ -78,7 +78,7 @@
   cursor: pointer;
   font-family: var(--font-main);
   transition: background 0.2s, transform 0.2s;
-  margin-left: 0px;
+  margin-left: 650px;
   vertical-align: middle;
 }
 
