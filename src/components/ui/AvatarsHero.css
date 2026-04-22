@@ -22,7 +22,7 @@
 .avatars-hero-estrella {
   position: absolute;
   left: 18%;
-  top: 120px;
+  top: 132px;
   width: 170px;
   pointer-events: none;
   mix-blend-mode: screen;
@@ -50,7 +50,7 @@
 .avatars-hero-text {
   font-size: clamp(0.95rem, 1.4vw, 1.05rem);
   color: #444;
-  line-height: 1.8;
+  line-height: 1.5;
   margin-bottom: 16px;
 }
 
