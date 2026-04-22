@@ -1136,7 +1136,10 @@ span {
 /* ----Avatares----- */
 
 
-
+.avatar-disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
 
 
 .avatares-section {
@@ -1173,6 +1176,7 @@ span {
     font-size: 0.95rem;
     color: #5a4e00;
     line-height: 1.5;
+    
 }
 
 .beta-notice-link {
@@ -1184,7 +1188,6 @@ span {
 
 .beta-notice-bottom {
     background-color: #fff8e1;
-    border-left: 4px solid #eed464;
     border-radius: 8px;
     padding: 14px 20px;
     margin: 3rem auto 2rem;
@@ -1192,6 +1195,7 @@ span {
     font-size: 0.95rem;
     color: #5a4e00;
     line-height: 1.5;
+    margin-top: -20px;
 }
 
 .avatares-section .about-text {
@@ -1209,8 +1213,8 @@ span {
     gap: 30px;
     max-width: 1200px;
     margin: 40px auto 0;
-    padding: 0 40px;
-     background-color: #1a2f3f;
+    padding: 40px 40px 0px;
+    background-color: #1a2f3f;
 
 }
 
@@ -1219,6 +1223,10 @@ span {
   width: 100%;
   padding-top: 20px;
   padding-bottom: 20px;
+}
+
+.avatares-section .container {
+  padding-bottom: 0;
 }
 
 .categoria-section {
