@@ -40,7 +40,7 @@ export function AvatarsSection() {
 
      
         </div>
-      </div>         
+      </div>    
 
     </section>
   );

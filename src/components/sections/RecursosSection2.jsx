@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
 import './RecursosSection2.css';
 
-const PAGE_SIZE = 3;
+const PAGE_SIZE = 4;
 
 function normalize(str) {
   return str.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');

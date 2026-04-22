@@ -10,7 +10,9 @@
   --vg-slate:      #5f6b85;
   --vg-yellow:     #e4d93f;
 }
-
+.vg-btn,.vg-purple {
+  white-space: pre-line;
+}
 /* ── Sección ────────────────────────────────────── */
 .videos-grid-section {
   background: #f8f9fa;

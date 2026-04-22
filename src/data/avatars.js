@@ -66,6 +66,13 @@ export const AVATAR_CATEGORIES = [
         label: 'Filosofía',
         alt: 'Filosofía',
       },
+      {
+        href: '#',
+        img: './img/avatares/econo.png',
+        label: 'Economía',
+        alt: 'Economia',
+        disabled: true,
+      }
     ],
   },
   {

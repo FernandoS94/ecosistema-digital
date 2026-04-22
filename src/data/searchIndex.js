@@ -11,7 +11,7 @@ const VIDEOS_DOCENTES = [
   { id: 'vd4',  title: 'Invitá estudiantes a tu clase' },
   { id: 'vd5',  title: 'Corregí tareas en el aula virtual' },
   { id: 'vd6',  title: 'Creá cronogramas con IA' },
-  { id: 'vd7',  title: 'Asistente de planificación con IA' },
+  { id: 'vd7',  title: 'Adaptá contenidos para la inclusión' },
   { id: 'vd8',  title: 'Reutilizá clases y tareas' },
   { id: 'vd9',  title: 'Creá rúbricas con IA' },
   { id: 'vd10', title: 'Planificar con IA' },

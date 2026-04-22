@@ -3,19 +3,19 @@ import './VideosGrid.css';
 const VIDEO_CATEGORIES = [
   {
     id: 1,
-    label: 'Conocé el ecosistema digital',
+    label: 'Conocé el Ecosistema Digital',
     url: 'https://www.youtube.com/watch?v=jZ51YyQFiK0',
     colorClass: 'vg-purple',
   },
   {
     id: 2,
-    label: 'Creá un asistente para planificar clases',
+     label: 'Creá un asistente para\nplanificar clases',
     url: 'https://www.youtube.com/watch?v=tG1RtI9Vq4g',
     colorClass: 'vg-teal',
   },
   {
     id: 3,
-    label: 'Mejorá tu entorno digital de trabajo',
+    label: 'Mejorá tu entorno digital\nde trabajo',
     url: 'https://www.youtube.com/watch?v=kLXKp_Z0xnE',
     colorClass: 'vg-purple',
   },
@@ -39,7 +39,7 @@ const VIDEO_CATEGORIES = [
   },
   {
     id: 7,
-    label: 'Asistente de planificación con IA',
+    label: 'Adaptá contenidos para la inclusión',
     url: 'https://www.youtube.com/watch?v=P8qU_1WWOIg',
     colorClass: 'vg-olive-dark',
   },
