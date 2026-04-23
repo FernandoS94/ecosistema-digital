@@ -101,9 +101,9 @@
     width: fit-content;
   }
 
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {
   .docentes-gem-icon {
     display: none;
   }
-}
+}*/
 }
