@@ -61,12 +61,12 @@ export function Navbar() {
     <nav className="navbar visible">
       <div className="navbar-container">
 
-        {/* Logo izquierdo */}
+        {/* 1. Logo izquierdo */}
         <div className="logo logo-left">
           <img src="./img/ECO_HORIZONTAL.png" alt="Logo Ecosistema Digital" />
         </div>
 
-        {/* Links centrados — desktop */}
+        {/* 2. Links centrados — visible en desktop */}
         <div className={`nav-links-centered${menuOpen ? ' open' : ''}`} id="navMenu">
           <a href="#about" className="nav-link" onClick={(e) => scrollToSection(e, '#about')}>Inicio</a>
 
@@ -87,12 +87,17 @@ export function Navbar() {
           <a href="#faq" className="nav-link" onClick={(e) => scrollToSection(e, '#faq')}>Ayuda</a>
         </div>
 
-        {/* Lupa — solo desktop */}
+        {/* 3. Lupa desktop */}
         <button className="search-nav-btn search-nav-desktop" onClick={() => setSearchOpen(true)}>
           <i className="fas fa-search"></i>
         </button>
 
-        {/* Grupo derecho mobile: lupa + hamburger */}
+        {/* 4. Logo derecho — visible en desktop */}
+        <div className="logo logo-right">
+          <img src="./img/ba_aprende.png" alt="Logo Buenos Aires Aprende" />
+        </div>
+
+        {/* 5. Grupo mobile: lupa + hamburger — visible solo en mobile */}
         <div className="navbar-actions">
           <button className="search-nav-btn" onClick={() => setSearchOpen(true)}>
             <i className="fas fa-search"></i>
@@ -107,11 +112,6 @@ export function Navbar() {
             <span></span>
             <span></span>
           </button>
-        </div>
-
-        {/* Logo derecho — solo desktop */}
-        <div className="logo logo-right">
-          <img src="./img/ba_aprende.png" alt="Logo Buenos Aires Aprende" />
         </div>
 
       </div>
