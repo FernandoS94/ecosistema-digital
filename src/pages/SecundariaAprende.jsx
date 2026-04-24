@@ -82,9 +82,7 @@ function SecundariaIntro() {
     <section className="secundaria-intro">
       <div className="secundaria-intro-container">
         <p className="secundaria-intro-text">
-          Explorá y previsualizá recursos por categorías para vincularlos a tu aula virtual,
-          potenciando tu clase con el apoyo de los Avatares o creando tu propio docente Gem
-          para una personalización total. Accedé a los materiales haciendo click en los botones:
+          Potenciá tu clase con recursos de Avatares o docentes Gem. Accedé haciendo click en los botones:
         </p>
         <div className="secundaria-intro-buttons">
           {BUTTONS.map((btn) => (

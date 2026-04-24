@@ -21,7 +21,7 @@ function DocentesIntro() {
     <section className="docentes-intro">
       <div className="docentes-intro-container">
         <p className="docentes-intro-text">
-         Potenciá tu clase con recursos de Avatares o docentes Gem. Accedé haciendo click en los botones.
+         Potenciá tu clase con recursos de Avatares o docentes Gem. Accedé haciendo click en los botones:
         </p>
 
         <div className="docentes-intro-buttons">
