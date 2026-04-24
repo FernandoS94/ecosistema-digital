@@ -100,11 +100,11 @@ const [searchOpen, setSearchOpen] = useState(false);
           <a href="#faq" className="nav-link" onClick={(e) => scrollToSection(e, '#faq')}>Ayuda</a>
         </div>
 {/* BOTON LUPA*/}
-     {/*  <button className="search-nav-btn" onClick={() => setSearchOpen(true)}>
+     <button className="search-nav-btn" onClick={() => setSearchOpen(true)}>
   <i className="fas fa-search"></i>
 </button>  
 
-<SearchModal isOpen={searchOpen} onClose={() => setSearchOpen(false)} />  */}
+<SearchModal isOpen={searchOpen} onClose={() => setSearchOpen(false)} />  
 {/* BOTON LUPA*/}
 
 

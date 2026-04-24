@@ -180,6 +180,14 @@
   }
 }
 
+@media (max-width: 1280px) {
+  .avatars-hero-estrella {
+    left: 5%;
+    top: 110px;
+    width: 140px;
+  }
+}
+
 /* ── Tablet chica ───────────────────────────────── */
 @media (max-width: 768px) {
   .avatars-hero {
