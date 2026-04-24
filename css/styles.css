@@ -1133,7 +1133,15 @@ span {
 /* ----Avatares----- */
 
 
+.avatar-disabled {
+  opacity: 0.5;
+  cursor: not-allowed !important;
+  pointer-events: auto !important;
+}
 
+.avatar-disabled * {
+  cursor: not-allowed !important;
+}
 
 
 
