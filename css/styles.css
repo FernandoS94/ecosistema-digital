@@ -78,7 +78,7 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    background: rgba(255, 255, 255, 0.95);
+    background: rgba(255, 255, 255, 0.8);
     backdrop-filter: blur(10px);
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     z-index: 1000;
@@ -94,7 +94,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 15px 140px;
+    padding: 15px 20px;
 }
 
 .nav-link {
@@ -302,7 +302,6 @@ body {
     text-decoration: none;
     border-radius: 50px;
     font-weight: 600;
-    font-size: 1rem;
     transition: all 0.3s ease;
     backdrop-filter: blur(10px);
     border: 2px solid rgba(255, 255, 255, 0.3);
@@ -657,10 +656,6 @@ footer {
         display: flex;
     }
 
-    .navbar-actions .hamburger {
-    display: flex !important;
-  }
-
     .logo-spacer {
         display: none;
     }
@@ -695,7 +690,7 @@ footer {
 
     .nav-link {
         width: 100%;
-        font-size: 1rem !important;
+        font-size: 0.95rem;
         padding: 12px 24px;
         margin: 0;
         border-radius: 0;
@@ -839,11 +834,16 @@ span {
 }
 
 /* Carrusel css*/
+
+.apps-section .section-title {
+  color: #1a202c !important;
+  -webkit-text-fill-color: #1a202c !important;
+  background: none !important;
+}
 .apps-section {
     background: var(--light-color);
     overflow: hidden;
-    padding: 10px 0 10px;
-    
+    padding: 50px 0 10px;
 }
 
 .carousel-container {
@@ -862,12 +862,7 @@ span {
     gap: 20px;
 }
 
-.apps-section .section-title {
-  color: black;
-  -webkit-text-fill-color: black;
-  background: none;
-  margin-top: 40px;
-}
+
 
 .app-card {
     flex: 0 0 calc(33.333% - 20px);
@@ -894,15 +889,16 @@ span {
 }
 
 /* Textos */
+
 .app-name {
     font-size: 1.1em;
     font-weight: 600;
-    color: #333;
+    color: black;
     margin-bottom: 10px;
 }
 
 .app-description {
-    color: #666;
+    color: black;
     font-size: 0.9em;
     line-height: 1.5;
     margin-bottom: 12px;
@@ -922,7 +918,7 @@ span {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    background: var(--primary-color);
+    background: var(--accent-color);
     border: none;
     width: 40px;
     height: 40px;
@@ -932,7 +928,6 @@ span {
     cursor: pointer;
     transition: all 0.3s ease;
     z-index: 10;
-    
 }
 
 .carousel-btn:hover {
@@ -941,13 +936,11 @@ span {
 }
 
 .carousel-btn.prev {
-    left: 0px;
-     
+    left: 10px;
 }
 
 .carousel-btn.next {
-    right: 0px;
-   
+    right: 10px;
 }
 
 .carousel-btn:disabled {
@@ -1140,15 +1133,13 @@ span {
 /* ----Avatares----- */
 
 
-.avatar-disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
-}
+
+
 
 
 .avatares-section {
-    background:white;
-    padding: 0px 0;
+    background: white;
+    padding: 60px 0;
 }
 
 
@@ -1158,8 +1149,6 @@ span {
     align-items: center;
     justify-content: center;
     gap: 0.5em;
-    color: black;
-    -webkit-text-fill-color: black;
 }
 
 .title-beta-logo {
@@ -1180,7 +1169,6 @@ span {
     font-size: 0.95rem;
     color: #5a4e00;
     line-height: 1.5;
-    
 }
 
 .beta-notice-link {
@@ -1192,14 +1180,14 @@ span {
 
 .beta-notice-bottom {
     background-color: #fff8e1;
+    border-left: 4px solid #eed464;
     border-radius: 8px;
     padding: 14px 20px;
     margin: 3rem auto 2rem;
-    max-width: 800px;
+    max-width: 900px;
     font-size: 0.95rem;
     color: #5a4e00;
     line-height: 1.5;
-    margin-top: -20px;
 }
 
 .avatares-section .about-text {
@@ -1207,7 +1195,6 @@ span {
     max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
-    -webkit-text-fill-color: black;
 }
 
 
@@ -1215,23 +1202,12 @@ span {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 30px;
-    max-width: 1200px;
+    max-width: 1400px;
     margin: 40px auto 0;
-    padding: 40px 40px 0px;
-    background-color: #1a2f3f;
+    padding: 0 40px;
 
 }
 
-.categorias-bg {
-  background-color: #1a2f3f;
-  width: 100%;
-  padding-top: 20px;
-  padding-bottom: 20px;
-}
-
-.avatares-section .container {
-  padding-bottom: 0;
-}
 
 .categoria-section {
     margin-bottom: 0;
@@ -1366,14 +1342,14 @@ span {
     text-align: center;
     margin-top: 40px;
     padding: 30px 20px;
-    background: transparent;
+    background: linear-gradient(135deg, rgba(249, 178, 250, 0.1), rgba(249, 178, 250, 0.1));
     border-radius: 20px;
 }
 
 .action-note {
     margin-top: 12px;
-    color: white;
-    font-size: 1.2rem;
+    color: black;
+    font-size: 0.9rem;
     font-style: italic;
     text-align: left;
 }
@@ -1448,7 +1424,7 @@ span {
 /* Móviles */
 @media (max-width: 480px) {
     .avatares-section {
-        padding: 0px 0;
+        padding: 40px 0;
     }
 
     .categorias-wrapper {
@@ -2009,8 +1985,21 @@ span {
     color: #000;
 }
 
+/* ── animate-on-scroll override ─────────────────── */
+.about-text.animate-on-scroll,
+.categoria-header.animate-on-scroll,
+.beta-notice-bottom.animate-on-scroll,
+.avatar-action-container.animate-on-scroll {
+  opacity: 1 !important;
+  transform: none !important;
+}
 
-/* ── Navbar fix: dos logos ──────────────────────── */
+.animate-on-scroll {
+  opacity: 1 !important;
+  transform: none !important;
+}
+
+/* ── Logos ──────────────────────────────────────── */
 .logo-left img {
   height: 50px;
   width: auto;
@@ -2028,48 +2017,7 @@ span {
   display: block;
 }
 
-@media (max-width: 768px) {
-  .logo-right {
-    display: none;
-  }
-
-  .navbar-container {
-    display: flex;
-    align-items: center;
-    padding: 12px 20px;
-  }
-
-  .logo-left {
-    flex-shrink: 0;
-    margin-right: 0;
-  }
-
-  .hamburger {
-    margin-left: auto;
-    flex-shrink: 0;
-    order: 2;
-  }
-
-  .nav-links-centered {
-    order: 3;
-  }
-}
-
-.about-text.animate-on-scroll,
-.categoria-header.animate-on-scroll,
-.beta-notice-bottom.animate-on-scroll,
-.avatar-action-container.animate-on-scroll {
-  opacity: 1 !important;
-  transform: none !important;
-}
-
-.animate-on-scroll {
-  opacity: 1 !important;
-  transform: none !important;
-}
-
-/*------------------LUPA------------------------*/
-
+/* ── Lupa desktop ───────────────────────────────── */
 .search-nav-btn {
   background: none;
   border: none;
@@ -2077,47 +2025,95 @@ span {
   color: var(--secondary-color);
   font-size: 1.8rem;
   padding: 8px;
+  margin-right: 100px;
   transition: color 0.2s;
-   margin-right: 100px; 
-   
 }
 
 .search-nav-btn:hover {
   color: var(--primary-color);
 }
 
-/*----responsive lupa -------*/
-/* Grupo mobile: lupa + hamburger */
+/* ── NAVBAR RESPONSIVE — bloque único ──────────── */
+
+/* Base: grupo mobile oculto, lupa desktop visible */
 .navbar-actions {
   display: none;
   align-items: center;
   gap: 8px;
-  margin-left: auto;
 }
 
-/* Lupa solo desktop */
 .search-nav-desktop {
   display: flex;
 }
 
+/* Tablet y mobile <= 768px */
 @media (max-width: 768px) {
-  /* Mostrar grupo mobile */
+
+  /* Ocultar elementos desktop */
+  .logo-right           { display: none !important; }
+  .search-nav-desktop   { display: none !important; }
+  .navbar-container > .hamburger { display: none !important; }
+
+  /* Navbar container */
+  .navbar-container {
+    display: flex !important;
+    align-items: center !important;
+    flex-wrap: nowrap !important;
+    padding: 10px 16px !important;
+  }
+
+  /* Logo izquierdo ocupa el espacio disponible */
+  .logo-left {
+    flex: 1;
+    min-width: 0;
+    overflow: hidden;
+  }
+
+  .logo-left img {
+    height: 22px !important;
+    max-width: 150px !important;
+    object-fit: contain;
+  }
+
+  /* Grupo mobile: lupa + hamburger a la derecha */
   .navbar-actions {
-    display: flex;
+    display: flex !important;
+    align-items: center;
+    gap: 6px;
+    flex-shrink: 0;
+    margin-left: auto;
   }
 
-  /* Ocultar lupa desktop */
-  .search-nav-desktop {
-    display: none;
+  .navbar-actions .hamburger {
+    display: flex !important;
+    margin-left: 0;
   }
 
-  /* Ocultar hamburger suelto */
-  .navbar-container > .hamburger {
-    display: none;
+  .navbar-actions .search-nav-btn {
+    font-size: 1.2rem !important;
+    padding: 4px !important;
+    margin-right: 0 !important;
+  }
+}
+
+/* Mobile muy pequeño <= 400px */
+@media (max-width: 400px) {
+  .logo-left img {
+    height: 18px !important;
+    max-width: 120px !important;
   }
 
-  /* Ocultar logo derecho */
-  .logo-right {
-    display: none;
+  .navbar-actions {
+    display: flex !important;
+    gap: 4px;
+  }
+
+  .navbar-actions .hamburger {
+    display: flex !important;
+  }
+
+  .navbar-actions .search-nav-btn {
+    font-size: 1rem !important;
+    margin-right: 0 !important;
   }
 }
