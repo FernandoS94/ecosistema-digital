@@ -2081,3 +2081,39 @@ span {
 .search-nav-btn:hover {
   color: var(--primary-color);
 }
+
+/*----responsive lupa -------*/
+/* Grupo mobile: lupa + hamburger */
+.navbar-actions {
+  display: none;
+  align-items: center;
+  gap: 8px;
+  margin-left: auto;
+}
+
+/* Lupa solo desktop */
+.search-nav-desktop {
+  display: flex;
+}
+
+@media (max-width: 768px) {
+  /* Mostrar grupo mobile */
+  .navbar-actions {
+    display: flex;
+  }
+
+  /* Ocultar lupa desktop */
+  .search-nav-desktop {
+    display: none;
+  }
+
+  /* Ocultar hamburger suelto */
+  .navbar-container > .hamburger {
+    display: none;
+  }
+
+  /* Ocultar logo derecho */
+  .logo-right {
+    display: none;
+  }
+}
