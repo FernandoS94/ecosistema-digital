@@ -918,7 +918,7 @@ span {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    background: var(--accent-color);
+    background: var(--primary-color);
     border: none;
     width: 40px;
     height: 40px;
