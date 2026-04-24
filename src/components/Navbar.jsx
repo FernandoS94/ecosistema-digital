@@ -1,13 +1,9 @@
 import { useState, useEffect } from 'react';
 import { Link, useNavigate, useLocation } from 'react-router-dom';
-
-
 import { SearchModal } from './SearchModal';
 
 export function Navbar() {
-const [searchOpen, setSearchOpen] = useState(false);
-
-
+  const [searchOpen, setSearchOpen] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
   const [dropdownOpen, setDropdownOpen] = useState(false);
   const navigate = useNavigate();
@@ -65,21 +61,12 @@ const [searchOpen, setSearchOpen] = useState(false);
     <nav className="navbar visible">
       <div className="navbar-container">
 
+        {/* Logo izquierdo */}
         <div className="logo logo-left">
           <img src="./img/ECO_HORIZONTAL.png" alt="Logo Ecosistema Digital" />
         </div>
 
-        <button
-          className={`hamburger${menuOpen ? ' open' : ''}`}
-          aria-label="Abrir menú"
-          aria-expanded={menuOpen}
-          onClick={toggleMenu}
-        >
-          <span></span>
-          <span></span>
-          <span></span>
-        </button>
-
+        {/* Links centrados — desktop */}
         <div className={`nav-links-centered${menuOpen ? ' open' : ''}`} id="navMenu">
           <a href="#about" className="nav-link" onClick={(e) => scrollToSection(e, '#about')}>Inicio</a>
 
@@ -99,20 +86,37 @@ const [searchOpen, setSearchOpen] = useState(false);
 
           <a href="#faq" className="nav-link" onClick={(e) => scrollToSection(e, '#faq')}>Ayuda</a>
         </div>
-{/* BOTON LUPA*/}
-     <button className="search-nav-btn" onClick={() => setSearchOpen(true)}>
-  <i className="fas fa-search"></i>
-</button>  
 
-<SearchModal isOpen={searchOpen} onClose={() => setSearchOpen(false)} />  
-{/* BOTON LUPA*/}
+        {/* Lupa — solo desktop */}
+        <button className="search-nav-btn search-nav-desktop" onClick={() => setSearchOpen(true)}>
+          <i className="fas fa-search"></i>
+        </button>
 
+        {/* Grupo derecho mobile: lupa + hamburger */}
+        <div className="navbar-actions">
+          <button className="search-nav-btn" onClick={() => setSearchOpen(true)}>
+            <i className="fas fa-search"></i>
+          </button>
+          <button
+            className={`hamburger${menuOpen ? ' open' : ''}`}
+            aria-label="Abrir menú"
+            aria-expanded={menuOpen}
+            onClick={toggleMenu}
+          >
+            <span></span>
+            <span></span>
+            <span></span>
+          </button>
+        </div>
 
+        {/* Logo derecho — solo desktop */}
         <div className="logo logo-right">
           <img src="./img/ba_aprende.png" alt="Logo Buenos Aires Aprende" />
         </div>
 
       </div>
+
+      <SearchModal isOpen={searchOpen} onClose={() => setSearchOpen(false)} />
     </nav>
   );
 }
