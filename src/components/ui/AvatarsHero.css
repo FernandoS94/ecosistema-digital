@@ -1,7 +1,7 @@
 /* ── Sección ────────────────────────────────────── */
 .avatars-hero {
   background-color: #1a2f3f;
-  padding: 60px 40px;
+  padding: 10px 40px;
   position: relative;
   overflow: hidden;
   width: 100%;
@@ -22,11 +22,11 @@
 .avatars-hero-estrella {
   position: absolute;
   left: 18%;
-  top: 132px;
+  top: 90px;
   width: 170px;
   pointer-events: none;
   mix-blend-mode: screen;
-  transform: rotate(-13deg);
+  transform: rotate(-15deg);
 }
 
 /* ── Layout inner ───────────────────────────────── */
