@@ -80,8 +80,7 @@
   cursor: pointer;
   font-family: var(--font-main);
   transition: background 0.2s, transform 0.2s;
-  margin-left: 650px;
-  vertical-align: middle;
+  float: right;  /* ← reemplazá margin-left: 650px por esto */
 }
 
 .avatars-hero-btn:hover {
@@ -202,6 +201,13 @@
 
   .avatars-hero-imgs {
     display: none;
+  }
+
+ .avatars-hero-btn {
+    float: none;
+    display: block;
+    margin: 12px auto 0;
+    text-align: center;
   }
 }
 
