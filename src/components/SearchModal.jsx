@@ -43,17 +43,21 @@ export function SearchModal({ isOpen, onClose }) {
   }, [query]);
 
   const handleSelect = (item) => {
-    onClose();
-    navigate(item.route);
-    setTimeout(() => {
-      if (!item.section) return;
-      const el = document.getElementById(item.section);
-      const navbar = document.querySelector('.navbar');
-      if (el && navbar) {
-        window.scrollTo({ top: el.offsetTop - navbar.offsetHeight, behavior: 'smooth' });
-      }
-    }, 600);
-  };
+  onClose();
+  if (item.href && item.href !== '#') {
+    window.open(item.href, '_blank');
+    return;
+  }
+  navigate(item.route);
+  setTimeout(() => {
+    if (!item.section) return;
+    const el = document.getElementById(item.section);
+    const navbar = document.querySelector('.navbar');
+    if (el && navbar) {
+      window.scrollTo({ top: el.offsetTop - navbar.offsetHeight, behavior: 'smooth' });
+    }
+  }, 600);
+};
 
   if (!isOpen) return null;
 

@@ -7,10 +7,11 @@
   width: 100%;
   margin-left: 0;
   margin-right: 0;
-   margin-bottom: 0px;
+  margin-bottom: 0;
   padding-bottom: 0;
 }
-/* ── Titulo ───────────────────────────────────── */
+
+/* ── Titulo ─────────────────────────────────────── */
 .avatars-hero-title {
   text-align: center;
   font-size: clamp(1.8rem, 4vw, 2.5rem);
@@ -18,6 +19,7 @@
   color: #fff;
   margin-bottom: 30px;
 }
+
 /* ── Estrella ───────────────────────────────────── */
 .avatars-hero-estrella {
   position: absolute;
@@ -130,114 +132,38 @@
   right: 10px;
 }
 
-/* ── Responsive ─────────────────────────────────── */
-@media (max-width: 768px) {
-  .avatars-hero {
-    padding: 50px 20px;
-  }
+/* ── RESPONSIVE ─────────────────────────────────── */
 
-  .avatars-hero-inner {
-    flex-direction: column;
-    gap: 32px;
-  }
+/* ── RESPONSIVE ─────────────────────────────────── */
 
- /* .avatars-hero-estrella {
-    width: 90px;
-    top: 20px;
-    left: 10px;
-  }*/
-
-  .avatars-hero-imgs {
-    width: 100%;
-    height: 100px;
-    display: flex;
-    justify-content: center;
-    gap: 16px;
-  }
-
-  .avatars-hero-av {
-    position: static;
-    width: 85px !important;
-    height: 85px !important;
-  }
-
-  .avatars-hero-card {
-    padding: 24px 20px;
-  }
-/*  .avatars-hero-estrella {
-    left: 5%;
-    top: 20px;
-    width: 90px;
-  }*/
-  
-/*----- esterlla------*/
-/* ── Tablet grande ──────────────────────────────── */
-@media (max-width: 1024px) {
-  .avatars-hero-estrella {
-    left: 12%;
-    top: 100px;
-    width: 130px;
-  }
-}
-
+/* Desktop grande <= 1280px */
 @media (max-width: 1280px) {
   .avatars-hero-estrella {
-    left: 5%;
-    top: 110px;
-    width: 140px;
+    left: 18%;
+    top: 90px;
+    width: 150px;
   }
 }
 
-/* ── Tablet chica ───────────────────────────────── */
-@media (max-width: 768px) {
-  .avatars-hero {
-    padding: 40px 16px;
-  }
-
-  .avatars-hero-inner {
-    flex-direction: column;
-    gap: 24px;
-  }
-
-  .avatars-hero-card {
-    width: 100%;
-    padding: 20px 16px;
-    box-sizing: border-box;
-  }
-
-  .avatars-hero-text {
-    font-size: 0.9rem;
-    word-break: break-word;
-  }
-
-  .avatars-hero-title {
-    font-size: 1.6rem;
-  }
-
+/* Desktop mediano <= 1100px */
+@media (max-width: 1100px) {
   .avatars-hero-estrella {
-    left: 5%;
-    top: 15px;
-    width: 80px;
-  }
-
-  .avatars-hero-imgs {
-    display: none;
+    left: 18%;
+    top: 80px;
+    width: 120px;
   }
 }
 
-/* ── Mobile ─────────────────────────────────────── */
-@media (max-width: 480px) {
+/* Tablet <= 1024px */
+@media (max-width: 1024px) {
   .avatars-hero-estrella {
-    left: 3%;
-    top: 10px;
-    width: 60px;
-  }
-
-  .avatars-hero-title {
-    font-size: 1.3rem;
+    left: 18%;
+    top: 70px;
+    width: 100px;
   }
 }
-/*-----respon card blanca ------*/
+
+/* Tablet chica <= 768px */
 @media (max-width: 768px) {
   .avatars-hero {
     padding: 40px 16px;
@@ -269,13 +195,25 @@
   }
 
   .avatars-hero-estrella {
-    width: 70px;
-    left: 3%;
-    top: 10px;
+    left: 18%;
+    top: 12px;
+    width: 80px;
   }
 
   .avatars-hero-imgs {
     display: none;
   }
 }
+
+/* Mobile <= 480px */
+@media (max-width: 480px) {
+  .avatars-hero-estrella {
+    left: 18%;
+    top: 10px;
+    width: 60px;
+  }
+
+  .avatars-hero-title {
+    font-size: 1.3rem;
+  }
 }

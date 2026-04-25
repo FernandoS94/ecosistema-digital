@@ -51,19 +51,20 @@ export function buildSearchIndex() {
   const index = [...PAGES];
 
   // Avatares
-  AVATAR_CATEGORIES.forEach(cat => {
-    cat.avatars.forEach(avatar => {
-      index.push({
-        id: `avatar-${avatar.label}`,
-        title: avatar.label,
-        desc: `Avatar de ${cat.title}`,
-        type: 'avatar',
-        route: '/docentes-secundaria-aprende',
-        section: 'avatares',
-        icon: 'fas fa-robot',
-      });
+ AVATAR_CATEGORIES.forEach(cat => {
+  cat.avatars.forEach(avatar => {
+    index.push({
+      id: `avatar-${avatar.label}`,
+      title: avatar.label,
+      desc: `Avatar de ${cat.title}`,
+      type: 'avatar',
+      route: '/docentes-secundaria-aprende',
+      section: 'avatares',
+      icon: 'fas fa-robot',
+      href: avatar.href,  // ← agregá esto
     });
   });
+});
 
   // Apps
   APPS.forEach(app => {
