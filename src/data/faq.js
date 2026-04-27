@@ -1,7 +1,7 @@
 export const FAQ_ITEMS = [
   {
     id: 1,
-    question: '¿Qué es el Ecosistema Digital para la Innovación Educativa?',
+    question: '¿Qué es el Ecosistema Digital con IA?',
     answer: 'Es un entorno interconectado que articula plataformas, herramientas de Inteligencia Artificial (IA), contenidos y prácticas pedagógicas para mejorar la calidad educativa en la escuela secundaria. Su objetivo es potenciar el aprendizaje personalizado y apoyar la labor docente sin reemplazar la intervención humana.',
   },
   {
