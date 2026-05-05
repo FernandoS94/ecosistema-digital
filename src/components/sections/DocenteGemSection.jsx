@@ -14,7 +14,7 @@ export function DocenteGemSection() {
         </p>
 
         <button className="docentes-gem-btn" onClick={() => openAppVideo('gem')}>
-          Docente GEM
+          Docente IA
         </button>
 
       </div>

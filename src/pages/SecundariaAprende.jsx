@@ -19,7 +19,7 @@ const STATS = [
 
 const BUTTONS = [
   { label: 'Avatares', to: 'avatares' },
-  { label: 'Docente GEM', to: 'docentegem' },
+  { label: 'Docente IA', to: 'docentegem' },
   { label: 'Material didáctico', to: 'recursos' },
 ];
 

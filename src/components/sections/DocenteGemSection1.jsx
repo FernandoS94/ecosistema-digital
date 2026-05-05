@@ -17,14 +17,14 @@ export function DocenteGemSection() {
           />
         </div>
 
-        <h2 className="docentes-gem-title">Docente GEM</h2>
+        <h2 className="docentes-gem-title">Docente IA</h2>
 
         <p className="docentes-gem-desc">
           Diseñá tu propio asistente de planificación especializado en el área que necesites.
         </p>
 
         <button className="docentes-gem-btn" onClick={() => openAppVideo('gem')}>
-          Docente GEM
+          Docente IA
         </button>
 
       </div>
