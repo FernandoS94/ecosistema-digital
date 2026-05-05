@@ -44,7 +44,7 @@ const PAGES = [
   { id: 'p7', title: 'Preguntas frecuentes',      desc: 'Ayuda y preguntas frecuentes',                      route: '/',                              section: 'faq',        icon: 'fas fa-question-circle' },
   { id: 'p8', title: 'Material didáctico',        desc: 'Recursos didácticos por nivel, espacio y materia',  route: '/docentes-secundaria-aprende',   section: 'recursos',   icon: 'fas fa-book' },
   { id: 'p9', title: 'Videos tutoriales',         desc: 'Tutoriales en video para docentes',                 route: '/docentes',                      section: 'videos',     icon: 'fas fa-play-circle' },
-  { id: 'p10', title: 'Docente GEM',              desc: 'Creá tu propio asistente de planificación con IA',  route: '/docentes',                      section: null,         icon: 'fas fa-star' },
+  { id: 'p10', title: 'Docente IA',              desc: 'Creá tu propio asistente de planificación con IA',  route: '/docentes',                      section: null,         icon: 'fas fa-star' },
 ];
 
 export function buildSearchIndex() {
