@@ -16,6 +16,6 @@ export const VIDEO_TITLES = {
   notebook: 'Tutorial: ¿Conocías esta herramienta de IA para la organización e investigación?',
   khanacademy: 'Tutorial: ¿Qué es Khan Academy?',
   teachingandlearning: 'Tutorial: ¿Cómo potenciar tu entorno digital de trabajo?',
-  gem: 'Tutorial: Creá tu Docente GEM',
+  gem: 'Tutorial: Creá tu Docente IA',
   avatar: 'Tutorial: ¿Cómo utilizar los avatares?',
 };
