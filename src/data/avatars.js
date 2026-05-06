@@ -67,11 +67,11 @@ export const AVATAR_CATEGORIES = [
         alt: 'Filosofía',
       },
       {
-        href: '#',
-        img: './img/avatares/econo.png',
+        href: 'https://gemini.google.com/gem/7e0634b70946?usp=sharing',
+        img: './img/avatares/asesor2.png',
         label: 'Economía',
         alt: 'Economia',
-        disabled: true,
+        disabled: false,
       }
     ],
   },
