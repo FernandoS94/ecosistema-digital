@@ -21,7 +21,7 @@
         "category": "Troncal",
         "subject": "Matemática IV",
         "mode": "Bachiller",
-        "description": "El plan propone estudiar funciones exponenciales y logarítmicas para modelizar fenómenos de crecimiento y decrecimiento rápido. A partir de potencias y funciones conocidas, se analizan gráficas, parámetros y ecuaciones, usando software dinámico. Se resuelven problemas y proyectos que vinculan estos modelos con contextos científicos, ambientales y digitales.",
+        "description": "El plan propone estudiar funciones exponenciales y logarítmicas para modelizar fenómenos de crecimiento y decrecimiento rápido. A partir de potencias y funciones conocidas, se analizan gráficas, parámetros y ecuaciones, usando software dinámico",
         "tags": [
             "función exponencial",
             "funcion logarítmica",
@@ -36,7 +36,7 @@
         "category": "Troncal",
         "subject": "Lengua y Literatura I",
         "mode": "Bachiller, Técnica",
-        "description": "El plan introduce a los estudiantes en el género policial argentino mediante cuentos de Pablo De Santis, Roberto Arlt y Rodolfo Walsh. El material se enfoca en el análisis de los relatos, la identificación de las características principales del subgénero, y la producción de escrituras breves, como perfiles de detectives. Para finalizar, se propone la elaboración de una infografía sobre lo trabajado.",
+        "description": "El plan introduce a los estudiantes en el género policial argentino mediante cuentos de Pablo De Santis, Roberto Arlt y Rodolfo Walsh. El material se enfoca en el análisis de relatos, identificación de las características principales del subgénero y la producción de escrituras breves.",
         "tags": [
             "Cuento policial",
             "Análisis literario",
@@ -1930,5 +1930,152 @@
             "narrativas transmedia"
         ],
         "url": "https://rise.articulate.com/share/UVaJ2GgmD9h48CH4nlx8V4iLFBs-3Bz8"
+    },
+    {
+        "id": 623,
+        "title": "Fuerzas ión-dipolo",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de intregración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video explica las fuerzas ion-dipolo, consistentes en la atracción electrostática entre partículas con carga neta y moléculas que poseen una distribución desigual de electrones, diferenciándose los iones y los dipolos. Mediante ejemplos, como la disolución de sal, se ilustra cómo ocurren las interacciones ion-molécula y se detalla qué elementos influyen en la intensidad de estas fuerzas, basándose en la ley de Coulomb.",
+        "tags": [
+            "Interacciones",
+            "Iones",
+            "Dipolos"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/states-of-matter-and-intermolecular-forces/introduction-to-intermolecular-forces/v/ion-dipole-forces"
+    },
+    {
+        "id": 624,
+        "title": "Reacciones de oxidación–reducción (redox)",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de intregración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El texto se enfoca en el estudio de las reacciones de oxidación–reducción, comúnmente denominadas reacciones redox.  Se definen estas reacciones, el concepto de número de oxidación y las reglas de asignación. Se ofrecen ejemplos que ocurren en la vida cotidiana, como la combustión del metano, la corrosión de metales y la fotosíntesis. También se dan ejemplos de cómo identificar una reducción o una oxidación a partir de la variación en los números de oxidación de los elementos involucrados.",
+        "tags": [
+            "Oxidación",
+            "Reducción",
+            "Números de oxidación"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/types-of-chemical-reactions/a/oxidation-number"
+    },
+    {
+        "id": 626,
+        "title": "Propiedades físicas de alcoholes y preparación de alcóxidos",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de intregración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video analiza las propiedades físicas de los alcoholes y la preparación de alcóxidos. Compara el etanol con el etano, destacando que los alcoholes poseen puntos de ebullición significativamente más altos gracias a los enlaces de hidrógeno, que son fuerzas intermoleculares más fuertes que las de dispersión de London. También detalla la formación de alcóxidos mediante la reacción de alcoholes con bases fuertes o metales alcalinos, proceso que resulta en el desprendimiento de gas de hidrógeno.",
+        "tags": [
+            "Alcoholes",
+            "Puente hidrógeno",
+            "Alcóxidos"
+        ],
+        "url": "https://es.khanacademy.org/science/organic-chemistry/alcohols-ethers-epoxides-sulfides/alcohol-nomenclature-properties/v/physical-properties-of-alcohols-and-preparation-of-alkoxides"
+    },
+    {
+        "id": 627,
+        "title": "Propiedades del alcohol",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de intregración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video analiza las propiedades físicas de los alcoholes, basándose en su estructura molecular. Explica cómo el grupo hidroxilo permite la formación de enlaces de puente-hidrógeno, similares a los del agua, influyendo directamente en su solubilidad y puntos de ebullición. Se aborda el concepto de miscibilidad, destacando que alcoholes de cadena corta son totalmente solubles en agua. Sin embargo, conforme la cadena crece, la solubilidad disminuye debido a la naturaleza no polar de los hidrocarburos.",
+        "tags": [
+            "Alcoholes",
+            "Enlaces de hidrógeno",
+            "Miscibilidad"
+        ],
+        "url": "https://es.khanacademy.org/science/organic-chemistry/alcohols-ethers-epoxides-sulfides/alcohol-nomenclature-properties/v/alcohol-properties"
+    },
+   
+    {
+        "id": 629,
+        "title": "Isomería cis-trans",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de intregración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video aborda el concepto de la isomería cis-trans, un tipo de estereoisomería en alquenos. Explica que la falta de rotación libre en los enlaces dobles genera moléculas distintas con propiedades físicas y químicas diferentes. Detalla además como asignar la nomenclatura cis_ o trans_, evaluando la distribución de los grupos unidos a los carbonos del doble enlace respecto al eje del mismo.",
+        "tags": [
+            "Isomería cis-trans",
+            "Enlaces dobles",
+            "Alquenos"
+        ],
+        "url": "https://es.khanacademy.org/science/organic-chemistry/alkenes-alkynes/naming-alkenes-jay/v/cis-trans-isomerism"
+    },
+    {
+        "id": 630.0,
+        "title": "Introducción a la quiralidad",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de intregración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video introduce el concepto de quiralidad, utilizando la analogía de las manos para explicar que los objetos quirales no se pueden superponer con su imagen reflejada. Define las moléculas quirales y los centros quirales, que usualmente son átomos de carbono unidos a cuatro grupos diferentes. A través de ejemplos visuales, el material enseña a identificar centros quirales.",
+        "tags": [
+            "Estereoisomería",
+            "Centros quirales",
+            "Imagen especular"
+        ],
+        "url": "https://es.khanacademy.org/science/organic-chemistry/stereochemistry-topic/chirality-r-s-system/v/introduction-to-chirality"
+    },
+      {
+        "id": 631,
+        "title": "Quirales. Ejemplos 1",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de intregración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video enseña a identificar centros quirales y moléculas quirales mediante ejemplos, aplicando el concepto de superposición de imágenes especulares. Además, introduce los conceptos de enantiómeros y clarifica la diferencia entre configuración y conformación. También resalta cómo la simetría determina si una molécula es quiral o no.",
+        "tags": [
+            "Estereoisomería",
+            "Configuración",
+            "Conformación"
+        ],
+        "url": "https://es.khanacademy.org/science/organic-chemistry/stereochemistry-topic/chirality-r-s-system/v/chiral-examples-1"
+    },
+    {
+        "id": 632,
+        "title": "Quirales. Ejemplos 2",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de intregración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video ofrece ejemplos prácticos adicionales para profundizar en el estudio de la quiralidad. El tema central es la identificación de moléculas y objetos que no son superponibles con su imagen especular, reforzando la comprensión de la estereoisomería mediante el análisis de casos específicos que complementan las lecciones teóricas básicas sobre simetría molecular.",
+        "tags": [
+            "Estereoisomería",
+            "Quiralidad",
+            "simetría"
+        ],
+        "url": "https://es.khanacademy.org/science/organic-chemistry/stereochemistry-topic/chirality-r-s-system/v/chiral-examples-2"
+    },
+     {
+        "id": 476,
+        "title": "Origen de la vida",
+        "level": "1° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El material analiza el surgimiento de la vida en la Tierra a partir de moléculas inorgánicas simples. Describe la síntesis abiótica de aminoácidos y nucleótidos, destacando el experimento de Miller-Urey. Explica la formación de polímeros complejos como proteínas y ácidos nucleicos bajo condiciones energéticas específicas. Finalmente, presenta las hipótesis del mundo del ARN y del primer metabolismo para explicar el origen de los sistemas vivos",
+        "tags": [
+            "Síntesis abiótica. Mundo de ADN. Experimento Urey y Miller"
+        ],
+        "url": "https://es.khanacademy.org/science/biology/history-of-life-on-earth/history-life-on-earth/v/origins-of-life"
+    },
+    {
+        "id": 477,
+        "title": "Teoría celular",
+        "level": "1° año, 2° año",
+        "category": "Laboratorio, Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El material describe la historia de la teoría celular a través de los aportes de Hooke, Leeuwenhoek, Schleiden y Schwann. Explica los tres postulados centrales: la vida está compuesta por células, la célula es la unidad básica y toda célula deriva de una preexistente. Asimismo, analiza el surgimiento de las primeras protocélulas hace 3.500 millones de años, vinculando membranas lipídicas con moléculas autorreplicantes como el ARN.",
+        "tags": [
+            "Célula. Teoría celular. Protocélula"
+        ],
+        "url": "https://es.khanacademy.org/science/high-school-biology/hs-cells/hs-introduction-to-cells/v/cell-theory"
     }
 ]
