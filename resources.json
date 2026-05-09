@@ -2079,5 +2079,289 @@
             "Célula. Teoría celular. Protocélula"
         ],
         "url": "https://es.khanacademy.org/science/high-school-biology/hs-cells/hs-introduction-to-cells/v/cell-theory"
+    },
+    {
+        "id": 478,
+        "title": "Células eucariotas",
+        "level": "2° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este material describe las características fundamentales de las células eucariotas, enfatizando la compartimentalización mediante organelos membranosos. Explica la estructura y función del núcleo (ADN), los retículos endoplasmáticos y los ribosomas en la síntesis proteica. Aborda el rol del aparato de Golgi, la producción de ATP en mitocondrias y la fotosíntesis en cloroplastos. También analiza vacuolas y lisosomas en procesos de almacenamiento y degradación.",
+        "tags": [
+            "Célula eucariota. Organelos. Compartimentalización"
+        ],
+        "url": "https://es.khanacademy.org/science/biology/x324d1dcc:cell-function/x324d1dcc:prokaryotes-and-eukaryotes/v/organelles-in-eukaryotic-cells"
+    },
+    {
+        "id": 479,
+        "title": "Eucariotas 2",
+        "level": "1° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este material describe la propuesta de Lynn Margulis sobre el origen de las células eucariotas. Analiza cómo las mitocondrias y cloroplastos, poseedores de ADN y ribosomas propios, evolucionaron a partir de bacterias procariotas independientes. Explica el proceso de endosimbiosis, donde células de mayor tamaño engulleron organismos menores, estableciendo una relación de codependencia energética y protección que culminó en un único organismo.",
+        "tags": [
+            "Teoría endosimbiótica. Célula eucariota. Organelos"
+        ],
+        "url": "https://es.khanacademy.org/science/biology/x324d1dcc:cell-function/x324d1dcc:prokaryotes-and-eukaryotes/v/endosymbiosis-theory"
+    },
+    {
+        "id": 480,
+        "title": "Biodiversidad",
+        "level": "1° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este material desarrolla el concepto de biodiversidad analizando la diversidad de ecosistemas, especies y genes. Explica la importancia de la preservación de la diversidad biológica desde una perspectiva ecológica y evolutiva. Asimismo, examina cómo las actividades humanas y la alteración ambiental son los principales motivos de la pérdida de especies a escala global, promoviendo la comprensión de la interdependencia en los sistemas vivos.",
+        "tags": [
+            "Biodiversidad. Ecosistemas. Conservación"
+        ],
+        "url": "https://es.khanacademy.org/science/hs-biology/x4c673362230887ef:biodiversity-and-human-impacts/x4c673362230887ef:biodiversity/v/biodiversity"
+    },
+    {
+        "id": 481,
+        "title": "Taxonomía y el árbol de la vida",
+        "level": "1° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este material introduce la taxonomía como la ciencia de clasificación de los seres vivos, destacando los aportes de Carlos Linneo. Explica la jerarquía de categorías taxonómicas (reino, filo, clase, orden, familia, género y especie) y el sistema de nomenclatura binomial. Aborda la evolución del campo desde la observación morfológica hacia el uso del ADN para determinar parentescos evolutivos y sitúa al ser humano dentro del árbol de la vida",
+        "tags": [
+            "Taxonomía. Árbol filogenético. Clasificación biológica"
+        ],
+        "url": "https://es.khanacademy.org/science/biology/her/tree-of-life/v/taxonomy-and-the-tree-of-life"
+    },
+    {
+        "id": 482,
+        "title": "Especies",
+        "level": "1° año, 3° año",
+        "category": "Laboratorio, Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este material aborda el concepto biológico de especie como unidad fundamental de la taxonomía. Define a los organismos por su capacidad de entrecruzarse y generar descendencia fértil, diferenciándolos de los híbridos estériles, como mulas o ligres. Asimismo, analiza la variabilidad morfológica y el parentesco evolutivo, demostrando que la similitud física no es un criterio suficiente para la clasificación biológica",
+        "tags": [
+            "Especies. Híbrido. Taxonomía"
+        ],
+        "url": "https://es.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/v/species"
+    },
+    {
+        "id": 483,
+        "title": "Cómo entender y construir árboles filogenéticos",
+        "level": "1° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este material explica la construcción de árboles filogenéticos como representaciones de relaciones de parentesco evolutivo. Describe cómo identificar ancestros comunes y caracteres derivados para proponer hipótesis sobre la evolución de las especies. Introduce el principio de parsimonia para seleccionar la explicación más sencilla en el trazado de ramas. Asimismo, destaca el rol de la evidencia molecular para validar dichos modelos.",
+        "tags": [
+            "Árbol filogenético. Caracteres derivados. Parsimonia"
+        ],
+        "url": "https://es.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/v/understanding-and-building-phylogenetic-trees-or-cladograms"
+    },
+    {
+        "id": 484,
+        "title": "Árboles filogenéticos",
+        "level": "1° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este material define al árbol filogenético como una hipótesis representativa de las relaciones evolutivas entre organismos. Describe su anatomía (ramas, nodos y raíz) y enseña a interpretarlos identificando el ancestro común más reciente para determinar el parentesco entre especies. Aborda conceptos como la politomía y la rotación de nodos. Además, explica que se construyen comparando rasgos físicos, registros fósiles y secuencias de ADN.",
+        "tags": [],
+        "url": "https://es.khanacademy.org/science/biology/her/tree-of-life/a/phylogenetic-trees"
+    },
+    {
+        "id": 485,
+        "title": "Pruebas de la evolución",
+        "level": "2° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este material analiza las evidencias del cambio evolutivo, por ejemplo, macroestructuras como órganos homólogos y el registro fósil, ejemplificando cambios graduales. Además, explora el nivel micro a través de la genética molecular, destacando la universalidad del ADN y el código genético compartido entre especies. Finalmente, presenta la observación directa de la evolución en tiempo real mediante la resistencia bacteriana.",
+        "tags": [
+            "Evolución. Homología. Genética"
+        ],
+        "url": "https://es.khanacademy.org/science/high-school-biology/hs-evolution/hs-evidence-of-evolution/v/evidence-for-evolution"
+    },
+    {
+        "id": 487,
+        "title": "Resumen de la evolución humana",
+        "level": "3° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este video recorre la historia evolutiva desde los ancestros mamíferos post-dinosaurios hasta el surgimiento del Homo sapiens. Analiza la transición de primates primitivos a grandes simios y la separación del linaje humano de los chimpancés. Describe hitos como el bipedismo en Australopithecus, el uso de herramientas en Homo habilis y la expansión craneal en Homo erectus. Sitúa a los Neandertales como especie hermana y aborda la aparición del hombre moderno.",
+        "tags": [
+            "Evolución humana. Homínidos. Primates"
+        ],
+        "url": "https://es.khanacademy.org/science/high-school-biology/hs-evolution/hs-evidence-of-evolution/v/human-evolution-overview"
+    },
+    {
+        "id": 488,
+        "title": "Taxonomía y arbol de la vida",
+        "level": "1° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El material introduce la taxonomía a través de Linneo, explicando las jerarquías de clasificación desde especie hasta dominio. Detalla cómo herramientas modernas como el ADN y la evolución aportan evidencia sobre el parentesco y ancestros comunes. Utilizando el linaje humano como ejemplo, sitúa a las especies en el árbol de la vida, destacando que toda la vida está relacionada mediante similitudes en su material genético y un origen compartido.",
+        "tags": [
+            "Taxonomía. Árbol de la vida. Clasificación biológica"
+        ],
+        "url": "https://es.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/v/taxonomy-and-the-tree-of-life"
+    },
+    {
+        "id": 489,
+        "title": "Introducción a la evolución y la selección natural",
+        "level": "2° año, 3° año",
+        "category": "Laboratorio, Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El material define la selección natural como el motor de la evolución, desmintiendo concepciones erróneas sobre procesos conscientes. Explica cómo la variabilidad preexistente en una población es filtrada por factores ambientales, resultando en una reproducción diferencial. Ilustra el concepto mediante casos como el melanismo industrial y ejemplos de observación directa, tales como la resistencia bacteriana y la mutación de virus",
+        "tags": [
+            "Selección natural. Variabilidad. Adaptación"
+        ],
+        "url": "https://es.khanacademy.org/science/biology/her/evolution-and-natural-selection/v/introduction-to-evolution-and-natural-selection"
+    },
+    {
+        "id": 579,
+        "title": "Tamaño, densidad y dispersión poblacional",
+        "level": "3° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El texto profundiza en la ecología de poblaciones y la demografía, definiendo tamaño, densidad y dispersión. Describe métodos de muestreo como cuadrantes y captura-recaptura para estimar el número de individuos. Analiza también los patrones de distribución espacial (uniforme, aleatorio y agrupado), brindando herramientas teóricas para comprender cómo las poblaciones interactúan con su ambiente.",
+        "tags": [
+            "Ecología de las poblaciones. Densidad poblacional. Distribución espacial."
+        ],
+        "url": "https://es.khanacademy.org/science/biology/ecology/population-ecology/a/population-size-density-and-dispersal"
+    },
+    {
+        "id": 578,
+        "title": "Introducción a la ecología",
+        "level": "3° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El video define la ecología como el estudio de las interacciones entre seres vivos y su ambiente. Diferencia entre factores bióticos y abióticos, resaltando su influencia recíproca. Asimismo, describe los niveles de organización: individuo, población, comunidad, ecosistema y biosfera. El recurso aporta ejemplos concretos para abordar la complejidad de los sistemas biológicos y su equilibrio en distintas escalas.",
+        "tags": [
+            "Ecología. Factores abióticos y bióticos. Niveles de organización."
+        ],
+        "url": "https://es.khanacademy.org/science/biology/ecology/intro-to-ecology/v/ecology-introduction"
+    },
+    {
+        "id": 581,
+        "title": "Estructura de la comunidad",
+        "level": "3° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El texto describe la estructura de las comunidades biológicas, definida por la diversidad de especies. Describe factores abióticos, geográficos y perturbaciones que influyen en su composición. Resalta la función de las especies “fundadoras” y “clave” en el equilibrio ecosistémico, detallando cómo su presencia, reducción o pérdida afectan la estabilidad. Provee ejemplos concretos para el análisis de casos.",
+        "tags": [
+            "Comunidad biológica. Biodiversidad. Estabilidad ecosistémica."
+        ],
+        "url": "https://es.khanacademy.org/science/biology/ecology/community-structure-and-diversity/a/community-structure"
+    },
+    {
+        "id": 582,
+        "title": "Flujo de energía y materia a través de los ecosistemas",
+        "level": "3° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El video analiza el flujo de energía y el reciclaje cíclico de la materia en los ecosistemas. Explica el rol de productores, consumidores y descomponedores, describiendo el modo en que se produce la transferencia energética y la liberación de calor. Menciona la fotosíntesis para la fijación de carbono y la respiración celular, enfatizando que, mientras la energía se disipa, los átomos se reutilizan perpetuamente en la biosfera.",
+        "tags": [
+            "Flujo de energía. Ciclos de la materia. Niveles tróficos."
+        ],
+        "url": "https://es.khanacademy.org/science/biology/ecology/intro-to-ecosystems/v/flow-of-energy-and-matter-through-ecosystems"
+    },
+    {
+        "id": 577,
+        "title": "¿Qué es un ecosistema?",
+        "level": "3° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El texto define el ecosistema como la comunidad biológica y sus interacciones con su ambiente. Describe la dinámica de reciclaje de materia y el flujo unidireccional de energía. Además, introduce nociones sobre la estabilidad ecosistémica: resistencia y resiliencia frente a perturbaciones, e indica cómo la biodiversidad fortalece el equilibrio biológico frente a cambios naturales o antropogénicos.",
+        "tags": [
+            "Ecosistema. Ciclo de materia. Flujo de energía."
+        ],
+        "url": "https://es.khanacademy.org/science/biology/ecology/intro-to-ecosystems/a/what-is-an-ecosystem"
+    },
+    {
+        "id": 576,
+        "title": "Ecosistemas y biomas",
+        "level": "3° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El video describe la organización biológica desde los niveles de poblaciones hasta ecosistemas, resaltando la interacción entre factores bióticos y abióticos. Introduce el flujo de energía, el reciclaje de materia y la clasificación de ambientes en acuáticos y terrestres. Aborda el concepto de bioma y analiza cómo el clima y la geografía determinan la biodiversidad y las variaciones dentro de un mismo ecosistema.",
+        "tags": [
+            "Ecosistema. Factores abióticos y bióticos. Biomas"
+        ],
+        "url": "https://es.khanacademy.org/science/biology/ecology/intro-to-ecosystems/v/ecosystems-and-biomes"
+    },
+    {
+        "id": 575,
+        "title": "Repaso de ecología de poblaciones",
+        "level": "3° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El texto proporciona aportes sobre la ecología de poblaciones. Aborda conceptos como tamaño (N), densidad y patrones de distribución. Describe los modelos de crecimiento exponencial y logístico, introduce la noción de la capacidad de carga (K) y los factores que regulan la población (dependientes o independientes de la densidad). Además, identifica errores conceptuales frecuentes que actúan como obstáculos para los estudiantes.",
+        "tags": [
+            "Dinámica de poblaciones. Modelos de crecimiento. Capacidad de carga."
+        ],
+        "url": "https://es.khanacademy.org/science/biology/x324d1dcc:more-about-ecology/x324d1dcc:more-about-population-ecology/a/hs-population-ecology-review"
+    },
+    {
+        "id": 574,
+        "title": "Niveles ecológicos: de los individuos a los ecosistemas",
+        "level": "3° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El texto diferencia niveles como individuo, especie, población, comunidad y ecosistema. Introduce el uso de la nomenclatura binomial y la interacción entre factores bióticos y abióticos. Resalta la flexibilidad de las escalas espaciales en la investigación y ofrece diagramas y ejemplos concretos para explicar cómo se organizan los seres vivos y su relación con ambiente.",
+        "tags": [
+            "Niveles de organización ecológicos. Poblaciones y comunidades. Escalas espaciales ecológicas."
+        ],
+        "url": "https://es.khanacademy.org/science/biology/ecology/intro-to-ecology/a/ecological-levels-from-individuals-to-ecosystems"
+    },
+    {
+        "id": 573,
+        "title": "Fecundación y desarrollo temprano en el ser humano",
+        "level": "1° año, 2° año",
+        "category": "Laboratorio, Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El video describe el proceso de fecundación y las etapas iniciales del desarrollo humano, desde la unión de los gametos hasta la formación del feto. Describe la dotación cromosómica y el proceso de mitosis que transforma el cigoto en mórula y blastocisto. Además, aborda la transición de embrión a feto, detallando el crecimiento y la funcionalidad de la placenta.",
+        "tags": [
+            "Fecundación. Cigoto. Desarrollo embrionario."
+        ],
+        "url": "https://es.khanacademy.org/science/2-secundaria-cyt/xe87a282d8d8e1339:funcion-de-reproduccion/xe87a282d8d8e1339:fecundacion/v/human-fertilization-and-early-development"
+    },
+    {
+        "id": 570,
+        "title": "Repaso del sistema reproductor",
+        "level": "1° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El texto introduce ciertos aspectos anatómicos y fisiológicos de los sistemas reproductores y genitales humanos. Describe las funciones de órganos clave, la regulación hormonal mediada por FSH y LH, y menciona aspectos generales relacionados con la ovulación y la espermatogénesis. Incluye un apartado de errores comunes sobre la fecundación y la producción de gametos.",
+        "tags": [
+            "Sistemas reproductores humanos. Regulación hormonal. Fecundación."
+        ],
+        "url": "https://es.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-reproductive-system/a/hs-the-reproductive-system-review"
+    },
+    {
+        "id": 568,
+        "title": "Reproducción asexual y sexual",
+        "level": "1° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El video compara la reproducción asexual y sexual. Presenta procesos tales como la fisión binaria, gemación, fragmentación y partenogénesis. Explica cómo la reproducción asexual produce \"clones\", mientras que la sexual, mediante la fusión de gametos, genera variabilidad genética. El recurso permite abordar la noción de ciclo de vida, introduce conceptos como mitosis y destaca la importancia evolutiva de la diversidad en las poblaciones.",
+        "tags": [
+            "Reproducción asexual. Reproducción sexual. Variabilidad genética."
+        ],
+        "url": "https://es.khanacademy.org/science/high-school-biology/hs-reproduction-and-cell-division/hs-types-of-reproduction/v/asexual-and-sexual-reproduction"
     }
 ]
