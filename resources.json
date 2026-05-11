@@ -388,6 +388,27 @@
         ],
         "url": "https://rise.articulate.com/share/SzXNLbrL2cHwP7Ze1yzvu3r04qTbRNun"
     },
+
+    {
+        "id": 121.0,
+        "title": "Descontaminación ambiental: de la Tierra al espacio A",
+        "level": "1° año, 2° año, 3° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El plan aborda la contaminación hídrica y la descontaminación ambiental, aplicando la estructura de las soluciones (soluto/solvente) y la influencia de la temperatura en la disolución. Se promueve la aplicación de conceptos fisicoquímicos como concentración y pH a problemas ambientales, potenciando además, habilidades metacognitivas (bitácora y revisión de conocimientos) y la comunicación de soluciones mediante una infografía en redes sociales.",
+        "tags": [
+            "Contaminación Hídrica",
+            "Soluciones",
+            "Concentración"
+        ],
+        "url": "https://rise.articulate.com/share/DBSF-4B40fcESjJ6aCXMIvjo4bLlAAjt"
+
+
+
+
+
+    },
     {
         "id": 143,
         "title": "Base de la gestión de proyectos BO",
@@ -2057,6 +2078,36 @@
         ],
         "url": "https://es.khanacademy.org/science/organic-chemistry/stereochemistry-topic/chirality-r-s-system/v/chiral-examples-2"
     },
+    {
+        "id": 633.0,
+        "title": "Quiral vs aquiral",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de intregración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video explica la quiralidad como una propiedad geométrica basada en la simetría molecular. Define objetos aquirales como aquellos superponibles con su imagen especular, mientras que los quirales no lo son. Se ejemplifican objetos y moléculas quirales mediante el análisis de las imágenes especulares de diferentes objetos y de moléculas armadas con modelos moleculares.",
+        "tags": [
+            "Estereoisomería",
+            "Quiralidad",
+            "Imagen especular"
+        ],
+        "url": "https://es.khanacademy.org/science/organic-chemistry/stereochemistry-topic/chirality-r-s-system/v/chiral-achiral-jay"
+    },
+    {
+        "id": 634,
+        "title": "Identificar los centros de quiralidad",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de intregración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video explica cómo identificar centros de quiralidad en moléculas orgánicas. Establece que un carbono con hibridación sp3 unido a cuatro grupos distintos es un centro quiral. A través de ejemplos prácticos como alcoholes, anillos de hidrocarburos y la molécula de ibuprofeno, muestra cómo descartar como centros quirales a átomos con enlaces dobles (sp2) o grupos idénticos, como metilos (CH3-) y metilenos (-CH2-).",
+        "tags": [
+            "Estereoisomería",
+            "Quiralidad",
+            "Hibridación"
+        ],
+        "url": "https://es.khanacademy.org/science/organic-chemistry/stereochemistry-topic/chirality-r-s-system/v/chirality-center-jay"
+    },
      {
         "id": 476,
         "title": "Origen de la vida",
@@ -2392,5 +2443,98 @@
             "Variación genética. Reproducción sexual. Selección natural"
         ],
         "url": "https://es.khanacademy.org/science/high-school-biology/hs-evolution/hs-evolution-and-natural-selection/v/variation-in-a-species"
+    },
+     {
+        "id": 491,
+        "title": "Selección natural en las poblaciones",
+        "level": "2° año, 3° año",
+        "category": "Laboratorio, Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El material explica cómo la selección natural genera microevolución al modificar las frecuencias alélicas en una población. Analiza la adecuación biológica y describe los tipos de selección sobre rasgos poligénicos: estabilizadora, direccional y disruptiva.",
+        "tags": [
+            "Microevolución. Adecuación. Selección poligénica"
+        ],
+        "url": "https://es.khanacademy.org/science/biology/her/heredity-and-genetics/a/natural-selection-in-populations"
+    },
+    {
+        "id": 492,
+        "title": "Deriva génica",
+        "level": "3° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El material define la deriva génica como un mecanismo evolutivo por azar que altera las frecuencias alélicas, con mayor impacto en poblaciones pequeñas. Explica fenómenos como el efecto fundador, el cuello de botella y la fijación o pérdida de alelos.",
+        "tags": [
+            "Azar. Población. Microevolución"
+        ],
+        "url": "https://es.khanacademy.org/science/biology/her/heredity-and-genetics/a/genetic-drift-founder-bottleneck"
+    },
+    {
+        "id": 493,
+        "title": "Deriva génica, efecto fundador y cuello de botella",
+        "level": "3° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El material explica la deriva génica como mecanismo evolutivo azaroso. Analiza cómo los efectos de cuello de botella y fundador alteran las frecuencias alélicas en poblaciones pequeñas, provocando una reducción de la variabilidad genética",
+        "tags": [
+            "Azar. Población. Microevolución"
+        ],
+        "url": "https://es.khanacademy.org/science/biology/her/heredity-and-genetics/v/genetic-drift-bottleneck-effect-and-founder-effect"
+    },
+    {
+        "id": 494,
+        "title": "Especies",
+        "level": "3° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El video aborda el concepto de especie como unidad básica de la taxonomía. Explica que la clasificación no depende solo de la apariencia, sino de la capacidad de generar descendencia fértil.",
+        "tags": [
+            "Especie. Taxonomía. Descendencia fértil"
+        ],
+        "url": "https://es.khanacademy.org/science/biology/her/tree-of-life/v/species"
+    },
+    {
+        "id": 495,
+        "title": "Especiación",
+        "level": "3° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El video define la especiación y describe sus tipos: alopátrica y simpátrica. Explica los mecanismos de aislamiento reproductivo que permiten el surgimiento de nuevas especies a partir de poblaciones con ancestros comunes",
+        "tags": [
+            "Especiación. Aislamiento reproductivo. Especiación alopátrida"
+        ],
+        "url": "https://es.khanacademy.org/science/biology/her/tree-of-life/v/allopatric-and-sympatric-speciation"
+    },
+    {
+        "id": 496,
+        "title": "Especies y especiación",
+        "level": "3° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El material define el concepto de especie mediante el entrecruzamiento y descendencia fértil. Aborda la especiación como el proceso de formación de nuevas especies, detallando los mecanismos de aislamiento y los tipos alopátrica y simpátrica.",
+        "tags": [
+            "Especie. Especiación. Aislamiento reproductivo"
+        ],
+        "url": "https://es.khanacademy.org/science/biology/her/tree-of-life/a/species-speciation"
+    },
+    {
+        "id": 583,
+        "title": "Introducción a la química",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de intregración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video introduce a la Química como una ciencia clave que nos ayuda a entender, representar y anticipar cómo funciona el mundo y su relación con la Física y las Matemáticas. Presenta a los elementos químicos, su clasificación periódica y la relación con la estructura atómica.",
+        "tags": [
+            "Materia",
+            "Modelo",
+            "Interacciones moleculares"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/atomic-structure-and-properties/introduction-to-the-atom/v/introduction-to-chemistry"
     }
 ]
