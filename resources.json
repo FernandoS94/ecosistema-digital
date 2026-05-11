@@ -120,19 +120,273 @@
         "url": "https://rise.articulate.com/share/n3w4JBEvxfm9bobTCONcR4liWtFFgaco"
     },
     {
+        "id": 27,
+        "title": "Héroes y antihéroes de la literatura universal",
+        "level": "Nivel 2",
+        "category": "Troncal",
+        "subject": "Lengua y Literatura II",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan se centra en el género épico como reflejo de valores sociales, desde la épica clásica y medieval hasta la gauchesca. Se analiza la figura del héroe en ejemplos como Odiseo, el Cid y Martín Fierro. Se espera que los estudiantes desarrollen habilidades e hipóte",
+        "tags": [
+            "Épica",
+            "Héroes",
+            "Argumentación"
+        ],
+        "url": "https://rise.articulate.com/share/5DzkqXZcWkYGRM9VWhn_t4dUMqC53U8b"
+    },
+    {
+        "id": 28,
+        "title": "La novela",
+        "level": "Nivel 2",
+        "category": "Troncal",
+        "subject": "Lengua y Literatura II",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan se enfoca en el estudio de la novela a través de \"Los vecinos mueren en las novelas\". Busca descubrir características del género, conflictos y personajes complejos. El ´plan incluye el análisis  de los verbos en pasado y signos para construir el ritmo del relato.",
+        "tags": [
+            "Novela",
+            "Relato enmarcado",
+            "Puntuación"
+        ],
+        "url": "https://rise.articulate.com/share/bWPGB4CYnbZ-zIdU9rz4hM1nA4Q4v0Pj"
+    },
+    {
+        "id": 29,
+        "title": "Teatro",
+        "level": "Nivel 3",
+        "category": "Troncal",
+        "subject": "Lengua y Literatura III",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan aborda el género teatral desde la Antigua Grecia hasta la diferenciación de subgéneros. Se espera que los estudiantes analicen la estructura del texto dramático, roles clave y adquieran conocimientos para la escritura colectiva de una obra con miras a su representación.",
+        "tags": [
+            "Teatro. Texto dramático. Puesta en escena"
+        ],
+        "url": "https://rise.articulate.com/share/GpAicVb3f4rioZ_CBwJdRQDook5UaoRY"
+    },
+    {
+        "id": 30,
+        "title": "Discursos que moldean: leer y analizar estereotipos",
+        "level": "Nivel 3",
+        "category": "Troncal",
+        "subject": "Lengua y Literatura III",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan propone la lectura crítica de obras literarias y mensajes publicitarios para identificar y cuestionar estereotipos de belleza, éxito y género. Se exploran estrategias persuasivas de los medios y se promueve el desarrollo de una postura reflexiva para la producción de discursos más inclusivos y diversos.",
+        "tags": [
+            "Estereotipos",
+            "Publicidad",
+            "Literatura"
+        ],
+        "url": "https://rise.articulate.com/share/Wn0GvNLXVXFX09kMJht17YPmLoIYs2Lb"
+    },
+    {
+        "id": 31,
+        "title": "Leer y argumentar",
+        "level": "Nivel 3",
+        "category": "Troncal",
+        "subject": "Lengua y Literatura III",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan se centra en la lectura y el análisis de cuentos realistas. El material guía a los estudiantes para comentar y recomendar obras. Los contenidos abordan características del cuento realista, la reseña literaria, las estrategias para sintetizar argumentos y la construcción de la posición enunciativa ",
+        "tags": [
+            "Cuento realista",
+            "Reseña literaria",
+            "Argumentación"
+        ],
+        "url": "https://rise.articulate.com/share/iCHRCFkMBPNygKYgm_ddDHnJ3hBHmqkZ"
+    },
+    {
+        "id": 32,
+        "title": "Lo fantástico: Cortázar y Borges",
+        "level": "Nivel 3",
+        "category": "Troncal",
+        "subject": "Lengua y Literatura III",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan introduce el género fantástico mediante cuentos de Borges y Cortázar. Se exploran las características del género, la vacilación y superposición de planos. Se analiza la resignificación de la mitología y cuentos clave como \"El Aleph\" y \"La noche boca arriba\" ", 
+        "tags": [
+            "Fantástico",
+            "Vacilación",
+            "Doble"
+        ],
+        "url": "https://rise.articulate.com/share/nAeNjFb6XjyXMkUxPsJqmI71oN1x2aEE"
+    },
+    {
+        "id": 33.0,
+        "title": "Entre el Renacimiento y el Barroco: El Quijote",
+        "level": "Nivel 4",
+        "category": "Troncal",
+        "subject": "Lengua y Literatura IV",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan propone descubrir El Quijote mediante fragmentos. Se estudian conceptos como la parodia, la narrativa polifónica y el héroe idealista. Se explora el contexto del Renacimiento y Barroco, la novela moderna y la adaptación de escenas a una producción audiovisual.",
+        "tags": [
+            "Parodia",
+            "Novela Moderna",
+            "Transposición"
+        ],
+        "url": "https://rise.articulate.com/share/TW605bHIeGAo044ETVh7koDA7bXv5LYk"
+    },
+    {
+        "id": 34.0,
+        "title": "Literatura latinoamericana: El realismo mágico",
+        "level": "Nivel 4",
+        "category": "Troncal",
+        "subject": "Lengua y Literatura IV",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan se centra en el realismo mágico para comprender la identidad latinoamericana. Se guía a los estudiantes para identificar características del género en la obra de García Márquez. Incluye la distinción con lo fantástico(Córtazar), la intertextualidad y reseñas críticas.",
+        "tags": [
+            "Realismo mágico",
+            "Literatura latinoamericana",
+            "Intertextualidad"
+        ],
+        "url": "https://rise.articulate.com/share/FSAV-DfBanGIsUV8vWoSAiIrQvywiKY2"
+    },
+    {
+        "id": 35.0,
+        "title": "Sainete y Grotesco criollo: humor y crítica social",
+        "level": "Nivel 4",
+        "category": "Troncal",
+        "subject": "Lengua y Literatura IV",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan se centra en el sainete y el grotesco criollos. Se analizan sus características, el humor y la crudeza en los conventillos y las tensiones de la sociedad porteña. Abarca la lectura de Vacarezza y Discépolo, el lunfardo, cocoliche y la crítica social del género.",
+        "tags": [
+            "Sainete criollo",
+            "Grotesco criollo",
+            "Teatro argentino"
+        ],
+        "url": "https://rise.articulate.com/share/LW0GTFFMB6EopIzIR8X7VLBb9njsvam_"
+    },
+   
+     {
+        "id": 36.0,
+        "title": "Voces femeninas de Latinoamérica",
+        "level": "Nivel 4",
+        "category": "Troncal",
+        "subject": "Lengua y Literatura IV",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan propone la lectura de autoras como Silvina Ocampo, Amparo Dávila y Mariana Enríquez. El recorrido se enfoca en el miedo, la exclusión y la experiencia femenina, analizando recursos para transformar lo cotidiano a través de lo fantástico y lo introspectivo.",
+        "tags": [
+            "Literatura latinoamericana",
+            "Ambigüedad",
+            "Simbolismo"
+        ],
+        "url": "https://rise.articulate.com/share/mcFmE24OjcqSUgvOT6icLEk2MvUbH15o"
+    },
+     {
         "id": 37,
         "title": "Entre el periodismo y la literatura: la no ficción",
         "level": "Nivel 5",
         "category": "Troncal",
         "subject": "Lengua y Literatura I",
         "mode": "Bachiller, Técnica",
-        "description": "El plan se enfoca en el subgénero literario de la No-Ficción, que combina técnicas narrativas propias de la literatura con datos y hechos reales para la representación crítica de la realidad. El material explora el cruce entre el periodismo y la literatura, analizando la obra Operación Masacre, de Rodolfo Walsh, y comparándola con los discursos mediáticos. Se propone también la producción de entrevistas literarias, para explorar a fondo los personajes y contextos de las historias. Palabras clave: No Ficción, Discursos Mediáticos, Entrevistas literarias",
+        "description": "El plan se enfoca en la No-Ficción, que combina técnicas de la literatura con hechos reales para la representación de la realidad. El material explora el cruce entre periodismo y literatura en Operación Masacre, de Rodolfo Walsh, y propone producir entrevistas literarias.",
         "tags": [
             "No Ficción",
             "Discursos Mediáticos",
             "Entrevistas literarias"
         ],
         "url": "https://rise.articulate.com/share/9LQqnuEmMNnk11V49RK5KSIEWHNMVk72"
+    },
+    {
+        "id": 38.0,
+        "title": "Poetas argentinas",
+        "level": "Nivel 5",
+        "category": "Troncal",
+        "subject": "Lengua y Literatura V",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan explora la obra de poetas argentinas del siglo XX, como Storni y Lange, analizando, cómo el contexto y las luchas feministas influyeron en su obra. Se estudian recursos poéticos y se fomenta la producción de una antología, conectando la poesía con otras artes.",
+        "tags": [
+            "Poetas argentinas",
+            "Recursos poéticos",
+            "Antología"
+        ],
+        "url": "https://rise.articulate.com/share/zC9utVhxQJ2psY-ERXXNu4VH_FUnFBum"
+    },
+    {
+        "id": 39.0,
+        "title": "Vanguardias: ruptura y experimentación en el siglo XX",
+        "level": "Nivel 5",
+        "category": "Troncal",
+        "subject": "Lengua y Literatura V",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan se centra en las Vanguardias del siglo XX, examinando movimientos como el cubismo y dadaísmo. El objetivo es guiar el análisis de manifiestos para que los estudiantes reconozcan la ruptura y experimentación. Se explora su influencia en el arte contemporáneo.",
+        "tags": [
+            "Vanguardias",
+            "Ruptura",
+            "Experimentación"
+        ],
+        "url": "https://rise.articulate.com/share/1_GjP8KB0KRUkcSNL5W0akkrRwRNcDJX"
+    },
+    {
+        "id": 40.0,
+        "title": "Leer, pensar y escribir en clave académica",
+        "level": "Nivel 5",
+        "category": "Troncal",
+        "subject": "Lengua y Literatura V",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan propone desarrollar la lectura crítica y la escritura académica para construir una monografía. Se pone el foco en diferenciar el texto académico del literario, organizar la información y formular una voz propia. Se prioriza la tesis y el léxico especializado.",
+        "tags": [
+            "Texto académico",
+            "Monografía",
+            "Argumentación"
+        ],
+        "url": "https://rise.articulate.com/share/VjplWy-rd3ooimV8iN4c2kNWU2LnZQbf"
+    },
+    {
+        "id": 115.0,
+        "title": "Origenes del universo: Del universo a la célula A",
+        "level": "1° año, 2° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El plan aborda los orígenes del universo, materia y energía, incluyendo su transformación y conservación. Se estudian niveles de organización, modelos atómicos y la Tabla Periódica. Detalla uniones químicas y el carbono, sentando bases para el estudio de seres vivos.",
+        "tags": [
+            "Big Bang",
+            "Modelos Atómicos",
+            "Niveles de Organización"
+        ],
+        "url": "https://rise.articulate.com/share/2M5TtcEHZZS3_V82vJesJkEevY2Q-jzZ"
+    },
+    {
+        "id": 116.0,
+        "title": "Origenes del universo: Del universo a la célula B",
+        "level": "1° año, 2° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El plan examina la célula como sistema abierto y unidad de vida, explorando nutrición y reproducción. Se analiza la Teoría Celular, la refutación de la generación espontánea y la evolución de organelas. Enfatiza el rol de estructuras en homeostasis y continuidad de especies.",
+        "tags": [
+            "Célula Eucariota",
+            "Homeostasis",
+            "Endosimbiosis"
+        ],
+        "url": "https://rise.articulate.com/share/v7zKvq9ucY48xJnk1qwbNkVRGtGv6PGB"
+    },
+    {
+        "id": 117.0,
+        "title": "El agua: de la naturaleza al laboratorio A",
+        "level": "1° año, 2° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El plan propone explorar las propiedades del agua, su capacidad calorífica y tensión superficial. Analiza el papel del agua en la homeostasis de los seres vivos y articula conceptos con problemas ambientales, como el cambio climático y el acceso al agua potable.",
+        "tags": [
+            "Propiedades del Agua",
+            "Homeostasis",
+            "Efecto Invernadero"
+        ],
+        "url": "https://rise.articulate.com/share/GyIVByQvlA8G5hQXP4Sw-L2H2yNgxyLS"
+    },
+    {
+        "id": 118.0,
+        "title": "El agua: de la naturaleza al laboratorio B",
+        "level": "1° año, 2° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El plan articula conceptos de Biología y Físico-Química para analizar los ecosistemas. Se explora el flujo de energía y los ciclos biogeoquímicos, enfatizando el rol del agua en la regulación térmica. Se centra en cómo la alteración de factores impacta la biodiversidad.",
+        "tags": [
+            "Ecosistemas",
+            "Flujo de Energía",
+            "Ciclos Biogeoquímicos"
+        ],
+        "url": "https://rise.articulate.com/share/SzXNLbrL2cHwP7Ze1yzvu3r04qTbRNun"
     },
     {
         "id": 143,
@@ -360,259 +614,8 @@
     },
     
     
-    {
-        "id": 27,
-        "title": "Héroes y antihéroes de la literatura universal",
-        "level": "Nivel 2",
-        "category": "Troncal",
-        "subject": "Lengua y Literatura II",
-        "mode": "Bachiller, Técnica",
-        "description": "El plan se centra en el género épico como reflejo de los valores sociales, desde sus orígenes orales hasta la épica clásica, medieval y la gauchesca. Se analiza la construcción y evolución de la figura del héroe a partir de ejemplos como Odiseo, el Cid Campeador y Martín Fierro. Se espera que los estudiantes desarrollen habilidades de interpretación de textos, así como destrezas para crear hipótesis y argumentar sobre los temas literarios propuestos.",
-        "tags": [
-            "Épica",
-            "Héroes",
-            "Argumentación"
-        ],
-        "url": "https://rise.articulate.com/share/5DzkqXZcWkYGRM9VWhn_t4dUMqC53U8b"
-    },
-    {
-        "id": 28,
-        "title": "La novela",
-        "level": "Nivel 2",
-        "category": "Troncal",
-        "subject": "Lengua y Literatura II",
-        "mode": "Bachiller, Técnica",
-        "description": "El plan se enfoca en el estudio del género novela a través de la lectura de Los vecinos mueren en las novelas de Sergio Aguirre. Este recorrido busca que los estudiantes descubran las características distintivas de este género, tales como su extensión, el desarrollo de múltiples conflictos y la complejidad de los personajes. Además, se profundiza en recursos narrativos clave como el relato enmarcado y el punto de vista del narrador, así como en la función de las descripciones y los diálogos directos/indirectos. Finalmente, el plan incluye un análisis detallado del uso de los verbos en pasado (pretérito perfecto simple, imperfecto y pluscuamperfecto) y los signos de puntuación (rayas, comillas, interrogación y exclamación) para construir el ritmo y el tono del relato.",
-        "tags": [
-            "Novela",
-            "Relato enmarcado",
-            "Puntuación"
-        ],
-        "url": "https://rise.articulate.com/share/bWPGB4CYnbZ-zIdU9rz4hM1nA4Q4v0Pj"
-    },
-    {
-        "id": 29,
-        "title": "Teatro",
-        "level": "Nivel 3",
-        "category": "Troncal",
-        "subject": "Lengua y Literatura III",
-        "mode": "Bachiller, Técnica",
-        "description": "El plan aborda el género teatral desde sus orígenes en la Antigua Grecia hasta la diferenciación de sus subgéneros principales, tragedia y comedia. Se espera que los estudiantes analicen la estructura del texto dramático y los roles clave (autor, director, espectador), y que adquieran los conocimientos necesarios para la planificación y escritura colectiva de una obra propia con miras a su posible representación.",
-        "tags": [
-            "Teatro. Texto dramático. Puesta en escena"
-        ],
-        "url": "https://rise.articulate.com/share/GpAicVb3f4rioZ_CBwJdRQDook5UaoRY"
-    },
-    {
-        "id": 30,
-        "title": "Discursos que moldean: leer y analizar estereotipos",
-        "level": "Nivel 3",
-        "category": "Troncal",
-        "subject": "Lengua y Literatura III",
-        "mode": "Bachiller, Técnica",
-        "description": "El plan propone la lectura crítica de obras literarias y mensajes publicitarios para identificar y cuestionar estereotipos de belleza, éxito y género. Se exploran estrategias persuasivas de los medios y se promueve el desarrollo de una postura reflexiva para la producción de discursos más inclusivos y diversos.",
-        "tags": [
-            "Estereotipos",
-            "Publicidad",
-            "Literatura"
-        ],
-        "url": "https://rise.articulate.com/share/Wn0GvNLXVXFX09kMJht17YPmLoIYs2Lb"
-    },
-    {
-        "id": 31,
-        "title": "Leer y argumentar",
-        "level": "Nivel 3",
-        "category": "Troncal",
-        "subject": "Lengua y Literatura III",
-        "mode": "Bachiller, Técnica",
-        "description": "El plan se centra en la lectura y el análisis de cuentos realistas. El material guía a los estudiantes para comentar y recomendar obras con argumentos sólidos. Los contenidos abordan la identificación de las características del cuento realista, la estructura de la reseña literaria (ficha técnica, resumen, crítica), las estrategias para sintetizar argumentos, y la construcción de la posición enunciativa utilizando recursos para argumentar y para lograr distancia (como la tercera persona y el vocabulario técnico). ",
-        "tags": [
-            "Cuento realista",
-            "Reseña literaria",
-            "Argumentación"
-        ],
-        "url": "https://rise.articulate.com/share/iCHRCFkMBPNygKYgm_ddDHnJ3hBHmqkZ"
-    },
-    {
-        "id": 32,
-        "title": "Lo fantástico: Cortázar y Borges",
-        "level": "Nivel 3",
-        "category": "Troncal",
-        "subject": "Lengua y Literatura III",
-        "mode": "Bachiller, Técnica",
-        "description": "El plan introduce el género fantástico mediante el análisis de cuentos de Borges y Cortázar. A través de estos autores se exploran las características del género, como la vacilación entre lo real y lo inexplicable y la superposición de planos. Además, se analiza la resignificación de la mitología por parte de los autores y se incluye el análisis de cuentos clave como \"El Aleph\", \"Las ruinas circulares\", \"La noche boca arriba\" y \"Continuidad de los parques\".",
-        "tags": [
-            "Fantástico",
-            "Vacilación",
-            "Doble"
-        ],
-        "url": "https://rise.articulate.com/share/nAeNjFb6XjyXMkUxPsJqmI71oN1x2aEE"
-    },
-    {
-        "id": 33.0,
-        "title": "Entre el Renacimiento y el Barroco: El Quijote",
-        "level": "Nivel 4",
-        "category": "Troncal",
-        "subject": "Lengua y Literatura IV",
-        "mode": "Bachiller, Técnica",
-        "description": "El plan propone descubrir El Quijote de la Mancha a través de la lectura y el análisis de fragmentos de la obra. Se estudian conceptos literarios fundamentales como la parodia, la narrativa polifónica y la figura del héroe idealista. Además, se explora el contexto histórico del Renacimiento y el Barroco, y se reflexiona sobre el impacto de la obra como iniciadora de la novela moderna. El plan culmina con la adaptación de escenas al lenguaje audiovisual para una producción grupal.",
-        "tags": [
-            "Parodia",
-            "Novela Moderna",
-            "Transposición"
-        ],
-        "url": "https://rise.articulate.com/share/TW605bHIeGAo044ETVh7koDA7bXv5LYk"
-    },
-    {
-        "id": 34.0,
-        "title": "Literatura latinoamericana: El realismo mágico",
-        "level": "Nivel 4",
-        "category": "Troncal",
-        "subject": "Lengua y Literatura IV",
-        "mode": "Bachiller, Técnica",
-        "description": "El plan se centra en la exploración del realismo mágico como corriente clave para comprender la identidad cultural latinoamericana. Se guía a los estudiantes para que identifiquen las características esenciales de este género literario (como la integración de lo insólito en lo cotidiano) y analicen la obra de Gabriel García Márquez. El material incluye la distinción entre el realismo mágico y el género fantástico (Cortázar), la noción de intertextualidad, y la producción de reseñas críticas.",
-        "tags": [
-            "Realismo mágico",
-            "Literatura latinoamericana",
-            "Intertextualidad"
-        ],
-        "url": "https://rise.articulate.com/share/FSAV-DfBanGIsUV8vWoSAiIrQvywiKY2"
-    },
-    {
-        "id": 35.0,
-        "title": "Sainete y Grotesco criollo: humor y crítica social",
-        "level": "Nivel 4",
-        "category": "Troncal",
-        "subject": "Lengua y Literatura IV",
-        "mode": "Bachiller, Técnica",
-        "description": "El plan se centra en el sainete y el grotesco criollos como subgéneros centrales del teatro argentino del siglo XX. Se analizan sus características, incluyendo el uso del humor y la crudeza, y su rol en el retrato de la vida en los conventillos y de las tensiones de la sociedad porteña en transformación. La propuesta abarca la lectura de autores clave como Vacarezza y Discépolo, así como el análisis del lenguaje popular (lunfardo y cocoliche) y de la crítica social que se expresa en estos subgéneros.",
-        "tags": [
-            "Sainete criollo",
-            "Grotesco criollo",
-            "Teatro argentino"
-        ],
-        "url": "https://rise.articulate.com/share/LW0GTFFMB6EopIzIR8X7VLBb9njsvam_"
-    },
-    {
-        "id": 36.0,
-        "title": "Voces femeninas de Latinoamérica",
-        "level": "Nivel 4",
-        "category": "Troncal",
-        "subject": "Lengua y Literatura IV",
-        "mode": "Bachiller, Técnica",
-        "description": "El plan propone la lectura e interpretación de cuentos de autoras latinoamericanas como Silvina Ocampo, María Luisa Bombal, Amparo Dávila, Mariana Enríquez y Liliana Heker, entre otras. El recorrido se enfoca en el análisis de temas como el encierro, el miedo, la exclusión y la experiencia femenina, analizando los recursos narrativos utilizados para transformar lo cotidiano a través de lo fantástico, lo simbólico y lo introspectivo. Se busca que los estudiantes reflexionen sobre las distintas perspectivas que estas voces ofrecen para mirar la realidad. ",
-        "tags": [
-            "Literatura latinoamericana",
-            "Ambigüedad",
-            "Simbolismo"
-        ],
-        "url": "https://rise.articulate.com/share/mcFmE24OjcqSUgvOT6icLEk2MvUbH15o"
-    },
-    {
-        "id": 38.0,
-        "title": "Poetas argentinas",
-        "level": "Nivel 5",
-        "category": "Troncal",
-        "subject": "Lengua y Literatura V",
-        "mode": "Bachiller, Técnica",
-        "description": "El plan explora la obra de poetas argentinas importantes del siglo XX (como Storni y Lange), analizando cómo su contexto histórico, social y las luchas feministas influyeron en su obra literaria. Se estudian los recursos poéticos (métrica, ritmo, figuras literarias como la metáfora y el símil), y se fomenta la producción de una antología grupal, conectando la poesía con otras artes como la música y la pintura.",
-        "tags": [
-            "Poetas argentinas",
-            "Recursos poéticos",
-            "Antología"
-        ],
-        "url": "https://rise.articulate.com/share/zC9utVhxQJ2psY-ERXXNu4VH_FUnFBum"
-    },
-    {
-        "id": 39.0,
-        "title": "Vanguardias: ruptura y experimentación en el siglo XX",
-        "level": "Nivel 5",
-        "category": "Troncal",
-        "subject": "Lengua y Literatura V",
-        "mode": "Bachiller, Técnica",
-        "description": "El plan se centra en las Vanguardias del siglo XX, examinando movimientos como el cubismo, futurismo y dadaísmo. El objetivo es guiar el análisis de textos y manifiestos representativos (tanto europeos como latinoamericanos) para que los estudiantes reconozcan los procedimientos de ruptura y experimentación propuestos frente a las tradiciones artísticas y literarias. Finalmente, se explora cómo estas innovaciones estéticas continúan influyendo en la poesía y el arte contemporáneos.",
-        "tags": [
-            "Vanguardias",
-            "Ruptura",
-            "Experimentación"
-        ],
-        "url": "https://rise.articulate.com/share/1_GjP8KB0KRUkcSNL5W0akkrRwRNcDJX"
-    },
-    {
-        "id": 40.0,
-        "title": "Leer, pensar y escribir en clave académica",
-        "level": "Nivel 5",
-        "category": "Troncal",
-        "subject": "Lengua y Literatura V",
-        "mode": "Bachiller, Técnica",
-        "description": "El plan propone desarrollar la lectura crítica y la escritura académica, centrándose en la construcción de una monografía rigurosa y argumentada. Se pone el foco en diferenciar el texto académico del literario, organizar la información mediante fichas o mapas conceptuales, y formular una voz propia y fundamentada. Se prioriza el uso de estrategias argumentativas, como la formulación de una tesis y la refutación de contraargumentos, aplicando recursos formales del discurso como conectores y léxico especializado.",
-        "tags": [
-            "Texto académico",
-            "Monografía",
-            "Argumentación"
-        ],
-        "url": "https://rise.articulate.com/share/VjplWy-rd3ooimV8iN4c2kNWU2LnZQbf"
-    },
-    {
-        "id": 115.0,
-        "title": "Origenes del universo: Del universo a la célula A",
-        "level": "1° año, 2° año",
-        "category": "Laboratorio",
-        "subject": "Laboratorio Ciencias Naturales",
-        "mode": "Bachiller",
-        "description": "El plan aborda los orígenes del universo (Big Bang, materia y energía), incluyendo nociones de transformación y degradación de la energía, y conservación de la misma. Se estudian los niveles de organización de la materia (partículas subatómicas, átomos, moléculas), la evolución de los modelos atómicos y la Tabla Periódica. El material detalla las uniones químicas (iónicas y covalentes) y la importancia del carbono para los compuestos biológicos, sentando las bases para el estudio de los seres vivos.",
-        "tags": [
-            "Big Bang",
-            "Modelos Atómicos",
-            "Niveles de Organización"
-        ],
-        "url": "https://rise.articulate.com/share/2M5TtcEHZZS3_V82vJesJkEevY2Q-jzZ"
-    },
-    {
-        "id": 116.0,
-        "title": "Origenes del universo: Del universo a la célula B",
-        "level": "1° año, 2° año",
-        "category": "Laboratorio",
-        "subject": "Laboratorio Ciencias Naturales",
-        "mode": "Bachiller",
-        "description": "El plan examina la célula como sistema abierto y unidad de vida, explorando sus procesos vitales esenciales (nutrición y reproducción). Se analiza la Teoría Celular, la refutación de la generación espontánea y la evolución de las organelas (teorías endosimbiótica y autógena). El material enfatiza el rol de las estructuras celulares en la homeostasis y la continuidad de las especies.",
-        "tags": [
-            "Célula Eucariota",
-            "Homeostasis",
-            "Endosimbiosis"
-        ],
-        "url": "https://rise.articulate.com/share/v7zKvq9ucY48xJnk1qwbNkVRGtGv6PGB"
-    },
-    {
-        "id": 117.0,
-        "title": "El agua: de la naturaleza al laboratorio A",
-        "level": "1° año, 2° año",
-        "category": "Laboratorio",
-        "subject": "Laboratorio Ciencias Naturales",
-        "mode": "Bachiller",
-        "description": "El plan propone explorar las propiedades únicas del agua, como su capacidad calorífica y tensión superficial. Se analiza el papel del agua en la homeostasis hídrica y térmica de los seres vivos y se articulan conceptos fisicoquímicos con problemáticas ambientales y sociales relevantes, incluyendo el cambio climático (efecto invernadero) y los desafíos de la filtración y acceso al agua potable.",
-        "tags": [
-            "Propiedades del Agua",
-            "Homeostasis",
-            "Efecto Invernadero"
-        ],
-        "url": "https://rise.articulate.com/share/GyIVByQvlA8G5hQXP4Sw-L2H2yNgxyLS"
-    },
-    {
-        "id": 118.0,
-        "title": "El agua: de la naturaleza al laboratorio B",
-        "level": "1° año, 2° año",
-        "category": "Laboratorio",
-        "subject": "Laboratorio Ciencias Naturales",
-        "mode": "Bachiller",
-        "description": "El plan articula conceptos de Biología y Físico-Química para analizar los ecosistemas como modelos. Se explora el flujo de energía y los ciclos biogeoquímicos (agua, carbono), enfatizando el rol del agua en la productividad primaria y la regulación térmica del planeta. El material se centra en cómo la alteración de factores abióticos impacta las redes tróficas y la biodiversidad.",
-        "tags": [
-            "Ecosistemas",
-            "Flujo de Energía",
-            "Ciclos Biogeoquímicos"
-        ],
-        "url": "https://rise.articulate.com/share/SzXNLbrL2cHwP7Ze1yzvu3r04qTbRNun"
-    },
+    
+   
     {
         "id": 122.0,
         "title": "Descontaminación ambiental: de la Tierra al espacio B",
