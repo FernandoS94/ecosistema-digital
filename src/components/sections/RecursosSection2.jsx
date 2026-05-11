@@ -1,5 +1,6 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
 import './RecursosSection2.css';
+import { BibliotecaCard } from './BibliotecaCard';
 
 const PAGE_SIZE = 4;
 
@@ -269,10 +270,12 @@ export function RecursosSection() {
         </p>
       </div>
     </div>
+     
 
     {/* Filtros — ocupa todo el ancho */}
     <div className="filters-section-full">
       <div className="container">
+       {/*} <BibliotecaCard /> */}
 
         <div className="global-search-bar">
           <div className="global-search-wrapper">
