@@ -2366,5 +2366,31 @@
             "Reproducción asexual. Reproducción sexual. Variabilidad genética."
         ],
         "url": "https://es.khanacademy.org/science/high-school-biology/hs-reproduction-and-cell-division/hs-types-of-reproduction/v/asexual-and-sexual-reproduction"
+    },
+     {
+        "id": 486.0,
+        "title": "Darwin, evolución y selección natural",
+        "level": "2° año, 3° año",
+        "category": "Laboratorio, Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El material desarrolla la teoría de Darwin, definida como descendencia con modificación desde un ancestro común. Explica la selección natural como el mecanismo basado en rasgos heredables que favorecen la supervivencia y la adaptación poblacional.",
+        "tags": [
+            "Selección natural. Adaptación. Ancestro común"
+        ],
+        "url": "https://es.khanacademy.org/science/biology/her/evolution-and-natural-selection/a/darwin-evolution-natural-selection"
+    },
+    {
+        "id": 490,
+        "title": "Variación en una especie",
+        "level": "2° año, 3° año",
+        "category": "Laboratorio, Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El video explica la variación genética como base de la selección natural. Contrasta las mutaciones con la reproducción sexual, destacando a esta última como la fuente principal de diversidad poblacional mediante la recombinación y el azar en la herencia",
+        "tags": [
+            "Variación genética. Reproducción sexual. Selección natural"
+        ],
+        "url": "https://es.khanacademy.org/science/high-school-biology/hs-evolution/hs-evolution-and-natural-selection/v/variation-in-a-species"
     }
 ]
