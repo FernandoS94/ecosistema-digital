@@ -8,10 +8,9 @@ export function BibliotecaCard() {
       </div>
       <div className="biblioteca-card-content">
         
-        <h3 className="biblioteca-card-title">Biblioteca de Aprendizaje Autónomo</h3>
+        <h3 className="biblioteca-card-title">Biblioteca de aprendizaje autónomo</h3>
         <p className="biblioteca-card-desc">
-          Accedé a una amplia colección de recursos educativos digitales organizados por nivel,
-          área y modalidad para enriquecer tus propuestas pedagógicas.
+          
         </p>
       </div>
       <a
@@ -20,7 +19,7 @@ export function BibliotecaCard() {
         rel="noreferrer"
         className="biblioteca-card-btn"
       >
-        Explorar biblioteca <i className="fas fa-right-to-bracket"></i>
+        Explorá 
       </a>
     </div>
   );

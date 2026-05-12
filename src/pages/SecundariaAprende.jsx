@@ -6,6 +6,7 @@ import { useScrollAnimation } from '../hooks/useScrollAnimation';
 {/*import { RecursosSection } from '../components/sections/RecursosSection';*/}
 import { DocenteGemSection } from '../components/sections/DocenteGemSection';
 import { RecursosSection } from '../components/sections/RecursosSection2';
+import { BibliotecaCard } from '../components/sections/BibliotecaCard';
 
 
 
@@ -117,6 +118,7 @@ export function SecundariaAprendePage() {
          
       <DocenteGemSection />
        <RecursosSection /> 
+       <BibliotecaCard />
     </main>
   );
 }
