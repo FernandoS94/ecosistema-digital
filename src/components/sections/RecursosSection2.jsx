@@ -37,7 +37,7 @@ function ResourceCard({ resource }) {
       </div>
       <div className="resource-actions">
         <button className="btn-view-pdf" onClick={() => window.open(resource.url, '_blank')}>
-          Ver Material
+          Ver material
         </button>
       </div>
     </div>

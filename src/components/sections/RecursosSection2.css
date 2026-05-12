@@ -413,8 +413,8 @@
 }
 
 .resource-description {
-  color: #555;
-  font-size: 0.9rem;
+  color: black;
+  font-size: 0.8rem;
   line-height: 1.5;
   margin-bottom: 10px;
 }
@@ -431,8 +431,8 @@
   color: var(--primary-color);
   padding: 3px 8px;
   border-radius: 20px;
-  font-size: 0.7rem;
-  font-weight: 600;
+  font-size: 0.6rem;
+  font-weight: 700;
 }
 
 .tag.category { background: #f0e8ff; color: var(--secondary-color); }
