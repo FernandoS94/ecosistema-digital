@@ -2536,5 +2536,80 @@
             "Interacciones moleculares"
         ],
         "url": "https://es.khanacademy.org/science/chemistry/atomic-structure-and-properties/introduction-to-the-atom/v/introduction-to-chemistry"
+    },
+    {
+        "id": 584,
+        "title": "Tipos de mezclas",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de intregración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video introduce en la identificación de mezclas (homogéneas y heterogéneas), el concepto de aleación y el de solución, sin profundizar en las medidas de concentración, ni los métodos de separación.",
+        "tags": [
+            "Solución",
+            "Mezcla",
+            "Aleación"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/states-of-matter-and-intermolecular-forces/mixtures-and-solutions/v/types-of-mixtures"
+    },
+    {
+        "id": 587,
+        "title": "Elementos y átomos",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de intregración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video presenta el concepto de elemento, sustancia pura y átomo; y estados de la materia, así como los fundamentos de cómo los protones, electrones y neutrones conforman un átomo. También presenta la carga de las partículas y el concepto de nube electrónica y núcleo atómico.",
+        "tags": [
+            "Modelo",
+            "Electrón",
+            "Ión"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/atomic-structure-and-properties/introduction-to-the-atom/v/elements-and-atoms"
+    },
+    {
+        "id": 588,
+        "title": "Moléculas y compuestos",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de intregración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "Este pequeño apunte indica cómo, a partir de las interacciones atómicas, se forman diversas moléculas. Presenta el enlace Covalente, la representación de moléculas en fórmulas químicas y fórmulas estructurales, los iones y el enlace iónico.",
+        "tags": [
+            "Enlace",
+            "Covalente",
+            "Iónico"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/atomic-structure-and-properties/introduction-to-compounds/a/paul-article-2"
+    },
+    {
+        "id": 589,
+        "title": "Nomenclatura de iones y compuestos iónicos",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de intregración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video presenta la tabla periódica de los elementos y demuestra cómo la afinidad electrónica es una propiedad periódica. A partir de ello, muestra el enlace iónico y explica cómo se escribe la fórmula de los compuestos iónicos.",
+        "tags": [
+            "Fórmula",
+            "Enlace",
+            "Iónico"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/atomic-structure-and-properties/introduction-to-compounds/v/naming-ions-and-ionic-compounds"
+    },
+    {
+        "id": 590,
+        "title": "Introducción a los iones",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de intregración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video presenta la tabla periódica de los elementos, indica cómo puede identificarse la estructura subatómica desarrollada en la tabla. Además, introduce el concepto de neutralidad de carga y cómo se forman los iones, aniones y cationes a partir de la modificación del número de electrones.",
+        "tags": [
+            "Anión",
+            "Catión",
+            "Tabla periódica"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/atomic-structure-and-properties/introduction-to-compounds/v/introduction-to-ions"
     }
 ]
