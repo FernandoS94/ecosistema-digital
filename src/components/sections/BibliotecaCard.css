@@ -77,16 +77,83 @@
 }
 
 /* Responsive */
+/* =========================
+   TABLET
+========================= */
+@media (max-width: 992px) {
+  .biblioteca-card {
+    padding: 20px 24px;
+    gap: 20px;
+  }
+
+  .biblioteca-card-title {
+    font-size: 1.1rem;
+  }
+
+  .biblioteca-card-desc {
+    font-size: 0.9rem;
+  }
+}
+/* =========================
+   MOBILE
+========================= */
 @media (max-width: 768px) {
   .biblioteca-card {
     flex-direction: column;
-    align-items: flex-start;
-    padding: 22px 20px;
-    gap: 16px;
+    align-items: center;
+    text-align: center;
+    padding: 24px 20px;
+    gap: 18px;
+    border-radius: 18px;
+  }
+
+  .biblioteca-card-content {
+    min-width: 100%;
+  }
+
+  .biblioteca-card-icon {
+    width: 58px;
+    height: 58px;
+    min-width: 58px;
+    font-size: 1.3rem;
+  }
+
+  .biblioteca-card-title {
+    font-size: 1.05rem;
+  }
+
+  .biblioteca-card-desc {
+    font-size: 0.88rem;
+    line-height: 1.5;
   }
 
   .biblioteca-card-btn {
     width: 100%;
-    justify-content: center;
+    padding: 14px 20px;
+    font-size: 0.9rem;
+  }
+}
+
+/* =========================
+   MOBILE PEQUEÑO
+========================= */
+@media (max-width: 480px) {
+  .biblioteca-card {
+    padding: 20px 16px;
+    gap: 14px;
+    margin-bottom: 28px;
+  }
+
+  .biblioteca-card-title {
+    font-size: 1rem;
+  }
+
+  .biblioteca-card-desc {
+    font-size: 0.84rem;
+  }
+
+  .biblioteca-card-btn {
+    font-size: 0.85rem;
+    padding: 12px 18px;
   }
 }
