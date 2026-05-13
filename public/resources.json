@@ -2611,5 +2611,78 @@
             "Tabla periódica"
         ],
         "url": "https://es.khanacademy.org/science/chemistry/atomic-structure-and-properties/introduction-to-compounds/v/introduction-to-ions"
+    },
+     {
+        "id": 591,
+        "title": "Estados de la materia",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video realiza una instrucción a los estados de la materia, asociándolo a niveles energéticos. Aborda el concepto de polaridad y densidad, y cómo esta varía entre estados. También explica someramente el concepto de Entalpía para asociarlo con los cambios de estado.",
+        "tags": [
+            "Materia",
+            "Estados",
+            "Entalpía"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/states-of-matter-and-intermolecular-forces/states-of-matter/v/states-of-matter"
+    },
+    {
+        "id": 592,
+        "title": "Seguimiento de los estados de la materia",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video profundiza la explicación sobre los estados de la materia y más específicamente aborda la descripción del Plasma y las uniones puente hidrógeno.",
+        "tags": [
+            "Plasma",
+            "Puente hidrógeno",
+            "Estados"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/states-of-matter-and-intermolecular-forces/states-of-matter/v/states-of-matter-follow-up"
+    },
+    
+  
+    {
+        "id": 497,
+        "title": "La formación de la Tierra",
+        "level": "1° año, 3° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El material describe el origen de la Tierra hace 4.600 millones de años tras una supernova. Explica cómo la gravedad formó el sistema solar y analiza las condiciones de la Tierra fundida durante el eón Hadeano, previo a la aparición de la vida.",
+        "tags": [
+            "Gravedad", "Sistema solar"," Eon Hadeano"
+        ],
+        "url": "https://es.khanacademy.org/science/biology/history-of-life-on-earth/history-life-on-earth/v/earth-formation"
+    },
+     {
+        "id": 366,
+        "title": "Prácticas acuáticas B",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan se enfoca en el perfeccionamiento de las técnicas de nado y la seguridad en el medio acuático, integrando el aprendizaje de los estilos crol, espalda y pecho con maniobras de rescate básico. Los estudiantes desarrollan su capacidad física de manera recreativa y deportiva, fortaleciendo la confianza propia y la responsabilidad de cuidar la integridad de sus compañeros en el agua.",
+        "tags": [
+            "Técnicas de Nado",
+            "Confianza",
+            "Cuidado."
+        ],
+        "url": "https://rise.articulate.com/share/yq8U3vREiEaIaL7vyj3UU1OGo0VuN_aJ"
+    },
+    {
+        "id": 500,
+        "title": "Teoría celular",
+        "level": "1° año, 2° año",
+        "category": "Laboratorio, Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este material audiovisual relata el desarrollo histórico de la teoría celular, destacando los aportes de Hooke y Leeuwenhoek. Explica los tres postulados fundamentales: la célula como unidad básica, constituyente de toda vida y originada de células preexistentes.",
+        "tags": [
+            "Teoría celular","Célula","Hooke"
+        ],
+        "url": "https://es.khanacademy.org/science/biology/structure-of-a-cell/introduction-to-cells/v/cell-theory"
     }
 ]
