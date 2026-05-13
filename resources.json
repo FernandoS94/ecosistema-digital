@@ -396,18 +396,118 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El plan aborda la contaminación hídrica y la descontaminación ambiental, aplicando la estructura de las soluciones (soluto/solvente) y la influencia de la temperatura en la disolución. Se promueve la aplicación de conceptos fisicoquímicos como concentración y pH a problemas ambientales, potenciando además, habilidades metacognitivas (bitácora y revisión de conocimientos) y la comunicación de soluciones mediante una infografía en redes sociales.",
+        "description": "El plan aborda la contaminación hídrica y ambiental, aplicando la estructura de soluciones y la temperatura en la disolución. Promueve conceptos como concentración y pH a problemas ambientales, habilidades metacognitivas y la comunicación mediante una infografía.",
         "tags": [
             "Contaminación Hídrica",
             "Soluciones",
             "Concentración"
         ],
         "url": "https://rise.articulate.com/share/DBSF-4B40fcESjJ6aCXMIvjo4bLlAAjt"
-
-
-
-
-
+    },
+     {
+        "id": 122.0,
+        "title": "Descontaminación ambiental: de la Tierra al espacio B",
+        "level": "2° año, 1° año, 3° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El plan se centra en la descontaminación de aire y suelo. Desarrolla la composición atmosférica, teoría de gases, lluvia ácida y contaminantes del suelo. Articula conceptos con la dinámica de ecosistemas y ecología urbana para promover la opinión crítica y soluciones.",
+        "tags": [
+            "Contaminación Atmosférica",
+            "Ecología Urbana",
+            "Óxido-Reducción"
+        ],
+        "url": "https://rise.articulate.com/share/nnx75G3UuEOMI5QMhaldwpZrzNb_WuOF"
+    },
+    {
+        "id": 123.0,
+        "title": "Los descendientes de LUCA A",
+        "level": "3° año, 4° año, 5° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El plan se enfoca en la diversidad biológica y su evolución (partiendo de LUCA), y aborda el cambio climático y a analizar la capacidad de adaptación de las especies. Se promueven las capacidades de indagación a través de la creación de un video explicativo.",
+        "tags": [
+            "Diversidad",
+            "Evolución",
+            "Conservación"
+        ],
+        "url": "https://rise.articulate.com/share/2MIxahV-8CA_IQOlOSF5m9HKoC4yXPNJ"
+    },
+    {
+        "id": 124.0,
+        "title": "Los descendientes de LUCA B",
+        "level": "3° año, 4° año, 5° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El plan aborda la diversidad biológica como resultado del proceso evolutivo, partiendo del Ancestro Común (LUCA). Se estudian las ideas históricas (Fijismo, Lamarck, Darwin) y el mecanismo de la Selección Natural.",
+        "tags": [
+            "Evolución",
+            "Selección Natural",
+            "Biodiversidad"
+        ],
+        "url": "https://rise.articulate.com/share/l2aJa1NnTthJdH-fa2eEdmxn_MaBey0Z"
+    },
+    {
+        "id": 125.0,
+        "title": "Ambiente, nutrición y salud reproductiva A",
+        "level": "1° año, 2° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El plan desarrolla la función de nutrición humana y la salud sexual y reproductiva. Enfatiza la integración sistémica y celular para mantener la homeostasis. Ecología Urbana,:analizando el impacto de los contaminantes ambientales en la salud reproductiva y la fertilidad. ",
+        "tags": [
+            "Nutrición",
+            "Homeostasis",
+            "Salud Reproductiva"
+        ],
+        "url": "https://rise.articulate.com/share/uY-k0swvqXITnhAr0Xoh7zYImQCXIaGU"
+    },
+    {
+        "id": 129.0,
+        "title": "Ciencia y ambiente para un futuro sostenible A",
+        "level": "1° año, 2° año, 3° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El plan aborda la relación entre la energía solar y el sostenimiento de la vida. Integra el estudio del espectro electromagnético y las combustiones. Analiza el efecto invernadero, incentivando a los estudiantes a diseñar propuestas para un futuro sostenible.",
+        "tags": [
+            "Fotosíntesis",
+            "Efecto invernadero",
+            "Redes tróficas"
+        ],
+        "url": "https://rise.articulate.com/share/sOi0F9yvYoebE0Z6Buui_xtLBYjJcm-0"
+    },
+    {
+        "id": 130.0,
+        "title": "Ciencia y ambiente para un futuro sostenible B",
+        "level": "1° año, 2° año, 3° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este plan aborda la biodiversidad como resultado de la la evolución y dinámica de ecosistemas. Analiza factores bióticos, abióticos, flujo de energía en redes tróficas y pirámides. Desarrolla ciclos del agua, carbono, nitrógeno y fósforo, ecología urbana, calentamiento y sustentabilidad.",
+        "tags": [
+            "Biodiversidad",
+            "Ecosistemas",
+            "Ciclos biogeoquímicos"
+        ],
+        "url": "https://rise.articulate.com/share/sOi0F9yvYoebE0Z6Buui_xtLBYjJcm-0"
+    },
+    {
+        "id": 137.0,
+        "title": "Genética y superpoderes A",
+        "level": "3° año, 4° año, 5° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este material profundiza en la estructura y función de ADN y ARN. Aborda mecanismos mendelianos, integrando gen, alelo, dominancia y recesividad. Analiza replicación, transcripción y traducción para la síntesis proteica. Examina mutaciones, contrastándolas con la ficción.",
+        "tags": [
+            "Genética",
+            "ADN",
+            "herencia"
+        ],
+        "url": "https://rise.articulate.com/share/ws-jKQzrN4ULnbuIWzigdsgmXYdPZOMZ"
     },
     {
         "id": 143,
@@ -416,13 +516,133 @@
         "category": "Otro",
         "subject": "Proyecto de Vinculación con el Futuro",
         "mode": "Bachiller",
-        "description": "El plan guía a los estudiantes para crear un proyecto que transforme su entorno, partiendo de la observación crítica del contexto y la detección de problemas o necesidades reales. Se incluye la definición de proyecto y los distintos tipos (sociocomunitario, de investigación y de emprendedurismo). Se enfatiza el diagnóstico a través de la formulación de preguntas clave y el análisis de datos reales. Se introduce la bitácora como herramienta esencial para el registro, organización y reflexión continua del proceso.",
+        "description": "El plan guía a estudiantes a crear un proyecto que transforme su entorno, partiendo de la observación crítica del contexto..Incluye varios tipos de proyectos (sociocomunitario, investigación y emprendedurismo), llegando al diagnóstico con preguntas claves. Se introduce la bitácora como herramienta de registro.",
         "tags": [
             "Proyecto Escolar",
             "diagnóstico",
             "bitácora"
         ],
         "url": "https://rise.articulate.com/share/g0hPv0NhdLK9PJvl1ihdWFeMeKWZBRFl"
+    },
+     {
+        "id": 218,
+        "title": "¿Es posible la comunicación humana? Cuerpos, pantallas, redes…",
+        "level": "3° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio de la Orientación  , Taller de la Orientación ",
+        "mode": "Bachiller",
+        "description": "El plan aborda la comunicación humana como fenómeno omnipresente. Analiza modelos de emisor-receptor, feedback y dimensiones: interpersonal, intercultural, institucional y mediada. Incluye actividades sobre tecnología, industria mediática y papel activo de audiencias.",
+        "tags": [
+            "Comunicación humana",
+            "Medios masivos",
+            "Audiencias"
+        ],
+        "url": "https://rise.articulate.com/share/ZaZ6WolCJTFnjgMHq2meKCfgIUXYO7TA"
+    },
+    {
+        "id": 219,
+        "title": "¿Es posible la comunicación humana? ",
+        "level": "3° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio de la Orientación  , Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan aborda modelos y teorías de comunicación como Agenda Setting, Aguja Hipodérmica, Escuela de Frankfurt y Estudios Culturales. Analiza medios masivos, propaganda y conceptos como proxémica, kinésica, cultura algorítmica y gubernamentalidad para la reflexión crítica.",
+        "tags": [
+            "Medios masivos",
+            "Modelos comunicacionales",
+            "Teorías socioculturales"
+        ],
+        "url": "https://rise.articulate.com/share/H9kUoJzQcelXh3nwMhOC_0y-GAc2VeXB"
+    },
+     {
+        "id": 222.0,
+        "title": "¿Cómo llegamos hasta acá? Los medios de comunicación y las redes sociales",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación  , Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan recorre la evolución de la comunicación desde la oralidad y escritura hasta la era digital. Analiza hitos como imprenta y medios masivos sobre el poder y la cultura.  Se enfoca en el ecosistema actual, abordando algoritmos, metadatos y el rol del prosumidor en la sociedad hiperconectada.",
+        "tags": [
+            "Imprenta",
+            "Historia de los medios",
+            "Era digital"
+        ],
+        "url": "https://rise.articulate.com/share/ZaZ6WolCJTFnjgMHq2meKCfgIUXYO7TA"
+    },
+    {
+        "id": 223.0,
+        "title": "¿Cómo llegamos hasta acá?",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación  , Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan recorre la evolución de la comunicación desde la oralidad y escritura hasta la era digital. Analiza hitos como imprenta y medios masivos sobre el poder y la cultura. Se enfoca en algoritmos, metadatos y prosumidores, promoviendo una mirada crítica sobre información.",
+        "tags": [
+            "Poder mediático",
+            "Algoritmos de información",
+            "Brecha digital"
+        ],
+        "url": "https://rise.articulate.com/share/H9kUoJzQcelXh3nwMhOC_0y-GAc2VeXB"
+    },
+    {
+        "id": 224.0,
+        "title": "Medios en acción - Gráfica",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación  , Taller de la Orientación ",
+        "mode": "Bachiller",
+        "description": "El plan explora la influencia de textos e imágenes en la percepción del mundo. Desarrolla habilidades para el análisis crítico de mensajes mediáticos, abordando tipografía, composición y géneros. Culmina con la producción colaborativa de un medio gráfico digital.",
+        "tags": [
+            "Medios gráficos",
+            "Medios masivos y alternativos",
+            "Géneros periodísticos"
+        ],
+        "url": "https://rise.articulate.com/share/w-hkInhc95QhZzgIAYY7EQweRRKS16qC"
+    },
+    {
+        "id": 225.0,
+        "title": "Medios en acción - Radio",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación  , Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan desarrolla habilidades en el medio radial, explorando su versatilidad, técnica y creatividad. Aborda soportes y lenguaje sonoro. Se enfoca en la distinción entre géneros y formatos, culminando con la planificación y realización de diversos productos radiales.",
+        "tags": [
+            "Radio",
+            "Géneros y formatos radiales",
+            "Lenguaje radial"
+        ],
+        "url": "https://rise.articulate.com/share/vc2Pf8NFyUNYX3GqoJ2Fs1QctM4eRpY9"
+    },
+    {
+        "id": 226.0,
+        "title": "La publicidad del derecho y el revés A",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación  , Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan ofrece un análisis crítico de la publicidad y estrategias de Marketing. Explora el entorno digital y el impacto social, cuestionando estereotipos y discriminación. Concluye con la contrapublicidad e incentivando la creación de campañas éticas y responsables.",
+        "tags": [
+            "Estrategia publicitaria",
+            "Campañas",
+            "Marketing"
+        ],
+        "url": "https://rise.articulate.com/share/bbhFcWX6TxDErsPinQ7oojXIDnr1gcBW"
+    },
+    {
+        "id": 227.0,
+        "title": "La publicidad del derecho y el revés B",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación  , Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan profundiza en la publicidad como fenómeno comunicativo. Explora géneros, estructuras narrativas y la relación entre imagen y texto. Aborda estrategias creativas y el posicionamiento. Promueve campañas originales con mirada crítica sobre la ética e impacto. ",
+        "tags": [
+            "Géneros publicitarios",
+            "Target",
+            "Estrategia creativa"
+        ],
+        "url": "https://rise.articulate.com/share/GkJ9xUGvoaT-pujf_HF7h7UMThBEWmGa"
     },
     {
         "id": 186,
@@ -439,36 +659,7 @@
         ],
         "url": "https://rise.articulate.com/author/bq3SQV7yerOH0foDJ_Kf9rtOJdcMgB-o#/author/course"
     },
-    {
-        "id": 218,
-        "title": "¿Es posible la comunicación humana? Cuerpos, pantallas, redes…",
-        "level": "3° año",
-        "category": "Laboratorio",
-        "subject": "Laboratorio de la Orientación  , Taller de la Orientación ",
-        "mode": "Bachiller",
-        "description": "El plan se centra en la comunicación humana como un fenómeno omnipresente. Se analizan modelos clave de este fenómeno, como el de emisor-receptor, feedback; y cuatro dimensiones de la comunicación: interpersonal, intercultural, institucional y mediada por los medios masivos. El recorrido incluye actividades prácticas para reflexionar sobre el vínculo entre comunicación y tecnología, la industria mediática y el papel activo de las audiencias, vinculando los conceptos teóricos con la práctica reflexiva.",
-        "tags": [
-            "Comunicación humana",
-            "Medios masivos",
-            "Audiencias"
-        ],
-        "url": "https://rise.articulate.com/share/ZaZ6WolCJTFnjgMHq2meKCfgIUXYO7TA"
-    },
-    {
-        "id": 219,
-        "title": "¿Es posible la comunicación humana? ",
-        "level": "3° año",
-        "category": "Laboratorio",
-        "subject": "Laboratorio de la Orientación  , Taller de la Orientación",
-        "mode": "Bachiller",
-        "description": "El plan aborda diversos modelos comunicacionales, así como teorías y corrientes fundacionales del campo de la Comunicación, como la Agenda Setting, la Aguja Hipodérmica, la Escuela de Frankfurt, los Estudios Culturales Británicos, entre otros. Analiza también la influencia de los medios masivos (propaganda, publicidad), profundizando en conceptos como proxémica, kinésica, cultura algorítmica y gubernamentalidad, promoviendo la reflexión crítica sobre el proceso comunicativo y sus efectos sociales.",
-        "tags": [
-            "Medios masivos",
-            "Modelos comunicacionales",
-            "Teorías socioculturales"
-        ],
-        "url": "https://rise.articulate.com/share/H9kUoJzQcelXh3nwMhOC_0y-GAc2VeXB"
-    },
+   
     {
         "id": 269,
         "title": "Literatura, medios y consumos culturales en el siglo XXI - A",
@@ -476,7 +667,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio de la Orientación  , Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan se centra en el impacto de los consumos culturales del siglo XXI en la producción y difusión de literatura, explorando la industria editorial (bestsellers, editoriales independientes) y la influencia de las nuevas tecnologías y redes sociales en las prácticas lectoras. También se estudian algunos géneros emergentes (chicklit, sagas, literatura juvenil) y sus circuitos de circulación.",
+        "description": "El plan se centra en el impacto de consumos culturales en la producción y difusión de literatura, explorando la industria editorial y la influencia de nuevas tecnologías en prácticas lectoras. Estudia géneros emergentes y sus circuitos de circulación.",
         "tags": [
             "Consumos culturales",
             "Industria editorial",
@@ -491,7 +682,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio de la Orientación  , Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan desarrolla los contenidos de Movimiento Rectilíneo Uniforme (MRU) y Uniformemente Variado (MRUV), incluyendo problemas de encuentro, velocidad relativa, caída libre y tiro vertical. Las actividades propuestas incluyen la recuperación y aplicación de funciones lineales y cuadráticas, la resolución de problemas que reproducen situaciones reales, la interpretación de gráficos y la creación de una producción final de síntesis. Se espera que los alumnos apliquen la matemática a fenómenos reales y fortalezcan su capacidad para observar e interpretar el movimiento mediante modelos matemáticos.",
+        "description": "El plan desarrolla contenidos de MRU y MRUV, incluyendo caída libre y tiro vertical. Las actividades proponen la aplicación de funciones lineales y cuadráticas, resolución de problemas reales e interpretación de gráficos para fortalecer modelos matemáticos.",
         "tags": [
             "cinemática",
             "gráficos",
@@ -506,7 +697,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio de la Orientación  , Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan aborda la medición de magnitudes físicas, la precisión, el error (instrumental, humano y ambiental), el valor representativo y la indeterminación experimental. Las actividades guían desde la exploración de saberes previos y cuestionarios interactivos hasta experimentos prácticos de medición repetida y el diseño de un proyecto final aplicado. Se espera que los alumnos identifiquen la precisión y la exactitud, minimicen errores calculando promedios y comprendan las aplicaciones de la luz (refracción, reflexión, absorción) en instrumentos ópticos como microscopios y telescopios. Palabras Clave: Magnitudes, Precisión en la medida, Luz.",
+        "description": "El plan aborda la medición de magnitudes, precisión, error y el valor representativo. Se espera que los estudiantes identifiquen precisión y exactitud, minimicen errores y comprendan aplicaciones de la luz en instrumentos ópticos como microscopios y telescopios",
         "tags": [
             "microscopios",
             "valor representativo"
@@ -520,7 +711,7 @@
         "category": "Otro",
         "subject": "Proyecto de Vinculación con el Futuro",
         "mode": "Bachiller",
-        "description": "El plan orienta a los estudiantes a diseñar y planificar una propuesta de intervención sociocomunitaria desde la Educación Física. El proceso se enfoca en la identificación de una necesidad real, la elaboración de un diagnóstico motriz-comunitario, la recolección de información mediante entrevistas y encuestas, la formulación de un objetivo claro y la programación detallada de acciones, roles y recursos para generar un impacto real en el entorno.",
+        "description": "El plan orienta a diseñar una intervención sociocomunitaria desde la Educación Física. El proceso se enfoca en identificar una necesidad, elaborar un diagnóstico, recolectar información y programar acciones para generar un impacto real en el entorno.",
         "tags": [
             "Proyecto sociocomunitario",
             "Educación Física",
@@ -535,7 +726,7 @@
         "category": "Formativo",
         "subject": "Tecnologia de la Representacion",
         "mode": "Técnica",
-        "description": "El plan guía en los fundamentos de la representación a escala y las vistas ortogonales (frontal, lateral y superior). El material aborda la proyección de sólidos simples (rectos, curvos y mixtos) y enfatiza la precisión en la acotación de piezas técnicas. Además, se instruye sobre la escritura normalizada y el uso de lápiz y estilógrafo, culminando en la elaboración de un plano técnico completo.",
+        "description": "El plan guía en los fundamentos de la representación a escala y vistas ortogonales. Aborda la proyección de sólidos y enfatiza la precisión en la acotación técnica. Instruye sobre escritura normalizada y uso de instrumentos para elaborar un plano técnico completo.",
         "tags": [
             "Vistas",
             "Acotación",
@@ -637,201 +828,8 @@
     
     
    
-    {
-        "id": 122.0,
-        "title": "Descontaminación ambiental: de la Tierra al espacio B",
-        "level": "2° año, 1° año, 3° año",
-        "category": "Laboratorio",
-        "subject": "Laboratorio Ciencias Naturales",
-        "mode": "Bachiller",
-        "description": "El plan está centrado en la descontaminación ambiental y extiende el análisis fisicoquímico a los recursos aire y suelo. El material desarrolla la composición atmosférica (aplicando la teoría de los gases y estudiando contaminantes como la lluvia ácida) y los contaminantes del suelo (vinculados a minería, hidrocarburos y residuos urbanos). Articula estos conceptos con la dinámica de los ecosistemas y la ecología urbana. El objetivo es promover la opinión crítica y la resolución de problemas mediante la modelización de soluciones.",
-        "tags": [
-            "Contaminación Atmosférica",
-            "Ecología Urbana",
-            "Óxido-Reducción"
-        ],
-        "url": "https://rise.articulate.com/share/nnx75G3UuEOMI5QMhaldwpZrzNb_WuOF"
-    },
-    {
-        "id": 123.0,
-        "title": "Los descendientes de LUCA A",
-        "level": "3° año, 4° año, 5° año",
-        "category": "Laboratorio",
-        "subject": "Laboratorio Ciencias Naturales",
-        "mode": "Bachiller",
-        "description": "El plan se enfoca en la diversidad biológica y su evolución (partiendo de LUCA), y aborda el cambio climático como amenaza a la biodiversidad, instando a analizar la capacidad de adaptación de las especies. Se promueven las capacidades de indagación a través de la creación de un video explicativo sobre la conservación de especies. Fomenta la reflexión metacognitiva sobre aprendizajes y la conexión de la biodiversidad con la vida cotidiana, retomando la pregunta guía de la unidad.",
-        "tags": [
-            "Diversidad",
-            "Evolución",
-            "Conservación"
-        ],
-        "url": "https://rise.articulate.com/share/2MIxahV-8CA_IQOlOSF5m9HKoC4yXPNJ"
-    },
-    {
-        "id": 124.0,
-        "title": "Los descendientes de LUCA B",
-        "level": "3° año, 4° año, 5° año",
-        "category": "Laboratorio",
-        "subject": "Laboratorio Ciencias Naturales",
-        "mode": "Bachiller",
-        "description": "El plan aborda la diversidad biológica como resultado del proceso evolutivo, partiendo del Ancestro Común (LUCA). Se estudian las ideas históricas (Fijismo, Lamarck, Darwin) y se profundiza en el mecanismo de la Selección Natural (variabilidad, adaptación), utilizando el caso de los Pinzones de Galápagos y la evolución de los homínidos. Promueve la capacidad de indagación a través de la creación de un \"Atlas de la Evolución\" y la reflexión metacognitiva.",
-        "tags": [
-            "Evolución",
-            "Selección Natural",
-            "Biodiversidad"
-        ],
-        "url": "https://rise.articulate.com/share/l2aJa1NnTthJdH-fa2eEdmxn_MaBey0Z"
-    },
-    {
-        "id": 125.0,
-        "title": "Ambiente, nutrición y salud reproductiva A",
-        "level": "1° año, 2° año",
-        "category": "Laboratorio",
-        "subject": "Laboratorio Ciencias Naturales",
-        "mode": "Bachiller",
-        "description": "El plan desarrolla la función de nutrición humana (sistemas digestivo, respiratorio, circulatorio y excretor) y la salud sexual y reproductiva (sistemas reproductores, prevención e ITS). Enfatiza la integración sistémica y celular para mantener la homeostasis. También integra la Ecología Urbana, analizando el impacto de los contaminantes ambientales (aire, agua, tierra) en la salud reproductiva y la fertilidad. Fomenta la indagación con la creación de una campaña de difusión y la reflexión metacognitiva a través de una \"carta a tu yo científico\".",
-        "tags": [
-            "Nutrición",
-            "Homeostasis",
-            "Salud Reproductiva"
-        ],
-        "url": "https://rise.articulate.com/share/uY-k0swvqXITnhAr0Xoh7zYImQCXIaGU"
-    },
-    {
-        "id": 129.0,
-        "title": "Ciencia y ambiente para un futuro sostenible A",
-        "level": "1° año, 2° año, 3° año",
-        "category": "Laboratorio",
-        "subject": "Laboratorio Ciencias Naturales",
-        "mode": "Bachiller",
-        "description": "El plan aborda la relación entre la energía solar y el sostenimiento de la vida. Integra el estudio del espectro electromagnético y las combustiones con procesos biológicos como la fotosíntesis y la respiración celular. Analiza el efecto invernadero y el flujo de energía en redes tróficas. Promueve la capacidad de indagación mediante el análisis de ecosistemas en peligro, incentivando a los estudiantes a diseñar propuestas para un futuro sostenible",
-        "tags": [
-            "Fotosíntesis",
-            "Efecto invernadero",
-            "Redes tróficas"
-        ],
-        "url": "https://rise.articulate.com/share/sOi0F9yvYoebE0Z6Buui_xtLBYjJcm-0"
-    },
-    {
-        "id": 130.0,
-        "title": "Ciencia y ambiente para un futuro sostenible B",
-        "level": "1° año, 2° año, 3° año",
-        "category": "Laboratorio",
-        "subject": "Laboratorio Ciencias Naturales",
-        "mode": "Bachiller",
-        "description": "Este plan aborda la biodiversidad como resultado de la evolución y la dinámica de los ecosistemas. Analiza la influencia de los factores bióticos y abióticos (clima, recursos, interacciones interespecíficas), profundizando en el flujo de energía mediante redes tróficas y pirámides ecológicas. Desarrolla los ciclos biogeoquímicos del agua, carbono, nitrógeno y fósforo. Incluye el estudio de la ecología urbana, los disturbios antrópicos, el calentamiento global y la sustentabilidad",
-        "tags": [
-            "Biodiversidad",
-            "Ecosistemas",
-            "Ciclos biogeoquímicos"
-        ],
-        "url": "https://rise.articulate.com/share/sOi0F9yvYoebE0Z6Buui_xtLBYjJcm-0"
-    },
-    {
-        "id": 137.0,
-        "title": "Genética y superpoderes A",
-        "level": "3° año, 4° año, 5° año",
-        "category": "Laboratorio",
-        "subject": "Laboratorio Ciencias Naturales",
-        "mode": "Bachiller",
-        "description": "Este material profundiza en la estructura y función de los ácidos nucleicos (ADN y ARN) en el núcleo celular. Aborda los mecanismos hereditarios mendelianos, integrando conceptos de gen, alelo, dominancia y recesividad. Analiza el flujo de información biológica a través de la replicación semiconservativa, la transcripción y la traducción para la síntesis proteica. Asimismo, examina las mutaciones génicas y cromosómicas, contrastando sus bases científicas con la ficción",
-        "tags": [
-            "Genética",
-            "ADN",
-            "herencia"
-        ],
-        "url": "https://rise.articulate.com/share/ws-jKQzrN4ULnbuIWzigdsgmXYdPZOMZ"
-    },
-    {
-        "id": 222.0,
-        "title": "¿Cómo llegamos hasta acá? Los medios de comunicación y las redes sociales",
-        "level": "5° año",
-        "category": "Laboratorio, Taller",
-        "subject": "Laboratorio de la Orientación  , Taller de la Orientación",
-        "mode": "Bachiller",
-        "description": "El plan recorre la evolución de la comunicación desde la oralidad y la escritura hasta la era digital. Analiza cómo hitos como la imprenta y los medios masivos reconfiguraron el poder, la opinión pública y la cultura. Se enfoca en el ecosistema actual, abordando algoritmos, metadatos y el rol del prosumidor en la sociedad hiperconectada. Se promueve una mirada crítica sobre el acceso a la información y los flujos mediáticos. ",
-        "tags": [
-            "Imprenta",
-            "Historia de los medios",
-            "Era digital"
-        ],
-        "url": "https://rise.articulate.com/share/ZaZ6WolCJTFnjgMHq2meKCfgIUXYO7TA"
-    },
-    {
-        "id": 223.0,
-        "title": "¿Cómo llegamos hasta acá?",
-        "level": "5° año",
-        "category": "Laboratorio, Taller",
-        "subject": "Laboratorio de la Orientación  , Taller de la Orientación",
-        "mode": "Bachiller",
-        "description": "El plan profundiza sobre la evolución de los medios, vinculando la historia con las dinámicas de poder y economía. Explora la transformación de la información en mercancía y el impacto de algoritmos, las noticias falsas (fake news) y la concentración mediática en la opinión pública. Además, aborda las distintas dimensiones de la brecha digital, fomentando el pensamiento crítico para formar ciudadanos informados en el ecosistema actual.",
-        "tags": [
-            "Poder mediático",
-            "Algoritmos de información",
-            "Brecha digital"
-        ],
-        "url": "https://rise.articulate.com/share/H9kUoJzQcelXh3nwMhOC_0y-GAc2VeXB"
-    },
-    {
-        "id": 224.0,
-        "title": "Medios en acción - Gráfica",
-        "level": "3° año",
-        "category": "Laboratorio, Taller",
-        "subject": "Laboratorio de la Orientación  , Taller de la Orientación ",
-        "mode": "Bachiller",
-        "description": "El plan explora la influencia de textos e imágenes gráficas en la percepción del mundo. Desarrolla habilidades para el análisis crítico de mensajes mediáticos (masivos y alternativos), abordando la tipografía, composición, tipos discursivos (expositivo, narrativo, argumentativo) y géneros periodísticos. Culmina con una propuesta de producción colaborativa de un medio gráfico digital.",
-        "tags": [
-            "Medios gráficos",
-            "Medios masivos y alternativos",
-            "Géneros periodísticos"
-        ],
-        "url": "https://rise.articulate.com/share/w-hkInhc95QhZzgIAYY7EQweRRKS16qC"
-    },
-    {
-        "id": 225.0,
-        "title": "Medios en acción - Radio",
-        "level": "3° año",
-        "category": "Laboratorio, Taller",
-        "subject": "Laboratorio de la Orientación  , Taller de la Orientación",
-        "mode": "Bachiller",
-        "description": "El plan desarrolla habilidades de comunicación en el medio radial, explorando su versatilidad, técnica y creatividad. Aborda los soportes (AM, FM, web) y el lenguaje sonoro (música, efectos, voz, silencio). Se enfoca en la distinción entre géneros y formatos radiales, culminando con la planificación, edición y realización de guiones (técnico y artístico) para crear diversos productos radiales, como micros, documentales y radioteatros.",
-        "tags": [
-            "Radio",
-            "Géneros y formatos radiales",
-            "Lenguaje radial"
-        ],
-        "url": "https://rise.articulate.com/share/vc2Pf8NFyUNYX3GqoJ2Fs1QctM4eRpY9"
-    },
-    {
-        "id": 226.0,
-        "title": "La publicidad del derecho y el revés A",
-        "level": "5° año",
-        "category": "Laboratorio, Taller",
-        "subject": "Laboratorio de la Orientación  , Taller de la Orientación",
-        "mode": "Bachiller",
-        "description": "El plan ofrece un análisis integral y crítico de la publicidad, cubriendo estrategias y diversos conceptos asociados al Marketing. Explora el ciclo de vida del producto, la transición al entorno digital y el impacto social de los mensajes, cuestionando estereotipos y aspectos vinculados a la discriminación presentes en la publicidad. Concluye con el estudio de la contrapublicidad y la publicidad humanizada, incentivando la creación de campañas éticas y responsables en diversos medios. ",
-        "tags": [
-            "Estrategia publicitaria",
-            "Campañas",
-            "Marketing"
-        ],
-        "url": "https://rise.articulate.com/share/bbhFcWX6TxDErsPinQ7oojXIDnr1gcBW"
-    },
-    {
-        "id": 227.0,
-        "title": "La publicidad del derecho y el revés B",
-        "level": "5° año",
-        "category": "Laboratorio, Taller",
-        "subject": "Laboratorio de la Orientación  , Taller de la Orientación",
-        "mode": "Bachiller",
-        "description": "El plan profundiza en la publicidad como fenómeno comunicativo. A través de este se exploran géneros publicitarios, estructuras narrativas y la relación sinérgica entre imagen y texto. Se aborda el diseño de estrategias creativas, considerando el target y el posicionamiento; así como la investigación mediante muestras y publicidad no tradicional. Se promueve la producción de campañas originales, incentivando una mirada crítica sobre la ética y el impacto de los discursos en la sociedad. ",
-        "tags": [
-            "Géneros publicitarios",
-            "Target",
-            "Estrategia creativa"
-        ],
-        "url": "https://rise.articulate.com/share/GkJ9xUGvoaT-pujf_HF7h7UMThBEWmGa"
-    },
+   
+   
     {
         "id": 437.0,
         "title": "PROYECTO INTEGRADOR 3",
