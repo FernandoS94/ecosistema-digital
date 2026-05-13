@@ -2684,5 +2684,143 @@
             "Teoría celular","Célula","Hooke"
         ],
         "url": "https://es.khanacademy.org/science/biology/structure-of-a-cell/introduction-to-cells/v/cell-theory"
+    },
+    {
+        "id": 499,
+        "title": "Ciclo de la vida de una célula <El video lleva como título \"Interfase y es mas adecuado ya que se refiere a esa parte del ciclo>",
+        "level": "2° año, 3° año",
+        "category": "Laboratorio, Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El video explica la interfase, fase donde la célula crece y realiza sus funciones. Detalla las etapas G?, S (duplicación de ADN) y G?, describiendo el estado de la cromatina y la replicación de cromosomas y centrosomas necesaria antes de la mitosis.",
+        "tags": [
+            "Ciclo celular","Interfase","Replicación del ADN"
+        ],
+        "url": "https://es.khanacademy.org/science/high-school-biology/hs-reproduction-and-cell-division/hs-the-cell-cycle-and-mitosis/v/interphase"
+    },
+    {
+        "id": 501,
+        "title": "Introducción a las células",
+        "level": "2° año, 1° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El material define a la célula como el bloque constructivo fundamental de la vida. Explora la historia de su descubrimiento y los postulados de la teoría celular, destacando la gran diversidad de formas y estructuras internas de los organismos",
+        "tags": [
+            "Célula","Teoría celular","Historia de la Biología"
+        ],
+        "url": "https://es.khanacademy.org/science/biology/structure-of-a-cell/introduction-to-cells/a/intro-to-cells"
+    },
+    {
+        "id": 211,
+        "title": "Expresión y contexto en el teatro performático",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan se centra el teatro performático, priorizando el cuerpo y la voz como ejes de acción y presencia. Se guía la exploración de relatos no lineales y técnicas de entrenamiento físico para construir discursos artísticos situados, con textos no tradicionales.",
+        "tags": [
+            "Performance","Presencia","Corporalidad."
+        ],
+        "url": "https://rise.articulate.com/share/GcwZbD7aztlgN8u2glnk8-nlPWYF8-iR"
+    },
+    {
+        "id": 212,
+        "title": "Creación, gestión y expansión del teatro multimedial",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan aborda el teatro multimedial como herramienta de reflexión social. Explora la performance urbana, la gestión de proyectos y el uso de tecnologías digitales e interactivas para expandir la escena, integrando lenguajes contemporáneos y participación comunitaria",
+        "tags": [
+            "Teatro multimedial","Performance urbana","Gestión de proyectos"
+        ],
+        "url": "https://rise.articulate.com/share/HOrJXb_t-O1jUU4SokADj-S5cvlmKcg2"
+    },
+    {
+        "id": 213,
+        "title": "La esencia del teatro clasico: dramaturgia y escena",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan aborda el teatro clásico como un legado vivo. Analiza obras de autores como Shakespeare y Sófocles, integrando el estudio del verso, la retórica y la expresión corporal para resignificar sus conflictos en la escena contemporánea.",
+        "tags": [
+            "Teatro clásico","Dramaturgia","Legado escénico."
+        ],
+        "url": "https://rise.articulate.com/share/zL2BhP0ehkzSGuOls8DTQmLY-qq-b6b4"
+    },
+    {
+        "id": 217,
+        "title": "Reflexión y legado",
+        "level": "5° año",
+        "category": "Otro",
+        "subject": "Proyecto de Vinculación con el Futuro",
+        "mode": "Bachiller",
+        "description": "Este plan se centra en la fase de cierre y evaluación del proyecto de egreso. Se promueve la reflexión crítica sobre el proceso, el análisis del impacto social en la comunidad y la sistematización de aprendizajes mediante bitácoras, informes finales y legados simbólicos",
+        "tags": [
+            "Reflexión crítica","Impacto social","Legado simbólico"
+        ],
+        "url": "https://rise.articulate.com/share/mv6q0hXTSYRK1skqOFNY5io2UEoSaR_7"
+    },
+    {
+        "id": 216,
+        "title": "La materialización del proyecto: del ensayo al estreno",
+        "level": "5° año",
+        "category": "Otro",
+        "subject": "Proyecto de Vinculación con el Futuro",
+        "mode": "Bachiller",
+        "description": "Este plan avanza en la realización del proyecto teatral, enfocándose en los ensayos técnicos y el estreno. Incluye la gestión logística, el vínculo con la comunidad, estrategias de mediación cultural y la curaduría del portfolio final,",
+        "tags": [
+            "Ensayos técnicos","Mediación cultural","Portfolio final"
+        ],
+        "url": "https://rise.articulate.com/share/FI0_fUWMmWCJ0BWht-4gCgDgYcr3uW1N"
+    },
+    {
+        "id": 203,
+        "title": "Transformaciones en el espacio escénico A",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan aborda la construcción y transformación del espacio escénico a lo largo de la historia, explorando sus elementos fundamentales: acción, personajes, conflicto, entorno y texto. Mediante actividades interactivas, análisis de escenas, diseño de espacios convencionales y no convencionales y reflexiones sobre arte y ciudad, los estudiantes comprenden cómo el espacio define la experiencia teatral.",
+        "tags": [
+            "Espacio escénico",
+            "acción teatral",
+            "entorno"
+        ],
+        "url": "https://share.articulate.com/zEHJgHnRSLsksItYge6Du"
+    },
+    {
+        "id": 204,
+        "title": "Transformaciones en el espacio escénico B",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan aborda la transformación del teatro desde el Renacimiento hasta la actualidad, explorando su relación con otras artes, el surgimiento del teatro popular y comunitario en Latinoamérica, y el rol del arte como herramienta social. A través de actividades históricas, análisis, diseño escenográfico y escenografías virtuales, los estudiantes investigan cómo el teatro refleja y transforma la vida en comunidad.",
+        "tags": [
+            "Palabras clave: teatro y sociedad",
+            "Renacimiento",
+            "teatro comunitario"
+        ],
+        "url": "https://share.articulate.com/uPL5bFH6L59oY-9rcqGy8"
+    },
+    {
+        "id": 205,
+        "title": "Circuitos teatrales en Buenos Aires",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan propone explorar los circuitos teatrales comercial, oficial y alternativo de la Ciudad de Buenos Aires, analizando su producción, formas de financiamiento, públicos y modos de circulación. A través de actividades interactivas, investigación y reflexión, los estudiantes conocen la diversidad de la escena porteña, su historia, su impacto cultural y el rol de los jóvenes en la creación y difusión teatral.",
+        "tags": [
+            "Circuitos teatrales",
+            "producción",
+            "circulación"
+        ],
+        "url": "https://share.articulate.com/JtKDA9qbxLGMtNLqFMMCO"
     }
+
+
 ]
