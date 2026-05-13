@@ -2818,6 +2818,49 @@
             "circulación"
         ],
         "url": "https://share.articulate.com/JtKDA9qbxLGMtNLqFMMCO"
+    },
+    {
+        "id": 206,
+        "title": "Creación y producción: del oficio a la escena multimedial",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan aborda el proceso integral de creación y producción teatral, desde la investigación y la escritura hasta el diseño escénico y la puesta multimedial. Propone explorar roles técnicos y artísticos, analizar oficios del teatro, experimentar con recursos visuales y sonoros, y producir escenas que integren herramientas digitales, fortaleciendo la creatividad y el trabajo colaborativo.",
+        "tags": [
+            "Producción teatral",
+            "multimedia",
+            "roles escénicos"
+        ],
+        "url": "https://share.articulate.com/d-AWBWTm-9yCB4XgZlTRo"
+    },
+    {
+        "id": 505,
+        "title": "La reproducción de los procariontes y la biotecnología",
+        "level": "1° año, 5° año",
+        "category": null,
+        "subject": null,
+        "mode": "Bachiller",
+        "description": "l material describe la fisión binaria en procariontes como proceso de reproducción asexual. Destaca el rol de E. coli en biotecnología molecular, explicando la transferencia de genes mediante plásmidos y transformación para la síntesis de proteínas",
+        "tags": [
+            "Fisión binaria","Biotecnología","Plásmido"
+        ],
+        "url": "https://es.khanacademy.org/science/biology/bacteria-archaea/prokaryote-structure/a/prokaryote-reproduction-and-biotechnology"
+    },
+    {
+        "id": 209,
+        "title": "Teatro Clown: el arte de la risa y la vulnerabilidad A",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan introduce el teatro clown como un lenguaje que combina humor, vulnerabilidad y juego escénico. A través de actividades corporales, técnicas de voz, improvisación, uso de objetos, vestuario y trabajo con la nariz roja, los estudiantes exploran la expresividad, el error como oportunidad creativa y la capacidad del clown para emocionar, comunicar y generar reflexiones sobre la vida y la sociedad.",
+        "tags": [
+            "Clown",
+            "expresividad",
+            "improvisación"
+        ],
+        "url": "https://share.articulate.com/WYMctLvTQHS0y9_E63qfj"
     }
 
 
