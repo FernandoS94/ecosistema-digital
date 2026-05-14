@@ -2861,6 +2861,60 @@
             "improvisación"
         ],
         "url": "https://share.articulate.com/WYMctLvTQHS0y9_E63qfj"
+    },
+    {
+        "id": 210,
+        "title": "Teatro Clown: el arte de la risa y la vulnerabilidad B",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan aborda la gestión y producción de un proyecto teatral de clown integrando arte, comunidad y tecnología. A través de actividades interactivas, los estudiantes exploran la planificación, los roles teatrales, el diseño del espacio escénico, las necesidades culturales, y el uso de herramientas multimedia para crear, registrar y enriquecer la puesta en escena, fortaleciendo la expresión clownesca.",
+        "tags": [
+            "Producción teatral",
+            "multimedia",
+            "comunidad"
+        ],
+        "url": "https://share.articulate.com/cczgDqq_7J9_E8Jnn0AFT"
+    },
+    {
+        "id": 507,
+        "title": "Fotosíntesis",
+        "level": "2° año, 3° año, 5° año",
+        "category": null,
+        "subject": null,
+        "mode": "Bachiller",
+        "description": "Este material explica la fotosíntesis como el proceso de conversión de energía lumínica en química. Describe la ecuación general, las fases dependiente e independiente de la luz y la síntesis de glucosa, destacando su relevancia para la vida y el flujo energético.",
+        "tags": [
+            "Fotosintesis. Energía. Glucosa."
+        ],
+        "url": "https://es.khanacademy.org/science/biology/photosynthesis-in-plants/introduction-to-stages-of-photosynthesis/v/photosynthesis"
+    },
+    {
+        "id": 133,
+        "title": "Salud reproductiva y nutrición: un enfoque integral A",
+        "level": "1° año, 2° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este plan articula temáticas de salud reproductiva y nutrición. Analiza modelos atómicos, uniones y biomoléculas, y el rol de enzimas y pH en el metabolismo .Se busca relacionar estos procesos con el bienestar y el rendimiento físico del estudiantado",
+        "tags": [
+            "Biomoléculas","Metabolismo","Enzimas"
+        ],
+        "url": "https://rise.articulate.com/share/vu0-OFSIYdX6Wjzd3bNQpMizfC2gu8Qi"
+    },
+    {
+        "id": 134,
+        "title": "Salud reproductiva y nutrición: un enfoque integral B",
+        "level": "1° año, 2° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este plan propone estudiar la nutrición y salud reproductiva. Analiza sistemas del cuerpo, respiración celular, combustión y estequiometría. Incluye experiencias de laboratorio y la producción de un recetario saludable",
+        "tags": [
+            "Nutrición","Reproducción","Homeostasis"
+        ],
+        "url": "https://rise.articulate.com/share/LYH1yW4PZJ2GJLJu6x2ni8PkAlD3mXs9"
     }
 
 
