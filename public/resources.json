@@ -2834,19 +2834,7 @@
         ],
         "url": "https://share.articulate.com/d-AWBWTm-9yCB4XgZlTRo"
     },
-    {
-        "id": 505,
-        "title": "La reproducción de los procariontes y la biotecnología",
-        "level": "1° año, 5° año",
-        "category": null,
-        "subject": null,
-        "mode": "Bachiller",
-        "description": "l material describe la fisión binaria en procariontes como proceso de reproducción asexual. Destaca el rol de E. coli en biotecnología molecular, explicando la transferencia de genes mediante plásmidos y transformación para la síntesis de proteínas",
-        "tags": [
-            "Fisión binaria","Biotecnología","Plásmido"
-        ],
-        "url": "https://es.khanacademy.org/science/biology/bacteria-archaea/prokaryote-structure/a/prokaryote-reproduction-and-biotechnology"
-    },
+   
     {
         "id": 209,
         "title": "Teatro Clown: el arte de la risa y la vulnerabilidad A",
@@ -2915,6 +2903,96 @@
             "Nutrición","Reproducción","Homeostasis"
         ],
         "url": "https://rise.articulate.com/share/LYH1yW4PZJ2GJLJu6x2ni8PkAlD3mXs9"
+    },
+     {
+        "id": 202,
+        "title": "Bádminton",
+        "level": "1° año, 2° año",
+        "category": "Taller",
+        "subject": "Taller de Educación Física",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan introduce el bádminton como práctica inclusiva, enfocándose en la aplicación de golpes básicos (clear, drop, drive, smash y saque) y el desarrollo de la estrategia. Guía a los estudiantes a tomar decisiones tácticas (lectura de trayectorias) y a fortalecer la coordinación y conciencia postural. Prioriza la reflexión sobre reglas, justicia y equidad, fomentando la organización de encuentros deportivos escolares que garanticen la participación de todos.",
+        "tags": [
+            "Inclusión",
+            "Técnica",
+            "Estrategia"
+        ],
+        "url": "https://rise.articulate.com/author/C-W9bnrDYuaadfpUu4PuHhkwNhK1Nc6Q#/author/course"
+    },
+    {
+        "id": 201,
+        "title": "Hockey",
+        "level": "1° año, 2° año, 3° año, 4° año, 5° año, 6° año",
+        "category": "Taller",
+        "subject": "Taller de Educación Física",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan desarrolla habilidades técnicas básicas de hockey (control, pase, recepción) y el manejo seguro de los elementos (palo, bocha). Introduce sistemas de juego simples (Tradicional y Australiano) para guiar la organización del equipo, la rotación de roles y la aplicación de estrategias básicas. Enfatiza la importancia del respeto, la cooperación y las normas de seguridad para garantizar una práctica inclusiva y equitativa.",
+        "tags": [
+            "Técnica",
+            "Sistemas de juego",
+            "Inclusión"
+        ],
+        "url": "https://rise.articulate.com/author/JoTMSgtS_PsjCaRmfmDIujFW0aafSIiY#/author/course\r\n"
+    },
+    {
+        "id": 200,
+        "title": "Prácticas acuáticas",
+        "level": "1° año, 2° año, 3° año",
+        "category": "Espacio formativo",
+        "subject": "Educación Física",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan se enfoca en la adaptación progresiva al medio acuático, desarrollando la confianza y el control corporal mediante inmersiones y ejercicios de flotación en distintas posiciones. Guía la mejora de habilidades motrices específicas y la coordinación, como el deslizamiento horizontal y las técnicas de nado. Enfatiza la aplicación de normas de seguridad e higiene, el fomento del trabajo en equipo y la inclusión en juegos acuáticos, buscando la formación integral y el bienestar emocional.",
+        "tags": [
+            "Adaptación al medio acuático",
+            "Coordinación",
+            "Inclusión"
+        ],
+        "url": "https://rise.articulate.com/author/LxNtUR4EfbKnBgHNSBT2zG5QbLzugJjy#/author/course"
+    },
+    {
+        "id": 199,
+        "title": "Softball",
+        "level": "4° año, 5° año, 6° año",
+        "category": "Espacio formativo",
+        "subject": "Educación Física",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan se centra en la aplicación de habilidades técnicas básicas del softball (pases, bateo, carrera de bases) y la toma de decisiones tácticas simples en ataque y defensa. Guía la práctica progresiva y el trabajo en equipo, promoviendo la comunicación gestual y el respeto por las reglas adaptadas para una experiencia justa, segura e inclusiva. Se enfatiza la reflexión sobre el desempeño corporal.",
+        "tags": [
+            "Habilidades técnicas",
+            "Táctica",
+            "Inclusión"
+        ],
+        "url": "https://rise.articulate.com/author/p45dGEZ-oxdk0-jc3zFQSb4pqcBI-jpF#/author/course"
+    },
+    {
+        "id": 197,
+        "title": "Básquet",
+        "level": "1° año, 2° año",
+        "category": "Taller",
+        "subject": "Taller de Educación Física",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan desarrolla habilidades motoras básicas de básquetbol (dribling, pases, defensa) y la toma de decisiones colectivas. Guía la lectura táctica del juego, el posicionamiento estratégico y la anticipación de movimientos. Se enfoca en promover la cooperación, el juego limpio, el respeto por las diferencias y la participación equitativa de todos los estudiantes.",
+        "tags": [
+            "Habilidades motoras",
+            "Toma de decisiones",
+            "Inclusión"
+        ],
+        "url": "https://rise.articulate.com/author/63XFKsKqJrZW7DtTVem2XwZgizDrfiF-#/author/course"
+    },
+    {
+        "id": 196,
+        "title": "Voley",
+        "level": "1° año, 2° año",
+        "category": "Taller",
+        "subject": "Taller de Educación Física",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan se centra en las técnicas básicas del voleibol (antebrazos, manos altas, saque) y su aplicación en el juego reducido. Guía la organización del equipo, la rotación de roles y la mejora del posicionamiento en la cancha. Enfatiza el valor de la cooperación, el respeto, el juego limpio y la resolución de conflictos, buscando que los estudiantes diseñen propuestas de juego inclusivas y adaptadas.",
+        "tags": [
+            "Técnica",
+            "Táctica",
+            "Inclusión"
+        ],
+        "url": "https://rise.articulate.com/author/XnpxbgSmmn6jqm2cM6MRhvKboI63b4Dc#/author/course"
     }
 
 
