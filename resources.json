@@ -658,23 +658,7 @@
         ],
         "url": "https://rise.articulate.com/share/GkJ9xUGvoaT-pujf_HF7h7UMThBEWmGa"
     },
-    {
-        "id": 186,
-        "title": "Fútbol 1",
-        "level": "1° año",
-        "category": "Taller",
-        "subject": "Taller de Educación Física",
-        "mode": "Bachiller, Técnica",
-        "description": "El plan se centra en el fútbol como una herramienta de formación integral para desarrollar habilidades motrices específicas y el pensamiento táctico (ofensivo y defensivo). Aborda la toma de decisiones colectivas, la comprensión del juego como una construcción grupal, y la aplicación de valores como la inclusión, la resolución de conflictos y el respeto por las diferencias, utilizando formatos de juego reducido para garantizar la participación equitativa.",
-        "tags": [
-            "Habilidades",
-            "Tácticas",
-            "Valores"
-        ],
-        "url": "https://rise.articulate.com/author/bq3SQV7yerOH0foDJ_Kf9rtOJdcMgB-o#/author/course"
-    },
-   
-    {
+       {
         "id": 269,
         "title": "Literatura, medios y consumos culturales en el siglo XXI - A",
         "level": "4° año",
@@ -755,7 +739,7 @@
         "category": "Formativo",
         "subject": "Tecnologia de la Representacion",
         "mode": "Técnica",
-        "description": "Este plan de aprendizaje se centra en la Tecnología de la Representación, abordando la perspectiva como un lenguaje universal esencial para dibujar objetos tridimensionales en una superficie plana con precisión y claridad. El material explora métodos de vistas en perspectiva paralela, como la isométrica, caballera y caballera reducida, y desarrolla habilidades de observación, trazado y aplicación de acotaciones. Se diferencia entre la perspectiva cónica (realista) y la paralela (técnica, manteniendo proporciones exactas), destacando su uso imprescindible en la ingeniería, la arquitectura y el diseño industrial.",
+        "description": "El plan se centra en la Tecnología de la Representación, abordando la perspectiva para dibujar objetos tridimensionales. Explora métodos de vistas en perspectiva paralela y desarrolla habilidades de trazado. Destaca su uso en ingeniería, arquitectura y diseño.",
         "tags": [
             "Perspectiva",
             "Dibujo Técnico",
@@ -770,7 +754,7 @@
         "category": "Formativo",
         "subject": "Tecnologia de la Representacion",
         "mode": "Técnica",
-        "description": "El plan aborda la Tecnología de la Representación, centrándose en el Diseño Asistido por Computadora (CAD) y la Representación digital de sólidos. Se guía a los docentes para que los estudiantes comprendan el CAD, utilicen software profesional para dibujos en 2D y modelos 3D, apliquen la parametrización de modelos y realicen operaciones booleanas. El objetivo final es transformar ideas en modelos técnicos listos para la fabricación digital.",
+        "description": "El plan aborda la Tecnología de la Representación, centrándose en el Diseño Asistido por Computadora y representación digital de sólidos. Los estudiantes utilizan software profesional para dibujos 2D y modelos 3D, transformando ideas en modelos para fabricación.",
         "tags": [
             "CAD",
             "Modelado 3D",
@@ -785,7 +769,7 @@
         "category": "Formativo",
         "subject": "Tecnologia de la Representacion",
         "mode": "Técnica",
-        "description": "El plan se centra en la Tecnología de la representación. Se guía a los estudiantes en la aplicación precisa de escalas (reducción, ampliación y real), el correcto manejo del instrumental técnico (como regla, escuadra, compás y transportador), y la interpretación de las Normas IRAM para líneas, símbolos y acotación. El objetivo es que logren planos técnicos profesionales, claros y consistentes.",
+        "description": "El plan se centra en la Tecnología de la representación. Guía en la aplicación para los estudiantes de escalas y el manejo del instrumental técnico. Aborda la interpretación de las Normas IRAM para líneas, símbolos y acotación para lograr planos técnicos profesionales y claros.",
         "tags": [
             "Escalas",
             "Normas IRAM",
@@ -800,7 +784,7 @@
         "category": "Formativo",
         "subject": "Tecnologia de la Representacion",
         "mode": "Técnica",
-        "description": "El plan profundiza en la Tecnología de la representación de objetos, enfocándose en la aplicación de cortes, secciones y simbología técnica normalizada. El material orienta a los docentes para desarrollar en los estudiantes la capacidad de interpretar y crear planos técnicos profesionales, combinando estos elementos con acabados superficiales y garantizando la coherencia gráfica. Este proceso utiliza tanto técnicas manuales como el Diseño Asistido por Computadora (CAD). Los objetivos incluyen comprender la simbología (ISO, IRAM) y los tipos de corte (recto, quebrado, parcial).",
+        "description": "El plan profundiza en la representación de objetos, enfocándose en cortes, secciones y simbología técnica normalizada. Orienta a interpretar y crear planos profesionales con coherencia gráfica, mediante técnicas manuales y CAD, comprendiendo simbología y tipos de corte.",
         "tags": [
             "Cortes",
             "Simbología",
@@ -815,7 +799,7 @@
         "category": "Integración",
         "subject": "Espacios de Integración",
         "mode": "Técnica",
-        "description": "El plan introduce la electrónica digital, contrastándola con la analógica, y desarrolla los sistemas de numeración posicionales (binario y hexadecimal) y códigos de representación. Se estudian las funciones y operaciones lógicas básicas (AND, OR, NOT) y el rol crucial de las compuertas para la manipulación de señales. El eje central es el Álgebra de Boole, sus leyes y postulados, aplicados al análisis y simplificación eficiente de circuitos mediante Tablas de Verdad, Formas Normales (Suma de Productos/Producto de Sumas) y el método gráfico de minimización de Karnaug.",
+        "description": "El plan introduce la electrónica digital y desarrolla los sistemas de numeración posicionales y códigos. Se estudian las operaciones lógicas y el rol de las compuertas. El eje central es el Álgebra de Boole para el análisis y simplificación eficiente mediante Tablas de Verdad.",
         "tags": [
             "Conversión",
             "Compuertas",
@@ -830,7 +814,7 @@
         "category": "Otro",
         "subject": "Proyecto de Egreso",
         "mode": "Técnica",
-        "description": "Este plan , se centra en completar el diagnóstico, la investigación y el diseño técnico de una maqueta funcional de un sistema de inyección electrónica de combustible (EFI). Relevamiento de fallas en motores reales y el análisis de componentes clave como la ECU, sensores (MAP, IAT, TPS) y actuadores. Uso de herramientas como el Árbol de Problemas. Investigación comparativa de sistemas EFI, la evaluación de la viabilidad técnica y económica (costos y FODA), y el análisis de normativas ambientales (Euro 6, Ley 24.449). Formulación de la propuesta funcional y la creación del esquema técnico para el montaje.",
+        "description": "El plan se centra en el diagnóstico, investigación y diseño de un sistema de inyección electrónica de combustible (EFI).   una maqueta funcional de un sistema EFI, relevando fallas en motores reales y analizando la ECU, sensores y actuadores. Evalúa la viabilidad técnica, económica, normativa ambiental y crea el esquema técnico.",
         "tags": [
             "Diseño Técnico",
             "Viabilidad",
@@ -851,7 +835,7 @@
         "category": "Otro",
         "subject": "Proyecto de Egreso",
         "mode": "Técnica",
-        "description": "El plan transforma la propuesta inicial en un sistema de inyección electrónica de combustible (EFI) funcional, ya sea maqueta, prototipo o simulación. Se enfoca en el diseño técnico detallado del sistema, elaborando diagramas funcionales y layouts de conexiones reales. Los estudiantes deben calcular parámetros eléctricos, como el consumo total, y verificar la compatibilidad de componentes. El plan cubre la selección de materiales, el montaje inicial aplicando protocolos de seguridad, la puesta en marcha, la medición de señales, el registro de incidencias y los ajustes técnicos. Culmina con pruebas finales de rendimiento y la organización de la carpeta e informe técnico profesional. ",
+        "description": "El plan transforma la propuesta inicial en un sistema de inyección electrónica de combustible (EFI) funcional, ya sea maqueta, prototipo o simulación. Se enfoca en el diseño técnico detallado del sistema, elaborando diagramas funcionales y layouts de conexiones reales. Los estudiantes deben calcular parámetros eléctricos, como el consumo total, y verificar la compatibilidad de componentes. ",
         "tags": [
             "Sistema Inyección",
             "Calibración",
@@ -866,7 +850,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video define la energía como la capacidad de realizar trabajo, vinculando la teoría física con situaciones cotidianas. Explica la relación matemática entre trabajo, fuerza y desplazamiento mediante ejemplos prácticos de transporte de objetos. Asimismo, presenta la energía como una propiedad cuantificable, analizando su transferencia entre sistemas y su transformación en diversas formas, permitiendo a los estudiantes comprender los procesos de cambio en el entorno físico.",
+        "description": "Este video define la energía como la capacidad de realizar trabajo y explica su relación matemática con fuerza y desplazamiento. Presenta la energía como una propiedad cuantificable, analizando su transferencia y transformación en diversas formas en el entorno físico.",
         "tags": [
             "Energía",
             "Trabajo",
@@ -881,7 +865,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este recurso explica la energía cinética y el Teorema del Trabajo y la Energía. Aborda contenidos sobre unidades (Julios), masa y velocidad. Permite desarrollar habilidades de resolución de problemas, análisis de relaciones proporcionales y modelado de sistemas físicos. Facilita que el estudiante aprenda a cuantificar el movimiento y a vincular fuerzas con cambios energéticos, fomentando el razonamiento lógico-matemático en la interpretación de fenómenos físicos.",
+        "description": "Este recurso explica la energía cinética, el Teorema del Trabajo y la Energía, abordando unidades (Julios), masa y velocidad. Desarrolla habilidades de resolución de problemas, modelado físico y cuantificación del movimiento, vinculando fuerzas con cambios energéticos.",
         "tags": [
             "Energía",
             "Trabajo",
@@ -896,7 +880,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este recurso aborda la distinción entre velocidad (magnitud vectorial) y rapidez (escalar), explicando el desplazamiento y el intervalo de tiempo. Incluye el cálculo de velocidad media y la interpretación de la dirección mediante signos. Desarrolla habilidades de razonamiento lógico-matemático, diferenciación de magnitudes físicas y aplicación de fórmulas en sistemas de referencia. Permite que el estudiante modele movimientos unidimensionales y analice cambios de posición cuantitativamente.",
+        "description": "Este recurso distingue velocidad (magnitud vectorial) de rapidez (escalar), explicando desplazamiento e intervalo de tiempo. Incluye el cálculo de velocidad media y signos de dirección. Desarrolla habilidades lógico-matemáticas, diferenciación de magnitudes y fórmulas.",
         "tags": [
             "Velocidad",
             "Rapidez",
@@ -904,6 +888,23 @@
         ],
         "url": "https://es.khanacademy.org/science/physics/one-dimensional-motion/displacement-velocity-time/a/what-is-velocity"
     },
+    {
+        "id": 186,
+        "title": "Fútbol 1",
+        "level": "1° año",
+        "category": "Taller",
+        "subject": "Taller de Educación Física",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan se centra en el fútbol como una herramienta de formación integral para desarrollar habilidades motrices específicas y el pensamiento táctico (ofensivo y defensivo). Aborda la toma de decisiones colectivas, la comprensión del juego como una construcción grupal, y la aplicación de valores como la inclusión, la resolución de conflictos y el respeto por las diferencias, utilizando formatos de juego reducido para garantizar la participación equitativa.",
+        "tags": [
+            "Habilidades",
+            "Tácticas",
+            "Valores"
+        ],
+        "url": "https://rise.articulate.com/author/bq3SQV7yerOH0foDJ_Kf9rtOJdcMgB-o#/author/course"
+    },
+   
+ 
     {
         "id": 668.0,
         "title": "Calcular la velocidad promedio, o rapidez",
@@ -3040,6 +3041,66 @@
             "Inclusión"
         ],
         "url": "https://rise.articulate.com/author/KbWux7DGbQzZaGt3-7_Tc4NqFFpxBeco#/author/course"
+    },
+     {
+        "id": 191,
+        "title": "Fútbol 2",
+        "level": "4° año, 5° año, 6° año",
+        "category": "Espacio formativo",
+        "subject": "Educación Física",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan se centra en el perfeccionamiento de habilidades técnicas avanzadas (gambeta, golpe de cabeza) y la aplicación de tácticas complejas (relevos, anticipación). Guía la organización de torneos bajo criterios de equidad e inclusión, promoviendo el uso estratégico del espacio y la integración de valores éticos y sociales en el juego.",
+        "tags": [
+            "Táctica",
+            "Inclusión",
+            "Habilidades motoras avanzadas"
+        ],
+        "url": "https://rise.articulate.com/authoring/dcyvvMo0kziOGQj3kYLmiNmV_UfR9Pe0"
+    },
+    {
+        "id": 192,
+        "title": "Ritmos urbanos",
+        "level": "4° año, 5° año, 6° año",
+        "category": "Espacio formativo",
+        "subject": "Educación Física",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan explora el breaking (danza urbana del hip hop) como medio de expresión de identidad y cultura. Guía el desarrollo de elementos técnicos (ritmo, control corporal) y el autocuidado físico (calentamiento, compensación) para una práctica segura. Promueve la reflexión crítica sobre estereotipos y la creatividad colectiva mediante proyectos coreográficos, fomentando la inclusión y el sentido de comunidad.",
+        "tags": [
+            "Ritmos urbanos",
+            "Expresión",
+            "Inclusión"
+        ],
+        "url": "https://rise.articulate.com/author/BE1efePot5uQtTyH0bs2xARJMw2QPx-v#/author/course"
+    },
+    {
+        "id": 193,
+        "title": "Juegos alternativos: Korfball y Ultimate",
+        "level": "1° año, 2° año",
+        "category": "Espacio formativo",
+        "subject": "Educación Física",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan explora los deportes alternativos Ultimate y Korfball, enfatizando el desarrollo técnico (pase, lanzamiento) y la lectura táctica del espacio. Prioriza el juego mixto, la equidad, el autoarbitraje y la ausencia de contacto, promoviendo la inclusión y la reflexión crítica sobre estereotipos de género y diversidad. Guía la participación activa, la asunción de roles con compromiso y el diseño de propuestas lúdicas inclusivas.",
+        "tags": [
+            "Juegos alternativos",
+            "Autoarbitraje",
+            "Técnica y Táctica"
+        ],
+        "url": "https://rise.articulate.com/author/CPF8g6LnFLbLUwU1OSn3suizxwGVRueo#/author/course"
+    },
+    {
+        "id": 185,
+        "title": "Juegos y deportes alternativos: Parkour",
+        "level": "2° año, 3° año, 4° año",
+        "category": "Taller",
+        "subject": "Taller de Educación Física",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan explora esta práctica corporal desde sus orígenes en Francia y su filosofía de ver los obstáculos como oportunidades. Se enfoca en desarrollar capacidades motoras como la coordinación y la autoconfianza. El material enseña técnicas fundamentales (aterrizajes seguros, saltos de precisión y vaults), enfatizando la seguridad, la progresión gradual y la adaptabilidad al entorno. El recorrido culmina con el diseño y la construcción de un circuito urbano simulado, fomentando la creatividad y el trabajo en equipo.",
+        "tags": [
+            "Seguridad",
+            "Creatividad",
+            "Adaptabilidad"
+        ],
+        "url": "https://rise.articulate.com/share/bTiNVuGa3aEJ2VOPOvXwQS6NV0Il9XDw"
     }
 
 
