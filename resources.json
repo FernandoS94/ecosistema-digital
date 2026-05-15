@@ -524,6 +524,20 @@
         ],
         "url": "https://rise.articulate.com/share/g0hPv0NhdLK9PJvl1ihdWFeMeKWZBRFl"
     },
+    {
+         "id": 151,
+        "title": "El territorio cotidiano: Conceptos claves",
+        "level": "1° año, 2° año",
+        "category": "Taller",
+        "subject": "Taller de Artes, Taller de Educación Física",
+        "mode": "Bachiller",
+        "description": "Este material aborda el espacio urbano como territorio de experiencia estética.Focaliza especialmente en el uso de capas y filtros para recrear las superficies del entorno. El plan integra lo analógico y lo digital mediante la creación de obras multimedia.",
+        "tags": [
+            "Paisaje urbano", "indicadores de espacio", "muralismo"
+        ],
+        "url": "https://rise.articulate.com/share/H0_h0-ADmdAxpTbafWk-qIoDk1e3T_zn"
+
+    },
      {
         "id": 218,
         "title": "¿Es posible la comunicación humana? Cuerpos, pantallas, redes…",
@@ -2865,19 +2879,7 @@
         ],
         "url": "https://share.articulate.com/cczgDqq_7J9_E8Jnn0AFT"
     },
-    {
-        "id": 507,
-        "title": "Fotosíntesis",
-        "level": "2° año, 3° año, 5° año",
-        "category": null,
-        "subject": null,
-        "mode": "Bachiller",
-        "description": "Este material explica la fotosíntesis como el proceso de conversión de energía lumínica en química. Describe la ecuación general, las fases dependiente e independiente de la luz y la síntesis de glucosa, destacando su relevancia para la vida y el flujo energético.",
-        "tags": [
-            "Fotosintesis. Energía. Glucosa."
-        ],
-        "url": "https://es.khanacademy.org/science/biology/photosynthesis-in-plants/introduction-to-stages-of-photosynthesis/v/photosynthesis"
-    },
+ 
     {
         "id": 133,
         "title": "Salud reproductiva y nutrición: un enfoque integral A",
@@ -2993,6 +2995,51 @@
             "Inclusión"
         ],
         "url": "https://rise.articulate.com/author/XnpxbgSmmn6jqm2cM6MRhvKboI63b4Dc#/author/course"
+    },
+     {
+        "id": 195,
+        "title": "Handball 2",
+        "level": "3° año, 4° año, 2° año",
+        "category": "Espacio formativo",
+        "subject": "Educación Física",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan busca que los docentes profundicen en la enseñanza del handball, priorizando la toma de decisiones tácticas colectivas (fintas, relevos, coberturas) y el uso estratégico de sistemas defensivos como el 3-3 o 5-1. Guía la coordinación de acciones para conservar, progresar y finalizar jugadas, promoviendo la rotación de roles y la construcción de acuerdos para un juego justo e inclusivo.",
+        "tags": [
+            "Táctica",
+            "Sistemas defensivos",
+            "Cooperación"
+        ],
+        "url": "https://rise.articulate.com/authoring/tChuMfQj9dxMAk1FRJR_KGDP8p_bwR4- "
+    },
+    {
+        "id": 189,
+        "title": "De la observación a la acción: aprender en la naturaleza",
+        "level": "1° año, 2° año",
+        "category": "Espacio formativo",
+        "subject": "Educación Artística, Educación Física",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan se enfoca en prácticas corporales en el medio natural, incluyendo rastreo, orientación, desplazamiento, instalación de campamentos y juegos grupales. Busca desarrollar capacidades motrices y colaboración para resolver situaciones, enfatizando la interacción segura y respetuosa con el entorno. El material promueve la conciencia ambiental (identificación de problemáticas locales y sostenibilidad) y la adopción de hábitos de cuidado personal.",
+        "tags": [
+            "Vida en la Naturaleza",
+            "Orientación",
+            "Cuidado Ambiental"
+        ],
+        "url": "https://rise.articulate.com/authoring/1ONoqCqp4glp0NVrwkANLJzHJb3U2olL"
+    },
+    {
+        "id": 190,
+        "title": "Handball 1",
+        "level": "1° año, 2° año",
+        "category": "Espacio formativo",
+        "subject": "Educación Física",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan guía el desarrollo de habilidades técnicas fundamentales del handball (pase, recepción, lanzamiento) y la comprensión de sus reglas básicas. Se orienta a la práctica del juego en equipo, promoviendo la cooperación, la comunicación y la toma de decisiones colectivas. El foco está en la participación inclusiva y el respeto por la diversidad, utilizando el deporte como una herramienta de crecimiento físico, social y emocional.",
+        "tags": [
+            "Habilidades técnicas",
+            "Reglamento",
+            "Inclusión"
+        ],
+        "url": "https://rise.articulate.com/author/KbWux7DGbQzZaGt3-7_Tc4NqFFpxBeco#/author/course"
     }
 
 
