@@ -1,4 +1,7 @@
+import { useAnalytics } from '../../hooks/useAnalytics';
+
 export function AvatarCard({ href, img, label, alt, disabled }) {
+  const { track } = useAnalytics();
   if (disabled) {
     return (
       <div className="avatar-circular avatar-disabled">
@@ -11,7 +14,7 @@ export function AvatarCard({ href, img, label, alt, disabled }) {
   }
 
   return (
-    <a href={href} className="avatar-circular" target="_blank" rel="noreferrer">
+    <a href={href} className="avatar-circular" target="_blank" rel="noreferrer" onClick={() => track.clickAvatar(label)}>
       <div className="avatar-circle">
         <img src={img} alt={alt} />
       </div>
