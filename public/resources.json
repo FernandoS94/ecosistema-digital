@@ -3192,6 +3192,51 @@
             "Fisión binaria","Biotecnología","Plásmido"
         ],
         "url": "https://es.khanacademy.org/science/biology/bacteria-archaea/prokaryote-structure/a/prokaryote-reproduction-and-biotechnology"
+    },
+      {
+        "id": 635,
+        "title": "Introducción a las reacciones químicas",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video detalla las reacciones químicas como procesos de formación y ruptura de enlaces. Define reactivos, productos y el papel de la energía, distinguiendo procesos reversibles de irreversibles.Usa ejemplos como el agua y el ácido carbónico para explicar moléculas e iones.",
+        "tags": [
+            "Reacciones químicas",
+            "Reactivos y productos",
+            "Reacciones reversibles e irreversibles"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/balancing-chemical-equations/v/chemical-reactions-introduction"
+    },
+    {
+        "id": 636,
+        "title": "Introducción a los mecanismos de reacción",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video hace una introducción a los mecanismos de reacción. Utiliza como ejemplo la adición de alquenos mediante una hidrohalogenación. Asimismo, aplica conceptos como la electronegatividad para explicar el desplazamiento de los electrones entre los átomos.",
+        "tags": [
+            "Mecanismos de reacción",
+            "Alquenos",
+            "Hidrohalogenación"
+        ],
+        "url": "https://es.khanacademy.org/science/organic-chemistry/alkenes-alkynes/alkene-reactions/v/introduction-to-reaction-mechanisms"
+    },
+    {
+        "id": 637,
+        "title": "Entender el balance de las ecuaciones químicas visualmente",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video explica el balanceo de ecuaciones químicas mediante el concepto de conservación de los átomos en una reacción química. Realiza la distinción entre coeficientes estequiométricos y atomicidad (subíndices), utilizando como el ejemplo la reacción entre el etileno y el oxígeno.",
+        "tags": [
+            "Balanceo de ecuaciones",
+            "Coeficientes estequiométricos",
+            "Atomicidad"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/balancing-chemical-equations/v/visually-understanding-balancing-chemical-equations"
     }
 
 
