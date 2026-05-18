@@ -3101,6 +3101,71 @@
             "Adaptabilidad"
         ],
         "url": "https://rise.articulate.com/share/bTiNVuGa3aEJ2VOPOvXwQS6NV0Il9XDw"
+    },
+    {
+        "id": 567,
+        "title": "El sistema nervioso",
+        "level": "3° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El video analiza el sistema nervioso y su clasificación en central y periférico. Explica la fisiología neuronal, el potencial de acción y la sinapsis. Además, aborda funciones autónomas y somáticas, resaltando la importancia de la homeostasis y el arco reflejo.",
+        "tags": [
+            "Sistema nervioso","Neuronas","Sinapsis"
+        ],
+        "url": "https://es.khanacademy.org/science/biology/crash-course-bio-ecology/crash-course-biology-science/v/crash-course-biology-125"
+    },
+    {
+        "id": 566,
+        "title": "Anatomía de una neurona",
+        "level": "3° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El video describe la estructura y función de la neurona como unidad del sistema nervioso. Detalla sus partes: dendritas, soma y axón. Explica cómo se transmiten los impulsos eléctricos, la función de la vaina de mielina y la función de la sinapsis en la comunicación celular.",
+        "tags": [
+            "Estructura neuronal","Impulso eléctrico","Sinapsis"
+        ],
+        "url": "https://es.khanacademy.org/science/biology/human-biology/neuron-nervous-system/v/anatomy-of-a-neuron"
+    },
+    {
+        "id": 565,
+        "title": "La tasa metabólica",
+        "level": "3° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este texto analiza la tasa metabólica, diferenciando entre animales endotermos y ectotermos. Explica cómo el tamaño corporal, el nivel de actividad y los estados de letargo influyen en los requerimientos energéticos de cada ser vivo.",
+        "tags": [
+            "Tasa metabólica","Procesos reguladores de la tasa metabólica2","Requerimientos de energía."
+        ],
+        "url": "https://es.khanacademy.org/science/biology/principles-of-physiology/metabolism-and-thermoregulation/a/metabolic-rate"
+    },
+    {
+        "id": 393,
+        "title": "Imagen múltiple: Objetos editoriales seriados",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan explora la imagen múltiple y los objetos editoriales seriados (fanzines, cómics, pósters). Analiza la construcción de sentido en la narrativa visual mediante la composición, el montaje y la relación imagen-texto. Aborda el lenguaje simbólico, la metáfora visual y los lenguajes combinados. Propone la experimentación con técnicas de reproducción y herramientas digitales para crear piezas gráficas con impacto social, promoviendo la mirada y la producción propia.",
+        "tags": [
+            "Imagen múltiple","Narrativa visual","Diseño editorial"
+        ],
+        "url": "https://share.articulate.com/wF3qgJ3SrFSVkL0-uSbAq#/lessons/FXLW5zkRhNsml9TOOeTFHGUITSXOdW-k"
+    },
+    {
+        "id": 149,
+        "title": "Fantasías, realismos y ficciones: Reproducción y matriz",
+        "level": "2° año",
+        "category": "Taller",
+        "subject": "Taller de Artes",
+        "mode": "Bachiller",
+        "description": "Este plan explora la dualidad entre lo real y lo imaginario mediante los conceptos de matriz y serie. Propone abordar el grabado como técnica y símbolo de producción masiva, analizando modos de representación como la mímesis, la fantasía y la ficción. El docente encontrará herramientas para trabajar la construcción de sentido en la cultura visual, fomentando la experimentación técnica y el análisis crítico de la imagen en contextos contemporáneos.",
+        "tags": [
+            "Matriz","Representación (entre lo real y lo ficcional)"
+        ],
+        "url": "https://share.articulate.com/LF1q8q9-blc5kx1Kns-rx"
     }
 
 
