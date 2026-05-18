@@ -3166,6 +3166,32 @@
             "Matriz","Representación (entre lo real y lo ficcional)"
         ],
         "url": "https://share.articulate.com/LF1q8q9-blc5kx1Kns-rx"
+    },
+     {
+        "id": 392,
+        "title": "Cuerpo: construcción de la imagen en el arte B",
+        "level": "4° año, 5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan ofrece un acercamiento a las prácticas artísticas contemporáneas basadas en la presentación e intervención del cuerpo y en vínculos poéticos entre el cuerpo, la arquitectura y la tecnología. Aborda el tableau vivant, la fotografía y la identidad (selfie/autorretrato). Incluye propuestas que conectan la historia y el presente del arte, promoviendo una mirada crítica y sensible sobre la representación corporal.",
+        "tags": [
+            "El cuerpo en el arte","Performance"
+        ],
+        "url": "https://share.articulate.com/xT7LrJATqf9m-fMuehb-e#/lessons/kLWLsNOlqvJq71oHxYUZ36zoPzAEQqHc"
+    },
+    {
+        "id": 505,
+        "title": "La reproducción de los procariontes y la biotecnología",
+        "level": "1° año, 5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio Ciencias Naturales, Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "l material describe la fisión binaria en procariontes como proceso de reproducción asexual. Destaca el rol de E. coli en biotecnología molecular, explicando la transferencia de genes mediante plásmidos y transformación para la síntesis de proteínas",
+        "tags": [
+            "Fisión binaria","Biotecnología","Plásmido"
+        ],
+        "url": "https://es.khanacademy.org/science/biology/bacteria-archaea/prokaryote-structure/a/prokaryote-reproduction-and-biotechnology"
     }
 
 
