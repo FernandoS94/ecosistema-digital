@@ -19,22 +19,7 @@ import { SecundariaAprendePage } from './pages/SecundariaAprende';
 import { FamiliasPage } from './pages/FamiliasPage';
 
 
-function useSecurityBlocks() {
-  useEffect(() => {
-    const blockContext = (e) => e.preventDefault();
-    const blockKeys = (e) => {
-      if (e.keyCode === 123) return false;
-      if (e.ctrlKey && e.shiftKey && e.keyCode === 73) return false;
-      if (e.ctrlKey && e.keyCode === 85) return false;
-    };
-    document.addEventListener('contextmenu', blockContext);
-    document.onkeydown = blockKeys;
-    return () => {
-      document.removeEventListener('contextmenu', blockContext);
-      document.onkeydown = null;
-    };
-  }, []);
-}
+
 
 function HomePage() {
   useScrollAnimation();
@@ -51,7 +36,7 @@ function HomePage() {
 
 function AppContent() {
   
-  useSecurityBlocks();
+ 
 
   return (
     <>
