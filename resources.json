@@ -912,7 +912,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video distingue magnitudes escalares y vectoriales, tratando velocidad, rapidez, desplazamiento y distancia. Explica el cálculo de velocidad promedio y la conversión de unidades por análisis dimensional. Desarrolla habilidades de observación, representación de movimientos, detección de variables relevantes y el uso de modelos matemáticos para describir y predecir procesos físicos, promoviendo la comunicación de ideas de manera clara y precisa.",
+        "description": "Este video distingue magnitudes escalares y vectoriales (velocidad, rapidez, desplazamiento y distancia), explicando el cálculo de velocidad promedio y conversión de unidades. Desarrolla habilidades de observación, representación, modelos matemáticos y predicción.",
         "tags": [
             "Velocidad",
             "Rapidez",
@@ -927,7 +927,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video se centra en la cinemática, abordando movimientos con velocidad o aceleración constante. Incluye contenidos sobre la identificación de variables, análisis de gráficos de trayectorias y modelización de movimientos sencillos. Desarrolla habilidades de observación, representación, formulación de conjeturas y comunicación precisa de ideas. Permite a los estudiantes usar modelos físicos para explicar y predecir fenómenos, fomentando una comprensión profunda de los procesos mecánicos.",
+        "description": "Este video aborda la cinemática mediante el cálculo de desplazamiento y velocidad. Se centra en la modelización de movimientos, variables y conversión de unidades por análisis dimensional. Desarrolla habilidades de representación, lenguaje simbólico y escalares de vectores.",
         "tags": [
             "Velocidad",
             "rapidez",
@@ -942,7 +942,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video aborda la cinemática y dinámica del movimiento circular, centrándose en la fuerza centrípeta y las Leyes de Newton. Analiza cómo una fuerza neta modifica la dirección de la velocidad en ejemplos como órbitas o fricción en giros. Promueve habilidades de observación, representación vectorial, formulación de conjeturas y el uso de modelos físicos para explicar y predecir cambios en el movimiento según los contenidos priorizados",
+        "description": "Este video analiza las gráficas de posición-tiempo para describir el movimiento (desplazamiento, distancia, velocidad y rapidez), destacando que la pendiente equivale a la velocidad instantánea. Desarrolla habilidades de observación, interpretación y lenguaje técnico.",
         "tags": [
             "Fuerza centrípeta",
             "leyes de Newton"
@@ -956,7 +956,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video aborda la cinemática del movimiento circular, enfocándose en la deducción de la fórmula de la aceleración centrípeta mediante el análisis de vectores de posición, velocidad y aceleración. Permite desarrollar habilidades de observación, representación vectorial y formulación de conjeturas. Asimismo, promueve el uso de modelos matemáticos para describir y predecir fenómenos físicos, integrando magnitudes vectoriales en movimientos curvilíneos.",
+        "description": "Este recurso aborda posición, distancia y desplazamiento, explicando magnitudes escalares y vectoriales. Desarrolla habilidades de razonamiento lógico, representación en sistemas de referencia, diferencia trayectoria de cambio neto y modela movimientos unidimensionales.",
         "tags": [
             "Aceleración centrípeta",
             "movimiento circular",
@@ -971,7 +971,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video plantea un problema acerca de la cinemática y dinámica de un auto en un bucle vertical. Trata el cálculo de la velocidad mínima y promedio para completar el giro. Desarrolla habilidades de observación, representación y conjeturas mediante el uso de modelos físicos para explicar fenómenos. Fomenta la toma de datos y comunicación precisa de resultados, integrando la matemática como herramienta descriptiva según los contenidos priorizados.",
+        "description": "Este recurso aborda las leyes de Newton y la fuerza como vector: inercia (1.ª ley), fuerza, masa y aceleración (2.ª ley, $F=ma$) y acción-reacción (3.ª ley). Explora fuerzas como normal, tensión, fricción y gravedad. Desarrolla habilidades de modelado y diagramas de cuerpo libre.",
         "tags": [
             "Problema",
             "velocidad",
@@ -986,7 +986,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video presenta la respuesta al problema de un auto en un bucle vertical. Aborda el cálculo de rapidez promedio y el análisis de márgenes de seguridad. Desarrolla habilidades de observación, representación y detección de variables mediante modelos matemáticos para explicar procesos físicos. Fomenta la comunicación precisa y el uso de unidades, vinculando la teoría con fenómenos reales según los contenidos priorizados.",
+        "description": "Este video explica la Ley de Hooke y la dinámica de resortes mediante la fuerza de restitución y el desplazamiento. Aborda la proporcionalidad entre fuerza y deformación, la constante elástica, compresión y estiramiento. Desarrolla observación, modelización y conjeturas.",
         "tags": [
             "Rapidez promedio",
             "Rizo vertical",
@@ -1001,7 +1001,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video explica la distinción entre magnitudes escalares y vectoriales, analizando los conceptos de magnitud y dirección. A través de ejemplos prácticos, diferencia distancia de desplazamiento y rapidez de velocidad. El material permite desarrollar habilidades de observación, representación de movimientos y el uso de lenguaje simbólico con vocabulario específico de la física. Además, fomenta la modelización de procesos y la comunicación clara y precisa de ideas fundamentales.",
+        "description": "Este recurso aborda la energía potencial elástica y la Ley de Hooke. Explica la constante de elasticidad, el trabajo de fuerzas variables y la conservación de la energía en resortes. Desarrolla habilidades de interpretación gráfica, cálculo de magnitudes y modelado de sistemas.",
         "tags": [
             "Vectores",
             "Magnitudes",
@@ -1016,7 +1016,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video define el marco de referencia como el punto de vista para medir magnitudes físicas. Explica cómo la velocidad y el desplazamiento cambian según el observador mediante ejemplos con un auto y un avión. Muestra que no hay un marco único correcto, sino que todos son válidos. El recurso desarrolla habilidades de observación, representación, conjeturas y el uso de modelos físicos para explicar fenómenos de la vida diaria.",
+        "description": "Este video explica la energía potencial elástica con la Ley de Hooke y el cálculo del trabajo como el área bajo la curva fuerza-desplazamiento. Aborda la constante elástica y la modelización. Desarrolla observación, representación, modelos y lenguaje simbólico.",
         "tags": [
             "Marco de referencia",
             "Cinemática",
@@ -1031,7 +1031,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video distingue magnitudes escalares y vectoriales, tratando velocidad, rapidez, desplazamiento y distancia. Explica el cálculo de velocidad promedio y la conversión de unidades por análisis dimensional. Desarrolla habilidades de observación, representación de movimientos, detección de variables relevantes y el uso de modelos matemáticos para describir y predecir procesos físicos, promoviendo la comunicación de ideas de manera clara y precisa.",
+        "description": "Este video distingue magnitudes escalares y vectoriales (velocidad, rapidez, desplazamiento y distancia), explicando el cálculo de velocidad promedio y conversión de unidades. Desarrolla habilidades de observación, representación, modelos matemáticos y predicción.",
         "tags": [
             "Velocidad",
             "Rapidez",
@@ -1046,7 +1046,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video aborda la cinemática mediante el cálculo del desplazamiento y la velocidad. Se centra en la modelización matemática de movimientos sencillos, la detección de variables y la conversión de unidades por análisis dimensional. Desarrolla habilidades de representación de movimientos, comunicación precisa con lenguaje simbólico y el uso de modelos físicos para explicar fenómenos, diferenciando escalares de vectores y promoviendo el manejo de unidades.",
+        "description": "Este video aborda la cinemática mediante el cálculo de desplazamiento y velocidad. Se centra en la modelización de movimientos, variables y conversión de unidades por análisis dimensional. Desarrolla habilidades de representación, lenguaje simbólico y escalares de vectores.",
         "tags": [
             "Desplazamiento",
             "Análisis dimensional",
@@ -1061,7 +1061,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video analiza las gráficas de posición-tiempo para describir el movimiento. Aborda contenidos sobre desplazamiento, distancia, velocidad y rapidez, destacando que la pendiente de la recta equivale a la velocidad instantánea. Desarrolla habilidades de observación, representación de trayectorias e interpretación de modelos matemáticos. Promueve el uso de vocabulario técnico, el manejo de unidades y la comunicación precisa de ideas fundamentales, integrando matemática y física.",
+        "description": "Este video analiza las gráficas de posición-tiempo para describir el movimiento (desplazamiento, distancia, velocidad y rapidez), destacando que la pendiente equivale a la velocidad instantánea. Desarrolla habilidades de observación, interpretación y lenguaje técnico.",
         "tags": [
             "Posición",
             "Desplazamiento",
@@ -1076,7 +1076,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este recurso aborda los conceptos de posición, distancia y desplazamiento. Explica la distinción entre magnitudes escalares y vectoriales. Permite desarrollar habilidades de razonamiento lógico, representación en sistemas de referencia y diferenciación entre trayectoria y cambio neto de ubicación. A través del mismo, los estudiantes pueden aprender a modelar movimientos unidimensionales y a interpretar la dirección del movimiento mediante signos matemáticos.",
+        "description": "Este recurso aborda posición, distancia y desplazamiento, explicando magnitudes escalares y vectoriales. Desarrolla habilidades de razonamiento lógico, representación en sistemas de referencia, diferencia trayectoria de cambio neto y modela movimientos unidimensionales.",
         "tags": [
             "Posición",
             "Desplazamiento",
@@ -1091,7 +1091,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este recurso aborda las leyes del movimiento de Newton y el concepto de fuerza como vector. Incluye el estudio de la inercia (1.ª ley), la relación entre fuerza, masa y aceleración (2.ª ley, $F=ma$), y los pares de acción-reacción (3.ª ley). Explora fuerzas específicas como la normal, tensión, fricción y gravitación en diversos escenarios. Permite desarrollar habilidades de modelado físico, interpretación de diagramas de cuerpo libre y resolución de problemas complejos mediante el análisis de sistemas de fuerzas y el razonamiento cuantitativo.",
+        "description": "Este recurso aborda las leyes de Newton y la fuerza como vector: inercia (1.ª ley), fuerza, masa y aceleración (2.ª ley, $F=ma$) y acción-reacción (3.ª ley). Explora fuerzas como normal, tensión, fricción y gravedad. Desarrolla habilidades de modelado y diagramas de cuerpo libre.",
         "tags": [
             "Fuerzas",
             "leyes de Newton",
@@ -1106,7 +1106,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este videoexplica la Ley de Hooke y la dinámica de resortes mediante el análisis de la fuerza de restitución y el desplazamiento. Aborda la proporcionalidad entre fuerza y deformación, la constante elástica y la diferencia entre compresión y estiramiento. Desarrolla habilidades de observación, modelización, conjeturas y uso de lenguaje simbólico para predecir el comportamiento de sistemas físicos.",
+        "description": "Este video explica la Ley de Hooke y la dinámica de resortes mediante la fuerza de restitución y el desplazamiento. Aborda la proporcionalidad entre fuerza y deformación, la constante elástica, compresión y estiramiento. Desarrolla observación, modelización y conjeturas.",
         "tags": [
             "Ley de Hooke",
             "Constante elástica",
@@ -1121,7 +1121,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este recurso aborda la energía potencial elástica y su relación con la Ley de Hooke. Explica contenidos sobre la constante de elasticidad, el trabajo realizado por fuerzas variables y la conservación de la energía en sistemas con resortes. Permite desarrollar habilidades de interpretación gráfica (área bajo la curva fuerza-desplazamiento), cálculo de magnitudes físicas y modelado de sistemas deformables, vinculando la teoría con aplicaciones mecánicas prácticas.",
+        "description": "Este recurso aborda la energía potencial elástica y la Ley de Hooke. Explica la constante de elasticidad, el trabajo de fuerzas variables y la conservación de la energía en resortes. Desarrolla habilidades de interpretación gráfica, cálculo de magnitudes y modelado de sistemas.",
         "tags": [
             "Energía potencial elástica",
             "resortes",
@@ -1136,7 +1136,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video explica la energía potencial elástica a partir de la Ley de Hooke y el cálculo del trabajo como el área bajo la curva en gráficos de fuerza-desplazamiento. Aborda contenidos sobre la constante elástica y la modelización matemática de sistemas físicos. Desarrolla habilidades de observación, representación y el uso de modelos para predecir comportamientos. Fomenta la comunicación precisa mediante lenguaje simbólico y el manejo de unidades.",
+        "description": "Este video explica la energía potencial elástica con la Ley de Hooke y el cálculo del trabajo como el área bajo la curva fuerza-desplazamiento. Aborda la constante elástica y la modelización. Desarrolla observación, representación, modelos y lenguaje simbólico.",
         "tags": [
             "Energía potencial",
             "Ley de Hooke",
@@ -1151,7 +1151,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este recurso aborda la Ley de Hooke, explicando la relación entre fuerza restauradora, constante elástica y deformación. Trata contenidos sobre el límite de elasticidad y el comportamiento de materiales deformables. Permite desarrollar habilidades de análisis de proporcionalidad directa, interpretación de signos en vectores y modelado de sistemas físicos. Los estudiantes aprenden a cuantificar la rigidez de objetos y a predecir respuestas mecánicas bajo carga.",
+        "description": "Este recurso aborda la Ley de Hooke, explicando la relación entre fuerza restauradora, constante elástica y deformación. Trata contenidos sobre el límite de elasticidad y el comportamiento de materiales deformables. Permite desarrollar habilidades de análisis de proporcionalidad",
         "tags": [
             "Elasticidad",
             "Restauración",
@@ -1166,7 +1166,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video analiza el péndulo simple como un oscilador armónico, explorando la fuerza restauradora, la longitud y el periodo. Trata la independencia de la masa y la aplicación de modelos matemáticos para ángulos pequeños. El recurso permite desarrollar habilidades de observación, representación de movimientos y formulación de conjeturas. Promueve el uso de lenguaje simbólico y la modelización para explicar y predecir procesos físicos reales.",
+        "description": "Este video analiza el péndulo simple como un oscilador armónico, explorando la fuerza restauradora, la longitud y el periodo. Trata la independencia de la masa y la aplicación de modelos matemáticos para ángulos pequeños. El recurso permite desarrollar habilidades.",
         "tags": [
             "Oscilador armónico",
             "Péndulo simple",
@@ -1181,7 +1181,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este recurso explica la energía potencial gravitatoria, analizando su dependencia de la masa, la altura y la aceleración de la gravedad. Aborda contenidos sobre el trabajo realizado por el peso y la elección de niveles de referencia. Permite desarrollar habilidades de modelado energético, interpretación de sistemas conservativos y cálculo de variables en campos gravitatorios. Facilita que el estudiante comprenda la energía como una propiedad relativa de la posición de los cuerpos.",
+        "description": "Este recurso explica la energía potencial gravitatoria, analizando su dependencia de la masa, la altura y la aceleración de la gravedad. Aborda contenidos sobre el trabajo realizado por el peso y la elección de niveles de referencia. Permite desarrollar habilidades.",
         "tags": [
             "Gravitación",
             "Posición",
