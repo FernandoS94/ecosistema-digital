@@ -3237,6 +3237,51 @@
             "Atomicidad"
         ],
         "url": "https://es.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/balancing-chemical-equations/v/visually-understanding-balancing-chemical-equations"
+    },
+     {
+        "id": 637,
+        "title": "Entender el balance de las ecuaciones químicas visualmente",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video explica el balanceo de ecuaciones químicas mediante el concepto de conservación de los átomos en una reacción química. Realiza la distinción entre coeficientes estequiométricos y atomicidad (subíndices), utilizando como el ejemplo la reacción entre el etileno y el oxígeno.",
+        "tags": [
+            "Balanceo de ecuaciones",
+            "Coeficientes estequiométricos",
+            "Atomicidad"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/balancing-chemical-equations/v/visually-understanding-balancing-chemical-equations"
+    },
+    {
+        "id": 638,
+        "title": "El balanceo de una ecuación química con sustitución",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video explica cómo balancear ecuaciones químicas. Utiliza un método mediante el cual a un ion poliatómico se lo \"sustituye\" como un grupo de una sola unidad. De esta manera, se simplifica la ecuación y el balanceo de la reacción se puede realizar de manera más rápida y sencilla.",
+        "tags": [
+            "Balanceo de ecuaciones",
+            "Coeficientes estequiométricos",
+            "Método de balanceo"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/balancing-chemical-equations/v/balancing-chemical-equation-with-substitution"
+    },
+    {
+        "id": 639,
+        "title": "Visualizar ecuaciones químicas con modelos de partículas",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video ilustra el balanceo de ecuaciones usando modelos de esferas y la reacción entre metano y agua. Basándose en la ley de conservación de la masa, enseña a contar átomos en reactivos y productos para garantizar que el número y tipo de elementos coincidan en ambos lados.",
+        "tags": [
+            "Conservación de la masa",
+            "Balanceo de ecuaciones",
+            "Modelos de esferas"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/x822131fc:more-about-chemical-reactions/x822131fc:representations-of-reactions/v/visualizing-chemical-equations-using-particulate-models"
     }
  
 
