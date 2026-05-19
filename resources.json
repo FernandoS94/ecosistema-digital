@@ -1196,7 +1196,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video explica la gravitación universal y la aceleración de la gravedad. Aborda la relación entre fuerza, masa y distancia con modelos matemáticos. Desarrolla habilidades de observación, conjeturas y representación. Los alumnos logran explicar fenómenos cotidianos y comunicar ideas con lenguaje simbólico, vinculando la teoría con la detección de variables relevantes.",
+        "description": "Este video explica la gravitación universal y la aceleración de la gravedad. Aborda la relación entre fuerza, masa y distancia con modelos matemáticos. Desarrolla habilidades de observación, conjeturas y representación.",
         "tags": [
             "Gravitación",
             "Fuerzas",
@@ -1211,7 +1211,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video define la potencia como la tasa de realización de trabajo, distinguiendo entre potencia promedio e instantánea. Incluye energía cinética, potencial y la relación entre fuerza y rapidez. Desarrolla habilidades de observación, representación y el uso de modelos físicos para explicar fenómenos. Fomenta la comunicación precisa con lenguaje simbólico y el manejo de unidades como el watt.",
+        "description": "Este video define la potencia como la tasa de realización de trabajo, distinguiendo entre promedio e instantánea. Incluye energía cinética, potencial y la relación entre fuerza y rapidez. Desarrolla habilidades de observación, representación y el uso de modelos físicos.",
         "tags": [
             "Potencia",
             "Energía",
@@ -1226,7 +1226,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este recurso aborda el concepto de potencia como la rapidez con la que se realiza un trabajo. Explica contenidos sobre vatios (Watts), caballos de fuerza y la relación entre potencia, fuerza y velocidad. Desarrolla habilidades de razonamiento físico-matemático, análisis de eficiencia temporal en procesos energéticos y conversión de unidades. Los estudiantes aprenden a cuantificar el rendimiento de máquinas y a evaluar el consumo energético en sistemas mecánicos.",
+        "description": "Este recurso aborda la potencia como la rapidez para realizar un trabajo. Explica contenidos sobre vatios, caballos de fuerza y la relación entre potencia, fuerza y velocidad. Desarrolla habilidades de razonamiento físico-matemático y análisis de eficiencia.",
         "tags": [
             "Potencia",
             "rapidez",
@@ -1241,7 +1241,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video analiza la Ley de Faraday y la inducción de fuerza electromotriz mediante la rotación de un circuito en un campo magnético. Explica la relación entre flujo magnético, corriente y aplicaciones en generadores o centrales hidroeléctricas. Desarrolla habilidades de observación, formulación de conjeturas y el uso de modelos físicos para explicar fenómenos, fomentando la comunicación precisa y la interpretación de variables en procesos mecánicos y tecnológicos.",
+        "description": "Este video analiza la Ley de Faraday y la inducción de fuerza electromotriz mediante un circuito en un campo magnético. Explica la relación entre flujo magnético, corriente y generadores. Desarrolla habilidades de observación y el uso de modelos físicos.",
         "tags": [
             "Ley de Faraday",
             "Inducción electromagnética",
@@ -1256,7 +1256,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video aborda la Primera Ley de Newton, explorando inercia, reposo y movimiento rectilíneo uniforme. Explica el impacto de fuerzas externas como la fricción en la detención de objetos. Fomenta habilidades de observación, representación y formulación de conjeturas mediante modelos físicos. Permite a los estudiantes explicar fenómenos cotidianos y distinguir marcos de referencia con precisión.",
+        "description": "Este video aborda la Primera Ley de Newton, explorando inercia, reposo y movimiento rectilíneo uniforme. Explica el impacto de fuerzas externas como la fricción. Fomenta habilidades de observación, representación y formulación de conjeturas mediante modelos físicos.",
         "tags": [
             "Inercia",
             "Leyes de Newton",
@@ -1271,7 +1271,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video aborda la segunda ley de Newton, definiendo la masa como medida de materia y constante de proporcionalidad entre fuerza y aceleración. Diferencia masa de peso mediante ejemplos de cálculo y análisis de variables. Desarrolla habilidades de observación, representación vectorial y conjeturas. Promueve el uso de modelos físicos y lenguaje simbólico para explicar y predecir fenómenos mecánicos, integrando magnitudes y unidades de medida según los marcos de priorización.",
+        "description": "Este video aborda la segunda ley de Newton, definiendo la masa como constante entre fuerza y aceleración. Diferencia masa de peso mediante ejemplos de cálculo. Desarrolla habilidades de observación y representación vectorial. Promueve el uso de modelos físicos.",
         "tags": [
             "Segunda ley de Newton",
             "Masa",
@@ -1286,7 +1286,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video explica la ley de interacciones de Newton, analizando cómo las fuerzas entre dos cuerpos son iguales y opuestas. Mediante ejemplos como el empuje de objetos, la propulsión de cohetes y el movimiento espacial, aborda contenidos de dinámica. Desarrolla habilidades de observación, conjetura y el uso de modelos físicos para explicar fenómenos y predecir movimientos de manera precisa.",
+        "description": "Este video explica la ley de interacciones de Newton, analizando cómo las fuerzas entre dos cuerpos son iguales y opuestas. Mediante ejemplos como el empuje de objetos y la propulsión de cohetes, aborda la dinámica. Desarrolla habilidades de observación y conjeturas.",
         "tags": [
             "Ley de interacciones",
             "Acción y reacción",
@@ -1301,7 +1301,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este recurso aborda el principio de conservación de la energía mecánica en sistemas aislados y la transformación entre energías cinética y potencial. Explica contenidos sobre fuerzas conservativas, disipación por fricción y el balance energético total. Desarrolla habilidades de modelado de sistemas físicos, predicción de estados dinámicos y resolución de problemas mediante balances de energía. Los estudiantes aprenden a analizar la invariabilidad de la energía en procesos mecánicos complejos.",
+        "description": "Este recurso aborda el principio de conservación de la energía mecánica en sistemas aislados y la transformación entre cinética y potencial. Explica contenidos sobre fuerzas conservativas y disipación por fricción. Desarrolla habilidades de modelado de sistemas.",
         "tags": [
             "Sistema",
             "Transformación",
@@ -1316,7 +1316,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video aborda el efecto fotoeléctrico y la dualidad onda-partícula de la luz. Explora conceptos como el fotón, la función de trabajo y la energía cinética mediante la modelización matemática de procesos físicos. Desarrolla habilidades de observación, representación y formulación de conjeturas. Fomenta el uso de lenguaje simbólico y la comunicación precisa para explicar y predecir la liberación de electrones según la frecuencia lumínica.",
+        "description": "Este video aborda el efecto fotoeléctrico y la dualidad onda-partícula de la luz. Explora conceptos como el fotón, la función de trabajo y la energía cinética. Desarrolla habilidades de observación, representación y formulación de conjeturas mediante el lenguaje simbólico",
         "tags": [
             "Dualidad onda-partícula",
             "Función de trabajo",
@@ -1331,7 +1331,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este recurso aborda el efecto fotoeléctrico, la naturaleza particulada de la luz (fotones) y la función de trabajo de los metales. Explica contenidos sobre energía de umbral, potencial de frenado y la ecuación de Einstein. Desarrolla habilidades de interpretación de modelos cuánticos, análisis de datos experimentales y distinción entre física clásica y moderna. Los estudiantes aprenden a cuantificar la energía radiante y a comprender la interacción luz-materia.",
+        "description": "Este recurso aborda el efecto fotoeléctrico, la naturaleza particulada de la luz y la función de trabajo de los metales. Explica contenidos sobre energía de umbral, potencial de frenado y la ecuación de Einstein. Desarrolla habilidades de interpretación de modelos.",
         "tags": [
             "Energía de umbral",
             "fotón",
@@ -1346,7 +1346,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video define las ondas como perturbaciones que propagan energía a través del espacio. Diferencia ondas transversales y longitudinales mediante ejemplos de cuerdas y sonido. El material permite desarrollar habilidades de observación, representación y formulación de conjeturas. Aborda la modelización matemática para describir fenómenos físicos, fomentando el uso de lenguaje científico y la comunicación de ideas de manera clara y precisa.",
+        "description": "Este video define las ondas como perturbaciones que propagan energía por el espacio. Diferencia ondas transversales y longitudinales mediante cuerdas y sonido. El material permite desarrollar habilidades de observación, representación y formulación de conjeturas.",
         "tags": [
             "Ondas",
             "Energía",
@@ -1361,7 +1361,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video analiza la terminología de los osciladores armónicos, abordando amplitud, periodo y gráficas de posición-tiempo. Desarrolla habilidades de observación, representación y uso de modelos físicos para explicar fenómenos. Fomenta la comunicación precisa con lenguaje simbólico y la detección de variables en procesos mecánicos, integrando la matemática como herramienta descriptiva para caracterizar movimientos oscilatorios.",
+        "description": "Este video analiza los osciladores armónicos, abordando amplitud, periodo y gráficas de posición-tiempo. Desarrolla habilidades de observación, representación y uso de modelos físicos para explicar fenómenos. Fomenta la comunicación precisa con lenguaje simbólico.",
         "tags": [
             "Amplitud",
             "Periodo",
@@ -1376,7 +1376,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este recurso aborda la naturaleza dual de la luz y el espectro electromagnético, desde ondas de radio hasta rayos gamma. Explica conceptos de longitud de onda, frecuencia y energía fotónica. Desarrolla habilidades de clasificación de radiaciones, interpretación de modelos ondulatorios y análisis de la interacción materia-energía. Los estudiantes aprenden a vincular magnitudes físicas con aplicaciones tecnológicas y a comprender la luz como una perturbación de campos eléctricos y magnéticos.",
+        "description": "Este recurso aborda la naturaleza dual de la luz y el espectro electromagnético, desde ondas de radio hasta rayos gamma. Explica longitud de onda, frecuencia y energía fotónica. Desarrolla habilidades de clasificación de radiaciones e interpretación de modelos.",
         "tags": [
             "Radiación",
             "Dualidad",
@@ -1391,7 +1391,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video analiza la interferencia de ondas y el principio de superposición, explicando la suma de pulsos en una misma región. Aborda contenidos sobre el comportamiento de ondas mecánicas y electromagnéticas. Desarrolla habilidades de observación, representación y conjeturas mediante modelos físicos para explicar fenómenos. Fomenta la comunicación precisa y el uso de la matemática para predecir y describir procesos ondulatorios.",
+        "description": "Este video analiza la interferencia de ondas y el principio de superposición, explicando la suma de pulsos en una misma región. Aborda contenidos sobre ondas mecánicas y electromagnéticas. Desarrolla habilidades de observación, representación y conjeturas.",
         "tags": [
             "Interferencia",
             "Superposición",
@@ -1406,7 +1406,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video profundiza en la interferencia constructiva y destructiva, analizando la superposición, el desfase y la diferencia de camino. Aborda modelos para predecir comportamientos ondulatorios y explica aplicaciones como la cancelación de ruido. Desarrolla habilidades de observación, representación, conjeturas y comunicación precisa. Permite vincular la longitud de onda y la fase para explicar procesos físicos.",
+        "description": "Este video profundiza en la interferencia constructiva y destructiva, analizando la superposición, el desfase y la diferencia de camino. Aborda modelos ondulatorios y aplicaciones como la cancelación de ruido. Desarrolla habilidades de observación y conjeturas.",
         "tags": [
             "Interferencia",
             "Superposición",
@@ -1421,7 +1421,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este recurso introduce los postulados de la relatividad especial de Einstein, abordando la constancia de la velocidad de la luz y la relatividad de la simultaneidad. Explica conceptos de dilatación del tiempo, contracción de la longitud y la equivalencia masa-energía ($E=mc²$). Permite desarrollar habilidades de pensamiento abstracto, cuestionamiento de la intuición clásica y resolución de problemas en marcos de referencia inerciales, transformando la comprensión del espacio-tiempo.",
+        "description": "Este recurso introduce los postulados de la relatividad especial de Einstein, abordando la constancia de la velocidad de la luz y la simultaneidad. Explica conceptos de dilatación del tiempo, contracción de longitud y la equivalencia masa-energía (E=mc2).",
         "tags": [
             "Relatividad",
             "Contracción de la longitud",
@@ -1436,7 +1436,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video explica las transformaciones de Lorentz para cambios en coordenadas espaciales y temporales. Analiza cómo se transforman los desplazamientos entre marcos relativistas mediante álgebra para estudiar velocidades. Desarrolla habilidades de representación, modelización de procesos y comunicación precisa con lenguaje simbólico. Fomenta el uso de la matemática como herramienta para describir, explicar y predecir fenómenos físicos.",
+        "description": "Este video explica las transformaciones de Lorentz para cambios en coordenadas espaciales y temporales. Analiza cómo se transforman los desplazamientos entre marcos relativistas mediante álgebra para estudiar velocidades. Desarrolla habilidades de representación y modelización.",
         "tags": [
             "Relatividad especial",
             "Marcos de referencia",
@@ -1932,7 +1932,7 @@
         "category": "Otro",
         "subject": "Proyecto de Vinculación con el Futuro",
         "mode": "Bachiller",
-        "description": "Este plan de aprendizaje guía el diseño de proyectos sociocomunitarios centrados en la mediación de la lectura. Propone un recorrido que abarca desde la indagación de posibilidades de mediación de manera analógica y digital hasta el relevamiento sobre la lectura en la comunidad mediante entrevistas y encuestas. El objetivo es que los alumnos diseñen una intervención cultural centrada en la lectura de literatura para fortalecer vínculos y generar un impacto real en su entorno.",
+        "description": "Este plan guía el diseño de proyectos sociocomunitarios de mediación de lectura. Abarca desde la indagación analógica y digital hasta un relevamiento en la comunidad . El objetivo es diseñar una intervención cultural para fortalecer vínculos en el entorno.",
         "tags": [
             "Mediación de la lectura",
             "Relevamiento",
@@ -1947,7 +1947,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación , Taller de la Orientación ",
         "mode": "Bachiller",
-        "description": "Este plan de aprendizaje aborda la crítica literaria como eje central para la construcción de sentido. Propone un recorrido por el canon, las escrituras no hegemónicas y la literatura expandida en la era digital. Analiza el conflicto trágico, la poeticidad y diversas teorías del siglo XX (formalismo, sociocrítica, deconstrucción) para promover la formulación de hipótesis de lectura y el diálogo crítico en torno a obras clásicas y contemporáneas.",
+        "description": "Este plan aborda la crítica literaria como eje para construir sentido. Recorre el canon, escrituras no hegemónicas y literatura digital. Analiza el conflicto, poeticidad y teorías del siglo XX para promover hipótesis de lectura y el diálogo crítico sobre las obras.",
         "tags": [
             "Crítica literaria",
             "Canon",
@@ -1962,7 +1962,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación , Taller de la Orientación ",
         "mode": "Bachiller",
-        "description": "El presente plan de aprendizaje explora la intersección entre literatura, artes y tecnologías digitales. Propone un recorrido por la hipertextualidad, narrativas transmedia, pódcasts, videojuegos y el uso de IA en la creación literaria. El material orienta a los docentes en el análisis de nuevos modos de construir significado y en la producción de obras intermediales, promoviendo la reflexión sobre el rol del lector activo en la actualidad.",
+        "description": "El plan explora la intersección entre literatura, artes y tecnologías digitales: hipertextualidad, transmedia, pódcasts, videojuegos e IA. Orienta en nuevos modos de construir significado y obras intermediales, reflexionando sobre el rol del lector activo.",
         "tags": [
             "Intermedialidad",
             "Interactividad",
@@ -1977,7 +1977,7 @@
         "category": "Laboratorio, Espacio de integración",
         "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
         "mode": "Bachiller, Técnica",
-        "description": "El video explica las fuerzas ion-dipolo, consistentes en la atracción electrostática entre partículas con carga neta y moléculas que poseen una distribución desigual de electrones, diferenciándose los iones y los dipolos. Mediante ejemplos, como la disolución de sal, se ilustra cómo ocurren las interacciones ion-molécula y se detalla qué elementos influyen en la intensidad de estas fuerzas, basándose en la ley de Coulomb.",
+        "description": "El video explica las fuerzas ion-dipolo como la atracción entre iones y moléculas polares. Mediante la disolución de sal, ilustra cómo ocurren estas interacciones y detalla, basándose en la ley de Coulomb, qué elementos influyen en la intensidad de estas fuerzas.",
         "tags": [
             "Interacciones",
             "Iones",
@@ -1992,7 +1992,7 @@
         "category": "Laboratorio, Espacio de integración",
         "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
         "mode": "Bachiller, Técnica",
-        "description": "El texto se enfoca en el estudio de las reacciones de oxidación–reducción, comúnmente denominadas reacciones redox.  Se definen estas reacciones, el concepto de número de oxidación y las reglas de asignación. Se ofrecen ejemplos que ocurren en la vida cotidiana, como la combustión del metano, la corrosión de metales y la fotosíntesis. También se dan ejemplos de cómo identificar una reducción o una oxidación a partir de la variación en los números de oxidación de los elementos involucrados.",
+        "description": "El texto estudia las reacciones de oxidación-reducción, denominado comúnmente redoz. Se definen estas reacciones, el concepto de número de oxidación y las reglas de asignación ",
         "tags": [
             "Oxidación",
             "Reducción",
@@ -2007,7 +2007,7 @@
         "category": "Laboratorio, Espacio de integración",
         "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
         "mode": "Bachiller, Técnica",
-        "description": "El video analiza las propiedades físicas de los alcoholes y la preparación de alcóxidos. Compara el etanol con el etano, destacando que los alcoholes poseen puntos de ebullición significativamente más altos gracias a los enlaces de hidrógeno, que son fuerzas intermoleculares más fuertes que las de dispersión de London. También detalla la formación de alcóxidos mediante la reacción de alcoholes con bases fuertes o metales alcalinos, proceso que resulta en el desprendimiento de gas de hidrógeno.",
+        "description": "El video analiza las propiedades de los alcoholes y la preparación de alcóxidos. Compara el etanol con el etano destacando sus altos puntos de ebullición por enlaces de hidrógeno. Explica la formación de alcóxidos con bases fuertes o metales y el desprendimiento de hidrógeno.",
         "tags": [
             "Alcoholes",
             "Puente hidrógeno",
@@ -2022,7 +2022,7 @@
         "category": "Laboratorio, Espacio de integración",
         "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
         "mode": "Bachiller, Técnica",
-        "description": "El video analiza las propiedades físicas de los alcoholes, basándose en su estructura molecular. Explica cómo el grupo hidroxilo permite la formación de enlaces de puente-hidrógeno, similares a los del agua, influyendo directamente en su solubilidad y puntos de ebullición. Se aborda el concepto de miscibilidad, destacando que alcoholes de cadena corta son totalmente solubles en agua. Sin embargo, conforme la cadena crece, la solubilidad disminuye debido a la naturaleza no polar de los hidrocarburos.",
+        "description": "Este recurso aborda la energía potencial elástica y su relación con la Ley de Hooke. Explica contenidos sobre la constante de elasticidad, el trabajo realizado por fuerzas variables y la conservación de la energía en sistemas con resortes. Permite desarrollar habilidades.",
         "tags": [
             "Alcoholes",
             "Enlaces de hidrógeno",
@@ -2038,7 +2038,7 @@
         "category": "Laboratorio, Espacio de integración",
         "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
         "mode": "Bachiller, Técnica",
-        "description": "El video aborda el concepto de la isomería cis-trans, un tipo de estereoisomería en alquenos. Explica que la falta de rotación libre en los enlaces dobles genera moléculas distintas con propiedades físicas y químicas diferentes. Detalla además como asignar la nomenclatura cis_ o trans_, evaluando la distribución de los grupos unidos a los carbonos del doble enlace respecto al eje del mismo.",
+        "description": "El video aborda la isomería cis-trans en alquenos. Explica que la falta de rotación libre en enlaces dobles genera moléculas distintas con propiedades diferentes. Detalla cómo asignar la nomenclatura cis-trans, evaluando los grupos unidos a los carbonos del doble enlace.",
         "tags": [
             "Isomería cis-trans",
             "Enlaces dobles",
@@ -2053,7 +2053,7 @@
         "category": "Laboratorio, Espacio de integración",
         "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
         "mode": "Bachiller, Técnica",
-        "description": "El video introduce el concepto de quiralidad, utilizando la analogía de las manos para explicar que los objetos quirales no se pueden superponer con su imagen reflejada. Define las moléculas quirales y los centros quirales, que usualmente son átomos de carbono unidos a cuatro grupos diferentes. A través de ejemplos visuales, el material enseña a identificar centros quirales.",
+        "description": "El video introduce la quiralidad con la analogía de las manos para explicar que los objetos quirales no se superponen con su reflejo. Define moléculas y centros quirales.",
         "tags": [
             "Estereoisomería",
             "Centros quirales",
@@ -2068,7 +2068,7 @@
         "category": "Laboratorio, Espacio de integración",
         "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
         "mode": "Bachiller, Técnica",
-        "description": "El video enseña a identificar centros quirales y moléculas quirales mediante ejemplos, aplicando el concepto de superposición de imágenes especulares. Además, introduce los conceptos de enantiómeros y clarifica la diferencia entre configuración y conformación. También resalta cómo la simetría determina si una molécula es quiral o no.",
+        "description": "El video enseña a identificar centros y moléculas quirales mediante ejemplos.Introduce los enantiómeros, clarifica la diferencia entre configuración y conformación, y resalta cómo la simetría determina si una molécula es quiral.",
         "tags": [
             "Estereoisomería",
             "Configuración",
@@ -2083,7 +2083,7 @@
         "category": "Laboratorio, Espacio de integración",
         "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
         "mode": "Bachiller, Técnica",
-        "description": "El video ofrece ejemplos prácticos adicionales para profundizar en el estudio de la quiralidad. El tema central es la identificación de moléculas y objetos que no son superponibles con su imagen especular, reforzando la comprensión de la estereoisomería mediante el análisis de casos específicos que complementan las lecciones teóricas básicas sobre simetría molecular.",
+        "description": "El video ofrece ejemplos prácticos sobre quiralidad. Su tema central es identificar moléculas y objetos no superponibles con su imagen especular.",
         "tags": [
             "Estereoisomería",
             "Quiralidad",
@@ -3282,6 +3282,66 @@
             "Modelos de esferas"
         ],
         "url": "https://es.khanacademy.org/science/chemistry/x822131fc:more-about-chemical-reactions/x822131fc:representations-of-reactions/v/visualizing-chemical-equations-using-particulate-models"
+    },
+    {
+        "id": 640,
+        "title": "Ácidos y bases de Arrhenius",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video expone la teoría de Arrhenius, definiendo ácidos y bases mediante la disociación del ácido clorhídrico e hidróxido de sodio en agua. Explica cómo se liberan iones y sugiere contrastar estos conceptos con las definiciones más amplias de Brønsted-Lowry y la teoría de Lewis.",
+        "tags": [
+            "Teoría de Arrhenius",
+            "Ácidos y bases",
+            "Disociación acuosa"
+        ],
+        "url": "https://es.khanacademy.org/science/quimica-pe-pre-u/xa105e22a677145a0:estados-de-la-materia/xa105e22a677145a0:neutralizacion-acido-base/v/arrhenius-definition-of-acids-and-bases"
+    },
+    {
+        "id": 641,
+        "title": "Ácidos y bases de Arrhenius",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video detalla la teoría de Arrhenius sobre ácidos y bases, centrándose en la formación de iones hidronio, la disociación y la neutralización para producir sal y agua. También expone sus limitaciones en medios acuosos, sugiriendo la teoría de Brønsted-Lowry como alternativa.",
+        "tags": [
+            "Teoría de Arrhenius",
+            "Ácidos y bases",
+            "Neutralización"
+        ],
+        "url": "https://es.khanacademy.org/science/quimica-pe-pre-u/xa105e22a677145a0:estados-de-la-materia/xa105e22a677145a0:neutralizacion-acido-base/a/arrhenius-acids-and-bases"
+    },
+    {
+        "id": 642,
+        "title": "Pares conjugados ácido–base",
+        "level": "5° año, 3° año",
+        "category": "Espacio de integración",
+        "subject": "Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video explica los pares conjugados de Brønsted-Lowry definidos por la transferencia de un sólo protón entre dos sustancias. Mediante ejemplos como el ácido fluorhídrico y el agua, enseña a identificar estos pares y a distinguirlos de especies que no cumplen dicha relación.",
+        "tags": [
+            "Pares conjugados",
+            "Brønsted-Lowry",
+            "Ácidos y bases"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/acids-and-bases-topic/copy-of-acid-base-equilibria/v/conjugate-acid-base-pairs-acids-and-bases-chemistry-khan-academy"
+    },
+    {
+        "id": 271,
+        "title": "Literatura e historia del arte A",
+        "level": "4° año, 5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan presenta un taller enfocado en la relación entre la Literatura y la Historia del Arte. Se analiza la función mágico-simbólica del arte (ritos, máscaras, ídolos) y las concepciones artísticas en América, destacando el sincretismo, la hibridación, el barroco y los nacionalismos. El plan busca que los estudiantes indaguen, analicen y confronten ideas sobre hitos artísticos y culturales a lo largo del tiempo.",
+        "tags": [
+            "Historia del arte",
+            "Sincretismo",
+            "Hibridación"
+        ],
+        "url": "https://share.articulate.com/CQx-OY6Z66CT-gMr1So3t"
     }
  
 
