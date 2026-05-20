@@ -3342,6 +3342,261 @@
             "Hibridación"
         ],
         "url": "https://share.articulate.com/CQx-OY6Z66CT-gMr1So3t"
+    },
+    {
+        "id": 593,
+        "title": "Cambio de estado. Ejemplo",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video presenta un ejemplo para calcular la energía necesaria para el cambio de estado de etanol líquido a etanol gaseoso, valiéndose del calor específico del líquido y la entalpía de vaporización. Explica someramente el uso de cifra significativa y los pasajes de unidades.",
+        "tags": [
+            "Estado",
+            "Entalpía",
+            "Calor"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/states-of-matter-and-intermolecular-forces/states-of-matter/v/change-of-state-example"
+    },
+    {
+        "id": 594,
+        "title": "Sistemas en equilibrio y equilibrio dinámico de fases",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video indica cómo los cambios de fase se comportan ante la variación de presión y temperatura. Presenta el diagrama de fases como expresión gráfica. Muestra el fenómeno de sublimación y explica los conceptos de punto triple, estado de equilibrio, punto crítico y fluido supercrítico.",
+        "tags": [
+            "Fase",
+            "Diagrama",
+            "Fluido supercrítico"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/states-of-matter-and-intermolecular-forces/states-of-matter/v/phase-diagrams"
+    },
+    {
+        "id": 595,
+        "title": "Ley de los gases ideales (PV = nRT)",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video explica qué es un gas ideal y la Ley de los gases ideales, observando en un ejemplo práctico las relaciones entre presión y volumen, volumen y temperatura y volumen y número de moles.",
+        "tags": [
+            "Gases",
+            "Gases ideales",
+            "Ley de gases ideales"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/gases-and-kinetic-molecular-theory/ideal-gas-laws/v/ideal-gas-equation-pv-nrt"
+    },
+    {
+        "id": 596,
+        "title": "Aplicación de las leyes fundamentales (solución)",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video presenta, a través de un ejemplo práctico, las Leyes fundamentales de la electricidad. Calcula las magnitudes características de los circuitos eléctricos, valiéndose de la Ley de Ohm y las Leyes de Kirchoff.",
+        "tags": [
+            "Ohm",
+            "Kirchoff",
+            "Electricidad"
+        ],
+        "url": "https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/v/ee-application-of-the-fundamental-laws-solve"
+    },
+    {
+        "id": 597,
+        "title": "Representación de sólidos, líquidos y gases utilizando modelos de partículas",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video muestra los diferentes estados de la materia a partir de modelos de partículas. Explica las redes reticulares originadas en uniones covalentes iónicas o fuerzas intermoleculares y el modelo de partículas de los sólidos amorfos, presentando algunos ejemplos.",
+        "tags": [
+            "Modelos de partículas",
+            "Partículas",
+            "Sólidos amorfos"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/states-of-matter-and-intermolecular-forces/states-of-matter/v/representing-solids-liquids-and-gases-using-particulate-models"
+    },
+    {
+        "id": 598,
+        "title": "Celda de concentración",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video muestra la configuración de una celda de concentración e indica cuál es la fuerza impulsora para la diferencia de potencial. Plantea las reacciones de oxidación y reducción, muestra la expresión en semi reacciones y presenta la ecuación de Nerst.",
+        "tags": [
+            "Redox",
+            "Ecuación de Nerst",
+            "Potencial"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/oxidation-reduction/cell-potentials-under-nonstandard-conditions/v/concentration-cell"
+    },
+    {
+        "id": 599,
+        "title": "Introducción a la solubilidad y a la constante del producto de solubilidad",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video muestra a partir de un ejemplo práctico, el concepto de solubilidad y solución saturada. Realiza cálculos de solubilidad en gr/L y molaridad, indicando cómo se modifica por cambios de temperatura. También calcula la constante de producto de solubilidad.",
+        "tags": [
+            "Solubilidad",
+            "Molaridad",
+            "Equilibrio"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/acid-base-equilibrium/copy-of-solubility-equilibria-mcat/v/solubility-product-constant-from-the-solubility"
+    },
+    {
+        "id": 600,
+        "title": "Solubilidad de los compuestos orgánicos",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video presenta el concepto de Ión Dipolo y Momento dipolar, y explica cómo se utiliza para predecir la solubilidad. Luego, toma este mismo concepto para definir porciones Hidrofílicas e Hidrofóbicas en compuestos orgánicos para predecir su comportamiento.",
+        "tags": [
+            "Solubilidad",
+            "Ion Dipolo",
+            "Hidrofílico"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/states-of-matter-and-intermolecular-forces/introduction-to-intermolecular-forces/v/solubility-of-organic-compounds-redo"
+    },
+    {
+        "id": 601,
+        "title": "Fuerza de los ácidos, tamaño de los aniones y energía de enlace",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video explica el concepto de fuerza de ácidos en base al análisis del comportamiento de los ácidos binarios formados a partir de los Halógenos. Se vale de la definición de la estabilidad de la base conjugada.",
+        "tags": [
+            "Acido",
+            "Estabilidad",
+            "Anión"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/v/acid-strength-anion-size-and-bond-energy"
+    },
+    {
+        "id": 602,
+        "title": "Equilibrios ácido-base débiles",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El apunte aborda la explicación de los equilibrios ácido-base. Además, define las constantes de disociación de ácidos y bases, presentando ejemplos prácticos para el cálculo de constantes y del pH.",
+        "tags": [
+            "Equilibrios",
+            "Ácido-base",
+            "pH"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/acids-and-bases-topic/copy-of-acid-base-equilibria/a/weak-acid-base-equilibria"
+    },
+    {
+        "id": 643,
+        "title": "Definiciones ácido-base",
+        "level": "3° año",
+        "category": "Espacio de integración",
+        "subject": "Espacio de integración Ciencias Naturales",
+        "mode": "Técnica",
+        "description": "El video explica las definiciones de Brønsted-Lowry y de Lewis para ácidos y bases. Analiza la transferencia de electrones con ejemplos. Introduce además, los conceptos de pares conjugados ácido/base y los conceptos de electrófilos y nucleófilos.",
+        "tags": [
+            "Ácidos-bases",
+            "Brønsted-Lowry",
+            "Lewis"
+        ],
+        "url": "https://es.khanacademy.org/science/organic-chemistry/organic-structures/acid-base-review/v/acid-base-lewis-bronsted-lowry"
+    },
+    {
+        "id": 644,
+        "title": "Mecanismos de reacciones ácido-base de compuestos orgánicos",
+        "level": "3° año",
+        "category": "Espacio de integración",
+        "subject": "Espacio de integración Ciencias Naturales",
+        "mode": "Técnica",
+        "description": "El video explica, mediante dos ejemplos, los mecanismos de reacciones ácido-base en Química Orgánica, aplicando la teoría de Brønsted-Lowry. Además, identifica los pares conjugados ácido/base involucrados en las reacciones.",
+        "tags": [
+            "Reacciones ácido-base",
+            "Brønsted-Lowry",
+            "Pares conjugados"
+        ],
+        "url": "https://es.khanacademy.org/science/organic-chemistry/organic-structures/acid-base-review/v/organic-acid-base-mechanisms"
+    },
+    {
+        "id": 645,
+        "title": "Oxidación y reducción",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video trata sobre los procesos de oxidación y reducción mediante la transferencia de electrones en enlaces iónicos y covalentes, usando ejemplos como el NaCl y el agua. Introduce el concepto de estados de oxidación y aplica el concepto de electronegatividad de los elementos.",
+        "tags": [
+            "Oxidación y reducción",
+            "Estados de oxidación",
+            "Electronegatividad"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/oxidation-reduction/redox-oxidation-reduction/v/introduction-to-oxidation-and-reduction"
+    },
+    {
+        "id": 646,
+        "title": "Potenciales estándar de reducción",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video detalla el uso de la tabla de potenciales estándar de reducción para calcular la fuerza electromotriz de pares redox. Se incluyen los conceptos de hemi-reacciones, agentes oxidantes y reductores, y la evaluación de tendencias a la reducción u oxidación de los elementos.",
+        "tags": [
+            "Potenciales de reducción",
+            "Fuerza electromotriz",
+            "Agentes oxidantes y reductores"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/oxidation-reduction/cell-potential/v/standard-reduction-potentials"
+    },
+    {
+        "id": 647,
+        "title": "Procesos endotérmicos y exotérmicos",
+        "level": "3° año",
+        "category": "Espacio de integración",
+        "subject": "Espacio de integración Ciencias Naturales",
+        "mode": "Técnica",
+        "description": "El video explica la Primera Ley de la termodinámica y diferencia entre procesos endotérmicos y exotérmicos. Aborda conceptos como: entalpía, energía interna, sistema y entorno. Además, analiza ejemplos prácticos de transferencia de calor y de trabajo.",
+        "tags": [
+            "Primera Ley de la Termodinámica",
+            "Procesos endotérmicos y exotérmicos",
+            "Calor y trabajo"
+        ],
+        "url": "https://es.khanacademy.org/science/ap-chemistry-beta/x2eef969c74e0d802:thermodynamics/x2eef969c74e0d802:endothermic-and-exothermic-processes/v/endothermic-and-exothermic-processes"
+    },
+    {
+        "id": 648,
+        "title": "Introducción a la cinética",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video introduce la cinética química, analizando las velocidades de reacción y los factores que las afectan, como temperatura, concentración y catalizadores. Explica los conceptos de energía de activación y complejo activado, utilizando gráficos de energía.",
+        "tags": [
+            "Cinética química",
+            "Energía de activación",
+            "Velocidad de reacción"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/chem-kinetics/reaction-rates/v/introduction-to-kinetics"
+    },
+    {
+        "id": 649,
+        "title": "Teoría cinética molecular de los gases",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video presenta la ecuación general de estado de los gases ideales y la teoría cinética molecular con sus cinco supuestos. Explica el movimiento de partículas, las colisiones elásticas y la relación entre la temperatura en grados Kelvin y la energía cinética promedio del gas.",
+        "tags": [
+            "Gases ideales",
+            "Movimiento de partículas",
+            "Teoría cinética molecular"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/gases-and-kinetic-molecular-theory/x822131fc:kinetic-molecular-theory/v/the-kinetic-molecular-theory-of-gases"
     }
  
 
