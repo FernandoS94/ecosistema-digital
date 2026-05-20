@@ -3597,6 +3597,51 @@
             "Teoría cinética molecular"
         ],
         "url": "https://es.khanacademy.org/science/chemistry/gases-and-kinetic-molecular-theory/x822131fc:kinetic-molecular-theory/v/the-kinetic-molecular-theory-of-gases"
+    },
+    {
+        "id": 650,
+        "title": "Introducción a las velocidades de reacción",
+        "level": "5° año",
+        "category": "Laboratorio, Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El video define la velocidad de reacción como el cambio en la concentración de sustancias respecto al tiempo. Describe cómo expresar la velocidad de reacción en función del cambio en la concentración de cada producto y/o reactivo de una reacción química.",
+        "tags": [
+            "Velocidad de reacción",
+            "Cambios de concentración",
+            "Coeficientes estequiométricos"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/chem-kinetics/reaction-rates/v/rate-of-reaction"
+    },
+    {
+        "id": 651,
+        "title": "Factores que afectan las velocidades de reacción",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video explica los factores que modifican la velocidad de una reacción química. Analiza cómo el aumento de la temperatura, la concentración, el área de contacto y el uso de catalizadores aceleran los procesos mediante diversos ejemplos prácticos.",
+        "tags": [
+            "Cinética química",
+            "Velocidad de reacción",
+            "Catalizadores"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/chem-kinetics/reaction-rates/v/factors-affecting-reaction-rates"
+    },
+    {
+        "id": 652,
+        "title": "Ley de velocidad y orden de reacción",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video presenta la Ley de velocidad, la dependencia con la concentración y con la temperatura, y sus unidades. Muestra un cálculo experimental del orden de reacción, distinguiendo entre órdenes de reacción individuales y totales.",
+        "tags": [
+            "Ley de velocidad",
+            "Orden de reacción",
+            "Constante de velocidad"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/chem-kinetics/reaction-rates/v/rate-law-and-reaction-order"
     }
  
 
