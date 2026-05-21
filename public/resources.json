@@ -1925,202 +1925,8 @@
         ],
         "url": "https://es.khanacademy.org/economics-finance-domain/old-macroeconomics/aggregate-supply-demand-topic-old/keynesian-thinking/v/keynesian-economics"
     },
-    {
-        "id": 275.0,
-        "title": "Proyecto de egreso 2: Mediación de lectura",
-        "level": "5° año",
-        "category": "Otro",
-        "subject": "Proyecto de Vinculación con el Futuro",
-        "mode": "Bachiller",
-        "description": "Este plan guía el diseño de proyectos sociocomunitarios de mediación de lectura. Abarca desde la indagación analógica y digital hasta un relevamiento en la comunidad . El objetivo es diseñar una intervención cultural para fortalecer vínculos en el entorno.",
-        "tags": [
-            "Mediación de la lectura",
-            "Relevamiento",
-            "Planificación"
-        ],
-        "url": "https://rise.articulate.com/share/h9yD-SXYqlGkDWrtZPsXeByaNtMnu15R"
-    },
-     {
-        "id": 266.0,
-        "title": "Investigación literaria B",
-        "level": "4° año, 5° año",
-        "category": "Laboratorio, Taller",
-        "subject": "Laboratorio de la Orientación , Taller de la Orientación ",
-        "mode": "Bachiller",
-        "description": "Este plan aborda la crítica literaria como eje para construir sentido. Recorre el canon, escrituras no hegemónicas y literatura digital. Analiza el conflicto, poeticidad y teorías del siglo XX para promover hipótesis de lectura y el diálogo crítico sobre las obras.",
-        "tags": [
-            "Crítica literaria",
-            "Canon",
-            "Interpretación"
-        ],
-        "url": "https://share.articulate.com/zyYrJBIMfFKfmSzOiY03G"
-    },
-      {
-        "id": 274.0,
-        "title": "Lenguajes combinados B",
-        "level": "3° año",
-        "category": "Laboratorio, Taller",
-        "subject": "Laboratorio de la Orientación , Taller de la Orientación ",
-        "mode": "Bachiller",
-        "description": "El plan explora la intersección entre literatura, artes y tecnologías digitales: hipertextualidad, transmedia, pódcasts, videojuegos e IA. Orienta en nuevos modos de construir significado y obras intermediales, reflexionando sobre el rol del lector activo.",
-        "tags": [
-            "Intermedialidad",
-            "Interactividad",
-            "narrativas transmedia"
-        ],
-        "url": "https://rise.articulate.com/share/UVaJ2GgmD9h48CH4nlx8V4iLFBs-3Bz8"
-    },
-    {
-        "id": 623,
-        "title": "Fuerzas ión-dipolo",
-        "level": "5° año, 3° año",
-        "category": "Laboratorio, Espacio de integración",
-        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
-        "mode": "Bachiller, Técnica",
-        "description": "El video explica las fuerzas ion-dipolo como la atracción entre iones y moléculas polares. Mediante la disolución de sal, ilustra cómo ocurren estas interacciones y detalla, basándose en la ley de Coulomb, qué elementos influyen en la intensidad de estas fuerzas.",
-        "tags": [
-            "Interacciones",
-            "Iones",
-            "Dipolos"
-        ],
-        "url": "https://es.khanacademy.org/science/chemistry/states-of-matter-and-intermolecular-forces/introduction-to-intermolecular-forces/v/ion-dipole-forces"
-    },
-    {
-        "id": 624,
-        "title": "Reacciones de oxidación–reducción (redox)",
-        "level": "5° año, 3° año",
-        "category": "Laboratorio, Espacio de integración",
-        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
-        "mode": "Bachiller, Técnica",
-        "description": "El texto estudia las reacciones de oxidación-reducción, denominado comúnmente redoz. Se definen estas reacciones, el concepto de número de oxidación y las reglas de asignación ",
-        "tags": [
-            "Oxidación",
-            "Reducción",
-            "Números de oxidación"
-        ],
-        "url": "https://es.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/types-of-chemical-reactions/a/oxidation-number"
-    },
-    {
-        "id": 626,
-        "title": "Propiedades físicas de alcoholes y preparación de alcóxidos",
-        "level": "5° año, 3° año",
-        "category": "Laboratorio, Espacio de integración",
-        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
-        "mode": "Bachiller, Técnica",
-        "description": "El video analiza las propiedades de los alcoholes y la preparación de alcóxidos. Compara el etanol con el etano destacando sus altos puntos de ebullición por enlaces de hidrógeno. Explica la formación de alcóxidos con bases fuertes o metales y el desprendimiento de hidrógeno.",
-        "tags": [
-            "Alcoholes",
-            "Puente hidrógeno",
-            "Alcóxidos"
-        ],
-        "url": "https://es.khanacademy.org/science/organic-chemistry/alcohols-ethers-epoxides-sulfides/alcohol-nomenclature-properties/v/physical-properties-of-alcohols-and-preparation-of-alkoxides"
-    },
-    {
-        "id": 627,
-        "title": "Propiedades del alcohol",
-        "level": "5° año, 3° año",
-        "category": "Laboratorio, Espacio de integración",
-        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
-        "mode": "Bachiller, Técnica",
-        "description": "Este recurso aborda la energía potencial elástica y su relación con la Ley de Hooke. Explica contenidos sobre la constante de elasticidad, el trabajo realizado por fuerzas variables y la conservación de la energía en sistemas con resortes. Permite desarrollar habilidades.",
-        "tags": [
-            "Alcoholes",
-            "Enlaces de hidrógeno",
-            "Miscibilidad"
-        ],
-        "url": "https://es.khanacademy.org/science/organic-chemistry/alcohols-ethers-epoxides-sulfides/alcohol-nomenclature-properties/v/alcohol-properties"
-    },
    
-    {
-        "id": 629,
-        "title": "Isomería cis-trans",
-        "level": "5° año, 3° año",
-        "category": "Laboratorio, Espacio de integración",
-        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
-        "mode": "Bachiller, Técnica",
-        "description": "El video aborda la isomería cis-trans en alquenos. Explica que la falta de rotación libre en enlaces dobles genera moléculas distintas con propiedades diferentes. Detalla cómo asignar la nomenclatura cis-trans, evaluando los grupos unidos a los carbonos del doble enlace.",
-        "tags": [
-            "Isomería cis-trans",
-            "Enlaces dobles",
-            "Alquenos"
-        ],
-        "url": "https://es.khanacademy.org/science/organic-chemistry/alkenes-alkynes/naming-alkenes-jay/v/cis-trans-isomerism"
-    },
-    {
-        "id": 630.0,
-        "title": "Introducción a la quiralidad",
-        "level": "5° año, 3° año",
-        "category": "Laboratorio, Espacio de integración",
-        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
-        "mode": "Bachiller, Técnica",
-        "description": "El video introduce la quiralidad con la analogía de las manos para explicar que los objetos quirales no se superponen con su reflejo. Define moléculas y centros quirales.",
-        "tags": [
-            "Estereoisomería",
-            "Centros quirales",
-            "Imagen especular"
-        ],
-        "url": "https://es.khanacademy.org/science/organic-chemistry/stereochemistry-topic/chirality-r-s-system/v/introduction-to-chirality"
-    },
-      {
-        "id": 631,
-        "title": "Quirales. Ejemplos 1",
-        "level": "5° año, 3° año",
-        "category": "Laboratorio, Espacio de integración",
-        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
-        "mode": "Bachiller, Técnica",
-        "description": "El video enseña a identificar centros y moléculas quirales mediante ejemplos.Introduce los enantiómeros, clarifica la diferencia entre configuración y conformación, y resalta cómo la simetría determina si una molécula es quiral.",
-        "tags": [
-            "Estereoisomería",
-            "Configuración",
-            "Conformación"
-        ],
-        "url": "https://es.khanacademy.org/science/organic-chemistry/stereochemistry-topic/chirality-r-s-system/v/chiral-examples-1"
-    },
-    {
-        "id": 632,
-        "title": "Quirales. Ejemplos 2",
-        "level": "5° año, 3° año",
-        "category": "Laboratorio, Espacio de integración",
-        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
-        "mode": "Bachiller, Técnica",
-        "description": "El video ofrece ejemplos prácticos sobre quiralidad. Su tema central es identificar moléculas y objetos no superponibles con su imagen especular.",
-        "tags": [
-            "Estereoisomería",
-            "Quiralidad",
-            "simetría"
-        ],
-        "url": "https://es.khanacademy.org/science/organic-chemistry/stereochemistry-topic/chirality-r-s-system/v/chiral-examples-2"
-    },
-    {
-        "id": 633.0,
-        "title": "Quiral vs aquiral",
-        "level": "5° año, 3° año",
-        "category": "Laboratorio, Espacio de integración",
-        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
-        "mode": "Bachiller, Técnica",
-        "description": "El video explica la quiralidad como una propiedad geométrica basada en la simetría molecular. Define objetos aquirales como aquellos superponibles con su imagen especular, mientras que los quirales no lo son. Se ejemplifican objetos y moléculas quirales mediante el análisis de las imágenes especulares de diferentes objetos y de moléculas armadas con modelos moleculares.",
-        "tags": [
-            "Estereoisomería",
-            "Quiralidad",
-            "Imagen especular"
-        ],
-        "url": "https://es.khanacademy.org/science/organic-chemistry/stereochemistry-topic/chirality-r-s-system/v/chiral-achiral-jay"
-    },
-    {
-        "id": 634,
-        "title": "Identificar los centros de quiralidad",
-        "level": "5° año, 3° año",
-        "category": "Laboratorio, Espacio de integración",
-        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
-        "mode": "Bachiller, Técnica",
-        "description": "El video explica cómo identificar centros de quiralidad en moléculas orgánicas. Establece que un carbono con hibridación sp3 unido a cuatro grupos distintos es un centro quiral. A través de ejemplos prácticos como alcoholes, anillos de hidrocarburos y la molécula de ibuprofeno, muestra cómo descartar como centros quirales a átomos con enlaces dobles (sp2) o grupos idénticos, como metilos (CH3-) y metilenos (-CH2-).",
-        "tags": [
-            "Estereoisomería",
-            "Quiralidad",
-            "Hibridación"
-        ],
-        "url": "https://es.khanacademy.org/science/organic-chemistry/stereochemistry-topic/chirality-r-s-system/v/chirality-center-jay"
-    },
+     
      {
         "id": 476,
         "title": "Origen de la vida",
@@ -2128,7 +1934,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El material analiza el surgimiento de la vida en la Tierra a partir de moléculas inorgánicas simples. Describe la síntesis abiótica de aminoácidos y nucleótidos, destacando el experimento de Miller-Urey. Explica la formación de polímeros complejos como proteínas y ácidos nucleicos bajo condiciones energéticas específicas. Finalmente, presenta las hipótesis del mundo del ARN y del primer metabolismo para explicar el origen de los sistemas vivos",
+        "description": "Este video profundiza en la interferencia constructiva y destructiva, analizando la superposición, el desfase y la diferencia de camino. Aborda modelos ondulatorios y aplicaciones como la cancelación de ruido.",
         "tags": [
             "Síntesis abiótica. Mundo de ADN. Experimento Urey y Miller"
         ],
@@ -2141,7 +1947,7 @@
         "category": "Laboratorio, Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El material describe la historia de la teoría celular a través de los aportes de Hooke, Leeuwenhoek, Schleiden y Schwann. Explica los tres postulados centrales: la vida está compuesta por células, la célula es la unidad básica y toda célula deriva de una preexistente. Asimismo, analiza el surgimiento de las primeras protocélulas hace 3.500 millones de años, vinculando membranas lipídicas con moléculas autorreplicantes como el ARN.",
+        "description": "Este recurso introduce los postulados de la relatividad especial de Einstein: la constancia de la velocidad de la luz y la simultaneidad. Explica conceptos de dilatación del tiempo, contracción de longitud y la equivalencia masa-energía ($E=mc^2$).",
         "tags": [
             "Célula. Teoría celular. Protocélula"
         ],
@@ -2154,7 +1960,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este material describe las características fundamentales de las células eucariotas, enfatizando la compartimentalización mediante organelos membranosos. Explica la estructura y función del núcleo (ADN), los retículos endoplasmáticos y los ribosomas en la síntesis proteica. Aborda el rol del aparato de Golgi, la producción de ATP en mitocondrias y la fotosíntesis en cloroplastos. También analiza vacuolas y lisosomas en procesos de almacenamiento y degradación.",
+        "description": "Este material describe las características fundamentales de las células eucariotas, enfatizando la compartimentalización mediante organelos membranosos. Explica la estructura y función del núcleo (ADN), los retículos endoplasmáticos y los ribosomas en la síntesis proteica.",
         "tags": [
             "Célula eucariota. Organelos. Compartimentalización"
         ],
@@ -2167,7 +1973,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este material describe la propuesta de Lynn Margulis sobre el origen de las células eucariotas. Analiza cómo las mitocondrias y cloroplastos, poseedores de ADN y ribosomas propios, evolucionaron a partir de bacterias procariotas independientes. Explica el proceso de endosimbiosis, donde células de mayor tamaño engulleron organismos menores, estableciendo una relación de codependencia energética y protección que culminó en un único organismo.",
+        "description": "Este material describe la propuesta de Lynn Margulis sobre el origen de las células eucariotas. Analiza cómo las mitocondrias y cloroplastos, poseedores de ADN y ribosomas propios evolucionaron a partir de bacterias procariotas independientes. ",
         "tags": [
             "Teoría endosimbiótica. Célula eucariota. Organelos"
         ],
@@ -2180,7 +1986,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este material desarrolla el concepto de biodiversidad analizando la diversidad de ecosistemas, especies y genes. Explica la importancia de la preservación de la diversidad biológica desde una perspectiva ecológica y evolutiva. Asimismo, examina cómo las actividades humanas y la alteración ambiental son los principales motivos de la pérdida de especies a escala global, promoviendo la comprensión de la interdependencia en los sistemas vivos.",
+        "description": "Este material desarrolla el concepto de biodiversidad analizando la diversidad de ecosistemas, especies y genes. Explica la importancia de la preservación de la diversidad biológica desde una perspectiva ecológica y evolutiva.",
         "tags": [
             "Biodiversidad. Ecosistemas. Conservación"
         ],
@@ -2193,7 +1999,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este material introduce la taxonomía como la ciencia de clasificación de los seres vivos, destacando los aportes de Carlos Linneo. Explica la jerarquía de categorías taxonómicas (reino, filo, clase, orden, familia, género y especie) y el sistema de nomenclatura binomial. Aborda la evolución del campo desde la observación morfológica hacia el uso del ADN para determinar parentescos evolutivos y sitúa al ser humano dentro del árbol de la vida",
+        "description": "Este material introduce la taxonomía como la ciencia de clasificación de los seres vivos, destacando los aportes de Carlos Linneo. Explica la jerarquía de categorías taxonómicas  y el sistema de nomenclatura binomial.",
         "tags": [
             "Taxonomía. Árbol filogenético. Clasificación biológica"
         ],
@@ -2206,7 +2012,7 @@
         "category": "Laboratorio, Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este material aborda el concepto biológico de especie como unidad fundamental de la taxonomía. Define a los organismos por su capacidad de entrecruzarse y generar descendencia fértil, diferenciándolos de los híbridos estériles, como mulas o ligres. Asimismo, analiza la variabilidad morfológica y el parentesco evolutivo, demostrando que la similitud física no es un criterio suficiente para la clasificación biológica",
+        "description": "Este material aborda el concepto biológico de especie como unidad fundamental de la taxonomía. Define a los organismos por su capacidad de entrecruzarse y generar descendencia fértil, diferenciándolos de los híbridos estériles.",
         "tags": [
             "Especies. Híbrido. Taxonomía"
         ],
@@ -2219,7 +2025,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este material explica la construcción de árboles filogenéticos como representaciones de relaciones de parentesco evolutivo. Describe cómo identificar ancestros comunes y caracteres derivados para proponer hipótesis sobre la evolución de las especies. Introduce el principio de parsimonia para seleccionar la explicación más sencilla en el trazado de ramas. Asimismo, destaca el rol de la evidencia molecular para validar dichos modelos.",
+        "description": "Este material explica la construcción de árboles filogenéticos como representaciones de relaciones de parentesco evolutivo. Describe cómo identificar ancestros comunes y caracteres derivados para proponer hipótesis sobre la evolución de las especies. ",
         "tags": [
             "Árbol filogenético. Caracteres derivados. Parsimonia"
         ],
@@ -2232,7 +2038,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este material define al árbol filogenético como una hipótesis representativa de las relaciones evolutivas entre organismos. Describe su anatomía (ramas, nodos y raíz) y enseña a interpretarlos identificando el ancestro común más reciente para determinar el parentesco entre especies. Aborda conceptos como la politomía y la rotación de nodos. Además, explica que se construyen comparando rasgos físicos, registros fósiles y secuencias de ADN.",
+        "description": "Este material define al árbol filogenético como una hipótesis representativa de las relaciones evolutivas entre organismos. Describe su anatomía (ramas, nodos y raíz) y enseña a interpretarlos.",
         "tags": [],
         "url": "https://es.khanacademy.org/science/biology/her/tree-of-life/a/phylogenetic-trees"
     },
@@ -2243,7 +2049,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este material analiza las evidencias del cambio evolutivo, por ejemplo, macroestructuras como órganos homólogos y el registro fósil, ejemplificando cambios graduales. Además, explora el nivel micro a través de la genética molecular, destacando la universalidad del ADN y el código genético compartido entre especies. Finalmente, presenta la observación directa de la evolución en tiempo real mediante la resistencia bacteriana.",
+        "description": "Este material analiza las evidencias del cambio evolutivo, por ejemplo, macroestructuras como órganos homólogos y el registro fósil, ejemplificando cambios graduales. Explora el nivel micro a través de la genética molecular.",
         "tags": [
             "Evolución. Homología. Genética"
         ],
@@ -2256,7 +2062,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este video recorre la historia evolutiva desde los ancestros mamíferos post-dinosaurios hasta el surgimiento del Homo sapiens. Analiza la transición de primates primitivos a grandes simios y la separación del linaje humano de los chimpancés. Describe hitos como el bipedismo en Australopithecus, el uso de herramientas en Homo habilis y la expansión craneal en Homo erectus. Sitúa a los Neandertales como especie hermana y aborda la aparición del hombre moderno.",
+        "description": "Este video recorre la historia evolutiva desde los ancestros mamíferos post-dinosaurios hasta el surgimiento del Homo sapiens. Analiza la transición de primates primitivos a grandes simios y la separación del linaje humano de los chimpancés. ",
         "tags": [
             "Evolución humana. Homínidos. Primates"
         ],
@@ -2269,7 +2075,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El material introduce la taxonomía a través de Linneo, explicando las jerarquías de clasificación desde especie hasta dominio. Detalla cómo herramientas modernas como el ADN y la evolución aportan evidencia sobre el parentesco y ancestros comunes. Utilizando el linaje humano como ejemplo, sitúa a las especies en el árbol de la vida, destacando que toda la vida está relacionada mediante similitudes en su material genético y un origen compartido.",
+        "description": "El material introduce la taxonomía a través de Linneo, explicando las jerarquías de clasificación desde especie hasta dominio. Detalla cómo herramientas modernas como el ADN y la evolución aportan evidencia sobre el parentesco y ancestros comunes",
         "tags": [
             "Taxonomía. Árbol de la vida. Clasificación biológica"
         ],
@@ -2282,7 +2088,7 @@
         "category": "Laboratorio, Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El material define la selección natural como el motor de la evolución, desmintiendo concepciones erróneas sobre procesos conscientes. Explica cómo la variabilidad preexistente en una población es filtrada por factores ambientales, resultando en una reproducción diferencial. Ilustra el concepto mediante casos como el melanismo industrial y ejemplos de observación directa, tales como la resistencia bacteriana y la mutación de virus",
+        "description": "El material define la selección natural como el motor de la evolución, desmintiendo concepciones erróneas sobre procesos conscientes. Explica cómo la variabilidad preexistente en una población es filtrada por factores ambientales, resultando en una reproducción diferencial.",
         "tags": [
             "Selección natural. Variabilidad. Adaptación"
         ],
@@ -2295,7 +2101,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El texto profundiza en la ecología de poblaciones y la demografía, definiendo tamaño, densidad y dispersión. Describe métodos de muestreo como cuadrantes y captura-recaptura para estimar el número de individuos. Analiza también los patrones de distribución espacial (uniforme, aleatorio y agrupado), brindando herramientas teóricas para comprender cómo las poblaciones interactúan con su ambiente.",
+        "description": "El texto profundiza en la ecología de poblaciones y la demografía, definiendo tamaño, densidad y dispersión. Describe métodos de muestreo como cuadrantes y captura-recaptura para estimar el número de individuos. Analiza también los patrones de distribución espacial",
         "tags": [
             "Ecología de las poblaciones. Densidad poblacional. Distribución espacial."
         ],
@@ -2308,7 +2114,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El video define la ecología como el estudio de las interacciones entre seres vivos y su ambiente. Diferencia entre factores bióticos y abióticos, resaltando su influencia recíproca. Asimismo, describe los niveles de organización: individuo, población, comunidad, ecosistema y biosfera. El recurso aporta ejemplos concretos para abordar la complejidad de los sistemas biológicos y su equilibrio en distintas escalas.",
+        "description": "El video define la ecología como el estudio de las interacciones entre seres vivos y su ambiente. Diferencia entre factores bióticos y abióticos, resaltando su influencia recíproca. Asimismo, describe los niveles de organización: individuo, población, comunidad",
         "tags": [
             "Ecología. Factores abióticos y bióticos. Niveles de organización."
         ],
@@ -2321,7 +2127,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El texto describe la estructura de las comunidades biológicas, definida por la diversidad de especies. Describe factores abióticos, geográficos y perturbaciones que influyen en su composición. Resalta la función de las especies “fundadoras” y “clave” en el equilibrio ecosistémico, detallando cómo su presencia, reducción o pérdida afectan la estabilidad. Provee ejemplos concretos para el análisis de casos.",
+        "description": "El texto describe la estructura de las comunidades biológicas, definida por la diversidad de especies. Describe factores abióticos, geográficos y perturbaciones que influyen en su composición. ",
         "tags": [
             "Comunidad biológica. Biodiversidad. Estabilidad ecosistémica."
         ],
@@ -2334,7 +2140,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El video analiza el flujo de energía y el reciclaje cíclico de la materia en los ecosistemas. Explica el rol de productores, consumidores y descomponedores, describiendo el modo en que se produce la transferencia energética y la liberación de calor. Menciona la fotosíntesis para la fijación de carbono y la respiración celular, enfatizando que, mientras la energía se disipa, los átomos se reutilizan perpetuamente en la biosfera.",
+        "description": "El video analiza el flujo de energía y el reciclaje cíclico de la materia en los ecosistemas. Explica el rol de productores, consumidores y descomponedores, describiendo el modo en que se produce la transferencia energética y la liberación de calor.",
         "tags": [
             "Flujo de energía. Ciclos de la materia. Niveles tróficos."
         ],
@@ -2347,7 +2153,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El texto define el ecosistema como la comunidad biológica y sus interacciones con su ambiente. Describe la dinámica de reciclaje de materia y el flujo unidireccional de energía. Además, introduce nociones sobre la estabilidad ecosistémica: resistencia y resiliencia frente a perturbaciones, e indica cómo la biodiversidad fortalece el equilibrio biológico frente a cambios naturales o antropogénicos.",
+        "description": "El texto define el ecosistema como la comunidad biológica y sus interacciones con su ambiente. Describe la dinámica de reciclaje de materia y el flujo unidireccional de energía. Introduce nociones sobre la estabilidad ecosistémica.",
         "tags": [
             "Ecosistema. Ciclo de materia. Flujo de energía."
         ],
@@ -2360,7 +2166,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El video describe la organización biológica desde los niveles de poblaciones hasta ecosistemas, resaltando la interacción entre factores bióticos y abióticos. Introduce el flujo de energía, el reciclaje de materia y la clasificación de ambientes en acuáticos y terrestres. Aborda el concepto de bioma y analiza cómo el clima y la geografía determinan la biodiversidad y las variaciones dentro de un mismo ecosistema.",
+        "description": "El video describe la organización biológica desde los niveles de poblaciones hasta ecosistemas, resaltando la interacción entre factores bióticos y abióticos. Introduce el flujo de energía, el reciclaje de materia y la clasificación de ambientes en acuáticos y terrestres.",
         "tags": [
             "Ecosistema. Factores abióticos y bióticos. Biomas"
         ],
@@ -2373,7 +2179,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El texto proporciona aportes sobre la ecología de poblaciones. Aborda conceptos como tamaño (N), densidad y patrones de distribución. Describe los modelos de crecimiento exponencial y logístico, introduce la noción de la capacidad de carga (K) y los factores que regulan la población (dependientes o independientes de la densidad). Además, identifica errores conceptuales frecuentes que actúan como obstáculos para los estudiantes.",
+        "description": "El texto proporciona aportes sobre la ecología de poblaciones. Aborda conceptos como tamaño (N), densidad y patrones de distribución. Describe los modelos de crecimiento exponencial y logístico, introduce la noción de la capacidad de carga (K) y los factores que regulan la población.",
         "tags": [
             "Dinámica de poblaciones. Modelos de crecimiento. Capacidad de carga."
         ],
@@ -2386,7 +2192,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El texto diferencia niveles como individuo, especie, población, comunidad y ecosistema. Introduce el uso de la nomenclatura binomial y la interacción entre factores bióticos y abióticos. Resalta la flexibilidad de las escalas espaciales en la investigación y ofrece diagramas y ejemplos concretos para explicar cómo se organizan los seres vivos y su relación con ambiente.",
+        "description": "El texto diferencia niveles como individuo, especie, población, comunidad y ecosistema. Introduce el uso de la nomenclatura binomial y la interacción entre factores bióticos y abióticos. Resalta la flexibilidad de las escalas espaciales en la investigación.",
         "tags": [
             "Niveles de organización ecológicos. Poblaciones y comunidades. Escalas espaciales ecológicas."
         ],
@@ -2399,7 +2205,7 @@
         "category": "Laboratorio, Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El video describe el proceso de fecundación y las etapas iniciales del desarrollo humano, desde la unión de los gametos hasta la formación del feto. Describe la dotación cromosómica y el proceso de mitosis que transforma el cigoto en mórula y blastocisto. Además, aborda la transición de embrión a feto, detallando el crecimiento y la funcionalidad de la placenta.",
+        "description": "El video describe el proceso de fecundación y las etapas iniciales del desarrollo humano, desde la unión de los gametos hasta la formación del feto. Describe la dotación cromosómica y el proceso de mitosis que transforma el cigoto en mórula y blastocisto.",
         "tags": [
             "Fecundación. Cigoto. Desarrollo embrionario."
         ],
@@ -2412,7 +2218,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El texto introduce ciertos aspectos anatómicos y fisiológicos de los sistemas reproductores y genitales humanos. Describe las funciones de órganos clave, la regulación hormonal mediada por FSH y LH, y menciona aspectos generales relacionados con la ovulación y la espermatogénesis. Incluye un apartado de errores comunes sobre la fecundación y la producción de gametos.",
+        "description": "El texto introduce ciertos aspectos anatómicos y fisiológicos de los sistemas reproductores y genitales humanos. Describe las funciones de órganos clave, la regulación hormonal mediada por FSH y LH, la ovulación y la  espermatogénesis.",
         "tags": [
             "Sistemas reproductores humanos. Regulación hormonal. Fecundación."
         ],
@@ -2425,7 +2231,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El video compara la reproducción asexual y sexual. Presenta procesos tales como la fisión binaria, gemación, fragmentación y partenogénesis. Explica cómo la reproducción asexual produce \"clones\", mientras que la sexual, mediante la fusión de gametos, genera variabilidad genética. El recurso permite abordar la noción de ciclo de vida, introduce conceptos como mitosis y destaca la importancia evolutiva de la diversidad en las poblaciones.",
+        "description": "El video compara la reproducción asexual y sexual. Presenta procesos tales como la fisión binaria, gemación, fragmentación y partenogénesis.",
         "tags": [
             "Reproducción asexual. Reproducción sexual. Variabilidad genética."
         ],
@@ -2438,7 +2244,7 @@
         "category": "Laboratorio, Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El material desarrolla la teoría de Darwin, definida como descendencia con modificación desde un ancestro común. Explica la selección natural como el mecanismo basado en rasgos heredables que favorecen la supervivencia y la adaptación poblacional.",
+        "description": "El video describe el proceso de fecundación y las etapas iniciales del desarrollo humano, desde la unión de los gametos hasta la formación del feto. Describe la dotación cromosómica y el proceso de mitosis que transforma el cigoto en mórula y blastocisto.",
         "tags": [
             "Selección natural. Adaptación. Ancestro común"
         ],
@@ -2451,7 +2257,7 @@
         "category": "Laboratorio, Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El video explica la variación genética como base de la selección natural. Contrasta las mutaciones con la reproducción sexual, destacando a esta última como la fuente principal de diversidad poblacional mediante la recombinación y el azar en la herencia",
+        "description": "El texto introduce ciertos aspectos anatómicos y fisiológicos de los sistemas reproductores y genitales humanos. Describe las funciones de órganos clave, la regulación hormonal mediada por FSH y LH, la ovulación y la  espermatogénesis.",
         "tags": [
             "Variación genética. Reproducción sexual. Selección natural"
         ],
@@ -2464,7 +2270,7 @@
         "category": "Laboratorio, Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El material explica cómo la selección natural genera microevolución al modificar las frecuencias alélicas en una población. Analiza la adecuación biológica y describe los tipos de selección sobre rasgos poligénicos: estabilizadora, direccional y disruptiva.",
+        "description": "El video compara la reproducción asexual y sexual. Presenta procesos tales como la fisión binaria, gemación, fragmentación y partenogénesis.",
         "tags": [
             "Microevolución. Adecuación. Selección poligénica"
         ],
@@ -2477,7 +2283,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El material define la deriva génica como un mecanismo evolutivo por azar que altera las frecuencias alélicas, con mayor impacto en poblaciones pequeñas. Explica fenómenos como el efecto fundador, el cuello de botella y la fijación o pérdida de alelos.",
+        "description": "El material desarrolla la teoría de Darwin, definida como descendencia con modificación desde un ancestro común. Explica la selección natural como el mecanismo basado en rasgos heredables que favorecen la supervivencia y la adaptación poblacional",
         "tags": [
             "Azar. Población. Microevolución"
         ],
@@ -2542,7 +2348,7 @@
         "category": "Laboratorio, Espacio de integración",
         "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
         "mode": "Bachiller, Técnica",
-        "description": "El video introduce a la Química como una ciencia clave que nos ayuda a entender, representar y anticipar cómo funciona el mundo y su relación con la Física y las Matemáticas. Presenta a los elementos químicos, su clasificación periódica y la relación con la estructura atómica.",
+        "description": "El video introduce a la Química como ciencia clave que nos ayuda a entender, representar y anticipar cómo funciona el mundo y su relación con la Física y las Matemáticas.",
         "tags": [
             "Materia",
             "Modelo",
@@ -2557,7 +2363,7 @@
         "category": "Laboratorio, Espacio de integración",
         "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
         "mode": "Bachiller, Técnica",
-        "description": "El video introduce en la identificación de mezclas (homogéneas y heterogéneas), el concepto de aleación y el de solución, sin profundizar en las medidas de concentración, ni los métodos de separación.",
+        "description": "El video introduce en la identificación de mezclas (homogéneas y heterogéneas), el concepto de aleación y de solución.",
         "tags": [
             "Solución",
             "Mezcla",
@@ -2572,7 +2378,7 @@
         "category": "Laboratorio, Espacio de integración",
         "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
         "mode": "Bachiller, Técnica",
-        "description": "El video presenta el concepto de elemento, sustancia pura y átomo; y estados de la materia, así como los fundamentos de cómo los protones, electrones y neutrones conforman un átomo. También presenta la carga de las partículas y el concepto de nube electrónica y núcleo atómico.",
+        "description": "El video presenta el concepto de elemento, sustancia pura y átomo; y estados de la materia.",
         "tags": [
             "Modelo",
             "Electrón",
@@ -2617,7 +2423,7 @@
         "category": "Laboratorio, Espacio de integración",
         "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
         "mode": "Bachiller, Técnica",
-        "description": "El video presenta la tabla periódica de los elementos, indica cómo puede identificarse la estructura subatómica desarrollada en la tabla. Además, introduce el concepto de neutralidad de carga y cómo se forman los iones, aniones y cationes a partir de la modificación del número de electrones.",
+        "description": "El video presenta la tabla periódica de los elementos, indica cómo puede identificarse la estructura subatómica desarrollada en la tabla. Introduce el concepto de neutralidad de carga y cómo se forman los iones, aniones y cationes.",
         "tags": [
             "Anión",
             "Catión",
@@ -2632,7 +2438,7 @@
         "category": "Laboratorio, Espacio de integración",
         "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
         "mode": "Bachiller, Técnica",
-        "description": "El video realiza una instrucción a los estados de la materia, asociándolo a niveles energéticos. Aborda el concepto de polaridad y densidad, y cómo esta varía entre estados. También explica someramente el concepto de Entalpía para asociarlo con los cambios de estado.",
+        "description": "El video realiza una instrucción a los estados de la materia, asociándolo a niveles energéticos. Aborda el concepto de polaridad y densidad, y cómo esta varía entre estados.",
         "tags": [
             "Materia",
             "Estados",
@@ -2677,7 +2483,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan se enfoca en el perfeccionamiento de las técnicas de nado y la seguridad en el medio acuático, integrando el aprendizaje de los estilos crol, espalda y pecho con maniobras de rescate básico. Los estudiantes desarrollan su capacidad física de manera recreativa y deportiva, fortaleciendo la confianza propia y la responsabilidad de cuidar la integridad de sus compañeros en el agua.",
+        "description": "El plan se enfoca en el perfeccionamiento de las técnicas de nado y la seguridad en el medio acuático, integrando el aprendizaje de los estilos crol, espalda y pecho con maniobras de rescate básico.",
         "tags": [
             "Técnicas de Nado",
             "Confianza",
@@ -2705,7 +2511,7 @@
         "category": "Laboratorio, Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El video explica la interfase, fase donde la célula crece y realiza sus funciones. Detalla las etapas G?, S (duplicación de ADN) y G?, describiendo el estado de la cromatina y la replicación de cromosomas y centrosomas necesaria antes de la mitosis.",
+        "description": "El video explica la interfase, fase donde la célula crece y realiza sus funciones. Detalla las etapas G₁, S (duplicación de ADN) y G₂, describiendo el estado de la cromatina y la replicación de cromosomas y centrosomas necesaria antes de la mitosis.",
         "tags": [
             "Ciclo celular","Interfase","Replicación del ADN"
         ],
@@ -3109,7 +2915,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El video analiza el sistema nervioso y su clasificación en central y periférico. Explica la fisiología neuronal, el potencial de acción y la sinapsis. Además, aborda funciones autónomas y somáticas, resaltando la importancia de la homeostasis y el arco reflejo.",
+        "description": "El video analiza el sistema nervioso y su clasificación. Explica la fisiología neuronal, el potencial de acción y la sinapsis. Además, aborda funciones autónomas y somáticas, resaltando la importancia de la homeostasis y el arco reflejo.",
         "tags": [
             "Sistema nervioso","Neuronas","Sinapsis"
         ],
@@ -3122,7 +2928,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El video describe la estructura y función de la neurona como unidad del sistema nervioso. Detalla sus partes: dendritas, soma y axón. Explica cómo se transmiten los impulsos eléctricos, la función de la vaina de mielina y la función de la sinapsis en la comunicación celular.",
+        "description": "El video describe la estructura y función de la neurona como unidad del sistema nervioso. Detalla sus partes y explica cómo se transmiten los impulsos eléctricos, la función de la vaina de mielina y la sinapsis en la comunicación celular.",
         "tags": [
             "Estructura neuronal","Impulso eléctrico","Sinapsis"
         ],
@@ -3148,7 +2954,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "Este plan explora la imagen múltiple y los objetos editoriales seriados (fanzines, cómics, pósters). Analiza la construcción de sentido en la narrativa visual mediante la composición, el montaje y la relación imagen-texto. Aborda el lenguaje simbólico, la metáfora visual y los lenguajes combinados. Propone la experimentación con técnicas de reproducción y herramientas digitales para crear piezas gráficas con impacto social, promoviendo la mirada y la producción propia.",
+        "description": "Este plan explora la imagen múltiple y los objetos editoriales seriados (fanzines, cómics, pósters). Analiza la construcción de sentido en la narrativa visual mediante la composición, el montaje y la relación imagen-texto. ",
         "tags": [
             "Imagen múltiple","Narrativa visual","Diseño editorial"
         ],
@@ -3161,7 +2967,7 @@
         "category": "Taller",
         "subject": "Taller de Artes",
         "mode": "Bachiller",
-        "description": "Este plan explora la dualidad entre lo real y lo imaginario mediante los conceptos de matriz y serie. Propone abordar el grabado como técnica y símbolo de producción masiva, analizando modos de representación como la mímesis, la fantasía y la ficción. El docente encontrará herramientas para trabajar la construcción de sentido en la cultura visual, fomentando la experimentación técnica y el análisis crítico de la imagen en contextos contemporáneos.",
+        "description": "Este plan explora la dualidad entre lo real y lo imaginario mediante los conceptos de matriz y serie. Propone abordar el grabado como técnica y símbolo de producción masiva, analizando modos de representación como la mímesis, la fantasía y la ficción.",
         "tags": [
             "Matriz","Representación (entre lo real y lo ficcional)"
         ],
@@ -3335,13 +3141,210 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan presenta un taller enfocado en la relación entre la Literatura y la Historia del Arte. Se analiza la función mágico-simbólica del arte (ritos, máscaras, ídolos) y las concepciones artísticas en América, destacando el sincretismo, la hibridación, el barroco y los nacionalismos. El plan busca que los estudiantes indaguen, analicen y confronten ideas sobre hitos artísticos y culturales a lo largo del tiempo.",
+        "description": "El presenta un  taller donde se  enfoca la relación entre Literatura e Historia del Arte. Analiza la función mágico-simbólica y las concepciones artísticas en América, destacando el sincretismo, la hibridación, el barroco y los nacionalismos.",
         "tags": [
             "Historia del arte",
             "Sincretismo",
             "Hibridación"
         ],
         "url": "https://share.articulate.com/CQx-OY6Z66CT-gMr1So3t"
+    },
+    {
+        "id": 274.0,
+        "title": "Lenguajes combinados B",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación , Taller de la Orientación ",
+        "mode": "Bachiller",
+        "description": "El plan explora la intersección entre literatura, artes y tecnologías digitales: hipertextualidad, transmedia, pódcasts, videojuegos e IA. Orienta en nuevos modos de construir significado y obras intermediales, reflexionando sobre el rol del lector activo.",
+        "tags": [
+            "Intermedialidad",
+            "Interactividad",
+            "narrativas transmedia"
+        ],
+        "url": "https://rise.articulate.com/share/UVaJ2GgmD9h48CH4nlx8V4iLFBs-3Bz8"
+    },
+     {
+        "id": 275.0,
+        "title": "Proyecto de egreso 2: Mediación de lectura",
+        "level": "5° año",
+        "category": "Otro",
+        "subject": "Proyecto de Vinculación con el Futuro",
+        "mode": "Bachiller",
+        "description": "Este plan guía el diseño de proyectos sociocomunitarios de mediación de lectura. Abarca desde la indagación analógica y digital hasta un relevamiento en la comunidad . El objetivo es diseñar una intervención cultural para fortalecer vínculos en el entorno.",
+        "tags": [
+            "Mediación de la lectura",
+            "Relevamiento",
+            "Planificación"
+        ],
+        "url": "https://rise.articulate.com/share/h9yD-SXYqlGkDWrtZPsXeByaNtMnu15R"
+    },
+    {
+        "id": 266.0,
+        "title": "Investigación literaria B",
+        "level": "4° año, 5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación , Taller de la Orientación ",
+        "mode": "Bachiller",
+        "description": "Este plan aborda la crítica literaria como eje para construir sentido. Recorre el canon, escrituras no hegemónicas y literatura digital. Analiza el conflicto, poeticidad y teorías del siglo XX para promover hipótesis de lectura y el diálogo crítico sobre las obras.",
+        "tags": [
+            "Crítica literaria",
+            "Canon",
+            "Interpretación"
+        ],
+        "url": "https://share.articulate.com/zyYrJBIMfFKfmSzOiY03G"
+    },
+      
+    {
+        "id": 623,
+        "title": "Fuerzas ión-dipolo",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video explica las fuerzas ion-dipolo como la atracción entre iones y moléculas polares. Mediante la disolución de sal, ilustra cómo ocurren estas interacciones y detalla, basándose en la ley de Coulomb, qué elementos influyen en la intensidad de estas fuerzas.",
+        "tags": [
+            "Interacciones",
+            "Iones",
+            "Dipolos"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/states-of-matter-and-intermolecular-forces/introduction-to-intermolecular-forces/v/ion-dipole-forces"
+    },
+    {
+        "id": 624,
+        "title": "Reacciones de oxidación–reducción (redox)",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El texto estudia las reacciones de oxidación-reducción, denominado comúnmente redoz. Se definen estas reacciones, el concepto de número de oxidación y las reglas de asignación ",
+        "tags": [
+            "Oxidación",
+            "Reducción",
+            "Números de oxidación"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/types-of-chemical-reactions/a/oxidation-number"
+    },
+    {
+        "id": 626,
+        "title": "Propiedades físicas de alcoholes y preparación de alcóxidos",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video analiza las propiedades de los alcoholes y la preparación de alcóxidos. Compara el etanol con el etano destacando sus altos puntos de ebullición por enlaces de hidrógeno. Explica la formación de alcóxidos con bases fuertes o metales y el desprendimiento de hidrógeno.",
+        "tags": [
+            "Alcoholes",
+            "Puente hidrógeno",
+            "Alcóxidos"
+        ],
+        "url": "https://es.khanacademy.org/science/organic-chemistry/alcohols-ethers-epoxides-sulfides/alcohol-nomenclature-properties/v/physical-properties-of-alcohols-and-preparation-of-alkoxides"
+    },
+    {
+        "id": 627,
+        "title": "Propiedades del alcohol",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "Este recurso aborda la energía potencial elástica y su relación con la Ley de Hooke. Explica contenidos sobre la constante de elasticidad, el trabajo realizado por fuerzas variables y la conservación de la energía en sistemas con resortes. Permite desarrollar habilidades.",
+        "tags": [
+            "Alcoholes",
+            "Enlaces de hidrógeno",
+            "Miscibilidad"
+        ],
+        "url": "https://es.khanacademy.org/science/organic-chemistry/alcohols-ethers-epoxides-sulfides/alcohol-nomenclature-properties/v/alcohol-properties"
+    },
+   
+    {
+        "id": 629,
+        "title": "Isomería cis-trans",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video aborda la isomería cis-trans en alquenos. Explica que la falta de rotación libre en enlaces dobles genera moléculas distintas con propiedades diferentes. Detalla cómo asignar la nomenclatura cis-trans, evaluando los grupos unidos a los carbonos del doble enlace.",
+        "tags": [
+            "Isomería cis-trans",
+            "Enlaces dobles",
+            "Alquenos"
+        ],
+        "url": "https://es.khanacademy.org/science/organic-chemistry/alkenes-alkynes/naming-alkenes-jay/v/cis-trans-isomerism"
+    },
+    {
+        "id": 630.0,
+        "title": "Introducción a la quiralidad",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video introduce la quiralidad con la analogía de las manos para explicar que los objetos quirales no se superponen con su reflejo. Define moléculas y centros quirales.",
+        "tags": [
+            "Estereoisomería",
+            "Centros quirales",
+            "Imagen especular"
+        ],
+        "url": "https://es.khanacademy.org/science/organic-chemistry/stereochemistry-topic/chirality-r-s-system/v/introduction-to-chirality"
+    },
+      {
+        "id": 631,
+        "title": "Quirales. Ejemplos 1",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video enseña a identificar centros y moléculas quirales mediante ejemplos.Introduce los enantiómeros, clarifica la diferencia entre configuración y conformación, y resalta cómo la simetría determina si una molécula es quiral.",
+        "tags": [
+            "Estereoisomería",
+            "Configuración",
+            "Conformación"
+        ],
+        "url": "https://es.khanacademy.org/science/organic-chemistry/stereochemistry-topic/chirality-r-s-system/v/chiral-examples-1"
+    },
+    {
+        "id": 632,
+        "title": "Quirales. Ejemplos 2",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video ofrece ejemplos prácticos sobre quiralidad. Su tema central es identificar moléculas y objetos no superponibles con su imagen especular.",
+        "tags": [
+            "Estereoisomería",
+            "Quiralidad",
+            "simetría"
+        ],
+        "url": "https://es.khanacademy.org/science/organic-chemistry/stereochemistry-topic/chirality-r-s-system/v/chiral-examples-2"
+    },
+    {
+        "id": 633.0,
+        "title": "Quiral vs aquiral",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "Este recurso aborda la naturaleza dual de la luz y el espectro electromagnético (ondas de radio a rayos gamma). Explica longitud de onda, frecuencia y energía fotónica. ",
+        "tags": [
+            "Estereoisomería",
+            "Quiralidad",
+            "Imagen especular"
+        ],
+        "url": "https://es.khanacademy.org/science/organic-chemistry/stereochemistry-topic/chirality-r-s-system/v/chiral-achiral-jay"
+    },
+    {
+        "id": 634,
+        "title": "Identificar los centros de quiralidad",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "Este video analiza la interferencia de ondas y el principio de superposición, explicando la suma de pulsos en una misma región. Aborda ondas mecánicas y electromagnéticas.",
+        "tags": [
+            "Estereoisomería",
+            "Quiralidad",
+            "Hibridación"
+        ],
+        "url": "https://es.khanacademy.org/science/organic-chemistry/stereochemistry-topic/chirality-r-s-system/v/chirality-center-jay"
     },
     {
         "id": 593,
@@ -3650,7 +3653,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "Este plan aborda el arte contemporáneo y urbano en el espacio público, explorando la relación entre obra, entorno y patrimonio. Analiza la materialidad, texturas e intencionalidad (discursiva, comunicativa y contestataria), diferenciando prácticas legales de actos vandálicos. Incluye el estudio de colectivos artísticos, circuitos de difusión y cultura juvenil. Culmina con el diseño de una instalación colectiva que integra lenguajes combinados y recursos digitales.",
+        "description": "Este plan aborda el arte contemporáneo y urbano en el espacio público, explorando la relación entre obra, entorno y patrimonio. Analiza la materialidad, texturas e intencionalidad, diferenciando prácticas legales actos vandálicos.",
         "tags": [
             "Arte urbano","Patrimonio","Intencionalidad de la producción artística"
         ],
@@ -3663,7 +3666,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "Este material aborda el arte como construcción social y la ciudad como territorio de patrimonio cambiante. Explora intervenciones urbanas (murales, happenings, mapping) desde su diversidad expresiva y estética. Ofrece herramientas para el diagnóstico, planificación y gestión de proyectos artísticos colectivos, promoviendo la resignificación del espacio público, el trabajo colaborativo y la integración de recursos multimediales para vincular la producción con la comunidad.",
+        "description": "Este material aborda el arte como construcción social y la ciudad como territorio de patrimonio cambiante. Explora intervenciones urbanas (murales, happenings, mapping) desde su diversidad expresiva y estética. ",
         "tags": [
             "Patrimonio - Arte público - Gestión de la obra"
         ],
