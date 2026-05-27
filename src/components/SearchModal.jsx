@@ -2,7 +2,7 @@ import { useState, useEffect, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { buildSearchIndex, TYPE_LABELS, TYPE_COLORS } from '../data/searchIndex';
 import './SearchModal.css';
-import { useAnalytics } from '../hooks/useAnalytics';
+
 
 function normalize(str) {
   return str.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
@@ -41,11 +41,11 @@ export function SearchModal({ isOpen, onClose }) {
       normalize(item.desc || '').includes(q)
     ).slice(0, 20);
     setResults(found);
-    if (query.length > 3) track.busquedaGlobal(query);{/*Linea de analytics con el hook e import*/}
+  
   }, [query]);
 
   const handleSelect = (item) => {
-    track.resultadoBuscadorClick(item.title, item.type);{/*Linea de analytics con el hook e import*/}
+    
   onClose();
   if (item.href && item.href !== '#') {
     window.open(item.href, '_blank');
