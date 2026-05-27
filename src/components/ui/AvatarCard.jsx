@@ -1,7 +1,7 @@
-import { useAnalytics } from '../../hooks/useAnalytics';
+
 
 export function AvatarCard({ href, img, label, alt, disabled }) {
-  const { track } = useAnalytics();
+  
   if (disabled) {
     return (
       <div className="avatar-circular avatar-disabled">
