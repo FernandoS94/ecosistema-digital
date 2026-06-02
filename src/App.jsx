@@ -17,6 +17,7 @@ import { FaqSection } from './components/sections/FaqSection';
 import { DocentesPage } from './pages/DocentesPage';
 import { SecundariaAprendePage } from './pages/SecundariaAprende';
 import { FamiliasPage } from './pages/FamiliasPage';
+import { ToastNovedades } from './components/ToastNovedades';
 
 
 
@@ -40,6 +41,7 @@ function AppContent() {
 
   return (
     <>
+    <ToastNovedades />
       <Navbar />
       <FlyerModal />
       <VideoModal />

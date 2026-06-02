@@ -53,4 +53,13 @@ export const APPS = [
     tag: 'Complemento',
     videoKey: 'teachingandlearning',
   },
+  {
+    id: 'futurizaje',
+    img: './img/futurizaje.png',
+    alt: 'Futurizaje',
+    name: 'Futurizaje',
+    description: ' Plataforma educativa con actividades y recursos gratuitos para trabajar en el aula con perspectiva humanística y foco en IA.',
+    tag: 'Plataforma',
+    videoKey: '',
+  },
 ];
