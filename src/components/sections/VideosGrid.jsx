@@ -78,7 +78,7 @@ const VIDEO_CATEGORIES = [
   {
     id: 15,
     label: 'Futurizaje',
-    url: 'https://www.youtube.com/embed/WW3oKrQ7AZI?si=q_bRXIIo-bbBHN5Q',
+    url: 'https://www.youtube.com/watch?v=WW3oKrQ7AZI',
      colorClass: 'vg-purple',
     
   },
