@@ -7,6 +7,7 @@ export const VIDEOS = {
   khanacademy: 'https://www.youtube.com/embed/M81Aez7PJX0?si=zimMNRx7VMXr-et5',
   teachingandlearning: 'https://www.youtube.com/embed/kLXKp_Z0xnE?si=5wOexZp46qnxZIvQ',
   avatar: 'https://www.youtube.com/embed/wQJN1T8H-tA?si=Lfh3bO9WegcUw3b-',
+  futurizaje:'https://www.youtube.com/embed/WW3oKrQ7AZI?si=q_bRXIIo-bbBHN5Q',
 };
 
 export const VIDEO_TITLES = {
@@ -18,4 +19,5 @@ export const VIDEO_TITLES = {
   teachingandlearning: 'Tutorial: ¿Cómo potenciar tu entorno digital de trabajo?',
   gem: 'Tutorial: Creá tu Docente IA',
   avatar: 'Tutorial: ¿Cómo utilizar los avatares?',
+  futurizaje:'Tutorial: ¿Qué es Futurizaje?',
 };

@@ -97,6 +97,15 @@ const VIDEOS = [
     title: '¿Qué es Khan Academy?',
     desc: 'En este video conocerás las potencialidades de Khan Academy.',
   },
+  {
+    id: 17,
+    url: 'https://www.youtube.com/embed/WW3oKrQ7AZI?si=q_bRXIIo-bbBHN5Q',
+    title: '¿Qué es Futurizaje?',
+    desc: 'Conocé esta plataforma gratuita llena de recursos y aprendizaje.',
+  },
+
+
+  
 ];
 
 function VideoCard({ url, title, desc }) {

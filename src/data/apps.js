@@ -60,6 +60,6 @@ export const APPS = [
     name: 'Futurizaje',
     description: ' Plataforma educativa con actividades y recursos gratuitos para trabajar en el aula con perspectiva humanística y foco en IA.',
     tag: 'Plataforma',
-    videoKey: '',
+    videoKey: 'futurizaje',
   },
 ];

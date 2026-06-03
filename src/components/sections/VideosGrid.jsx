@@ -75,6 +75,13 @@ const VIDEO_CATEGORIES = [
     url: 'https://www.youtube.com/watch?v=-jtBN6_VsK4',
     colorClass: 'vg-olive-dark',
   },
+  {
+    id: 15,
+    label: 'Futurizaje',
+    url: 'https://www.youtube.com/embed/WW3oKrQ7AZI?si=q_bRXIIo-bbBHN5Q',
+     colorClass: 'vg-purple',
+    
+  },
  
 ];
 

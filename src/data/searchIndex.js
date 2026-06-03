@@ -17,6 +17,7 @@ const VIDEOS_DOCENTES = [
   { id: 'vd10', title: 'Planificar con IA' },
   { id: 'vd13', title: 'Introducción a la IA' },
   { id: 'vd14', title: 'Organizar e investigar con IA' },
+  { id: 'vd15', title: 'Futurizaje' },
 ];
 
 // Videos de familias
