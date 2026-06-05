@@ -3708,6 +3708,143 @@
         "description": "Este material explora la fotografía como herramienta estética y narrativa, desde el daguerrotipo hasta la era digital. Analiza el retrato como construcción de identidad y el debate entre técnica y arte a través del pictorialismo y la fotografía directa. Aborda el lugar de la fotografía en las vanguardias del siglo XX y su influencia en Latinoamérica. ",
         "tags": ["Fotografía","Vanguardias","Elementos visuales"],
         "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/687e7370c1acfcda18565baa"
+    },
+     {
+        "id": 119,
+        "title": "De la carreta al Maglev A",
+        "level": "4° año, 3° año, 5° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El plan se enfoca en los contenidos de cinemática y dinámica. Su propuesta permite que los docentes guíen a los estudiantes en la elaboración de descripciones del movimiento mediante el análisis de variables como posición, velocidad y aceleración, y la interpretación de gráficos de MRU y MRUV (Movimiento Rectilíneo Uniforme y Uniformemente Variado). Además, se estudian las Leyes de Newton y la Ley de Hooke para comprender las fuerzas que rigen los cambios en el movimiento.",
+        "tags": [
+            "Movimiento",
+            "Velocidad",
+            "Aceleración",
+            "Fuerzas",
+            "Leyes De Newton"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/685acf942f0ec7fef0ad792f"
+    },
+    {
+        "id": 120,
+        "title": "De la carreta al Maglev B",
+        "level": "4° año, 3° año, 5° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales, Laboratorio Ciencias Sociales",
+        "mode": "Bachiller",
+        "description": "El plan analiza la física y química del transporte de alta velocidad mediante el tren Maglev. Integra nociones de gravitación (aplicada a satélites), energía (cinética, potencial y elástica) y su conservación. Explora el electromagnetismo para explicar la levitación y propulsión sin fricción. Además, aborda la estequiometría en reacciones de combustión y la caracterización de hidrocarburos en combustibles",
+        "tags": [
+            "Electromagnetismo",
+            "Energía",
+            "Estequiometría"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68754c8e634e37bb243ab952"
+    },
+    {
+        "id": 126,
+        "title": "Ambiente, nutrición y salud reproductiva B",
+        "level": "1° año, 2° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El plan propone un enfoque integral que vincula la función de nutrición (sistemas digestivo, respiratorio, circulatorio y excretor) con la salud sexual y reproductiva. Analiza la nutrición celular, la respiración y procesos de combustión mediante el uso de la estequiometría. Fomenta hábitos saludables en la adolescencia y la prevención de ITS y embarazos. Incluye la producción de un libro de recetas y un podcast sobre fertilidad",
+        "tags": [
+            "Nutrición",
+            "Estequiometría",
+            "Salud Reproductiva"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/686810d6fbbd1f4b1a80f2dc"
+    },
+    {
+        "id": 127,
+        "title": "¿Una isla en la ciudad? A",
+        "level": "3° año, 4° año, 5° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "El plan propone indagar el fenómeno de la isla de calor urbana mediante el estudio de la radiación, la temperatura y los materiales del entorno. A través de la observación, registro y modelización, se promueve la comprensión de cómo las interacciones entre energía, superficies y actividades humanas modifican las condiciones térmicas de la ciudad y afectan la calidad de vida de sus habitantes",
+        "tags": [
+            "Isla De Calor",
+            "Transmisión Del Calor",
+            "Radiación"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6882475f4a4a8a1a137c64e2"
+    },
+    {
+        "id": 128,
+        "title": "¿Una isla en la ciudad? B",
+        "level": "3° año, 4° año, 5° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este plan profundiza en la mitigación de la isla de calor urbana mediante el diseño de soluciones sostenibles. Integra el estudio de las leyes de los gases, la teoría cinética y la capacidad calorífica del agua como regulador climático. A través de la comparación de superficies y la creación de una «ecoesquina», los alumnos evalúan cómo el diseño urbano y el albedo afectan la temperatura, promoviendo la reflexión sobre decisiones que impactan en el bienestar y la sustentabilidad",
+        "tags": [
+            "Mitigación",
+            "Isla De Calor",
+            "Albedo"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68890ae910709d477287129b"
+    },
+    {
+        "id": 131,
+        "title": "Hormonas, neuronas y algo más en el deporte A",
+        "level": "3° año, 4° año, 5° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este Plan desarrolla la homeostasis y la regulación neuroendocrina integrada. Aborda la fisiología del sistema nervioso (SNC, SNP, neurona e impulsos) y del sistema endocrino (glándulas, hormonas y tejidos diana). Analiza el impacto biológico del deporte, vinculando la secreción hormonal con el bienestar emocional. Asimismo, examina las consecuencias del sedentarismo en la salud metabólica y mental durante la adolescencia",
+        "tags": [
+            "Homeostasis",
+            "Regulación Neuroendócrina",
+            "Deporte"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68714808d20b9fabda5efaa4"
+    },
+    {
+        "id": 132,
+        "title": "Hormonas, neuronas y algo más en el deporte B",
+        "level": "3° año, 4° año, 5° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este material profundiza en la diversidad química de las hormonas y su impacto biológico en el deporte. Analiza compuestos orgánicos derivados del carbono, como hidrocarburos y alcoholes, vinculando su estructura con efectos en el organismo. Aborda la electrodinámica neuronal, sustancias que alteran el sistema nervioso y mecanismos de defensa inmunitaria, incluyendo vacunas y medicamentos. Promueve la reflexión crítica sobre el dopaje y la prevención de adicciones",
+        "tags": [
+            "Hormonas",
+            "Compuestos Orgánicos",
+            "Dopaje"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68a77383f37e83593d9744c8"
+    },
+    {
+        "id": 135,
+        "title": "Conexiones en los sistemas neuroendocrinos A",
+        "level": "3° año, 4° año, 5° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este material profundiza en la homeostasis y la regulación neuroendocrina integrada. Desarrolla la fisiología de los sistemas nervioso (neurona, electrodinámica y sinapsis) y endocrino (glándulas y hormonas), con énfasis en el eje hipotálamo-hipofisario. Analiza la respuesta inmunitaria (innata y adaptativa) y el impacto del estrés crónico y sustancias psicoactivas en el equilibrio interno, promoviendo una visión sistémica del organismo",
+        "tags": [
+            "Homeostasis",
+            "Regulación Neuroendócrina",
+            "Regulación Inmunitaria"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68aca54251c6ab3c13ebe910"
+    },
+    {
+        "id": 136,
+        "title": "Conexiones en los sistemas neuroendocrinos B",
+        "level": "3° año, 4° año, 5° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este material profundiza en la integración de los sistemas nervioso, endocrino e inmune para el mantenimiento de la homeostasis. Desarrolla la estructura y reactividad de compuestos del carbono (hidrocarburos, alcoholes, aldehídos, ácidos) y nitrogenados (aminas, amidas). Analiza la diversidad química de hormonas y neurotransmisores, evaluando el impacto de disruptores endocrinos, contaminantes emergentes y microplásticos en la salud",
+        "tags": [
+            "Homeostasis",
+            "Compuestos Orgánicos",
+            "Disruptores Endócrinos"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68b072bdb2bb1984880ad114"
     }
  
 
