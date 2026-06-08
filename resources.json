@@ -3716,7 +3716,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El plan se enfoca en los contenidos de cinemática y dinámica. Su propuesta permite que los docentes guíen a los estudiantes en la elaboración de descripciones del movimiento mediante el análisis de variables como posición, velocidad y aceleración, y la interpretación de gráficos de MRU y MRUV (Movimiento Rectilíneo Uniforme y Uniformemente Variado). Además, se estudian las Leyes de Newton y la Ley de Hooke para comprender las fuerzas que rigen los cambios en el movimiento.",
+        "description": "El plan se enfoca en contenidos de cinemática y dinámica. Su propuesta permite que los docentes guíen a los estudiantes en descripciones del movimiento mediante variables como posición, velocidad y aceleración, gráficos de MRU y MRUV, y las Leyes de Newton y Hooke.",
         "tags": [
             "Movimiento",
             "Velocidad",
@@ -3733,7 +3733,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales, Laboratorio Ciencias Sociales",
         "mode": "Bachiller",
-        "description": "El plan analiza la física y química del transporte de alta velocidad mediante el tren Maglev. Integra nociones de gravitación (aplicada a satélites), energía (cinética, potencial y elástica) y su conservación. Explora el electromagnetismo para explicar la levitación y propulsión sin fricción. Además, aborda la estequiometría en reacciones de combustión y la caracterización de hidrocarburos en combustibles",
+        "description": "El plan analiza la física y química del transporte de alta velocidad mediante el tren Maglev. Integra nociones de gravitación, energía y su conservación. ",
         "tags": [
             "Electromagnetismo",
             "Energía",
@@ -3748,7 +3748,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El plan propone un enfoque integral que vincula la función de nutrición (sistemas digestivo, respiratorio, circulatorio y excretor) con la salud sexual y reproductiva. Analiza la nutrición celular, la respiración y procesos de combustión mediante el uso de la estequiometría. Fomenta hábitos saludables en la adolescencia y la prevención de ITS y embarazos. Incluye la producción de un libro de recetas y un podcast sobre fertilidad",
+        "description": "El plan propone un enfoque integral que vincula la función de nutrición con la salud sexual y reproductiva. Analiza la nutrición celular, respiración y procesos de combustión. Fomenta hábitos saludables en la adolescencia y prevención de ITS y embarazos.",
         "tags": [
             "Nutrición",
             "Estequiometría",
@@ -3763,7 +3763,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "El plan propone indagar el fenómeno de la isla de calor urbana mediante el estudio de la radiación, la temperatura y los materiales del entorno. A través de la observación, registro y modelización, se promueve la comprensión de cómo las interacciones entre energía, superficies y actividades humanas modifican las condiciones térmicas de la ciudad y afectan la calidad de vida de sus habitantes",
+        "description": "El plan indaga la isla de calor urbana estudiando radiación, temperatura y materiales. Mediante observación, registro y modelización, promueve comprender cómo interactúan energía, superficies y actividades humanas, modificando condiciones térmicas y la calidad de vida.",
         "tags": [
             "Isla De Calor",
             "Transmisión Del Calor",
@@ -3778,7 +3778,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este plan profundiza en la mitigación de la isla de calor urbana mediante el diseño de soluciones sostenibles. Integra el estudio de las leyes de los gases, la teoría cinética y la capacidad calorífica del agua como regulador climático. A través de la comparación de superficies y la creación de una «ecoesquina», los alumnos evalúan cómo el diseño urbano y el albedo afectan la temperatura, promoviendo la reflexión sobre decisiones que impactan en el bienestar y la sustentabilidad",
+        "description": "El plan mitiga la isla de calor urbana con soluciones sostenibles. Integra leyes de gases, teoría cinética y capacidad calorífica del agua. Al comparar superficies y crear una «ecoesquina», alumnos evalúan cómo el diseño y albedo afectan la temperatura y sustentabilidad.",
         "tags": [
             "Mitigación",
             "Isla De Calor",
@@ -3793,7 +3793,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este Plan desarrolla la homeostasis y la regulación neuroendocrina integrada. Aborda la fisiología del sistema nervioso (SNC, SNP, neurona e impulsos) y del sistema endocrino (glándulas, hormonas y tejidos diana). Analiza el impacto biológico del deporte, vinculando la secreción hormonal con el bienestar emocional. Asimismo, examina las consecuencias del sedentarismo en la salud metabólica y mental durante la adolescencia",
+        "description": "El plan desarrolla la homeostasis y regulación neuroendocrina integrada. Aborda la fisiología del sistema nervioso y endocrino. Analiza el impacto biológico del deporte, vinculando la secreción hormonal con el bienestar, y las consecuencias del sedentarismo en la adolescencia.",
         "tags": [
             "Homeostasis",
             "Regulación Neuroendócrina",
@@ -3808,7 +3808,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este material profundiza en la diversidad química de las hormonas y su impacto biológico en el deporte. Analiza compuestos orgánicos derivados del carbono, como hidrocarburos y alcoholes, vinculando su estructura con efectos en el organismo. Aborda la electrodinámica neuronal, sustancias que alteran el sistema nervioso y mecanismos de defensa inmunitaria, incluyendo vacunas y medicamentos. Promueve la reflexión crítica sobre el dopaje y la prevención de adicciones",
+        "description": "Este material profundiza en la diversidad química de las hormonas y su impacto en el deporte. Analiza compuestos del carbono vinculando su estructura con efectos corporales. Aborda la electrodinámica neuronal, defensas y promueve la reflexión crítica sobre el dopaje.",
         "tags": [
             "Hormonas",
             "Compuestos Orgánicos",
@@ -3823,7 +3823,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este material profundiza en la homeostasis y la regulación neuroendocrina integrada. Desarrolla la fisiología de los sistemas nervioso (neurona, electrodinámica y sinapsis) y endocrino (glándulas y hormonas), con énfasis en el eje hipotálamo-hipofisario. Analiza la respuesta inmunitaria (innata y adaptativa) y el impacto del estrés crónico y sustancias psicoactivas en el equilibrio interno, promoviendo una visión sistémica del organismo",
+        "description": "Este material profundiza en la homeostasis y regulación neuroendocrina integrada. Desarrolla la fisiología de los sistemas nervioso y endocrino, con énfasis en el eje hipotálamo-hipofisario. Analiza la respuesta inmunitaria y el impacto del estrés y sustancias.",
         "tags": [
             "Homeostasis",
             "Regulación Neuroendócrina",
@@ -3838,7 +3838,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este material profundiza en la integración de los sistemas nervioso, endocrino e inmune para el mantenimiento de la homeostasis. Desarrolla la estructura y reactividad de compuestos del carbono (hidrocarburos, alcoholes, aldehídos, ácidos) y nitrogenados (aminas, amidas). Analiza la diversidad química de hormonas y neurotransmisores, evaluando el impacto de disruptores endocrinos, contaminantes emergentes y microplásticos en la salud",
+        "description": "Este material profundiza en la integración de los sistemas nervioso, endocrino e inmune para la homeostasis. Desarrolla compuestos del carbono y nitrogenados. Analiza la diversidad química de hormonas y el impacto de disruptores endocrinos y contaminantes.",
         "tags": [
             "Homeostasis",
             "Compuestos Orgánicos",
@@ -3853,7 +3853,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este material propone analizar los límites que imponen las leyes físicas a las habilidades extraordinarias. Desarrolla la cinemática (MRU y MRUV) y su modelización matemática, junto con la dinámica a través de la relación entre fuerza, masa y aceleración (F=m.a). Introduce la Teoría de la Relatividad Especial, explorando la dilatación del tiempo, la contracción de la longitud y la velocidad de la luz como límite universal de interacción y causalidad",
+        "description": "Este material propone analizar los límites que imponen las leyes físicas. Desarrolla cinemática, su modelización matemática y dinámica (fuerza, masa y aceleración). Introduce la Relatividad Especial, la dilatación del tiempo, contracción y la velocidad de la luz.",
         "tags": [
             "Cinemática",
             "Relatividad",
@@ -3868,7 +3868,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este material analiza la potencia, el rendimiento y la eficiencia energética vinculados al consumo doméstico. Explora fuentes de energía renovables y no renovables, detallando la química del carbono en hidrocarburos y biocombustibles. Desarrolla las reacciones de combustión y oxidación mediante estequiometría, integrando los conceptos de óxido-reducción (redox). Asimismo, analiza el impacto ambiental de las emisiones y la importancia de una matriz sostenible",
+        "description": "Este material analiza potencia, rendimiento y eficiencia energética en el consumo doméstico. Explora fuentes renovables y no renovables, detallando la química del carbono. Desarrolla reacciones de combustión y oxidación (redox), analizando el impacto de emisiones.",
         "tags": [
             "Eficiencia Energética",
             "Hidrocarburos",
@@ -3883,7 +3883,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este plan integra la química cuantitativa con la ecología. Desarrolla magnitudes atómico-moleculares, masas relativas y absolutas, y los conceptos de mol y molaridad. Aborda la Ley de Conservación de la Masa, el balanceo de ecuaciones y la estequiometría. Asimismo, analiza el flujo de energía y los ciclos biogeoquímicos (carbono, nitrógeno, fósforo y agua). El contenido vincula estas herramientas con la problemática del consumo energético",
+        "description": "Este plan integra la química cuantitativa con la ecología. Desarrolla magnitudes atómico-moleculares, mol y molaridad. Aborda la Ley de Conservación de la Masa y estequiometría. Asimismo, analiza el flujo de energía y los ciclos biogeoquímicos vinculados al consumo.",
         "tags": [
             "Estequiometría",
             "Ciclos Biogeoquímicos",
@@ -3898,7 +3898,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este material analiza la integración entre la química orgánica y la biología celular en la producción de alimentos. Aborda el estudio de los compuestos del carbono, las biomoléculas y los ácidos nucleicos. Se profundiza en la estructura del ADN, el ciclo celular y los procesos de mitosis y meiosis para explicar la base de la biotecnología. El contenido promueve la reflexión ética sobre los alimentos transgénicos y el impacto de la ciencia en el consumo",
+        "description": "Este material analiza la química orgánica y la biología celular en alimentos. Aborda compuestos del carbono, biomoléculas y ácidos nucleicos. Profundiza en el ADN, ciclo celular, mitosis y meiosis para explicar la biotecnología, promoviendo la reflexión sobre transgénicos.",
         "tags": [
             "Biomoléculas",
             "Transgénicos",
@@ -3913,7 +3913,7 @@
         "category": "Laboratorio",
         "subject": "Laboratorio Ciencias Naturales",
         "mode": "Bachiller",
-        "description": "Este material desarrolla los mecanismos hereditarios y las Leyes de Mendel, analizando la estructura y función del ADN. Aborda el flujo de información genética (transcripción y traducción) y la replicación semiconservativa ligada a la división celular. Explica las mutaciones génicas y cromosómicas, junto al concepto de genoma. Profundiza en la interacción entre genes y ambiente y en las bases biológicas de los organismos genéticamente modificados (OGM).",
+        "description": "Este material desarrolla los mecanismos hereditarios y las Leyes de Mendel, analizando el ADN. Aborda el flujo de información genética (transcripción y traducción) y la replicación. Explica mutaciones génicas y cromosómicas junto a las bases de los organismos modificados.",
         "tags": [
             "Herencia",
             "Biotecnología",
@@ -3928,7 +3928,7 @@
         "category": "Otro",
         "subject": "Proyecto de Egreso",
         "mode": "Técnica",
-        "description": "El plan se orienta a que los estudiantes integren sus saberes y se proyecten profesionalmente. Se presenta la definición y los distintos tipos de proyectos técnicos (productivos, tecnológicos, innovadores y de extensión). Se detallan las etapas generales de un proyecto (detección del problema, diagnóstico, planificación, ejecución y evaluación) y se abordan herramientas clave como el diagrama de GANTT y la carpeta técnica para la gestión eficiente de recursos, tiempos y costos.",
+        "description": "El plan orienta a que los estudiantes se proyecten profesionalmente. Presenta la definición y tipos de proyectos técnicos (productivos, tecnológicos). Detalla sus etapas generales y aborda herramientas clave como el diagrama de GANTT y la carpeta técnica para la gestión.",
         "tags": [
             "Proyecto Integrador",
             "Planificación De Proyectos",
@@ -3943,7 +3943,7 @@
         "category": "Taller",
         "subject": "Taller de Artes",
         "mode": "Bachiller",
-        "description": "Este plan aborda la canción como eje integrador para explorar elementos estructurales, géneros y estilos. Propone el análisis del contexto histórico-geográfico, la identidad cultural y el impacto de la tecnología en la producción musical. Incluye actividades sobre improvisación vocal e instrumental, percusión corporal y recursos fonales, orientadas a la composición grupal de una obra original.",
+        "description": "Este plan aborda la canción como eje para explorar elementos estructurales, géneros y estilos. Propone el análisis del contexto histórico-geográfico, la identidad y el impacto de la tecnología. Incluye actividades sobre improvisación y percusión para la composición.",
         "tags": [
             "Canción",
             "Improvisación",
@@ -3958,7 +3958,7 @@
         "category": "Taller",
         "subject": "Taller de Artes",
         "mode": "Bachiller",
-        "description": "Este plan propone un abordaje integral de la música mediante el análisis, comparación y creación de canciones. El material guía a los estudiantes por los elementos constitutivos (melodía, armonía, ritmo, letra) y las etapas de composición, interpretación y producción. Incluye el estudio de géneros, el impacto de la instrumentación y el uso de tecnologías digitales para realizar arreglos y producciones originales, fomentando la escucha activa.",
+        "description": "Este plan aborda la canción como eje para explorar elementos estructurales, géneros y estilos. Propone el análisis del contexto histórico-geográfico, la identidad y el impacto de la tecnología. Incluye actividades sobre improvisación y percusión para la composición.",
         "tags": [
             "Estructura Musical",
             "Producción Musical",
@@ -3973,7 +3973,7 @@
         "category": "Taller",
         "subject": "Taller de Artes",
         "mode": "Bachiller",
-        "description": "Este plan aborda el estudio de la voz como instrumento musical, analizando su relación con el cuerpo, la técnica vocal y el acompañamiento instrumental. El material recorre la técnica básica, la improvisación (beatbox, scat) y las tradiciones vocales del mundo, como el canto difónico y el bel canto. Finalmente, integra el uso de herramientas digitales para la grabación y edición de piezas vocales, fomentando producciones originales",
+        "description": "Este plan aborda la voz como instrumento musical, analizando su relación con el cuerpo y la técnica vocal. El material recorre la técnica básica, improvisación (beatbox) y tradiciones del mundo. Integra herramientas digitales para la grabación de piezas originales.",
         "tags": [
             "Técnica Vocal",
             "Improvisación Musical",
@@ -3988,7 +3988,7 @@
         "category": "Taller",
         "subject": "Taller de Artes",
         "mode": "Bachiller",
-        "description": "Este plan explora la construcción del sonido y el impacto de la tecnología en la música contemporánea. Presenta actividades de trabajo sobre fuentes sonoras (acústicas, electroacústicas y digitales), variables expresivas y calidad del sonido (nitidez, profundidad, textura). Incluye el uso técnico de micrófonos, amplificadores y herramientas de edición digital para la captura, mezcla y transformación creativa del material sonoro.",
+        "description": "Este plan explora la construcción del sonido y el impacto de la tecnología en la música. Presenta actividades sobre fuentes sonoras (acústicas y digitales), variables expresivas y calidad del sonido. Incluye el uso técnico de micrófonos, amplificadores y edición digital.",
         "tags": [
             "Fuentes Sonoras",
             "Tecnología Musical",
@@ -4003,13 +4003,95 @@
         "category": "Taller",
         "subject": "Taller de Artes",
         "mode": "Bachiller",
-        "description": "Este plan explora la \"Música del mañana\" mediante la experimentación con materiales no convencionales y tecnología. Los estudiantes investigan el concepto de cuerpo resonante, resignificando objetos cotidianos para construir instrumentos originales. El material guía el diseño de instalaciones y performances sonoras donde el espacio y la memoria colectiva son protagonistas. Fomenta procesos experimentales interdisciplinarios vinculando sonido, imagen y movimiento.",
+        "description": "Este plan explora la \"Música del mañana\" mediante la experimentación con materiales no convencionales y tecnología. Investiga el concepto de cuerpo resonante, resignificando objetos cotidianos para construir instrumentos. Fomenta procesos que vinculan sonido, imagen y movimiento.",
         "tags": [
             "Cuerpo Resonante",
             "Performance Sonora",
             "Instalación Sonora"
         ],
         "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68a8ab2ab19f5cfe2ef47523"
+    },
+     {
+        "id": 179,
+        "title": "Prácticas introyectivas (yoga)",
+        "level": "1° año, 2° año, 3° año, 4° año, 5° año, 6° año",
+        "category": "Espacio formativo",
+        "subject": "Educación Física",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan introduce principios del yoga para desarrollar capacidades motoras (flexibilidad, equilibrio) y fortalecer la conciencia corporal. Enfatiza la regulación emocional, la concentración y principios de entrenamiento para fomentar una práctica orientada al bienestar.",
+        "tags": [
+            "Conciencia Corporal",
+            "Respiración",
+            "Equilibrio"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67b4b033a3153cdc9c04a890"
+    },
+    {
+        "id": 180,
+        "title": "Expresión y ritmo",
+        "level": "1° año, 2° año, 3° año",
+        "category": "Taller, Espacio formativo",
+        "subject": "Taller de Educación Física, Educación Física",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan se enfoca en las prácticas expresivas de la Educación Física, descubriendo el cuerpo como herramienta de comunicación. Guía a los estudiantes a desarrollar coordinación, ritmo y conciencia corporal. Culmina con la creación de una coreografía grupal expresiva.",
+        "tags": [
+            "Ritmo",
+            "Coordinación",
+            "Expresión Corporal"
+        ],
+        "url": "https://share.articulate.com/HJXsLNASZbc0wCEXjZXl8"
+    },
+    {
+        "id": 181,
+        "title": "Gimnasia artística",
+        "level": "1° año, 2° año, 3° año",
+        "category": "Espacio formativo",
+        "subject": "Educación Física",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan promueve la Gimnasia Artística para desarrollar fuerza, equilibrio y flexibilidad, junto al control corporal, integrando el autocuidado (alimentación, descanso). Enseña a diseñar secuencias en el espacio y a reflexionar críticamente sobre los estereotipos.",
+        "tags": [
+            "Autocuidado", "Estereotipos","Conciencia Corporal"
+        ],
+        "url": "https://share.articulate.com/edHOXkbnyyu_5UiZ6kbma"
+    },
+    {
+        "id": 182,
+        "title": "Salto con soga",
+        "level": "1° año, 2° año, 3° año, 4° año, 5° año",
+        "category": "Espacio formativo",
+        "subject": "Educación Física",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan utiliza el salto con soga para desarrollar la coordinación, el ritmo y la expresión en equipo. Enfatiza el autocuidado (alimentación, hidratación, descanso) para la seguridad. Aborda la técnica y promueve la reflexión crítica sobre los estereotipos de los medios.",
+        "tags": [
+            "Ritmo","Autocuidado","Estereotipos"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67bf17ed3e3f69ecdace38c9"
+    },
+     {
+        "id": 183,
+        "title": "Prácticas circenses",
+        "level": "1° año, 3° año, 2° año, 4° año, 5° año",
+        "category": "Espacio formativo",
+        "subject": "Educación Física",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan se adentra en artes circenses para desarrollar habilidades motoras (fuerza, equilibrio) y socioemocionales. Analiza roles en acrobacias (base, ágil), comunicación no verbal y ritmo. Promueve la reflexión sobre el impacto cultural del circo en Argentina.",
+        "tags": [
+            "Cooperación", "Equilibrio","Creatividad"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67b4b596a3153cdc9c04ab42"
+    },
+    {
+        "id": 184,
+        "title": "Juegos y deportes alternativos: ringo",
+        "level": "1° año, 2° año, 3° año",
+        "category": "Taller, Espacio formativo",
+        "subject": "Taller de Educación Física, Educación Física",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan presenta el ringo como deporte alternativo que potencia coordinación, precisión y rapidez, fomentando inclusión y respeto. Explora la historia, reglas y técnicas de lanzamiento, enfatizando estrategias de equipo, comunicación y el juego efectivo (fair play).",
+        "tags": [
+            "Inclusión","Cooperación","Precisión"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67bf15a017d9350d96873890"
     }
     
  
