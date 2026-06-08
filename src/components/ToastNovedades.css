@@ -37,7 +37,7 @@
 }
 
 .toast-titulo {
-  font-size: 0.85rem;
+  font-size: 1rem;
   font-weight: 700;
   color: #fff;
   margin: 0 0 2px;
@@ -45,7 +45,7 @@
 }
 
 .toast-desc {
-  font-size: 0.78rem;
+  font-size: 0.95rem;
   color: rgba(255, 255, 255, 0.7);
   margin: 0;
   /*white-space: nowrap;*/
