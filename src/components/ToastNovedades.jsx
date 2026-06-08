@@ -3,6 +3,20 @@ import './ToastNovedades.css';
 
 // ── Novedades — editá este array para agregar novedades ──
 const NOVEDADES = [
+   {
+    id: 1,
+    titulo: 'Nuevos materiales didácticos',
+    desc: 'Recursos actualizados disponibles en la sección de material didáctico',
+    icon: 'fas fa-book-open',
+    color: '#24a0a5',
+  },
+  {
+    id: 2,
+    titulo: 'Nueva aplicación: Futurizaje',
+    desc: 'Explorá la nueva herramienta disponible en el Ecosistema Digital',
+    icon: 'fas fa-rocket',
+    color: '#F9B2FA',
+  },
   // {
   //   id: 1,
   //   titulo: 'Nuevos avatares disponibles',
