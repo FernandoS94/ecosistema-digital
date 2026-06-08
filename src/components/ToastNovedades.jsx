@@ -55,14 +55,16 @@ export function ToastNovedades() {
   }, []);
 
   const cerrarTodo = () => {
-    setCerrado(true);
-    const ids = NOVEDADES.map(n => n.id);
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(ids));
-  };
+  setCerrado(true);
+  const ids = NOVEDADES.map(n => n.id);
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(ids));
+};
 
-  const cerrarUna = () => {
-    setCerrado(true);
-  };
+const cerrarUna = () => {
+  setCerrado(true);
+  const ids = NOVEDADES.map(n => n.id);
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(ids)); // ← agregá esta línea
+};
 
   if (!visible || cerrado || NOVEDADES.length === 0) return null;
 
