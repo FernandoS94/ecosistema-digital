@@ -4,14 +4,14 @@ import './ToastNovedades.css';
 // ── Novedades — editá este array para agregar novedades ──
 const NOVEDADES = [
    {
-    id: 1,
+    id: 3,
     titulo: 'Nuevos materiales didácticos',
     desc: 'Recursos actualizados disponibles en la sección de material didáctico',
     icon: 'fas fa-book-open',
     color: '#24a0a5',
   },
   {
-    id: 2,
+    id: 4,
     titulo: 'Nueva aplicación: Futurizaje',
     desc: 'Explorá la nueva herramienta disponible en el Ecosistema Digital',
     icon: 'fas fa-rocket',
@@ -54,16 +54,15 @@ export function ToastNovedades() {
     }
   }, []);
 
-  const cerrarTodo = () => {
+ const cerrarUna = () => {
   setCerrado(true);
-  const ids = NOVEDADES.map(n => n.id);
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(ids));
+  // No guarda en localStorage — vuelve a aparecer en la próxima visita
 };
 
-const cerrarUna = () => {
+const cerrarTodo = () => {
   setCerrado(true);
   const ids = NOVEDADES.map(n => n.id);
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(ids)); // ← agregá esta línea
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(ids)); // guarda permanentemente
 };
 
   if (!visible || cerrado || NOVEDADES.length === 0) return null;

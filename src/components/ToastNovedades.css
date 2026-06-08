@@ -100,9 +100,9 @@
 .toast-dismiss {
   background: none;
   border: none;
-  color: rgba(255, 255, 255, 0.5);
+  color: black;
   cursor: pointer;
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   text-align: right;
   padding: 2px 4px;
   text-decoration: underline;
@@ -112,7 +112,7 @@
 }
 
 .toast-dismiss:hover {
-  color: rgba(255, 255, 255, 0.8);
+  color: blue;
 }
 
 /* ── Responsive ─────────────────────────────────── */
