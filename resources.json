@@ -3845,7 +3845,173 @@
             "Disruptores Endócrinos"
         ],
         "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68b072bdb2bb1984880ad114"
+    },
+     {
+        "id": 138,
+        "title": "Genética y superpoderes B",
+        "level": "3° año, 4° año, 5° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este material propone analizar los límites que imponen las leyes físicas a las habilidades extraordinarias. Desarrolla la cinemática (MRU y MRUV) y su modelización matemática, junto con la dinámica a través de la relación entre fuerza, masa y aceleración (F=m.a). Introduce la Teoría de la Relatividad Especial, explorando la dilatación del tiempo, la contracción de la longitud y la velocidad de la luz como límite universal de interacción y causalidad",
+        "tags": [
+            "Cinemática",
+            "Relatividad",
+            "Dinámica"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/687572b7634e37bb243ac7b2"
+    },
+    {
+        "id": 139,
+        "title": "La energía en nuestras casas A",
+        "level": "3° año, 4° año, 5° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este material analiza la potencia, el rendimiento y la eficiencia energética vinculados al consumo doméstico. Explora fuentes de energía renovables y no renovables, detallando la química del carbono en hidrocarburos y biocombustibles. Desarrolla las reacciones de combustión y oxidación mediante estequiometría, integrando los conceptos de óxido-reducción (redox). Asimismo, analiza el impacto ambiental de las emisiones y la importancia de una matriz sostenible",
+        "tags": [
+            "Eficiencia Energética",
+            "Hidrocarburos",
+            "Reacciones Redox"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68bfbb598604d54bc58199ea"
+    },
+    {
+        "id": 140,
+        "title": "La energía en nuestras casas B",
+        "level": "3° año, 4° año, 5° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este plan integra la química cuantitativa con la ecología. Desarrolla magnitudes atómico-moleculares, masas relativas y absolutas, y los conceptos de mol y molaridad. Aborda la Ley de Conservación de la Masa, el balanceo de ecuaciones y la estequiometría. Asimismo, analiza el flujo de energía y los ciclos biogeoquímicos (carbono, nitrógeno, fósforo y agua). El contenido vincula estas herramientas con la problemática del consumo energético",
+        "tags": [
+            "Estequiometría",
+            "Ciclos Biogeoquímicos",
+            "Mol"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68f7e70bb84634699857cb99"
+    },
+    {
+        "id": 141,
+        "title": "Del ADN a tu plato A",
+        "level": "3° año, 4° año, 5° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este material analiza la integración entre la química orgánica y la biología celular en la producción de alimentos. Aborda el estudio de los compuestos del carbono, las biomoléculas y los ácidos nucleicos. Se profundiza en la estructura del ADN, el ciclo celular y los procesos de mitosis y meiosis para explicar la base de la biotecnología. El contenido promueve la reflexión ética sobre los alimentos transgénicos y el impacto de la ciencia en el consumo",
+        "tags": [
+            "Biomoléculas",
+            "Transgénicos",
+            "Adn"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/689e211142943721b3b031eb"
+    },
+     {
+        "id": 142,
+        "title": "Del ADN a tu plato B",
+        "level": "3° año, 4° año, 5° año",
+        "category": "Laboratorio",
+        "subject": "Laboratorio Ciencias Naturales",
+        "mode": "Bachiller",
+        "description": "Este material desarrolla los mecanismos hereditarios y las Leyes de Mendel, analizando la estructura y función del ADN. Aborda el flujo de información genética (transcripción y traducción) y la replicación semiconservativa ligada a la división celular. Explica las mutaciones génicas y cromosómicas, junto al concepto de genoma. Profundiza en la interacción entre genes y ambiente y en las bases biológicas de los organismos genéticamente modificados (OGM).",
+        "tags": [
+            "Herencia",
+            "Biotecnología",
+            "Mutaciones"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68af0a73b19f5cfe2ef49e69"
+    },
+    {
+        "id": 144,
+        "title": "Base de la gestión de proyectos Técnicas",
+        "level": "6° año",
+        "category": "Otro",
+        "subject": "Proyecto de Egreso",
+        "mode": "Técnica",
+        "description": "El plan se orienta a que los estudiantes integren sus saberes y se proyecten profesionalmente. Se presenta la definición y los distintos tipos de proyectos técnicos (productivos, tecnológicos, innovadores y de extensión). Se detallan las etapas generales de un proyecto (detección del problema, diagnóstico, planificación, ejecución y evaluación) y se abordan herramientas clave como el diagrama de GANTT y la carpeta técnica para la gestión eficiente de recursos, tiempos y costos.",
+        "tags": [
+            "Proyecto Integrador",
+            "Planificación De Proyectos",
+            "Fases De Desarrollo De Proyectos"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68751f8d4e191ddea967afba"
+    },
+    {
+        "id": 147,
+        "title": "Modelos, letras y música",
+        "level": "1° año",
+        "category": "Taller",
+        "subject": "Taller de Artes",
+        "mode": "Bachiller",
+        "description": "Este plan aborda la canción como eje integrador para explorar elementos estructurales, géneros y estilos. Propone el análisis del contexto histórico-geográfico, la identidad cultural y el impacto de la tecnología en la producción musical. Incluye actividades sobre improvisación vocal e instrumental, percusión corporal y recursos fonales, orientadas a la composición grupal de una obra original.",
+        "tags": [
+            "Canción",
+            "Improvisación",
+            "Composición Musical"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/680a5a228723950c169cfbdf"
+    },
+    {
+        "id": 148,
+        "title": "Música: Características musicales",
+        "level": "2° año",
+        "category": "Taller",
+        "subject": "Taller de Artes",
+        "mode": "Bachiller",
+        "description": "Este plan propone un abordaje integral de la música mediante el análisis, comparación y creación de canciones. El material guía a los estudiantes por los elementos constitutivos (melodía, armonía, ritmo, letra) y las etapas de composición, interpretación y producción. Incluye el estudio de géneros, el impacto de la instrumentación y el uso de tecnologías digitales para realizar arreglos y producciones originales, fomentando la escucha activa.",
+        "tags": [
+            "Estructura Musical",
+            "Producción Musical",
+            "Géneros Musicales"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6824b912f691eea7010927ce"
+    },
+    {
+        "id": 153,
+        "title": "La voz",
+        "level": "4° año",
+        "category": "Taller",
+        "subject": "Taller de Artes",
+        "mode": "Bachiller",
+        "description": "Este plan aborda el estudio de la voz como instrumento musical, analizando su relación con el cuerpo, la técnica vocal y el acompañamiento instrumental. El material recorre la técnica básica, la improvisación (beatbox, scat) y las tradiciones vocales del mundo, como el canto difónico y el bel canto. Finalmente, integra el uso de herramientas digitales para la grabación y edición de piezas vocales, fomentando producciones originales",
+        "tags": [
+            "Técnica Vocal",
+            "Improvisación Musical",
+            "Edición Musical"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/680b86008e28333342a81b1f"
+    },
+    {
+        "id": 157,
+        "title": "Fuentes sonoras",
+        "level": "4° año",
+        "category": "Taller",
+        "subject": "Taller de Artes",
+        "mode": "Bachiller",
+        "description": "Este plan explora la construcción del sonido y el impacto de la tecnología en la música contemporánea. Presenta actividades de trabajo sobre fuentes sonoras (acústicas, electroacústicas y digitales), variables expresivas y calidad del sonido (nitidez, profundidad, textura). Incluye el uso técnico de micrófonos, amplificadores y herramientas de edición digital para la captura, mezcla y transformación creativa del material sonoro.",
+        "tags": [
+            "Fuentes Sonoras",
+            "Tecnología Musical",
+            "Edición Digital De Sonido"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68404310224d41adfae17265"
+    },
+    {
+        "id": 158,
+        "title": "Música del mañana",
+        "level": "4° año",
+        "category": "Taller",
+        "subject": "Taller de Artes",
+        "mode": "Bachiller",
+        "description": "Este plan explora la \"Música del mañana\" mediante la experimentación con materiales no convencionales y tecnología. Los estudiantes investigan el concepto de cuerpo resonante, resignificando objetos cotidianos para construir instrumentos originales. El material guía el diseño de instalaciones y performances sonoras donde el espacio y la memoria colectiva son protagonistas. Fomenta procesos experimentales interdisciplinarios vinculando sonido, imagen y movimiento.",
+        "tags": [
+            "Cuerpo Resonante",
+            "Performance Sonora",
+            "Instalación Sonora"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68a8ab2ab19f5cfe2ef47523"
     }
+    
  
 
 
