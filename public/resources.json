@@ -4092,6 +4092,148 @@
             "Inclusión","Cooperación","Precisión"
         ],
         "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67bf15a017d9350d96873890"
+    },
+     {
+        "id": 187,
+        "title": "La caminata: una experiencia motriz saludable",
+        "level": "1° año, 2° año",
+        "category": "Taller",
+        "subject": "Taller de Educación Física",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan utiliza la caminata como actividad motriz esencial para la salud integral, desarrollando la técnica correcta y la autorregulación del esfuerzo. El material enfatiza el cuidado cardiovascular, el fortalecimiento muscular y la reducción del estrés para el bienestar mental.",
+        "tags": [
+            "Caminata Saludable"," Ritmo","Bienestar Socioemocional"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67c09f31827e005590789140"
+    },
+    {
+        "id": 188,
+        "title": "Atletismo 1",
+        "level": "1° año,3° año, ",
+        "category": "Taller",
+        "subject": "Taller de Educación Física",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan propone un abordaje del atletismo que combina técnicas (carreras, saltos, lanzamientos) con conciencia corporal. Integra herramientas digitales para que los estudiantes analicen sus movimientos. Prioriza una perspectiva inclusiva, valorando la diversidad.",
+        "tags": [
+            "Técnicas Atléticas","Conciencia Corporal","Inclusión"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/689b90f6d7bb52f9be85698d"
+    },
+    {
+        "id": 194,
+        "title": "Juegos de ayer y de hoy",
+        "level": "1° año, 2° año",
+        "category": "Taller",
+        "subject": "Taller de Educación Física",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan guía la exploración de los juegos como prácticas corporales que reflejan la cultura, desarrollan habilidades motrices y evolucionan con el tiempo. Se orienta a que los estudiantes analicen las dinámicas tradicionales frente a las modernas (incluyendo la influencia tecnológica), y diseñen propuestas lúdicas adaptadas para promover la inclusión, la participación equitativa y la resolución autónoma de conflictos. El plan concluye con la planificación de un festival de juegos.",
+        "tags": [
+            "Juegos Tradicionales","Inclusión","Prácticas Ludomotrices"
+        ],
+        "url": "https://share.articulate.com/VPphY7q_V4xCE1j0c4OSM"
+    },
+    {
+        "id": 198,
+        "title": "Atletismo 2",
+        "level": "5° año, 4° año, 6° año",
+        "category": "Espacio formativo",
+        "subject": "Educación Física",
+        "mode": "Bachiller, Técnica",
+        "description": "El plan de atletismo profundiza en la autonomía y el análisis técnico, utilizando el registro audiovisual para que los estudiantes evalúen y mejoren su propia ejecución motriz. Mantiene un fuerte enfoque en la inclusión y el pensamiento crítico, invitando a los alumnos a cuestionar los estereotipos corporales y a diseñar competencias donde el protagonismo sea compartido. Promueve también el compromiso grupal y la toma de decisiones tácticas, transformando la práctica deportiva en un espacio de construcción colectiva, respeto, reflexión y participación.",
+        "tags": [
+            "Técnicas Atléticas; Aprendizaje Compartido; Autonomía"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68a92754b19f5cfe2ef47d46"
+    },
+    {
+        "id": 207,
+        "title": "Raíces e influencias en la identidad cultural",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan orienta a los estudiantes en la indagación de identidades culturales mediante el teatro. El recorrido analiza el impacto del folclore, el canon renacentista y las vanguardias en la escena actual, fomentando la reflexión crítica y la creación colectiva.",
+        "tags": [
+            "Identidad Cultural",
+            "Folclore",
+            "Vanguardias Teatrales"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/682c8d578860eb76cd5b6aa6"
+    },
+    {
+        "id": 208,
+        "title": "Innovación, tecnología y participación en el teatro",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan de Aprendizaje propone la indagación del teatro contemporáneo, analizando cómo la tecnología y las redes sociales transforman la escena actual. Promueve la creación colectiva y el uso de recursos multimediales para la participación y el impacto social",
+        "tags": [
+            "Hibridación",
+            "Teatro Expandido",
+            "Creación Colectiva"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/687170ffd20b9fabda5efe85"
+    },
+    {
+        "id": 214,
+        "title": "El teatro clásico en su contexto: influencias y legado",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan explora el teatro clásico como espejo de su tiempo, analizando desde el humanismo renacentista y la commedia dell’arte hasta su redefinición por las vanguardias. Promueve la reflexión sobre el legado escénico y la integración de música y danza",
+        "tags": [
+            "Teatro Clásico",
+            "Humanismo",
+            "Legado Escénico"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68791dba76a22ba299db555f"
+    },
+    {
+        "id": 215,
+        "title": "De la idea a la escena",
+        "level": "5° año",
+        "category": "Otro",
+        "subject": "Proyecto de Vinculación con el Futuro",
+        "mode": "Bachiller",
+        "description": "Este plan presenta el proyecto final de teatro. Los estudiantes transitan desde la investigación del entorno y la dramaturgia hasta el diseño estético y tecnológico de la puesta en escena. Se fomenta la gestión colectiva y el impacto social situado.",
+        "tags": [
+            "Proyecto De Egreso",
+            "Dramaturgia",
+            "Puesta En Escen"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6800469a3033973c700e8c88"
+    },
+    {
+        "id": 228,
+        "title": "Cuestión de lenguajes. Producción audiovisual",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan recorre el proceso de producción audiovisual, desde la idea inicial hasta la postproducción. Los estudiantes exploran la preproducción (guion, storyboard y planificación), la producción (roles en el set y técnica) y la edición de imagen y sonido. El material promueve el trabajo colaborativo y la experimentación con el lenguaje cinematográfico para crear piezas originales con sentido ético y comunicativo.",
+        "tags": [
+            "Producción Cinematográfica",
+            "Guión Audiovisual",
+            "Relato"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/684c5d3a224d41adfae1cd51"
+    },
+    {
+        "id": 229,
+        "title": "Cuestión de lenguajes. El discurso audiovisual",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan analiza el discurso audiovisual como una construcción de sentido que integra imagen y sonido. Los estudiantes exploran la unidad del plano, las angulaciones, el uso expresivo del sonido y la organización del tiempo narrativo mediante el montaje. El recorrido fomenta la lectura crítica de mensajes y la producción creativa, aplicando intenciones comunicativas para narrar, emocionar o informar en el ecosistema actual.",
+        "tags": [
+            "Tipos De Plano",
+            "Montaje",
+            "Narrativa Audiovisual"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6888d13f6cd76ecb1b518954"
     }
     
  
