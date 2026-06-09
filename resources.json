@@ -4234,6 +4234,81 @@
             "Narrativa Audiovisual"
         ],
         "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6888d13f6cd76ecb1b518954"
+    },
+       {
+        "id": 263,
+        "title": "Lectura y escrituras literarias A",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan se enfoca en la lectura y escritura literarias de textos de diversos géneros, épocas y procedencias. Se promueve la reflexión sobre debates como las relaciones entre realidad, verdad y ficción, la hibridación de géneros, el papel de las literaturas nacionales, regionales e indígenas, y el impacto de las nuevas tecnologías y lo transmedia. Se fomenta el análisis crítico de la literatura como institución social y la producción de textos de análisis y de ficción.",
+        "tags": [
+            "Ficción",
+            "Géneros Literarios",
+            "Transmedia"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67bf27453fcde0118603ffa4"
+    },
+    {
+        "id": 264,
+        "title": "Lectura y escrituras literarias B",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan aborda la literatura como antropología especulativa, explorando la relación entre ficción y realidad. Para ello, propone la lectura y análisis de  la transgresión del lenguaje y la creación de mundos posibles en capítulos de novelas de Margareth Atwood y George Orwell, y de cuentos de Jorge Luis Borges y Julio Cortázar. Además, se fomenta la producción mediante la reescritura de versiones, adaptaciones y parodias de alguno de los textos leídos.",
+        "tags": [
+            "Antropología Especulativa",
+            "Reescrituras",
+            "Mundos Posibles"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67bf29fa3fcde0118604021d"
+    },
+    {
+        "id": 265,
+        "title": "Investigación literaria A",
+        "level": "4° año, 5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan propone abordar la crítica literaria como eje central para la construcción de sentido en las obras. A través de la investigación literaria, se exploran conceptos como el pacto de lectura, la diégesis, la enunciación y la temporalidad. Asimismo, se analizan los mecanismos de transformación (parodia, sátira, transposición) y la intertextualidad, promoviendo la vinculación de los textos con sus contextos sociohistóricos y la subjetividad del lector.",
+        "tags": [
+            "Crítica Literaria",
+            "Intertextualidad",
+            "Construcción De Sentido"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67cb415c60904c8779697d45"
+    },
+    {
+        "id": 267,
+        "title": "Análisis del discurso A",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan de aprendizaje aborda el análisis del discurso literario como herramienta de construcción y reflexión social. A través del estudio de la enunciación, recursos lingüísticos e intertextualidad, se propone explorar cómo la literatura visibiliza problemáticas de identidad, género y desigualdad. El material fomenta la comparación con discursos mediáticos y culmina en la producción de textos originales que interpelen su contexto.",
+        "tags": [
+            "Discurso Literario",
+            "Identidad",
+            "Realidad Social"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68002e1171336a5d899a0676"
+    },
+     {
+        "id": 268,
+        "title": "Análisis del discurso B",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan de aprendizaje aborda la literatura como un discurso relevante para la construcción de sentido social. Mediante el análisis crítico, se examina cómo los textos literarios abordados representan identidades, ideologías y relaciones de poder. El plan integra conceptos como enunciación, otredad y polifonía para fomentar lecturas reflexivas que permitan a los estudiantes intervenir en debates sociales de la actualidad.",
+        "tags": [
+            "Discurso Literario",
+            "Ideología",
+            "Representaciones Sociales"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/687a7e7716d20c2e104c98a3"
     }
     
  
