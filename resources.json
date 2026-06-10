@@ -413,6 +413,7 @@
         "mode": "Bachiller",
         "description": "El plan se centra en la descontaminación de aire y suelo. Desarrolla la composición atmosférica, teoría de gases, lluvia ácida y contaminantes del suelo. Articula conceptos con la dinámica de ecosistemas y ecología urbana para promover la opinión crítica y soluciones.",
         "tags": [
+
             "Contaminación Atmosférica",
             "Ecología Urbana",
             "Óxido-Reducción"
@@ -1936,7 +1937,7 @@
         "mode": "Bachiller",
         "description": "Este video profundiza en la interferencia constructiva y destructiva, analizando la superposición, el desfase y la diferencia de camino. Aborda modelos ondulatorios y aplicaciones como la cancelación de ruido.",
         "tags": [
-            "Síntesis abiótica. Mundo de ADN. Experimento Urey y Miller"
+            "Síntesis abiótica","Mundo de ADN","Experimento Urey y Miller"
         ],
         "url": "https://es.khanacademy.org/science/biology/history-of-life-on-earth/history-life-on-earth/v/origins-of-life"
     },
@@ -1949,7 +1950,7 @@
         "mode": "Bachiller",
         "description": "Este recurso introduce los postulados de la relatividad especial de Einstein: la constancia de la velocidad de la luz y la simultaneidad. Explica conceptos de dilatación del tiempo, contracción de longitud y la equivalencia masa-energía ($E=mc^2$).",
         "tags": [
-            "Célula. Teoría celular. Protocélula"
+            "Célula","Teoría celular","Protocélula"
         ],
         "url": "https://es.khanacademy.org/science/high-school-biology/hs-cells/hs-introduction-to-cells/v/cell-theory"
     },
@@ -1962,7 +1963,7 @@
         "mode": "Bachiller",
         "description": "Este material describe las características fundamentales de las células eucariotas, enfatizando la compartimentalización mediante organelos membranosos. Explica la estructura y función del núcleo (ADN), los retículos endoplasmáticos y los ribosomas en la síntesis proteica.",
         "tags": [
-            "Célula eucariota. Organelos. Compartimentalización"
+            "Célula eucariota","Organelos","Compartimentalización"
         ],
         "url": "https://es.khanacademy.org/science/biology/x324d1dcc:cell-function/x324d1dcc:prokaryotes-and-eukaryotes/v/organelles-in-eukaryotic-cells"
     },
@@ -1975,7 +1976,7 @@
         "mode": "Bachiller",
         "description": "Este material describe la propuesta de Lynn Margulis sobre el origen de las células eucariotas. Analiza cómo las mitocondrias y cloroplastos, poseedores de ADN y ribosomas propios evolucionaron a partir de bacterias procariotas independientes. ",
         "tags": [
-            "Teoría endosimbiótica. Célula eucariota. Organelos"
+            "Teoría endosimbiótica","Célula eucariota","Organelos"
         ],
         "url": "https://es.khanacademy.org/science/biology/x324d1dcc:cell-function/x324d1dcc:prokaryotes-and-eukaryotes/v/endosymbiosis-theory"
     },
@@ -1988,7 +1989,7 @@
         "mode": "Bachiller",
         "description": "Este material desarrolla el concepto de biodiversidad analizando la diversidad de ecosistemas, especies y genes. Explica la importancia de la preservación de la diversidad biológica desde una perspectiva ecológica y evolutiva.",
         "tags": [
-            "Biodiversidad. Ecosistemas. Conservación"
+            "Biodiversidad","Ecosistemas","Conservación"
         ],
         "url": "https://es.khanacademy.org/science/hs-biology/x4c673362230887ef:biodiversity-and-human-impacts/x4c673362230887ef:biodiversity/v/biodiversity"
     },
@@ -2001,7 +2002,7 @@
         "mode": "Bachiller",
         "description": "Este material introduce la taxonomía como la ciencia de clasificación de los seres vivos, destacando los aportes de Carlos Linneo. Explica la jerarquía de categorías taxonómicas  y el sistema de nomenclatura binomial.",
         "tags": [
-            "Taxonomía. Árbol filogenético. Clasificación biológica"
+            "Taxonomía","Árbol filogenético","Clasificación biológica"
         ],
         "url": "https://es.khanacademy.org/science/biology/her/tree-of-life/v/taxonomy-and-the-tree-of-life"
     },
@@ -2014,7 +2015,7 @@
         "mode": "Bachiller",
         "description": "Este material aborda el concepto biológico de especie como unidad fundamental de la taxonomía. Define a los organismos por su capacidad de entrecruzarse y generar descendencia fértil, diferenciándolos de los híbridos estériles.",
         "tags": [
-            "Especies. Híbrido. Taxonomía"
+            "Especies","Híbrido","Taxonomía"
         ],
         "url": "https://es.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/v/species"
     },
@@ -2027,7 +2028,7 @@
         "mode": "Bachiller",
         "description": "Este material explica la construcción de árboles filogenéticos como representaciones de relaciones de parentesco evolutivo. Describe cómo identificar ancestros comunes y caracteres derivados para proponer hipótesis sobre la evolución de las especies. ",
         "tags": [
-            "Árbol filogenético. Caracteres derivados. Parsimonia"
+            "Árbol filogenético","Caracteres derivados","Parsimonia"
         ],
         "url": "https://es.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/v/understanding-and-building-phylogenetic-trees-or-cladograms"
     },
@@ -2051,7 +2052,7 @@
         "mode": "Bachiller",
         "description": "Este material analiza las evidencias del cambio evolutivo, por ejemplo, macroestructuras como órganos homólogos y el registro fósil, ejemplificando cambios graduales. Explora el nivel micro a través de la genética molecular.",
         "tags": [
-            "Evolución. Homología. Genética"
+            "Evolución","Homología","Genética"
         ],
         "url": "https://es.khanacademy.org/science/high-school-biology/hs-evolution/hs-evidence-of-evolution/v/evidence-for-evolution"
     },
@@ -2064,7 +2065,7 @@
         "mode": "Bachiller",
         "description": "Este video recorre la historia evolutiva desde los ancestros mamíferos post-dinosaurios hasta el surgimiento del Homo sapiens. Analiza la transición de primates primitivos a grandes simios y la separación del linaje humano de los chimpancés. ",
         "tags": [
-            "Evolución humana. Homínidos. Primates"
+            "Evolución humana","Homínidos","Primates"
         ],
         "url": "https://es.khanacademy.org/science/high-school-biology/hs-evolution/hs-evidence-of-evolution/v/human-evolution-overview"
     },
@@ -2077,7 +2078,7 @@
         "mode": "Bachiller",
         "description": "El material introduce la taxonomía a través de Linneo, explicando las jerarquías de clasificación desde especie hasta dominio. Detalla cómo herramientas modernas como el ADN y la evolución aportan evidencia sobre el parentesco y ancestros comunes",
         "tags": [
-            "Taxonomía. Árbol de la vida. Clasificación biológica"
+            "Taxonomía","Árbol de la vida","Clasificación biológica"
         ],
         "url": "https://es.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/v/taxonomy-and-the-tree-of-life"
     },
@@ -2090,7 +2091,7 @@
         "mode": "Bachiller",
         "description": "El material define la selección natural como el motor de la evolución, desmintiendo concepciones erróneas sobre procesos conscientes. Explica cómo la variabilidad preexistente en una población es filtrada por factores ambientales, resultando en una reproducción diferencial.",
         "tags": [
-            "Selección natural. Variabilidad. Adaptación"
+            "Selección natural","Variabilidad","Adaptación"
         ],
         "url": "https://es.khanacademy.org/science/biology/her/evolution-and-natural-selection/v/introduction-to-evolution-and-natural-selection"
     },
@@ -2103,7 +2104,7 @@
         "mode": "Bachiller",
         "description": "El texto profundiza en la ecología de poblaciones y la demografía, definiendo tamaño, densidad y dispersión. Describe métodos de muestreo como cuadrantes y captura-recaptura para estimar el número de individuos. Analiza también los patrones de distribución espacial",
         "tags": [
-            "Ecología de las poblaciones. Densidad poblacional. Distribución espacial."
+            "Ecología de las poblaciones","Densidad poblacional","Distribución espacial."
         ],
         "url": "https://es.khanacademy.org/science/biology/ecology/population-ecology/a/population-size-density-and-dispersal"
     },
@@ -2116,7 +2117,7 @@
         "mode": "Bachiller",
         "description": "El video define la ecología como el estudio de las interacciones entre seres vivos y su ambiente. Diferencia entre factores bióticos y abióticos, resaltando su influencia recíproca. Asimismo, describe los niveles de organización: individuo, población, comunidad",
         "tags": [
-            "Ecología. Factores abióticos y bióticos. Niveles de organización."
+            "Ecología","Factores abióticos y bióticos","Niveles de organización."
         ],
         "url": "https://es.khanacademy.org/science/biology/ecology/intro-to-ecology/v/ecology-introduction"
     },
@@ -2129,7 +2130,7 @@
         "mode": "Bachiller",
         "description": "El texto describe la estructura de las comunidades biológicas, definida por la diversidad de especies. Describe factores abióticos, geográficos y perturbaciones que influyen en su composición. ",
         "tags": [
-            "Comunidad biológica. Biodiversidad. Estabilidad ecosistémica."
+            "Comunidad biológica","Biodiversidad","Estabilidad ecosistémica."
         ],
         "url": "https://es.khanacademy.org/science/biology/ecology/community-structure-and-diversity/a/community-structure"
     },
@@ -2142,7 +2143,7 @@
         "mode": "Bachiller",
         "description": "El video analiza el flujo de energía y el reciclaje cíclico de la materia en los ecosistemas. Explica el rol de productores, consumidores y descomponedores, describiendo el modo en que se produce la transferencia energética y la liberación de calor.",
         "tags": [
-            "Flujo de energía. Ciclos de la materia. Niveles tróficos."
+            "Flujo de energía","Ciclos de la materia","Niveles tróficos."
         ],
         "url": "https://es.khanacademy.org/science/biology/ecology/intro-to-ecosystems/v/flow-of-energy-and-matter-through-ecosystems"
     },
@@ -2155,7 +2156,7 @@
         "mode": "Bachiller",
         "description": "El texto define el ecosistema como la comunidad biológica y sus interacciones con su ambiente. Describe la dinámica de reciclaje de materia y el flujo unidireccional de energía. Introduce nociones sobre la estabilidad ecosistémica.",
         "tags": [
-            "Ecosistema. Ciclo de materia. Flujo de energía."
+            "Ecosistema","Ciclo de materia","Flujo de energía."
         ],
         "url": "https://es.khanacademy.org/science/biology/ecology/intro-to-ecosystems/a/what-is-an-ecosystem"
     },
@@ -2168,7 +2169,7 @@
         "mode": "Bachiller",
         "description": "El video describe la organización biológica desde los niveles de poblaciones hasta ecosistemas, resaltando la interacción entre factores bióticos y abióticos. Introduce el flujo de energía, el reciclaje de materia y la clasificación de ambientes en acuáticos y terrestres.",
         "tags": [
-            "Ecosistema. Factores abióticos y bióticos. Biomas"
+            "Ecosistema","Factores abióticos y bióticos","Biomas"
         ],
         "url": "https://es.khanacademy.org/science/biology/ecology/intro-to-ecosystems/v/ecosystems-and-biomes"
     },
@@ -2181,7 +2182,7 @@
         "mode": "Bachiller",
         "description": "El texto proporciona aportes sobre la ecología de poblaciones. Aborda conceptos como tamaño (N), densidad y patrones de distribución. Describe los modelos de crecimiento exponencial y logístico, introduce la noción de la capacidad de carga (K) y los factores que regulan la población.",
         "tags": [
-            "Dinámica de poblaciones. Modelos de crecimiento. Capacidad de carga."
+            "Dinámica de poblaciones","Modelos de crecimiento","Capacidad de carga"
         ],
         "url": "https://es.khanacademy.org/science/biology/x324d1dcc:more-about-ecology/x324d1dcc:more-about-population-ecology/a/hs-population-ecology-review"
     },
@@ -2194,7 +2195,7 @@
         "mode": "Bachiller",
         "description": "El texto diferencia niveles como individuo, especie, población, comunidad y ecosistema. Introduce el uso de la nomenclatura binomial y la interacción entre factores bióticos y abióticos. Resalta la flexibilidad de las escalas espaciales en la investigación.",
         "tags": [
-            "Niveles de organización ecológicos. Poblaciones y comunidades. Escalas espaciales ecológicas."
+            "Niveles de organización ecológicos","Poblaciones y comunidades","Escalas espaciales ecológicas"
         ],
         "url": "https://es.khanacademy.org/science/biology/ecology/intro-to-ecology/a/ecological-levels-from-individuals-to-ecosystems"
     },
@@ -2207,7 +2208,7 @@
         "mode": "Bachiller",
         "description": "El video describe el proceso de fecundación y las etapas iniciales del desarrollo humano, desde la unión de los gametos hasta la formación del feto. Describe la dotación cromosómica y el proceso de mitosis que transforma el cigoto en mórula y blastocisto.",
         "tags": [
-            "Fecundación. Cigoto. Desarrollo embrionario."
+            "Fecundación","Cigoto","Desarrollo embrionario"
         ],
         "url": "https://es.khanacademy.org/science/2-secundaria-cyt/xe87a282d8d8e1339:funcion-de-reproduccion/xe87a282d8d8e1339:fecundacion/v/human-fertilization-and-early-development"
     },
@@ -2220,7 +2221,7 @@
         "mode": "Bachiller",
         "description": "El texto introduce ciertos aspectos anatómicos y fisiológicos de los sistemas reproductores y genitales humanos. Describe las funciones de órganos clave, la regulación hormonal mediada por FSH y LH, la ovulación y la  espermatogénesis.",
         "tags": [
-            "Sistemas reproductores humanos. Regulación hormonal. Fecundación."
+            "Sistemas reproductores humanos","Regulación hormonal","Fecundación"
         ],
         "url": "https://es.khanacademy.org/science/high-school-biology/hs-human-body-systems/hs-the-reproductive-system/a/hs-the-reproductive-system-review"
     },
@@ -2233,7 +2234,7 @@
         "mode": "Bachiller",
         "description": "El video compara la reproducción asexual y sexual. Presenta procesos tales como la fisión binaria, gemación, fragmentación y partenogénesis.",
         "tags": [
-            "Reproducción asexual. Reproducción sexual. Variabilidad genética."
+            "Reproducción asexual","Reproducción sexual","Variabilidad genética"
         ],
         "url": "https://es.khanacademy.org/science/high-school-biology/hs-reproduction-and-cell-division/hs-types-of-reproduction/v/asexual-and-sexual-reproduction"
     },
@@ -2246,7 +2247,7 @@
         "mode": "Bachiller",
         "description": "El video describe el proceso de fecundación y las etapas iniciales del desarrollo humano, desde la unión de los gametos hasta la formación del feto. Describe la dotación cromosómica y el proceso de mitosis que transforma el cigoto en mórula y blastocisto.",
         "tags": [
-            "Selección natural. Adaptación. Ancestro común"
+            "Selección natural","Adaptación","Ancestro común"
         ],
         "url": "https://es.khanacademy.org/science/biology/her/evolution-and-natural-selection/a/darwin-evolution-natural-selection"
     },
@@ -2259,7 +2260,7 @@
         "mode": "Bachiller",
         "description": "El texto introduce ciertos aspectos anatómicos y fisiológicos de los sistemas reproductores y genitales humanos. Describe las funciones de órganos clave, la regulación hormonal mediada por FSH y LH, la ovulación y la  espermatogénesis.",
         "tags": [
-            "Variación genética. Reproducción sexual. Selección natural"
+            "Variación genética","Reproducción sexual","Selección natural"
         ],
         "url": "https://es.khanacademy.org/science/high-school-biology/hs-evolution/hs-evolution-and-natural-selection/v/variation-in-a-species"
     },
@@ -2272,7 +2273,7 @@
         "mode": "Bachiller",
         "description": "El video compara la reproducción asexual y sexual. Presenta procesos tales como la fisión binaria, gemación, fragmentación y partenogénesis.",
         "tags": [
-            "Microevolución. Adecuación. Selección poligénica"
+            "Microevolución","Adecuación","Selección poligénica"
         ],
         "url": "https://es.khanacademy.org/science/biology/her/heredity-and-genetics/a/natural-selection-in-populations"
     },
@@ -2285,7 +2286,7 @@
         "mode": "Bachiller",
         "description": "El material desarrolla la teoría de Darwin, definida como descendencia con modificación desde un ancestro común. Explica la selección natural como el mecanismo basado en rasgos heredables que favorecen la supervivencia y la adaptación poblacional",
         "tags": [
-            "Azar. Población. Microevolución"
+            "Azar","Población","Microevolución"
         ],
         "url": "https://es.khanacademy.org/science/biology/her/heredity-and-genetics/a/genetic-drift-founder-bottleneck"
     },
@@ -2298,7 +2299,7 @@
         "mode": "Bachiller",
         "description": "El material explica la deriva génica como mecanismo evolutivo azaroso. Analiza cómo los efectos de cuello de botella y fundador alteran las frecuencias alélicas en poblaciones pequeñas, provocando una reducción de la variabilidad genética",
         "tags": [
-            "Azar. Población. Microevolución"
+            "Azar","Población","Microevolución"
         ],
         "url": "https://es.khanacademy.org/science/biology/her/heredity-and-genetics/v/genetic-drift-bottleneck-effect-and-founder-effect"
     },
@@ -2311,7 +2312,7 @@
         "mode": "Bachiller",
         "description": "El video aborda el concepto de especie como unidad básica de la taxonomía. Explica que la clasificación no depende solo de la apariencia, sino de la capacidad de generar descendencia fértil.",
         "tags": [
-            "Especie. Taxonomía. Descendencia fértil"
+            "Especie","Taxonomía","Descendencia fértil"
         ],
         "url": "https://es.khanacademy.org/science/biology/her/tree-of-life/v/species"
     },
@@ -2324,7 +2325,7 @@
         "mode": "Bachiller",
         "description": "El video define la especiación y describe sus tipos: alopátrica y simpátrica. Explica los mecanismos de aislamiento reproductivo que permiten el surgimiento de nuevas especies a partir de poblaciones con ancestros comunes",
         "tags": [
-            "Especiación. Aislamiento reproductivo. Especiación alopátrida"
+            "Especiación","Aislamiento reproductivo","Especiación alopátrida"
         ],
         "url": "https://es.khanacademy.org/science/biology/her/tree-of-life/v/allopatric-and-sympatric-speciation"
     },
@@ -2337,7 +2338,7 @@
         "mode": "Bachiller",
         "description": "El material define el concepto de especie mediante el entrecruzamiento y descendencia fértil. Aborda la especiación como el proceso de formación de nuevas especies, detallando los mecanismos de aislamiento y los tipos alopátrica y simpátrica.",
         "tags": [
-            "Especie. Especiación. Aislamiento reproductivo"
+            "Especie","Especiación","Aislamiento reproductivo"
         ],
         "url": "https://es.khanacademy.org/science/biology/her/tree-of-life/a/species-speciation"
     },
@@ -4309,6 +4310,229 @@
             "Representaciones Sociales"
         ],
         "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/687a7e7716d20c2e104c98a3"
+    },
+     {
+        "id": 270,
+        "title": "Literatura, medios y consumos culturales en el siglo XXI - B",
+        "level": "4° año, 5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan analiza cómo los medios digitales transforman la lectura, escritura y circulación literaria actual. Propone un abordaje crítico sobre el mercado editorial y plataformas de difusión. Culmina con la creación de una revista literaria digital.",
+        "tags": [
+            "Circulación De Literatura",
+            "Géneros Emergentes",
+            "Medios Digitales"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68a4b5c9a302ea8c944ee1c3"
+    },
+    {
+        "id": 272,
+        "title": "Literatura e historia del arte B",
+        "level": "4° año, 5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan explora la función mágico-simbólica del arte y la literatura. Mediante obras de Juan Rulfo, Jorge Luis Borges y Selva Almada, se indaga en el rito y el mito. Además, propone reflexionar sobre el símbolo para fortalecer la identidad.",
+        "tags": [
+            "Simbología",
+            "Ritualidad",
+            "Hibridación"
+        ],
+        "url": "Link 1: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/689d0e32d155a78b4c2deb36 Link 2: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/689d0aae666317e2fc63c611"
+    },
+    {
+        "id": 273,
+        "title": "Lenguajes combinados A",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan analiza los cruces entre la literatura y lenguajes artísticos como el cine, el teatro y las artes visuales. Aborda procesos de intertextualidad, adaptación y reescritura. Finaliza con la creación de obras híbridas que integran literatura.",
+        "tags": [
+            "Intertextualidad",
+            "Adaptación",
+            "Cultura"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68129817efa7d3ccf78bd09a"
+    },
+    {
+        "id": 276,
+        "title": "Proyecto de egreso 3: Mediación de lectura",
+        "level": "5° año",
+        "category": "Otro",
+        "subject": "Proyecto de Vinculación con el Futuro",
+        "mode": "Bachiller",
+        "description": "Este plan guía la implementación de dispositivos de mediación literaria en comunidades reales. Propone un recorrido de seis bloques: ajuste de planes, selección de textos, diseño de dinámicas, ejecución en territorio y evaluación de impacto.",
+        "tags": [
+            "Mediación De La Lectura",
+            "Intervención",
+            "Registro De Experiencias"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68a8c6ceb19f5cfe2ef47644"
+    },
+    {
+        "id": 277,
+        "title": "Proyecto de egreso 4: Mediación de lectura",
+        "level": "5° año",
+        "category": "Otro",
+        "subject": "Proyecto de Vinculación con el Futuro",
+        "mode": "Bachiller",
+        "description": "Este plan de aprendizaje aborda la evaluación y cierre del proyecto de mediación de la lectura. Propone a los estudiantes reconstruir el camino recorrido, analizando el impacto en la comunidad. Culmina con una presentación que socializa la experiencia.",
+        "tags": [
+            "Mediación De La Lectura",
+            "Evaluación",
+            "Impacto"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68b1cfe6b19f5cfe2ef4d3a5"
+    },
+    {
+        "id": 289,
+        "title": "Matemática para la física",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan integra herramientas matemáticas para modelizar fenómenos físicos. Se trabajan magnitudes vectoriales, Segunda Ley de Newton, límites y derivadas, funciones trigonométricas, movimiento armónico simple y ondas mecánicas.",
+        "tags": [
+            "Vectores",
+            "Derivadas",
+            "Ondas"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67eea14f18d2e8d5096de94c"
+    },
+    {
+        "id": 293,
+        "title": "Turismo, sociedad y transformaciones A",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan aborda la comprensión del turismo como fenómeno social e histórico en Argentina, analizando su evolución de privilegio a derecho. Se estudian transformaciones como el turismo social, el rol de las élites, la infraestructura y el patrimonio.",
+        "tags": [
+            "Turismo Social",
+            "Historia Del Turismo",
+            "Patrimonio Cultural"
+        ],
+        "url": "Link 1: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67c87be330ff87afd66bd555 Link 2: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67c87be330ff87afd66bd555"
+    },
+    {
+        "id": 294,
+        "title": "Turismo, sociedad y transformaciones B",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan analiza la evolución del turismo desde mediados del siglo XX a la actualidad y los factores que lo transformaron. Se enfatiza la democratización mediante el turismo social, el turismo masivo y el impacto de la globalización.",
+        "tags": [
+            "Turismo Social","Historia Del Turismo","Patrimonio Cultural"
+        ],
+        "url": "https://share.articulate.com/ramBl3DS9cB47IqWCI6-M"
+    },
+    {
+        "id": 295,
+        "title": "¿Buenos Aires es una ciudad turística? A",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan analiza el ecosistema turístico de la Ciudad de Buenos Aires, integrando sus dimensiones productivas, culturales y sociales.Culmina con el diseño de un micrositio para circuitos barriales.",
+        "tags": [
+            "Ecosistema Turístico",
+            "Servicios Turísticos",
+            "Circuitos Barriales"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6865281b61a97f3eff16aa4e"
+    },
+    {
+        "id": 296,
+        "title": "¿Buenos Aires es una ciudad turística? B",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan propone una reflexión sobre los desafíos del turismo contemporáneo, abordando la sostenibilidad, la innovación tecnológica y las condiciones laborales. Culmina con la creación de un micrositio digital para un proyecto turístico barrial.",
+        "tags": [
+            "Innovación Tecnológica En Turismo",
+            "Turismo Accesible",
+            "Nómades Digitales"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6865312cfbbd1f4b1a80c537"
+    },
+    {
+        "id": 297,
+        "title": "Destinos turísticos de Argentina: mapas, recorridos y circuito A",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan propone una mirada geohistórica del territorio argentino, analizando el turismo como construcción social y política. El plan fomenta una reflexión a sobre los impactos productivos y la importancia de una planificación sustentable y equitativa",
+        "tags": [
+            "Ecorregiones",
+            "Planificación Turística",
+            "Desarrollo Turístico"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/686569c05fa9910154a3d3e8"
+    },
+    {
+        "id": 298,
+        "title": "Destinos turísticos de Argentina: mapas, recorridos y circuito B",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan analiza las dinámicas sociales y ambientales del turismo en Argentina. Explora tensiones territoriales, la folklorización de comunidades y desafíos como la gentrificación y la crisis climática.",
+        "tags": [
+            "Áreas Protegidas",
+            "Territorio",
+            "Interculturalidad"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68756bbd4e191ddea967c49e"
+    },
+    {
+        "id": 299,
+        "title": "La cocina como elemento identitario cultural A",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan analiza la gastronomía como pilar de la identidad cultural y patrimonio inmaterial. Explora la historia alimentaria desde rituales antiguos hasta la economía circular. Se enfoca en tradiciones de América Latina y el rol de la cocina en la memoria.",
+        "tags": [
+            "Gastronomía",
+            "Identidad Cultural",
+            "Sostenibilidad"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68124191483a05106fa7df26"
+    },
+    {
+        "id": 300,
+        "title": "La cocina como elemento identitario cultural B",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan aborda la gastronomía como elemento identitario.Explora las tradiciones regionales de Argentina, el impacto de las corrientes migratorias y la proyección internacional de sus productos",
+        "tags": [
+            "Gastronomía",
+            "Identidad Cultural",
+            "Circuitos Gastronómicos"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68124f5aefa7d3ccf78bc192"
+    },
+    {
+        "id": 301,
+        "title": "Cómo construyo un producto turístico A",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan se centra en el diseño de un producto turístico basado en la identidad de los barrios de Buenos Aires. Profundiza en la experiencia intangible mediante bitácoras y encuestas, transitando desde el relevamiento local hasta un prototipo funcional.",
+        "tags": [
+            "Patrimonio Intangible",
+            "Turismo Barrial",
+            "Producto Turístico"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68756ef84e191ddea967c7f3"
     }
     
  
