@@ -4533,6 +4533,51 @@
             "Producto Turístico"
         ],
         "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68756ef84e191ddea967c7f3"
+    },
+     {
+        "id": 302,
+        "title": "Cómo construyo un producto turístico B",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan guía a los estudiantes en la fase de consolidación e implementación de un producto turístico. Para ello, se centra en el diseño de la marca (nombre, eslogan, logo), la estrategia de comunicación y promoción, y la articulación con la comunidad local. También aborda la planificación operativa (recursos, cronograma) y la simulación para la evaluación y ajuste de la propuesta, buscando su coherencia y viabilidad.",
+        "tags": [
+            "Producto Turístico",
+            "Planificación En Turismo",
+            "Comunidad Local"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/687ff900e39e5db57ad48f59"
+    },
+    {
+        "id": 303,
+        "title": "Diarios de viaje y producción audiovisual A",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan explora la comunicación en el turismo desde una mirada integral, abordando procesos interpersonales, interculturales e institucionales. Los estudiantes analizan el impacto de la tecnología y el uso de los diarios de viaje como herramientas narrativas para resignificar el patrimonio de la Ciudad de Buenos Aires. El plan promueve la producción de relatos digitales centrados en experiencias de viaje.",
+        "tags": [
+            "Comunicación",
+            "Narrativa",
+            "Patrimonio Urbano"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68125bc4efa7d3ccf78bc8e3"
+    },
+    {
+        "id": 304,
+        "title": "Diarios de viaje y producción audiovisual B",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan propone la realización de una producción audiovisual, con el fin de dar a conocer destinos turísticos, considerando tanto la mirada del viajero como la difusión estratégica. Para ello, se abordan elementos del lenguaje visual, la planificación del producto y la edición digital de contenidos. Asimismo, se enfatiza en la comunicación mediante herramientas digitales y la ética comunicacional.",
+        "tags": [
+            "Producción Audiovisual",
+            "Difusión De Destinos Turísticos",
+            "Comunicación Con Viajeros"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68544166224d41adfae20d41"
     }
     
  
