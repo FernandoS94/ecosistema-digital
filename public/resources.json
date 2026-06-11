@@ -4578,6 +4578,141 @@
             "Comunicación Con Viajeros"
         ],
         "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68544166224d41adfae20d41"
+    },
+      {
+        "id": 305,
+        "title": "Análisis territorial y planificación turística",
+        "level": "5° año",
+        "category": "Otro",
+        "subject": "Proyecto de Vinculación con el Futuro",
+        "mode": "Bachiller",
+        "description": "El plan se centra en el diseño de proyectos turísticos situados. En esta etapa se incluye la elaboración de un diagnóstico territorial, el mapeo de actores clave y el trabajo de campo mediante entrevistas y encuestas. Se enfoca en la planificación detallada del proyecto, abordando la viabilidad, la comunicación y la ética comunitaria para intervenir con propósito en el territorio",
+        "tags": [
+            "Diagnóstico Territorial",
+            "Planificación Proyecto Turístico",
+            "Trabajo De Campo"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68656f4261a97f3eff16c1d6"
+    },
+    {
+        "id": 306,
+        "title": "Diseño e implementación de la propuesta turística",
+        "level": "5° año",
+        "category": "Otro",
+        "subject": "Proyecto de Vinculación con el Futuro",
+        "mode": "Bachiller",
+        "description": "Este plan continúa el anterior y orienta el pasaje de la planificación a la acción mediante la ejecución de proyectos turísticos situados. El plan aborda la producción de materiales comunicacionales, la gestión logística y la intervención real en el territorio con público. Promueve la evaluación del impacto social, la sistematización de evidencias y la reflexión sobre el rol del egresado como anfitrión comprometido con la valorización de su patrimonio local.",
+        "tags": [
+            "Implementación Del Proyecto Turístico",
+            "Intervención Territorial",
+            "Valoración Patrimonio"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/687fe1d9e39e5db57ad47ec3"
+    },
+    {
+        "id": 308,
+        "title": "Música y recursos tecnológicos A",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan propone la exploración de la música a través de la tecnología, analizando estilos urbanos y populares y la materialidad sonora (altura, timbre, ritmo). Guía a los estudiantes en la producción musical digital mediante el uso de instrumentos virtuales, sintetizadores y software enfocándose en la composición, la mezcla y la incorporación de efectos, buscando la identidad sonora y el trabajo colaborativo.",
+        "tags": [
+            "Tecnología Musical",
+            "Producción Digital",
+            "Materialidad Sonora"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67bdb4d917d9350d9686c9ee"
+    },
+    {
+        "id": 309,
+        "title": "Música y recursos tecnológicos B",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan integra herramientas digitales y software de edición para la producción musical contemporánea. Se guía el análisis de géneros tradicionales y su transformación mediante recursos como MIDI, procesos de mezcla y efectos sonoros. Se exploran nuevas materialidades en cine, videojuegos y streaming, promoviendo la creación de relatos sonoros y la reflexión sobre la identidad cultural en entornos digitales y procesos creativos.",
+        "tags": [
+            "Producción Digital",
+            "Materialidad Sonora",
+            "Fusión Tecnológica"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67bdbe8b3e3f69ecdacdc527"
+    },
+    {
+        "id": 310,
+        "title": "Paisajes sonoros A",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan propone la exploración de la música como construcción social y forma de conocimiento poético-metafórico, analizando la materialidad sonora (sonido, silencio, ruido) mediante medios acústicos, electroacústicos y digitales. Se indagan patrones de acompañamiento y rasgos de estilo en diversos géneros populares latinoamericanos y urbanos (candombe, son, rock, tango, rap, cumbia). Se promueve la composición y el registro musical mediante la notación y la creación de paisajes sonoros que integran tecnología.",
+        "tags": [
+            "Paisajes Sonoros",
+            "Materialidad Sonora",
+            "Géneros Populares"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67bdc2af17d9350d9686da01"
+    },
+    {
+        "id": 311,
+        "title": "Paisajes sonoros B",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan está enfocado en la audición reflexiva y la producción creativa. Se guía el análisis de estructuras formales (motivos y secciones) y la dimensión espacial en obras populares y contemporáneas. Se aborda el reconocimiento de fuentes sonoras, el procesamiento digital mediante MIDI y la identificación de claves rítmicas. Culmina con la creación de paisajes sonoros que integran recursos compositivos e interpretativos.",
+        "tags": [
+            "Paisaje Sonoro",
+            "Fuentes Sonoras",
+            "Claves Rítmicas"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67bdc6553e3f69ecdacdca64"
+    },
+    {
+        "id": 312,
+        "title": "Explorando el mundo sonoro A",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El promueve el desarrollo de habilidades técnicas en la interpretación vocal e instrumental, abordando la afinación, el control del aire y la articulación. Se presentan procesos de imitación, audición y creación colectiva, integrando el uso de tecnología para el registro y preservación musical. Se enfatiza el reconocimiento de consignas visuales y gestuales para la concertación grupal y la reflexión sobre la calidad del sonido en diversos géneros.",
+        "tags": [
+            "Interpretación Técnica",
+            "Concertación Grupal",
+            "Tecnología Sonora"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67be033717d9350d968700c0"
+    },
+    {
+        "id": 313,
+        "title": "Explorando el mundo sonoro B",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan desarrolla el vínculo entre música, sociedad y tecnología. Se aborda la música como fenómeno geopolítico e histórico, analizando estilos del siglo XX y XXI, su relación con el género dramático (en formato ópera, cine, videojuegos) y el impacto tecnológico en la producción actual. Se analiza la oferta cultural de Buenos Aires, la identidad sonora en medios y la circulación en redes sociales. El trayecto culmina con la creación de remixes y la reflexión sobre las culturas juveniles.",
+        "tags": [
+            "Contextualización De Obras",
+            "Circulación Cultural",
+            "Culturas Juveniles"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67be05ba3e3f69ecdacdfa63"
+    },
+    {
+        "id": 314,
+        "title": "De la escucha a la experimentación A",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan propone el desarrollo de la escucha reflexiva y la experimentación musical. Incluye el análisis de los criterios de organización sonora (ritmo, melodía, textura) y el estudio de las raíces indígenas, africanas y europeas en los géneros populares latinoamericanos. Asimismo, explora la función de la música en los medios masivos, los videojuegos y el drama, promoviendo la producción creativa y el uso de herramientas digitales.",
+        "tags": [
+            "Apreciación Musical",
+            "Géneros Populares",
+            "Organización Sonora"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67c0b33d827e00559078a8bd"
     }
     
  
