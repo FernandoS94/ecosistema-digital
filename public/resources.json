@@ -4713,6 +4713,321 @@
             "Organización Sonora"
         ],
         "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67c0b33d827e00559078a8bd"
+    },
+    {
+        "id": 315,
+        "title": "De la escucha a la experimentación B",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan fomenta la improvisación musical (vocal, corporal e instrumental) y su transformación en obras estructuradas. Se estudian técnicas de expansión (desarrollo motívico, ostinatos, polirritmias) y la aplicación de tecnología para la composición multimedial, la creación de arreglos y la sonorización de producciones audiovisuales. El objetivo es pasar de la idea espontánea a la pieza organizada.",
+        "tags": [
+            "Improvisación",
+            "Composición Musical",
+            "Tecnología Musical"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67c0b685750eb9ecb319ee6a"
+    },
+    {
+        "id": 316,
+        "title": "De la práctica a la grabación A",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan aborda la interpretación musical colectiva, enfocándose en la coordinación grupal y el ajuste sincrónico mediante la escucha activa y la comunicación no verbal. Se guían ejercicios de independencia rítmica (canto y percusión) y ajuste melódico-armónico sobre bases instrumentales. Asimismo, se trabaja la puesta en escena, la rotación de roles en la performance y el análisis de referentes musicales para enriquecer la práctica técnica.",
+        "tags": [
+            "Interpretación Colectiva",
+            "Escucha Activa",
+            "Sincronización"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67e3fa5e39564945ab444202"
+    },
+    {
+        "id": 317,
+        "title": "De la práctica a la grabación B",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan propone el desarrollo de un proceso integral de producción y grabación musical, desde la captura sonora hasta la distribución digital. Se incluyen actividades sobre microfonía, interfaces de audio y el uso de estaciones de trabajo digitales (DAW) para la edición y procesamiento. Se abordan técnicas de mezcla, formatos de archivo y el impacto de innovaciones como la inteligencia artificial y el audio inmersivo, promoviendo una escucha crítica y profesional.",
+        "tags": [
+            "Producción Musical",
+            "Composición Multimedial",
+            "Grabación Digital"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67e40dfc48696697fc895172"
+    },
+    {
+        "id": 318,
+        "title": "De la creación a la gestión A",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan analiza el vínculo entre música, tecnología y sociedad. Se analiza la industria cultural, los medios alternativos y las identidades juveniles, explorando la relación de la música con otros lenguajes artísticos. Se aborda la producción digital (DAW), la autogestión y la circulación en red. Propone proyectos integradores, como el diseño de festivales y podcasts, uniendo saberes técnicos y reflexivos.",
+        "tags": [
+            "Industria Cultural",
+            "Intermedialidad",
+            "Proyectos Culturales"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67f54d6cf24946970633d8e9"
+    },
+    {
+        "id": 319,
+        "title": "De la creación a la gestión B",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan propone el desarrollo de proyectos culturales en el ámbito artístico. Se identifican así características y necesidades del entorno y la comunidad y se promueven intervenciones desde la música, centrándose en la gestión de proyectos culturales mediante la metodología cualitativa. Se guía a los estudiantes para formular objetivos claros, elaborar planes de trabajo, cronogramas y estrategias de sostenibilidad, y culminar con el seguimiento, la evaluación y memoria del proyecto.",
+        "tags": [
+            "Gestión De Proyectos Culturales",
+            "Metodología Cualitativa",
+            "Intervenciones Musicales"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67f5577ba89320f10fc7a808"
+    },
+    {
+        "id": 320,
+        "title": "Punto de partida",
+        "level": "5° año",
+        "category": "Otro",
+        "subject": "Proyecto de Vinculación con el Futuro",
+        "mode": "Bachiller",
+        "description": "El plan propone la gestión de un proyecto final que utiliza la música como herramienta de transformación social. Los estudiantes exploran su entorno mediante cartografías sonoras y entrevistas para identificar problemáticas locales que inspiren su creación. Se promueve el diseño de un plan de acción con roles claros y la construcción de una identidad sonora coherente con el mensaje. Incluye la planificación de una pieza audiovisual que potencia la narrativa de la obra.",
+        "tags": [
+            "Cartografía Sonora",
+            "Guion Audiovisual",
+            "Identidad Sonora"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6867c4bffbbd1f4b1a80e593"
+    },
+    {
+        "id": 321,
+        "title": "La materialización del proyecto musical",
+        "level": "5° año",
+        "category": "Otro",
+        "subject": "Proyecto de Vinculación con el Futuro",
+        "mode": "Bachiller",
+        "description": "El plan avanza en la materialización del proyecto musical colectivo, centrándose en el ensayo técnico para ajustar la precisión rítmica, la afinación y el empaste sonoro. Se integran recursos digitales (DAW, loops, instrumentos virtuales) para potenciar la expresividad de la obra. Asimismo, se aborda la gestión logística del evento (tiempos, espacios y roles) y el diseño de la identidad gráfica para la difusión y mediación con la comunidad.",
+        "tags": [
+            "Arreglos Musicales",
+            "Ensayo Técnico",
+            "Difusión Y Mediación"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/686d98ddd20b9fabda5ed329"
+    },
+    {
+        "id": 322,
+        "title": "Reflexión y evaluación del proyecto musical",
+        "level": "5° año",
+        "category": "Otro",
+        "subject": "Proyecto de Vinculación con el Futuro",
+        "mode": "Bachiller",
+        "description": "El plan abarca la etapa de cierre y evaluación reflexiva del proyecto, utilizando herramientas como matrices de evaluación y bitácoras de recuerdos para procesar la experiencia. Se promueve el diálogo con la comunidad para registrar las resonancias territoriales de la obra y su impacto social. El proceso culmina con la redacción de un informe final y un documental audiovisual que sistematizan la memoria colectiva y los aprendizajes logrados.",
+        "tags": [
+            "Bitácora De Experiencias",
+            "Informe Final",
+            "Resonancia Territorial"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/686d9ea7d20b9fabda5ed4c6"
+    },
+    {
+        "id": 323,
+        "title": "Estrategias organizacionales frente al desempleo juvenil A",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan examina a las organizaciones como sistemas sociales abiertos en interacción con su entorno para abordar el desempleo juvenil. Se analizan el micro y macroambiente mediante la matriz FODA, la cultura organizacional y la responsabilidad social. Asimismo, se exploran estructuras formales e informales, estilos de liderazgo y procesos de toma de decisiones participativos para promover la inclusión y el desarrollo sustentable.",
+        "tags": [
+            "Sistema Abierto",
+            "Responsabilidad Social",
+            "Desempleo Juvenil"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/685eedcc5fa9910154a3695b"
+    },
+    {
+        "id": 324,
+        "title": "Estrategias organizacionales frente al desempleo juvenil B",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan de aprendizaje analiza el desempleo juvenil vinculando la teoría económica con la gestión organizacional. Explora el mercado laboral mediante las leyes de oferta, demanda y elasticidad, reconociendo fallas estructurales y barreras de acceso. Asimismo, posiciona a los sistemas de información y la tecnología como activos estratégicos para la toma de decisiones éticas. El objetivo es que las organizaciones diseñen estrategias que promuevan la inserción laboral.",
+        "tags": [
+            "Desempleo Juvenil",
+            "Mercado Laboral",
+            "Sistemas De Información"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/685ef9645fa9910154a37a60"
+    },
+    {
+        "id": 325,
+        "title": "Adaptar la administración a los desafíos actuales A",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan prioriza aporta a la construcción de una mirada crítica y sistemática sobre fenómenos sociales, económicos y organizacionales; buscando promover la comprensión del hecho organizacional como una construcción compleja y dinámica. De este modo, fomenta la comprensión de la gestión responsable, el rol del Estado, la aplicación de sistemas administrativos (planeamiento, gestión y control) y la utilización de tecnologías de información y contabilidad.",
+        "tags": [
+            "Administración",
+            "Organizaciones",
+            "Toma De Decisiones"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/685ea6665fa9910154a35d3a"
+    },
+    {
+        "id": 326,
+        "title": "Adaptar la administración a los desafíos actuales B",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan de aprendizaje analiza la adaptación de los sistemas administrativos ante desafíos actuales como la tecnología y la sostenibilidad. Aborda los procesos de planeamiento, gestión y control en ámbitos públicos, privados y del tercer sector. Se enfoca en la toma de decisiones estratégicas, el uso de herramientas de análisis y el impacto de la innovación tecnológica, promoviendo una gestión ética y eficiente en entornos de alta complejidad.",
+        "tags": [
+            "Planeamiento",
+            "Gestión",
+            "Toma De Decisiones"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/685f0a825fa9910154a38269"
+    },
+    {
+        "id": 327,
+        "title": "Presupuesto público y participación ciudadana A",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan de aprendizaje analiza el rol del Estado en la economía mediante las finanzas públicas y el presupuesto nacional. Se abordan las funciones de asignación, redistribución y estabilización, junto con el sistema tributario y la política monetaria. El material profundiza en la inflación, el poder adquisitivo y el control ciudadano, vinculando variables macroeconómicas con la vida cotidiana y el ejercicio de la democracia.",
+        "tags": [
+            "Presupuesto Público",
+            "Control Ciudadano",
+            "Política Monetaria"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/685f01ce5fa9910154a37e77"
+    },
+    {
+        "id": 328,
+        "title": "Presupuesto público y participación ciudadana B",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan examina indicadores como el PBI y el coeficiente de Gini para evaluar la actividad económica y la equidad social. Aborda la globalización, el comercio internacional y la integración regional. Asimismo profundiza en temáticas de presupuesto público, la inflación y el poder adquisitivo. Busca que los estudiantes analicen las políticas estatales y su impacto en el bienestar ciudadano.",
+        "tags": [
+            "Indicadores Económicos",
+            "Presupuesto Público",
+            "Inflación"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68645c0961a97f3eff16a801"
+    },
+    {
+        "id": 329,
+        "title": "Gestión integral del capital humano A",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan aborda el funcionamiento de las organizaciones, sus tipos y áreas funcionales. Se analiza el mercado laboral argentino, sus problemáticas (formalidad e informalidad) y el marco legal vigente. Se profundiza en la Ley de Contrato de Trabajo y la Ley de Teletrabajo, y en la interacción de los actores dominantes (trabajadores, empresas, sindicatos, Estado). Se fomenta el análisis crítico, el debate y las simulaciones para la aplicación de conocimientos en un proyecto integrador.",
+        "tags": [
+            "Capital Humano",
+            "Organizaciones",
+            "Legislación Laboral"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67ebdb9f87e34eb67dddb749"
+    },
+     {
+        "id": 330,
+        "title": "Gestión integral del capital humano B",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan de aprendizaje aborda la gestión integral del capital humano en las organizaciones. Los estudiantes exploran políticas de personal, planificación de necesidades, sistemas salariales y beneficios. Se profundiza en procesos de reclutamiento, selección, capacitación y evaluación de desempeño, analizando cómo la motivación impacta en la productividad. Finalmente, examina desafíos actuales en contextos locales e internacionales.",
+        "tags": [
+            "Capital Humano",
+            "Políticas De Personal",
+            "Gestión Organizacional"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/685ec0d55fa9910154a3621b"
+    },
+    {
+        "id": 331,
+        "title": "Sistemas de administración A",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan de aprendizaje profundiza en la gestión financiera integral, analizando el sistema financiero argentino y el uso de herramientas de cálculo para la toma de decisiones. Los estudiantes abordan la planificación a través de presupuestos económicos y financieros, identifican riesgos y aplican estrategias de mitigación. Se destaca la importancia de generar informes oportunos y pertinentes, promoviendo el uso ético y responsable de la información para reflejar con transparencia la situación económica y financiera de la organización ante diversos usuarios.",
+        "tags": [
+            "Finanzas",
+            "Patrimonio",
+            "Informes Financieros"
+        ],
+        "url": "Link 1: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67cedb23764327296b11165a Link 2: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/689be1add7bb52f9be857545"
+    },
+    {
+        "id": 332,
+        "title": "Sistemas de administración B",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan aborda la gestión financiera integral, analizando las decisiones de inversión, financiamiento y administración del capital de trabajo. Los estudiantes exploran el mercado del crédito, los microcréditos y la operatoria con entidades bancarias. El material profundiza en la evaluación de factibilidad mediante el análisis de indicadores, junto con el control presupuestario para detectar desvíos y asegurar la sostenibilidad organizacional.",
+        "tags": [
+            "Inversión",
+            "Factibilidad",
+            "Presupuesto"
+        ],
+        "url": "Link 1: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67cede10f1362ac4a77f2117 Link 2: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/689be38fd7bb52f9be8576ab"
+    },
+    {
+        "id": 333,
+        "title": "Gestión de marketing A",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan aborda el marketing como herramienta estratégica para la toma de decisiones. Analiza la evolución del concepto, el comportamiento del consumidor y la importancia de la investigación de mercado y segmentación. Se profundiza en branding, desarrollo de productos y estrategias de comunicación digital. Finalmente, integra la innovación, sostenibilidad y experiencia del cliente como pilares para generar valor y fidelización.",
+        "tags": [
+            "Marketing",
+            "Branding",
+            "Segmentación"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6883e9993e763055241ad3b6"
+    },
+    {
+        "id": 334,
+        "title": "Gestión de marketing B",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este taller profundiza en la gestión del marketing: promoción, medios, canales de distribución y estrategias de precios. Propone analizar la evolución hacia entornos digitales, el marketing de influencers y el impacto emocional en los públicos. A través del diseño de una campaña integral, los estudiantes integran estas variables para construir relaciones significativas y coherentes que respondan a las demandas del mercado actual.",
+        "tags": [
+            "Marketing Mix",
+            "Estrategia",
+            "Canales"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6887d1e56cd76ecb1b518013"
+    },
+    {
+        "id": 335,
+        "title": "Proyecto egreso 2: planeamiento y gestión en organizaciones",
+        "level": "5° año",
+        "category": "Otro",
+        "subject": "Proyecto de Vinculación con el Futuro",
+        "mode": "Bachiller",
+        "description": "Este plan guía el diseño de un proyecto con impacto económico real basado en un diagnóstico situado del entorno. Los estudiantes eligen ejes como economía social o circular para investigar actores, formular objetivos y programar acciones, recursos y cronogramas detallados. El proceso incluye la validación de la propuesta mediante la retroalimentación, promoviendo la viabilidad técnica y el compromiso con la resolución de problemas locales.",
+        "tags": [
+            "Diseño De Proyecto Organizacional",
+            "Plan De Acción",
+            "Detección De Necesidades"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/687a712a16d20c2e104c951d"
     }
     
  
