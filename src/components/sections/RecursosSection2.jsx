@@ -20,6 +20,24 @@ function matchesFilter(resourceValue, filterSet) {
 
 // ── Resource Card ────────────────────────────────
 function ResourceCard({ resource }) {
+  const [copiado, setCopiado] = useState(false);
+
+  const handleCompartir = async () => {
+    if (navigator.share && /Mobi|Android/i.test(navigator.userAgent)) {
+      try {
+        await navigator.share({
+          title: resource.title,
+          text: resource.description,
+          url: resource.url,
+        });
+      } catch (err) {}
+    } else {
+      navigator.clipboard.writeText(resource.url);
+      setCopiado(true);
+      setTimeout(() => setCopiado(false), 2000);
+    }
+  };
+
   return (
     <div className="resource-card">
       <div className="resource-header">
@@ -38,6 +56,13 @@ function ResourceCard({ resource }) {
       <div className="resource-actions">
         <button className="btn-view-pdf" onClick={() => window.open(resource.url, '_blank')}>
           Ver material
+        </button>
+        <button
+          className={`btn-compartir${copiado ? ' copiado' : ''}`}
+          onClick={handleCompartir}
+          title={copiado ? 'Link copiado' : 'Compartir'}
+        >
+          <i className={`fas ${copiado ? 'fa-check' : 'fa-link'}`}></i>
         </button>
       </div>
     </div>
