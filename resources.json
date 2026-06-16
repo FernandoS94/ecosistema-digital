@@ -5193,8 +5193,38 @@
             "Consulta Sql"
         ],
         "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/682dcb548860eb76cd5b7152"
+    },
+    {
+        "id": 347,
+        "title": "Análisis de datos con IA - B",
+        "level": "4° año, 5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan indaga la metodología de diseño y creación de Bases de Datos (BBDD), cubriendo los 5 pasos fundamentales: desde el análisis del problema hasta la implementación. Se trabaja la traducción del Diseño Conceptual (MER) a Diseño Lógico mediante la normalización para eliminar redundancias y garantizar la consistencia de los datos. Por último, se aplican consultas SQL básicas (SELECT, INSERT, UPDATE, DELETE) para gestionar la información y se subraya el rol clave de los datos estructurados y limpios para alimentar sistemas de Inteligencia Artificial (IA) y Ciencia de Datos.",
+        "tags": [
+            "Bases De Datos (Bbdd)",
+            "Normalización",
+            "Inteligencia Artificial (Ia)"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/686bd8ae5fa9910154a4004c"
+    },
+    {
+        "id": 348,
+        "title": "Programación de aplicaciones A",
+        "level": "4° año, 5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan propone el desarrollo de un prototipo de videojuego como base para diseñar y construir aplicaciones informáticas. Los estudiantes exploran la arquitectura cliente-servidor, la estructura de capas y el uso de Entornos de Desarrollo Integrado (EDI). Mediante tecnologías de web abierta (HTML, CSS y JavaScript), se aplican estrategias de análisis, codificación y testeo para transformar una idea inicial en un producto funcional.",
+        "tags": [
+            "Arquitectura Cliente-Servidor",
+            "Videojuegos",
+            "Programación"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68d1b2363204d0ccffdcf3dc"
     }
-    
+
 
  
 
