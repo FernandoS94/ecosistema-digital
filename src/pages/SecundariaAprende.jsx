@@ -7,6 +7,7 @@ import { useScrollAnimation } from '../hooks/useScrollAnimation';
 import { DocenteGemSection } from '../components/sections/DocenteGemSection';
 import { RecursosSection } from '../components/sections/RecursosSection2';
 import { BibliotecaCard } from '../components/sections/BibliotecaCard';
+import { Breadcrumb } from '../components/Breadcrumb';
 
 
 
@@ -111,6 +112,7 @@ export function SecundariaAprendePage() {
     <main>
       
       <SecundariaHero />
+      <Breadcrumb />
    <SecundariaStats />
    
         <SecundariaIntro />

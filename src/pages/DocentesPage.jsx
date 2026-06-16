@@ -5,6 +5,7 @@ import './DocentesPage.css';
 import { VideosSection } from '../components/sections/VideosSection';
 import { VideosGrid } from '../components/sections/VideosGrid';
 import { DocenteGemSection } from '../components/sections/DocenteGemSection1';
+import { Breadcrumb } from '../components/Breadcrumb';
 
 
 
@@ -98,6 +99,7 @@ export function DocentesPage() {
   return (
     <main>
       <DocentesHero />
+      <Breadcrumb />
       <DocentesIntro />
       {/*<DocentesGem />*/} 
       <DocenteGemSection />

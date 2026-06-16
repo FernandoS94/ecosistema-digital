@@ -2,6 +2,7 @@ import { useEffect } from 'react';
 import './FamiliasPage.css';
 import { DocumentosSection } from '../components/sections/DocumentosSection';
 import { VideosFamiliasSection } from '../components/sections/VideosFamiliasSection';
+import { Breadcrumb } from '../components/Breadcrumb';
 
 function FamiliasHero() {
   return (
@@ -63,6 +64,7 @@ export function FamiliasPage() {
   return (
     <main>
       <FamiliasHero />
+      <Breadcrumb />
       <FamiliasIntro />
       <DocumentosSection />
      <VideosFamiliasSection /> 
