@@ -18,6 +18,7 @@ import { DocentesPage } from './pages/DocentesPage';
 import { SecundariaAprendePage } from './pages/SecundariaAprende';
 import { FamiliasPage } from './pages/FamiliasPage';
 import { ToastNovedades } from './components/ToastNovedades';
+import { Breadcrumb } from './components/Breadcrumb';
 
 
 
@@ -36,13 +37,11 @@ function HomePage() {
 }
 
 function AppContent() {
-  
- 
-
-  return (
+    return (
     <>
     <ToastNovedades />
       <Navbar />
+      
       <FlyerModal />
       <VideoModal />
       <Routes>
