@@ -5028,8 +5028,38 @@
             "Detección De Necesidades"
         ],
         "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/687a712a16d20c2e104c951d"
+    },
+    {
+        "id": 336,
+        "title": "Del diseño a la acción: implementar, registrar y ajustar",
+        "level": "5° año",
+        "category": "Otro",
+        "subject": "Proyecto de Vinculación con el Futuro",
+        "mode": "Bachiller",
+        "description": "Este plan guía la implementación y ejecución del proyecto diseñado, priorizando el paso de la planificación a la acción. Los estudiantes coordinan recursos y documentan el proceso con registros digitales para analizar el impacto inicial en el territorio. Se fomenta la flexibilidad ante imprevistos y la sistematización de evidencias, promoviendo una evaluación crítica del trabajo colectivo y la viabilidad de la propuesta en contextos reales.",
+        "tags": [
+            "Implementación",
+            "Sistematización",
+            "Viabilidad"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6883ec603e763055241ad589"
+    },
+    {
+        "id": 337,
+        "title": "Proyecto de egreso 4: Análisis del proceso y resultados",
+        "level": "5° año",
+        "category": "Otro",
+        "subject": "Proyecto de Vinculación con el Futuro",
+        "mode": "Bachiller",
+        "description": "Este tramo final del Proyecto de Egreso propone una evaluación sistemática de todo el recorrido realizado. Los estudiantes analizan el impacto económico y social de su intervención, reflexionan sobre el aprendizaje colectivo y realizan una autoevaluación de su desempeño individual. El plan culmina con la identificación de mejoras, la proyección de la propuesta y la presentación final de resultados mediante la sistematización de evidencias.",
+        "tags": [
+            "Evaluación De Proyecto",
+            "Impacto",
+            "Sistematización Del Proyecto"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/688bc26e5fcc5ca1f941c8a0"
     }
-    
+
  
 
 
