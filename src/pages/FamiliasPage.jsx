@@ -64,7 +64,7 @@ export function FamiliasPage() {
   return (
     <main>
       <FamiliasHero />
-      <Breadcrumb />
+      
       <FamiliasIntro />
       <DocumentosSection />
      <VideosFamiliasSection /> 

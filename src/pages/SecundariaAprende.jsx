@@ -112,7 +112,7 @@ export function SecundariaAprendePage() {
     <main>
       
       <SecundariaHero />
-      <Breadcrumb />
+      
    <SecundariaStats />
    
         <SecundariaIntro />

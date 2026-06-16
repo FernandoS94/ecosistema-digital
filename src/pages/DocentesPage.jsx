@@ -99,7 +99,7 @@ export function DocentesPage() {
   return (
     <main>
       <DocentesHero />
-      <Breadcrumb />
+      
       <DocentesIntro />
       {/*<DocentesGem />*/} 
       <DocenteGemSection />
