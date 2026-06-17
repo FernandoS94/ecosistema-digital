@@ -5445,6 +5445,111 @@
             "Auto Regulación","Preparación Física"
         ],
         "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67c1af60aac557336f92deeb"
+    },
+      {
+        "id": 369,
+        "title": "Proyecto de egreso 4",
+        "level": "5° año",
+        "category": "Otro",
+        "subject": "Proyecto de Vinculación con el Futuro",
+        "mode": "Bachiller",
+        "description": "Este plan promueve el cierre reflexivo y crítico de los proyectos de intervención motriz. El contenido se centra en la reconstrucción del recorrido, la evaluación del impacto en la comunidad y la sistematización de aprendizajes tanto colectivos como individuales, que permitirá proyectar mejoras para futuras intervenciones sociocomunitarias.",
+        "tags": [
+            "Comunidad",
+            "Acción",
+            "Revisión De Proyectos"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6892087252b5cae9ab86d80f"
+    },
+    {
+        "id": 395,
+        "title": "Estéticas del intercambio A",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan aborda el Arte Correo, Mail Art y Net Art como prácticas estético-comunicativas que usan medios físicos y digitales para generar intercambios y/o narrativas colectivas. Prioriza la exploración de la estética relacional, que enfatiza la interacción y la comunidad sobre el objeto artístico, y el uso de herramientas multimediales (edición, montaje, diseño gráfico) para la producción de obras colaborativas. El plan incluye actividades de apreciación, reflexión y producción.",
+        "tags": [
+            "Arte Correo",
+            "Net Art",
+            "Estética Relacional"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6867d02561a97f3eff16caa1"
+    },
+    {
+        "id": 400,
+        "title": "Las tecnologías de la representación A",
+        "level": "1° año, 2° año",
+        "category": "Espacio formativo",
+        "subject": "Tecnologia de la Representacion",
+        "mode": "Técnica",
+        "description": "El plan aborda la representación técnica como lenguaje universal para comunicar ideas con precisión. El material detalla la clasificación del dibujo (mecánico, arquitectónico) y su progresión (boceto, croquis, plano). Se enfatiza el dominio de la línea a mano alzada y el uso de instrumental técnico (reglas, escuadras) para asegurar la claridad y el cumplimiento de normas en la elaboración de planos técnicos.",
+        "tags": [
+            "Dibujo Técnico",
+            "Instrumental Técnico",
+            "Clasificación Del Dibujo Técnico"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67bf7a593e3f69ecdace908d"
+    },
+    {
+        "id": 401,
+        "title": "Las tecnologías de la representación B",
+        "level": "1° año, 2° año",
+        "category": "Espacio formativo",
+        "subject": "Tecnologia de la Representacion",
+        "mode": "Técnica",
+        "description": "El plan se centra en la representación de cuerpos tridimensionales mediante el dibujo técnico,. Los contenidos abarcan el estudio de perspectivas paralelas (isométrica y caballera), acotaciones y métodos de trazado para piezas de aristas rectas y circulares. Se promueve el uso de herramientas manuales y digitales (CAD) para garantizar precisión en la comunicación visual vinculada a la ingeniería y arquitectura.",
+        "tags": [
+            "Perspectiva",
+            "Sometría",
+            "Digitalización Cad"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67c1b1daaac557336f92df69"
+    },
+    {
+        "id": 405,
+        "title": "Modos y medios de representación con apoyo informático B",
+        "level": "2° año, 3° año",
+        "category": "Espacio formativo",
+        "subject": "Tecnologia de la Representacion",
+        "mode": "Técnica",
+        "description": "El plan guía a los y las estudiantes a transformar ideas técnicas en proyectos tangibles y documentados, explorando la conexión entre lo virtual y lo físico. Se abordan la interactividad digital (realidad aumentada, visualizadores 3D), las tecnologías de prototipado rápido (impresión 3D, corte láser) y la construcción de maquetas físicas. El objetivo es que los alumnos diseñen, fabriquen, evalúen y comuniquen sus modelos con criterio profesional.",
+        "tags": [
+            "Prototipado Rápido",
+            "Interactividad Digital",
+            "Maquetas/Representación"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/681a1eb8efa7d3ccf78bddfc"
+    },
+    {
+        "id": 407,
+        "title": "Representación técnica y diagramas",
+        "level": "2° año, 3° año",
+        "category": "Espacio formativo",
+        "subject": "Tecnologia de la Representacion",
+        "mode": "Técnica",
+        "description": "El plan explora los métodos necesarios para representar cuerpos tridimensionales en un plano, centrándose en las vistas fundamentales y el sistema de proyecciones cilíndricas paralelas. El material guía en el análisis de objetos, el trazado de piezas simples de aristas rectas, la elaboración de bocetos y croquis técnicos, y el diseño de diagramas de bloque, de flujo y de procesos. Además, se instruye en el uso de técnicas de dibujo a mano alzada y la aplicación de herramientas informáticas de diseño asistido (CAD) para optimizar la precisión y la visualización de los objetos y procesos.",
+        "tags": [
+            "Vistas Fundamentales",
+            "Proyecciones",
+            "Diagramas Técnicos"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/680a9d8b8e28333342a816d9"
+    },
+    {
+        "id": 408,
+        "title": "La representación del interior de los objetos A",
+        "level": "3° año",
+        "category": "Espacio formativo",
+        "subject": "Tecnologia de la Representacion",
+        "mode": "Técnica",
+        "description": "El plan aborda la representación gráfica precisa del interior de objetos en arquitectura y mecánica. Se cubren fundamentos, la aplicación de escalas, y la representación de acabados (rugoso, liso, texturizado) mediante sombreado. Los docentes guiarán la aplicación de cortes y secciones, y el uso de técnicas manuales (lápiz, valores de línea) y digitales (CAD) para que los estudiantes desarrollen planos profesionales.",
+        "tags": [
+            "Palabras Clave: Escala",
+            "Cortes",
+            "Acabados"
+        ],
+        "url": "Link 1: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67ffd814dce538f2466dbb29 Link 2: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/680bcac949613dfafa21f143"
     }
 
 
