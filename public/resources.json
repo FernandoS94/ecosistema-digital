@@ -5218,11 +5218,233 @@
         "mode": "Bachiller",
         "description": "Este plan propone el desarrollo de un prototipo de videojuego como base para diseñar y construir aplicaciones informáticas. Los estudiantes exploran la arquitectura cliente-servidor, la estructura de capas y el uso de Entornos de Desarrollo Integrado (EDI). Mediante tecnologías de web abierta (HTML, CSS y JavaScript), se aplican estrategias de análisis, codificación y testeo para transformar una idea inicial en un producto funcional.",
         "tags": [
+
             "Arquitectura Cliente-Servidor",
             "Videojuegos",
             "Programación"
         ],
         "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68d1b2363204d0ccffdcf3dc"
+    },
+     {
+        "id": 349,
+        "title": "Programación de aplicaciones B",
+        "level": "5° año, 4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan explora la robótica y automatización como sistemas inteligentes, enfocándose en la integración de sensores (entradas, analógicos o digitales) y actuadores (salidas) a un controlador. Se busca aplicar la lógica algorítmica y las estructuras de control (como condicionales SI-SINO y bucles) para la programación de puertos de entrada y salida. El proceso se basa en el ciclo de percibir, procesar y accionar. También se enfatiza el rol de los simuladores como herramientas de prueba para verificar y corregir el comportamiento del sistema.",
+        "tags": [
+            "Robótica Y Automatización",
+            "Programación",
+            "Simulación"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68d446479129c644781ffc4a"
+    },
+    {
+        "id": 350,
+        "title": "Diagnóstico y diseño de solución",
+        "level": "5° año",
+        "category": "Otro",
+        "subject": "Proyecto de Vinculación con el Futuro",
+        "mode": "Bachiller",
+        "description": "El  presente plan  se centra en el diagnóstico y diseño de soluciones tecnológicas para instituciones comunitarias, aplicando la metodología de diseño de proyectos. El proceso incluye la elección del eje (Sitio Web, Base de Datos, Aplicación o reacondicionamiento de laboratorio), el relevamiento de necesidades (observación, encuestas y análisis de infraestructura), y la priorización de problemas. Finalmente, se aborda la programación del desarrollo, que incluye la definición de roles, la creación de un cronograma y el diseño de prototipos iniciales (wireframes o esquemas de BBDD).",
+        "tags": [
+            "Diseño De Proyectos",
+            "Planificación",
+            "Soluciones Tecnológicas"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/688d1f4852b5cae9ab86b0de"
+    },
+    {
+        "id": 351,
+        "title": "Diseño e implementación de la solución tecnológica",
+        "level": "5° año",
+        "category": "Otro",
+        "subject": "Proyecto de Vinculación con el Futuro",
+        "mode": "Bachiller",
+        "description": "El Plan se centra en la Implementación y Producción de una solución tecnológica (sitio web, BBDD o aplicación) diseñada para una institución aliada. Las fases clave incluyen el ajuste final del plan de acción y la verificación de recursos y cronograma, el desarrollo técnico (codificación), la realización de pruebas piloto, la elaboración de manuales de usuario, y la capacitación de los usuarios finales. El plan culmina con la puesta en funcionamiento en la institución y el seguimiento del impacto inicial.",
+        "tags": [
+            "Implementación De Proyecto",
+            "Experiencia De Usuario",
+            "Formación"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/689ca8eb9010a7c26b18442c"
+    },
+    {
+        "id": 353,
+        "title": "El mundo del juego A",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan de aprendizaje orienta a los estudiantes a explorar el mundo del juego como fenomeno cultural y social. Se analizan los juegos tradicionales, su logica interna (reglas, roles y objetivos), se promueve la invencion de nuevas dinamicas ludicas, y se reflexiona sobre la competencia sana y la transformacion del juego en la era digital.",
+        "tags": [
+            "Juegos Tradicionales",
+            "Reglas",
+            "Era Digital"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67d03556f1362ac4a77f5a04"
+    },
+    {
+        "id": 354,
+        "title": "El mundo del juego B",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan orienta a los estudiantes a explorar el mundo del juego como fenómeno cultural y social. Se analizan los juegos tradicionales, su lógica interna (reglas, roles y objetivos), se promueve la invención de nuevas dinámicas lúdicas, y se reflexiona sobre la competencia sana y la transformación del juego en la era digital.",
+        "tags": [
+            "Juegos Tradicionales",
+            "Reglas",
+            "Era Digital"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67d30125f9e7c818a2c07d8e"
+    },
+    {
+        "id": 355,
+        "title": "Deporte y sociedad A",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan presenta una propuesta pedagógica que aborda el deporte colectivo como una práctica social compleja, integrando dimensiones prácticas, teóricas y éticas. El contenido se organiza en bloques que invitan a los estudiantes a reflexionar sobre la toma de decisiones compartida, el uso táctico del espacio y el respeto por las reglas como acuerdos de convivencia. Promueve una mirada crítica sobre la inclusión y la diversidad, proponiendo el deporte como un derecho y un espacio para fortalecer vínculos solidarios.",
+        "tags": [
+            "Deportes Colectivos","Inclusión","Diversidad"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/686d384e61a97f3eff16f554"
+    },
+    {
+        "id": 356,
+        "title": "Deporte y sociedad B",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan propone un abordaje pedagógico del atletismo escolar que trasciende la técnica y el rendimiento para centrarse en el desarrollo integral y el bienestar del estudiante. A través de pruebas adaptadas y la reflexión crítica, se busca transformar la competencia en una experiencia de autosuperación, resiliencia y construcción de comunidad. Finalmente, reivindica el deporte como un derecho inclusivo, analizando el impacto de la actividad física tanto en la salud mental como en la integración social.",
+        "tags": [
+            "Atletismo Escolar","Autosuperación",
+            "Bienestar"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/687a852716d20c2e104c9cf1"
+    },
+    {
+        "id": 357,
+        "title": "El universo de las gimnasias A",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan propone explorar las dimensiones práctica, conceptual y social del movimiento a través de la gimnasia artística, acrobática, expresiva y circense. El objetivo es desarrollar habilidades motrices y capacidad crítica para desnaturalizar modelos corporales hegemónicos, promoviendo espacios escolares más inclusivos y diversos. El recorrido culmina en un proyecto grupal colaborativo que integra técnica, expresión y toma de decisiones colectivas para comunicar un mensaje a través del cuerpo.",
+        "tags": [
+            "Prácticas Gimnásticas","Habilidades Motrices","Inclusión"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/687fe564e39e5db57ad480f3"
+    },
+    {
+        "id": 358,
+        "title": "El universo de las gimnasias B",
+        "level": "5° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan profundiza en la creación de producciones grupales que integran gimnasia artística, aeróbica, expresiva y circense como lenguajes para comunicar mensajes. El enfoque combina la precisión técnica y la composición escénica con una mirada social crítica que cuestiona los modelos corporales hegemónicos. El proceso culmina en una producción colectiva y un podcast reflexivo que valoran la diversidad, la cooperación y el protagonismo de todos los cuerpos en escena.",
+        "tags": [
+            "Prácticas Gimnásticas","Circo","Expresión Corporal"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/687fe7db46f02bdfa3eb4a6f"
+    },
+    {
+        "id": 359,
+        "title": "Experiencias en el medio natural: habilidades motoras",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan promueve la exploración segura y consciente del entorno natural, desde parques urbanos hasta bosques, desarrollando habilidades motoras como caminata, trepa y equilibrio. El enfoque integra la preparación técnica y nutricional con una conexión sensorial y emocional, buscando que los estudiantes aprendan a disfrutar de la naturaleza minimizando su impacto ambiental a través de la planificación responsable y el trabajo en equipo.",
+        "tags": [
+            "Medio Natural","Habilidades Motoras","Equipo"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67c081eb3e3f69ecdaceab8a"
+    },
+    {
+        "id": 360,
+        "title": "Experiencias en el medio natural: primeros auxilios",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan pretende desarrollar habilidades fundamentales para la vida al aire libre, centrándose en la prevención y respuesta ante emergencias mediante técnicas de primeros auxilios y la instalación segura de campamentos. A través de la colaboración grupal y la planificación responsable, se busca que los estudiantes se desenvuelvan con autonomía y seguridad, manteniendo siempre un compromiso ético con la sostenibilidad y el respeto por el entorno natural.",
+        "tags": [
+            "Medio Natural; Técnicas De Primeros Auxilios",
+            "Colaboración"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67d06521c4974585598852c2"
+    },
+    {
+        "id": 361,
+        "title": "Prácticas corporales expresivas: secuencias motrices",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan aborda el movimiento como un lenguaje poderoso capaz de transmitir emociones y narrar historias más allá de las palabras. A través de la exploración de la velocidad, la intensidad y la dirección, los estudiantes integran música, imágenes y relatos para crear secuencias motrices complejas. El enfoque principal es el desarrollo de la creatividad personal y la construcción de producciones grupales basadas en la improvisación y el trabajo en equipo.",
+        "tags": [
+            "Movimiento Expresivo","Exploración","Creatividad"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67c0bb483467ed1a6b6f17c2"
+    },
+    {
+        "id": 362,
+        "title": "Prácticas corporales expresivas: producciones coreográficas",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan se enfoca en la creación de producciones coreográficas grupales, integrando la creatividad individual en una obra colectiva con sentido narrativo. A través del uso de herramientas rítmicas como el canon y la simultaneidad, y la incorporación de objetos, los estudiantes aprenden a tomar decisiones conjuntas y a utilizar el cuerpo como un potente medio de comunicación artística.",
+        "tags": [
+            "Expresión Corporal","Producciones Coreográficas","Creatividad"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67d083d5c49745855988603b"
+    },
+    {
+        "id": 363,
+        "title": "Recreación y prácticas ludomotrices A",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan invita a explorar el juego como un fenómeno cultural y social, rescatando juegos tradicionales para adaptarlos a contextos actuales. A través del análisis de su lógica interna y la invención de nuevas reglas, los estudiantes desarrollan capacidades de liderazgo, organización táctica y resolución pacífica de conflictos. El objetivo central es utilizar la recreación como una herramienta de integración que fomente el respeto, la equidad y el sentido de comunidad.",
+        "tags": [
+            "Juego; Reglas","Integración"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67c0ac1c3e3f69ecdacecb3c"
+    },
+    {
+        "id": 364,
+        "title": "Recreación y prácticas ludomotrices B",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan profundiza en el juego como una herramienta ética y social, enfocándose en la importancia de las reglas para garantizar la equidad y la convivencia. Los estudiantes desarrollan capacidades para resolver conflictos mediante el diálogo, liderar grupos y gestionar la competencia de manera saludable, priorizando el respeto mutuo y el disfrute compartido por sobre el resultado.",
+        "tags": [
+            "Juego; Reglas","Resolución De Conflictos"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68cf0cb02ac7d7b6b6469511"
+    },
+    {
+        "id": 365,
+        "title": "Prácticas acuáticas A",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan se centra en la optimización del rendimiento en la natación a través del cuidado integral del cuerpo y la adquisición de hábitos saludables. Los estudiantes aprenden a regular el esfuerzo mediante el control de la respiración y el reconocimiento del cansancio, además de incorporar pautas fundamentales de higiene y preparación física previa. El objetivo es que logren desenvolverse en el medio acuático de forma segura, eficiente y consciente de sus propias necesidades físicas.",
+        "tags": [
+            "Prácticas Acuáticas",
+            "Auto Regulación","Preparación Física"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67c1af60aac557336f92deeb"
     }
 
 
