@@ -5550,6 +5550,291 @@
             "Acabados"
         ],
         "url": "Link 1: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67ffd814dce538f2466dbb29 Link 2: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/680bcac949613dfafa21f143"
+    },
+     {
+        "id": 409,
+        "title": "Sistemas de representación  A",
+        "level": "3° año",
+        "category": "Espacio formativo",
+        "subject": "Tecnologia de la Representacion",
+        "mode": "Técnica",
+        "description": "En este plan se presentan los sistemas de representación (ortogonal, axonométrico y cónico) para transformar ideas tridimensionales en planos bidimensionales, desarrollando habilidades de visualización y comunicación técnica esenciales. El material aborda la aplicación de cortes y secciones dentro de la proyección ortogonal, y el uso de operaciones booleanas (unión, diferencia e intersección) para modelar sólidos complejos con precisión, apoyado por herramientas de software 3D.",
+        "tags": [
+            "Proyecciones",
+            "Representación",
+            "Booleanas"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/686fb72a59e2236f0dca233c"
+    },
+    {
+        "id": 411,
+        "title": "Sistemas de representación  B",
+        "level": "3° año",
+        "category": "Espacio formativo",
+        "subject": "Tecnologia de la Representacion",
+        "mode": "Técnica",
+        "description": "El plan aborda la tecnología de la representación como una estrategia para analizar, comunicar y resolver problemas en diseño y producción. Se capacita a los estudiantes en el diseño paramétrico y el modelado inteligente (variables y restricciones) para crear modelos flexibles que se adapten automáticamente. Además, se explora el croquis funcional como herramienta de diagnóstico visual, la representación volumétrica (vistas explotadas y seccionadas), y la elaboración de planos técnicos normalizados para la fabricación y el montaje.",
+        "tags": [
+            "Diseño Paramétrico",
+            "Croquis Funcional",
+            "Representación Volumétrica"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/686fc2d559e2236f0dca23e5"
+    },
+    {
+        "id": 413,
+        "title": "Lógica combinacional: Sistemas combinacionales, lógica combinacional B",
+        "level": "4° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan aborda la Lógica Combinacional como base del diseño digital, cubriendo el análisis, la verificación y la optimización de circuitos mediante Álgebra de Boole y Mapas de Karnaugh. Se estudian las funciones básicas, incluyendo comparadores, codificadores y multiplexores, junto con las operaciones de la Unidad Aritmético-Lógica (ALU) (suma/resta binaria). Además, se analiza la implementación física en protoboard y las diferencias entre las tecnologías de Circuitos Integrados (CI) TTL y CMOS, y se explican los métodos de detección y corrección de errores (paridad y Código de Hamming).",
+        "tags": [
+            "Optimización",
+            "Alu",
+            "Protoboard"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67f3d2495e2d170e6984e8ec"
+    },
+    {
+        "id": 414,
+        "title": "Arquitectura de microcontroladores",
+        "level": "5° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan desarrolla la arquitectura interna de los microcontroladores, detallando la CPU, ALU y los registros, así como la organización de las memorias (Flash, SRAM, EEPROM). Se analiza la interacción con el entorno mediante pines de E/S, conversión ADC, temporizadores y el sistema de interrupciones, clave para tareas en tiempo real. Finalmente, se estudian los protocolos de comunicación serie (USART, SPI, I2C) y los modos de reposo para optimizar la eficiencia energética del sistema.",
+        "tags": [
+            "Arquitectura Microcontroladores",
+            "Sistema Interrupciones",
+            "Comunicación Serie"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6879c71ec1acfcda185605fb"
+    },
+    {
+        "id": 415,
+        "title": "Programación de microcontroladores en bajo nivel",
+        "level": "5° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan profundiza en la programación de microcontroladores en bajo nivel, desglosando el lenguaje de máquina y el uso del Lenguaje Ensamblador como puente. Se analiza la arquitectura, los formatos de instrucción, y los modos de direccionamiento para lograr precisión y optimización. Además, se estudian las subrutinas, la gestión de la pila (LIFO) y el puntero, el manejo de variables/constantes, interrupciones, y la planificación mediante diagramas de flujo y pseudocódigo. El objetivo es crear soluciones tecnológicas rápidas y eficientes.",
+        "tags": [
+            "Lenguaje Ensamblador",
+            "Direccionamiento",
+            "Interrupciones"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68aceef870dd02525ad7f0db"
+    },
+    {
+        "id": 416,
+        "title": "Modelado tecnología de control",
+        "level": "6° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan de se enfoca en el Modelado y la Tecnología de Control de sistemas automatizados. Inicialmente, explora el concepto y función de los sistemas de control. El desarrollo se centra en el modelado e identificación de sistemas mediante principios físicos o datos, y el análisis de la respuesta temporal (transitoria y en estado estacionario). Además, aborda la estabilidad fundamental y la respuesta en frecuencia usando Diagramas de Bode/Nyquist para evaluar la robustez. Finaliza con el estudio de las características de funcionamiento (precisión, rapidez, amortiguamiento) y el uso de herramientas de simulación (PID, MATLAB/Simulink)",
+        "tags": [
+            "Sistema De Control",
+            "Modelado De Control",
+            "Criterio De Estabilidad De\nRouth-Hurwitz"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/687fdfc54a4a8a1a137c3159"
+    },
+    {
+        "id": 417,
+        "title": "Sistemas de control de procesos",
+        "level": "6° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan  aborda la Ingeniería de Control de Procesos. Inicia con el modelado matemático de sistemas reales, base indispensable para el análisis de estabilidad, robustez y rendimiento. Se enfoca en la optimización de procesos y los principios de ingeniería (balances de masa y energía), destacando las operaciones unitarias como etapas repetitivas fundamentales de la industria. Finalmente, estudia las técnicas y fundamentos teóricos para el diseño y prueba de los sistemas de control, incluyendo la sintonización de controladores PID.",
+        "tags": [
+            "Control De Procesos",
+            "Operaciones Unitarias",
+            "Optimización De Procesos"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68a72238f37e83593d973184"
+    },
+    {
+        "id": 418,
+        "title": "Sistema de climatización automático",
+        "level": "6° año",
+        "category": "Otro",
+        "subject": "Proyecto de Egreso",
+        "mode": "Técnica",
+        "description": "El plan se enfoca en el diagnóstico, la investigación y el diseño detallado de un prototipo funcional de un sistema de climatización automático, cerrando la fase de planificación del Proyecto Integrador de Egreso (PIE). El módulo requiere aplicar habilidades técnicas avanzadas, comenzando con el relevamiento y el análisis comparativo de componentes (sensores, actuadores) y sistemas reales. Las actividades clave incluyen la elaboración de un diagnóstico fundamentado (árbol de problemas), la investigación normativa (IRAM, IEC), la evaluación de viabilidad técnica y económica (FODA, costos), y la formulación final de la propuesta con esquemas funcionales (entradas → procesamiento → salidas) y la planificación del montaje.",
+        "tags": [
+            "Diagnóstico",
+            "Viabilidad",
+            "Esquema"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68cf03c1a361f40d41a011c0"
+    },
+    {
+        "id": 419,
+        "title": "Diseño y desarrollo del sistema de climatización automático",
+        "level": "6° año",
+        "category": "Otro",
+        "subject": "Proyecto de Egreso",
+        "mode": "Técnica",
+        "description": "Este plan transforma la propuesta técnica inicial en un sistema de climatización automático que puede ser una maqueta, prototipo o simulación digital. El desarrollo abarca el diseño técnico detallado, incluyendo la elaboración de diagramas funcionales, el layout de conexiones reales y los cálculos eléctricos de consumo y compatibilidad. Posteriormente, se enfoca en la selección y verificación de componentes, la preparación del área y el montaje aplicando protocolos de seguridad. La fase central implica la puesta en marcha, la medición de señales y tensiones, el registro y corrección de incidencias, y la optimización del rendimiento mediante pruebas finales y la validación con los parámetros de diseño. Concluye con la elaboración del informe y la organización de la carpeta técnica profesional.",
+        "tags": [
+            "Diseño Técnico",
+            "Montaje",
+            "Validación"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68d5f37b27fd82ca6fd6484f"
+    },
+    {
+        "id": 420,
+        "title": "Evaluación, cierre y reflexión sobre el sistema",
+        "level": "6° año",
+        "category": "Otro",
+        "subject": "Proyecto de Egreso",
+        "mode": "Técnica",
+        "description": "El plan finaliza el Proyecto Integrador del sistema de climatización automático, enfocándose en la evaluación integral del proyecto. Se lleva a cabo el análisis crítico del funcionamiento, la fiabilidad y la eficiencia del sistema, junto con la verificación del cumplimiento normativo. Se fomenta la reflexión sobre el proceso de trabajo y el desarrollo de habilidades técnicas y blandas. El plan incluye la formulación de propuestas de mejora e innovación, la evaluación de la adaptación del sistema a nuevos contextos y concluye con la preparación de la presentación técnica profesional de los resultados.",
+        "tags": [
+            "Climatización Automática",
+            "Rendimiento Energético",
+            "Evaluación Integral"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68d5f4b2ebc46115ddbf56f4"
+    },
+    {
+        "id": 421,
+        "title": "Fundamentos de circuitos eléctricos y magnéticos A",
+        "level": "4° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan aborda los fundamentos de circuitos de Corriente Continua (CC), incluyendo la Ley de Ohm, la asociación de resistencias (serie/paralelo) y los métodos avanzados de resolución (mallas, nodos, superposición). Se enseña el uso del multímetro y los teoremas de Thevenin y Norton para simplificar el diagnóstico. Además, se cubre la Ley de Joule (efecto térmico) y los circuitos magnéticos (Leyes de Ampère y Gauss), analizando las pérdidas en electroimanes y transformadores para optimizar la eficiencia de los sistemas electromecánicos.",
+        "tags": [
+            "Ley De Ohm",
+            "Ley De Thevenin",
+            "Electroimán"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68c1ff071ddb77a15e5c6bda"
+    },
+    {
+        "id": 422,
+        "title": "Fundamentos de circuitos eléctricos y magnéticos B",
+        "level": "4° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan profundiza en los fundamentos de los materiales semiconductores, analizando su estructura atómica y el proceso de dopaje para crear tipos N y P. Se estudia el principio de funcionamiento de componentes esenciales como diodos (rectificadores, Zener, LED) y transistores (BJT, MOSFET), entendiendo sus roles en la amplificación y conmutación. El plan concluye con el análisis de dispositivos de control de potencia (Diac, Triac), optoacopladores y el uso de circuitos integrados (ICs) y fuentes switching.",
+        "tags": [
+            "Unión Pn",
+            "Rectificación",
+            "Amplificación"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68d2c9f2c72ae3c894867b2e"
+    },
+    {
+        "id": 423,
+        "title": "Introducción al análisis avanzado de circuitos eléctricos",
+        "level": "5° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan aborda la introducción al análisis avanzado de circuitos eléctricos y las mediciones técnicas. Se desarrollan los conceptos de precisión, exactitud, error e incertidumbre y el uso correcto de instrumentos como el multímetro y la pinza amperométrica. Se estudian los distintos tipos de errores, las normas IRAM e IEC, las características de los instrumentos (rango, resolución) y la correcta.  Presentación de datos en contextos de laboratorio e industriales. El objetivo es garantizar mediciones confiables y seguras.",
+        "tags": [
+            "Errores",
+            "Multímetros",
+            "Normas Iram E Iec"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/689e6f8ad155a78b4c2dfba8"
+    },
+    {
+        "id": 424,
+        "title": "Diseño y análisis de circuitos eléctricos",
+        "level": "5° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan examina cómo los sistemas eléctricos almacenan, transforman y controlan la energía. Se analizan los capacitores e inductores, su funcionamiento en circuitos RC y RL, el cálculo de la constante de tiempo (τ) y el concepto de reactancia en AC/DC. Además, se estudian los semiconductores como diodos (rectificación, filtrado) y transistores (amplificación e interruptor), cruciales para modificar circuitos. Finalmente, se aborda la lógica digital (sistemas de numeración, álgebra de Boole y compuertas lógicas) para el diseño de sistemas de control electromecánico.",
+        "tags": [
+            "Capacitancia",
+            "Amplificación",
+            "Boole"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/689a55aad155a78b4c2d8fc9"
+    },
+    {
+        "id": 425,
+        "title": "Máquinas eléctricas y transformadores: teoría y práctica",
+        "level": "6° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan se enfoca en máquinas eléctricas y transformadores, cubriendo desde los principios fundamentales (Ley de Faraday, conversión de energía) y la clasificación funcional, hasta el análisis de pérdidas (Joule, magnéticas) y el rendimiento. El núcleo temático es el transformador, incluyendo su modelización (circuito equivalente), los ensayos normalizados (vacío/cortocircuito), la regulación de tensión y el estudio del autotransformador. El plan culmina con la elaboración de una producción técnica profesional integrador.",
+        "tags": [
+            "Maquinas Electricas",
+            "Ensayos Transformador",
+            "Autotransformador"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68b1aeacb2bb1984880ad8cf"
+    },
+    {
+        "id": 426,
+        "title": "Máquinas eléctricas: rotativas y de corriente alterna",
+        "level": "6° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan aborda el estudio técnico de máquinas eléctricas rotativas, centrándose en la constitución, regulación y rendimiento de generadores de corriente continua. Asimismo, profundiza en el análisis de circuitos de corriente alterna, examinando señales senoidales, impedancia y potencia. A través de prácticas de taller, simulaciones y resolución de problemas, se promueve la integración de saberes para el diagnóstico y mantenimiento de sistemas reales.",
+        "tags": [
+            "Generadores",
+            "Impedancia",
+            "Diagnóstico"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68bbb5e8f73b239c8eb13da4"
+    },
+    {
+        "id": 428,
+        "title": "Diseño, desarrollo y montaje técnico",
+        "level": "6° año",
+        "category": "Otro",
+        "subject": "Proyecto de Egreso",
+        "mode": "Técnica",
+        "description": "El plan aborda el diseño, montaje y puesta en marcha de un sistema automatizado para el control de motores trifásicos. Se enfoca en la creación de esquemas eléctricos, selección técnica de componentes (variadores, protecciones) y la ejecución del montaje físico o simulado. Los estudiantes realizan el diagnóstico de fallas, la validación de parámetros y la optimización del rendimiento. Finaliza con la sistematización en una carpeta técnica e informe profesional.",
+        "tags": [
+            "Automatización",
+            "Montaje",
+            "Diagnóstico"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68d5f37b27fd82ca6fd6484f"
+    },
+    {
+        "id": 429,
+        "title": "Análisis final del sistema de control",
+        "level": "6° año",
+        "category": "Otro",
+        "subject": "Proyecto de Egreso",
+        "mode": "Técnica",
+        "description": "El plan es la etapa final del Proyecto Integrador, enfocándose en la evaluación crítica del sistema automatizado de cinta transportadora. Se exige verificar el cumplimiento normativo de seguridad eléctrica y ambiental (IRAM, IEC), y documentar los resultados mediante ensayos técnicos y la Memoria Técnica. El plan culmina con la reflexión sobre el impacto social/ambiental, la identificación de fortalezas y mejoras, y la preparación de la presentación profesional con proyecciones futuras.",
+        "tags": [
+            "Evaluación Crítica",
+            "Normativa (Iram/ Iec)",
+            "Carpeta Técnica"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68d6c42eebc46115ddbf5c44"
+    },
+    {
+        "id": 430,
+        "title": "Cinemática y dinámica del movimiento",
+        "level": "4° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan analiza la estabilidad automotriz mediante la interacción fundamental entre ruedas, neumáticos y el centro de gravedad (CG). Se clasifican técnicamente los neumáticos (radial, diagonal) y las llantas (aleación, acero), examinando la nomenclatura y la criticidad de la presión de inflado en el desgaste y la seguridad. El módulo detalla la dinámica en curvas, abordando la transferencia de carga, el ángulo de deriva, y los fenómenos de subviraje/sobreviraje. Se enfatiza la ubicación del CG para la estabilidad y la prevención de vuelcos.",
+        "tags": [
+            "Presión",
+            "Deriva",
+            "Estabilidad"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67ca19eb4b95d2bc947aad9b"
     }
 
 
