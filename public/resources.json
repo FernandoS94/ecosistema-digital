@@ -5835,6 +5835,66 @@
             "Estabilidad"
         ],
         "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67ca19eb4b95d2bc947aad9b"
+    },
+    {
+         "id": 431,
+        "title": "Sistema de transmisión en vehículos: fundamentos",
+        "level": "4° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan se centra en la transmisión y el control del movimiento en vehículos automotores. Se examina la adaptación del par motor desde el cigüeñal hasta las ruedas. Se estudia el embrague (tipos, comandos y principio de fricción), y la caja de velocidades (manual, con engranajes, sincronización y relación de transmisión). Además, se analiza la caja automática con trenes epicicloidales y convertidor de par. El plan concluye con el estudio del sistema de frenos (disco, tambor, hidráulico, ABS) como elemento crucial de la seguridad activa.",
+        "tags": [
+            "Embrague",
+            "Sincronización",
+            "Frenado"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68dafba027fd82ca6fd65d02"
+    },
+    {
+        "id": 434,
+        "title": "Sistemas de control y diagnóstico del automotor A",
+        "level": "6° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan se centra en la electrónica vehicular, analizando el instrumental de tablero (analógico, digital, mixto) y los principios de comunicación mediante redes multiplexadas (CAN). El foco es capacitar al futuro técnico en la interpretación de señales de sensores (NTC, Hall, potenciómetro) y el diagnóstico electrónico profesional,,. Se profundiza en el estándar OBD II y sus protocolos (CAN, ISO, SAE) para la lectura y el análisis de códigos de falla (DTCs) y parámetros en tiempo real (PIDs) en el vehículo real, culminando con la elaboración de un informe técnico.",
+        "tags": [
+            "Diagnostico Automotor",
+            "Electrónica Vehicular",
+            "Sistemas Control"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68bbad3823de16666fdcdfea"
+    },
+    {
+        "id": 435,
+        "title": "Sistemas de control y diagnóstico del automotor B",
+        "level": "6° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan se centra en el estudio técnico de vehículos pesados, transporte de pasajeros y maquinaria especializada. Aborda sistemas de transmisión, mecanismos de enganche, frenos auxiliares y configuraciones de ejes bajo la normativa vigente. Incluye el análisis de tecnologías ferroviarias y maquinaria de orugas, promoviendo el diagnóstico y mantenimiento profesional en entornos exigentes.",
+        "tags": [
+            "Diagnóstico",
+            "Acoplamiento",
+            "Tracción"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68c9dcfcc8ec951f64865b95"
+    },
+    {
+        "id": 439,
+        "title": "Circuitos magnéticos en corriente continua y corriente alterna - Parte 1",
+        "level": "4° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan explora los principios del magnetismo y los circuitos magnéticos en CC y CA. Se clasifican los materiales magnéticos (ferro, para, dia) y se estudian propiedades fundamentales como la permeabilidad y reluctancia. Se analiza la Fuerza Magnetomotriz (FMM) y la excitación, abordando también las pérdidas en núcleos (histéresis y corrientes parásitas), la comparación entre electroimanes e imanes permanentes, y el fenómeno de la saturación magnética.",
+        "tags": [
+            "Permeabilidad",
+            "Fuerza Magneto Motriz",
+            "Hísteresis"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67f012ef2942c5167ca1a7c4"
     }
 
 
