@@ -5895,6 +5895,263 @@
             "Hísteresis"
         ],
         "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67f012ef2942c5167ca1a7c4"
+    },
+      {
+        "id": 440,
+        "title": "Circuitos magnéticos en corriente continua y corriente alterna - Parte 2",
+        "level": "4° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan modela circuitos magnéticos mediante la Ley de Hopkinson, estableciendo su analogía con los circuitos eléctricos (voltaje vs. FMM, resistencia vs. reluctancia). Se abordan leyes fundamentales (Ampère, Biot-Savart, Gauss). Se analiza el impacto del entrehierro y la dispersión, la saturación en materiales alineales, y las pérdidas (histéresis y parásitas). El módulo aplica estos conceptos al diseño eficiente de transformadores y motores de CA.",
+        "tags": [
+            "Hopkinson",
+            "Entrehierro",
+            "Pérdidas"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/69027111402f9a2a181cd21e"
+    },
+    {
+        "id": 441,
+        "title": "Instalaciones térmicas de producción de energía - A",
+        "level": "5° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan explora la transformación de energía para la generación eléctrica, abordando los fundamentos de trabajo, potencia y energía. Se diferencian las fuentes renovables y no renovables y se analiza el proceso de conversión térmica. Aborda los principios de la termodinámica (Leyes de conservación y entropía), el rendimiento térmico (Ciclo de Carnot), y la criticidad del almacenamiento energético para una transición sostenible.",
+        "tags": [
+            "Termodinámica",
+            "Renovables",
+            "Rendimiento Térmico"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68b5f4bd8fe9fdfeb092f928"
+    },
+    {
+        "id": 442,
+        "title": "Instalaciones térmicas de producción de energía - B",
+        "level": "5° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan examina las centrales térmicas (convencionales, nucleares y de ciclo combinado) y sus ciclos termodinámicos (Rankine y Brayton) para convertir calor en electricidad. Se detallan los componentes principales (turbinas, generadores) y la función de los auxiliares, como el desgasificador y la planta de tratamiento de agua, esenciales para evitar la corrosión y mantener la eficiencia operativa. El plan también aborda la seguridad nuclear (fisión, moderadores, barras de control) y analiza los sistemas de refrigeración (ciclo abierto/cerrado), evaluando su impacto ambiental y el control de emisiones contaminantes.",
+        "tags": [
+            "Ciclo Combinado",
+            "Tratamiento De Agua",
+            "Seguridad Nuclear"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68d6f84c9129c64478200627"
+    },
+    {
+        "id": 443,
+        "title": "Circuitos trifásicos y mediciones",
+        "level": "6° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan aborda los sistemas trifásicos, clave en la industria. Se exploran las conexiones Estrella y Triángulo,, el análisis de sistemas equilibrados/desequilibrados,, y la gestión de la potencia (activa, reactiva, FP) y su corrección,,. El foco es el diagnóstico práctico, el análisis de fallas (simétricas/asimétricas), mediante componentes simétricas, y la aplicación de métodos de medición avanzada (Aron, cofímetro),,, esenciales para la eficiencia y seguridad.",
+        "tags": [
+            "Circuitos Trifasicos",
+            "Mediciones",
+            "Conexiones Estrella-Triangulo"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/689a71e18cc783dd038abf1a"
+    },
+    {
+        "id": 444,
+        "title": "Sistemas eléctricos: armónicos y potencia",
+        "level": "6° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan  aborda sistemas eléctricos avanzados en entornos industriales. Se enfoca en cargas lineales y no lineales, distorsión armónica y el uso de la serie de Fourier. Desarrolla conceptos de potencia en sistemas trifásicos, resolución de circuitos por superposición y corrección del factor de potencia. Finalmente, integra la instrumentación virtual y tarjetas DAQ para el diagnóstico de la calidad de energía en tiempo real.",
+        "tags": [
+            "Armónicos",
+            "Potencia",
+            "Superposición"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68b5f6720f5f6ebfba4a6a4f"
+    },
+    {
+        "id": 448,
+        "title": "BBDD: Sistemas de información contable: Elementos básicos de Base de datos - Parte 1",
+        "level": "4° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan introduce el uso de bases de datos para optimizar la gestión contable. Los contenidos abarcan la distinción entre dato e información, el diseño de estructuras (tablas, campos y claves) y el manejo de herramientas como Excel, Access y SQL. Las actividades proponen resolver desafíos reales mediante la organización de registros financieros, la automatización de procesos y la generación de informes técnicos para la toma de decisiones",
+        "tags": [
+            "Consultas Bases",
+            "Tablas",
+            "Automatización"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6834b911cb8869d55644df26"
+    },
+    {
+        "id": 449,
+        "title": "BBDD: Patrimonio, activos caja y bancos - Parte 2",
+        "level": "4° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan aborda los fundamentos de la contabilidad empresarial, enfocándose en la estructura del patrimonio: activos, pasivos y patrimonio neto. Introduce procedimientos críticos de control como el arqueo de caja y la conciliación bancaria. También desarrolla conceptos de bienes de uso, amortizaciones y activos intangibles. A través del diseño de un proyecto propio, se promueve la aplicación práctica de saberes para la gestión y toma de decisiones financieras",
+        "tags": [
+            "Arqueo",
+            "Bancos",
+            "Patrimonio"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68128f56efa7d3ccf78bcc3d"
+    },
+    {
+        "id": 450,
+        "title": "UX: Computación aplicada III - Parte 1",
+        "level": "4° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan introduce el Diseño UX/UI y el Marketing Digital como áreas clave para el desarrollo exitoso de productos y servicios en el entorno digital. Se analizan los principios fundamentales de la experiencia de usuario (usabilidad, estética, feedback). Además, se explora la aplicación de metodologías ágiles como Design Thinking y se diferencia el marketing digital del tradicional. Los docentes verán el desarrollo de conceptos sobre diseño web (responsive y Mobile First), culminando con la producción integradora de una infografía que vincula la estructura web con los objetivos del negocio.",
+        "tags": [
+            "Diseño Ux/Ui",
+            "Marketing Digital",
+            "Diseño Web"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67b8ed8a2877fc28fcaa534d"
+    },
+    {
+        "id": 451,
+        "title": "UX: Marketing - Parte 2",
+        "level": "5° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan profundiza en estrategias de marketing digital y diseño UX/UI para la creación de valor y fidelización de clientes. Aborda el análisis competitivo mediante las fuerzas de Porter y el modelo PESTEL. Los estudiantes exploran la segmentación de mercado, el comportamiento del consumidor y tácticas de comunicación multicanal. Las actividades proponen el diseño de una marca y la producción de una infografía que integre la propuesta estratégica.",
+        "tags": [
+            "Diseño Ux",
+            "Segmentación",
+            "Fidelización",
+            "Pestel"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67bf3e8c3e3f69ecdace55f4"
+    },
+    {
+        "id": 452,
+        "title": "Derecho: Introducción al derecho - Parte 1",
+        "level": "5° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan aborda los fundamentos del derecho civil y comercial en Argentina. Los contenidos incluyen el funcionamiento del Poder Judicial, la creación de leyes y la distinción entre personas físicas y jurídicas. Se profundiza en atributos de la personalidad, derechos personalísimos, actos jurídicos y la extinción de obligaciones. Mediante simulaciones y análisis de casos, se busca que el estudiante comprenda la influencia del marco legal en la vida cotidiana.",
+        "tags": [
+            "Jurisprudencia",
+            "Legislación",
+            "Fuentes Derecho"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67c1bb2baac557336f92e12e"
+    },
+    {
+        "id": 453,
+        "title": "Derecho: Geografía económica argentina - Parte 2",
+        "level": "5° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan profundiza en la geografía económica de Argentina, integrando perspectivas geográficas, ambientales y sociales. Analiza procesos productivos, sectores económicos e indicadores clave como el PBI y la inflación. Aborda la evolución histórica de modelos económicos y las dinámicas entre espacios rurales y urbanos. Las actividades promueven la investigación sobre sustentabilidad, circuitos productivos y desafíos ambientales para proponer soluciones.",
+        "tags": [
+            "Circuitos",
+            "Sustentabilidad",
+            "Indicadores"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67e6ab456151b6ca9e4f1146"
+    },
+    {
+        "id": 454,
+        "title": "Derecho: Economía de las organizaciones -Parte 3",
+        "level": "5° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan  profundiza en la economía y su influencia en la gestión organizacional. Aborda el estudio de los factores productivos y la generación de valor en los sectores económicos. Analiza modelos económicos históricos, el impacto de la política fiscal y la problemática de la inflación. Finalmente, explora el comercio internacional, promoviendo la integración de saberes mediante el análisis de casos reales y la producción de infografías.",
+        "tags": [
+            "Economia",
+            "Valor Agregado",
+            "Indicadores",
+            "Factores Productivos"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/685d7740fbbd1f4b1a805d3c"
+    },
+    {
+        "id": 455,
+        "title": "Proyecto integrador 2: Diagnóstico y programación",
+        "level": "6° año",
+        "category": "Otro",
+        "subject": "Proyecto de Egreso",
+        "mode": "Técnica",
+        "description": "El plan guía el diseño de un negocio de triple impacto (económico, social y ambiental) en la Ciudad de Buenos Aires. Los estudiantes realizan un diagnóstico de necesidades mediante encuestas, entrevistas y el mapeo de oportunidades estratégicas. Se desarrollan herramientas de gestión operativa como bases de datos, presupuestos y checklists legales. El proceso culmina con la sistematización final y una reflexión crítica sobre la viabilidad del proyecto.",
+        "tags": [
+            "Triple Impacto",
+            "Sistematización",
+            "Presupuesto"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6877cf55bf350565a1b6b306"
+    },
+    {
+        "id": 456,
+        "title": "Proyecto integrador 3: Ejecución de la idea de negocio",
+        "level": "6° año",
+        "category": "Otro",
+        "subject": "Proyecto de Egreso",
+        "mode": "Técnica",
+        "description": "El plan guía la ejecución de un negocio de triple impacto en CABA mediante una prueba piloto. Los estudiantes desarrollan la presencia digital y promoción del proyecto, gestionando operativamente el negocio con bases de datos y análisis de resultados. Se aborda la resolución de imprevistos y el marco legal-ético. El proceso culmina con la sistematización y una evaluación crítica sobre la viabilidad y los aprendizajes logrados.",
+        "tags": [
+            "Presencia Digital",
+            "Prueba Piloto",
+            "Viabilidad Negocio"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6888f80510709d4772870cda"
+    },
+    {
+        "id": 457,
+        "title": "Proyecto integrador 4: Evaluación de la idea de negocio",
+        "level": "6° año",
+        "category": "Otro",
+        "subject": "Proyecto de Egreso",
+        "mode": "Técnica",
+        "description": "El plan finaliza el Proyecto Integrador de Administración, centrándose en la evaluación integral de la idea de negocio de triple impacto. Se requiere analizar datos contables, de feedback y de impacto social/ambiental y reflexionar sobre el proceso, los resultados y los desafío. El plan incluye la creación de un diagrama de impacto visual. la revisión tecnológica entre pares para identificar errores de usabilidad en la página web y la formulación de propuestas de mejora para la base de datos y la estrategia de marketing. Concluye con la presentación técnica profesional multimedial de los resultados.",
+        "tags": [
+            "Diagrama De Impacto Visual",
+            "Negocio De Triple Impacto",
+            "Usabilidad"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/688bbf425fcc5ca1f941c715"
+    },
+    {
+        "id": 458,
+        "title": "Administración de sistemas y redes - A",
+        "level": "6° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan examina la Administración de Sistemas y Redes, contrastando la realidad técnica con las representaciones mediáticas observadas en series como \"The IT Crowd\" y \"Mr. Robot\". Se analizan los servicios de red esenciales (DNS, DHCP, Proxy, FTP, Web), las amenazas comunes en redes (Phishing, Ransomware, DoS), y las técnicas de mitigación, incluyendo la criptografía (simétrica y asimétrica). Además, se abordan la gestión de sistemas operativos (Windows/Linux) y la configuración de acceso remoto seguro mediante protocolos como SSH, RDP y VPN.",
+        "tags": [
+            "Servicios De Red",
+            "Criptografía",
+            "Acceso Remoto"
+        ],
+        "url": "Link 1: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67cedb23764327296b11165a Link 2: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/689be1add7bb52f9be857545"
+    },
+    {
+        "id": 459,
+        "title": "Administración de sistemas y redes - B",
+        "level": "6° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan examina la infraestructura, clasificación y arquitectura de las redes de computadoras (LAN, MAN, WAN, Cliente-servidor). El material se centra en los modelos OSI y TCP/IP para desglosar el proceso de comunicación en capas, explicando funciones como la segmentación de datos, el enrutamiento (IP) y la garantía de entrega confiable (TCP/UDP). Además, aborda el diseño de redes eficientes mediante la tolerancia a fallos, la escalabilidad y la redundancia, así como medios de transmisión (cableado/WiFi) y tendencias futuras como 6G y SDN.",
+        "tags": [
+            "Modelos De Red",
+            "Infraestructura",
+            "Protocolos"
+        ],
+        "url": "Link 1: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67cede10f1362ac4a77f2117 Link 2: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/689be38fd7bb52f9be8576ab"
     }
 
 
