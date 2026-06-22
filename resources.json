@@ -3161,21 +3161,7 @@
         ],
         "url": "https://es.khanacademy.org/science/chemistry/acids-and-bases-topic/copy-of-acid-base-equilibria/v/conjugate-acid-base-pairs-acids-and-bases-chemistry-khan-academy"
     },
-    {
-        "id": 271,
-        "title": "Literatura e historia del arte A",
-        "level": "4° año, 5° año",
-        "category": "Laboratorio, Taller",
-        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
-        "mode": "Bachiller",
-        "description": "El presenta un  taller donde se  enfoca la relación entre Literatura e Historia del Arte. Analiza la función mágico-simbólica y las concepciones artísticas en América, destacando el sincretismo, la hibridación, el barroco y los nacionalismos.",
-        "tags": [
-            "Historia del arte",
-            "Sincretismo",
-            "Hibridación"
-        ],
-        "url": "https://share.articulate.com/CQx-OY6Z66CT-gMr1So3t"
-    },
+   
     {
         "id": 274.0,
         "title": "Lenguajes combinados B",
@@ -6189,6 +6175,81 @@
             "Validación Técnica"
         ],
         "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68bfb9cf8604d54bc5819873"
+    },
+     {
+        "id": 604,
+        "title": "El pH, pOH y la escala de pH",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El apunte incorpora definiciones de pH, pOH, con ejemplos de cálculos de pH en soluciones. Además, relaciona la fuerza de un ácido con el pH de su solución.",
+        "tags": [
+            "pH",
+            "pOH",
+            "base"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/ph-poh-and-the-ph-scale"
+    },
+    {
+        "id": 605,
+        "title": "Propiedades ácido-base de las sales",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video muestra ejemplos de reacciones de neutralización y analiza el pH de la solución salina resultante. Demuestra como será la expresión del pH, dependiendo de la fuerza de las bases.",
+        "tags": [
+            "pH",
+            "Base fuerte",
+            "protón"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/acids-and-bases-topic/copy-of-acid-base-equilibria/v/acid-base-properties-of-salts"
+    },
+    {
+        "id": 606,
+        "title": "Capas, subcapas y orbitales",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video muestra el modelo atómico presentando el núcleo, las partículas subatómicas, las nubes electrónicas u orbitales, planteando el principio de incertidumbre. Indica cómo podrían darse los saltos de nivel cuántico, utilizando el modelo de capas de electrones.",
+        "tags": [
+            "Átomo",
+            "Partículas subatómicas",
+            "Orbital"
+        ],
+        "url": "https://es.khanacademy.org/science/ap-chemistry/electronic-structure-of-atoms-ap/electron-configurations-jay-sal-ap/v/orbitals"
+    },
+    {
+        "id": 607,
+        "title": "La tabla periódica, capas de electrones y orbitales",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El texto introduce al estudio de la tabla periódica de los elementos.Explica la variación de las propiedades periódicas como la configuración electrónica y las subcapas electrónicas y los orbitales electrónicos. Presenta el modelo atómico de Bohr.",
+        "tags": [
+            "Átomo",
+            "Tabla periódica",
+            "Orbitales electrónicos"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/periodic-table/copy-of-periodic-table-of-elements/a/the-periodic-table-electron-shells-and-orbitals-article"
+    },
+    {
+        "id": 608,
+        "title": "La tabla periódica: clasificación de los elementos",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video muestra la estructura de la tabla periódica de los elementos. Define grupos, periodos, metales alcalinos, metales alcalinotérreos, halógenos y gases nobles. Introduce la variación periódica de las propiedades de los elementos.",
+        "tags": [
+            "Elemento químicos",
+            "Tabla periódica",
+            "Propiedades periódicas"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/periodic-table/copy-of-periodic-table-of-elements/v/periodic-table-introduction"
     }
 
 
