@@ -4326,21 +4326,7 @@
         ],
         "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68a4b5c9a302ea8c944ee1c3"
     },
-    {
-        "id": 272,
-        "title": "Literatura e historia del arte B",
-        "level": "4° año, 5° año",
-        "category": "Laboratorio, Taller",
-        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
-        "mode": "Bachiller",
-        "description": "Este plan explora la función mágico-simbólica del arte y la literatura. Mediante obras de Juan Rulfo, Jorge Luis Borges y Selva Almada, se indaga en el rito y el mito. Además, propone reflexionar sobre el símbolo para fortalecer la identidad.",
-        "tags": [
-            "Simbología",
-            "Ritualidad",
-            "Hibridación"
-        ],
-        "url": "Link 1: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/689d0e32d155a78b4c2deb36 Link 2: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/689d0aae666317e2fc63c611"
-    },
+   
     {
         "id": 273,
         "title": "Lenguajes combinados A",
@@ -4401,21 +4387,7 @@
         ],
         "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67eea14f18d2e8d5096de94c"
     },
-    {
-        "id": 293,
-        "title": "Turismo, sociedad y transformaciones A",
-        "level": "3° año",
-        "category": "Laboratorio, Taller",
-        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
-        "mode": "Bachiller",
-        "description": "Este plan aborda la comprensión del turismo como fenómeno social e histórico en Argentina, analizando su evolución de privilegio a derecho. Se estudian transformaciones como el turismo social, el rol de las élites, la infraestructura y el patrimonio.",
-        "tags": [
-            "Turismo Social",
-            "Historia Del Turismo",
-            "Patrimonio Cultural"
-        ],
-        "url": "Link 1: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67c87be330ff87afd66bd555 Link 2: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67c87be330ff87afd66bd555"
-    },
+   
     {
         "id": 294,
         "title": "Turismo, sociedad y transformaciones B",
@@ -4541,7 +4513,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan guía a los estudiantes en la fase de consolidación e implementación de un producto turístico. Para ello, se centra en el diseño de la marca (nombre, eslogan, logo), la estrategia de comunicación y promoción, y la articulación con la comunidad local. También aborda la planificación operativa (recursos, cronograma) y la simulación para la evaluación y ajuste de la propuesta, buscando su coherencia y viabilidad.",
+        "description": "El plan guía a los estudiantes en la fase de consolidación e implementación de un producto turístico. Para ello, se centra en el diseño de la marca (nombre, eslogan, logo), la estrategia de comunicación y promoción, y la articulación con la comunidad local.",
         "tags": [
             "Producto Turístico",
             "Planificación En Turismo",
@@ -4556,7 +4528,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "Este plan explora la comunicación en el turismo desde una mirada integral, abordando procesos interpersonales, interculturales e institucionales. Los estudiantes analizan el impacto de la tecnología y el uso de los diarios de viaje como herramientas narrativas para resignificar el patrimonio de la Ciudad de Buenos Aires. El plan promueve la producción de relatos digitales centrados en experiencias de viaje.",
+        "description": "Este plan explora la comunicación en el turismo desde una mirada integral, abordando procesos interpersonales, interculturales e institucionales. Se analiza el impacto de la tecnología y el uso de los diarios para resignificar el patrimonio de la Ciudad de Buenos Aires. ",
         "tags": [
             "Comunicación",
             "Narrativa",
@@ -4571,7 +4543,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan propone la realización de una producción audiovisual, con el fin de dar a conocer destinos turísticos, considerando tanto la mirada del viajero como la difusión estratégica. Para ello, se abordan elementos del lenguaje visual, la planificación del producto y la edición digital de contenidos. Asimismo, se enfatiza en la comunicación mediante herramientas digitales y la ética comunicacional.",
+        "description": "El plan propone la realización de una producción audiovisual, con el fin de dar a conocer destinos turísticos, considerando tanto la mirada del viajero. Se aborda desde el lenguaje visual, la planificación del producto y la edición digital de contenidos.",
         "tags": [
             "Producción Audiovisual",
             "Difusión De Destinos Turísticos",
@@ -4586,7 +4558,7 @@
         "category": "Otro",
         "subject": "Proyecto de Vinculación con el Futuro",
         "mode": "Bachiller",
-        "description": "El plan se centra en el diseño de proyectos turísticos situados. En esta etapa se incluye la elaboración de un diagnóstico territorial, el mapeo de actores clave y el trabajo de campo mediante entrevistas y encuestas. Se enfoca en la planificación detallada del proyecto, abordando la viabilidad, la comunicación y la ética comunitaria para intervenir con propósito en el territorio",
+        "description": "El plan se centra en el diseño de proyectos turísticos situados. En esta etapa se incluye la elaboración de un diagnóstico territorial, el mapeo de actores clave y el trabajo de campo mediante entrevistas y encuestas. ",
         "tags": [
             "Diagnóstico Territorial",
             "Planificación Proyecto Turístico",
@@ -4601,7 +4573,7 @@
         "category": "Otro",
         "subject": "Proyecto de Vinculación con el Futuro",
         "mode": "Bachiller",
-        "description": "Este plan continúa el anterior y orienta el pasaje de la planificación a la acción mediante la ejecución de proyectos turísticos situados. El plan aborda la producción de materiales comunicacionales, la gestión logística y la intervención real en el territorio con público. Promueve la evaluación del impacto social, la sistematización de evidencias y la reflexión sobre el rol del egresado como anfitrión comprometido con la valorización de su patrimonio local.",
+        "description": "Este plan continúa el anterior y orienta el pasaje de la planificación a la acción mediante la ejecución de proyectos turísticos situados. El plan aborda la producción de materiales comunicacionales, la gestión logística y la intervención en el territorio público.",
         "tags": [
             "Implementación Del Proyecto Turístico",
             "Intervención Territorial",
@@ -4616,7 +4588,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan propone la exploración de la música a través de la tecnología, analizando estilos urbanos y populares y la materialidad sonora (altura, timbre, ritmo). Guía a los estudiantes en la producción musical digital mediante el uso de instrumentos virtuales, sintetizadores y software enfocándose en la composición, la mezcla y la incorporación de efectos, buscando la identidad sonora y el trabajo colaborativo.",
+        "description": "El plan propone la exploración de la música a través de la tecnología, analizando estilos urbanos y populares y la materialidad sonora Guía a los estudiantes en la producción musical digital mediante el uso de instrumento virtuales, sintetizadores y software. ",
         "tags": [
             "Tecnología Musical",
             "Producción Digital",
@@ -4631,7 +4603,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan integra herramientas digitales y software de edición para la producción musical contemporánea. Se guía el análisis de géneros tradicionales y su transformación mediante recursos como MIDI, procesos de mezcla y efectos sonoros. Se exploran nuevas materialidades en cine, videojuegos y streaming, promoviendo la creación de relatos sonoros y la reflexión sobre la identidad cultural en entornos digitales y procesos creativos.",
+        "description": "El plan integra herramientas digitales y software de edición. Se guía el análisis de géneros tradicionales y su transformación mediante recursos como MIDI,.Se exploran nuevas materialidades en cine, videojuegos y streaming, promoviendo la creación de relatos sonoros y  ",
         "tags": [
             "Producción Digital",
             "Materialidad Sonora",
@@ -4646,7 +4618,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan propone la exploración de la música como construcción social y forma de conocimiento poético-metafórico, analizando la materialidad sonora (sonido, silencio, ruido) mediante medios acústicos, electroacústicos y digitales. Se indagan patrones de acompañamiento y rasgos de estilo en diversos géneros populares latinoamericanos y urbanos (candombe, son, rock, tango, rap, cumbia). Se promueve la composición y el registro musical mediante la notación y la creación de paisajes sonoros que integran tecnología.",
+        "description": "El plan propone la exploración de la música como construcción social y forma de conocimiento poético-metafórico, analizando la materialidad sonora (sonido, silencio, ruido) mediante medios acústicos, electroacústicos y digitales. ",
         "tags": [
             "Paisajes Sonoros",
             "Materialidad Sonora",
@@ -4661,7 +4633,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan está enfocado en la audición reflexiva y la producción creativa. Se guía el análisis de estructuras formales (motivos y secciones) y la dimensión espacial en obras populares y contemporáneas. Se aborda el reconocimiento de fuentes sonoras, el procesamiento digital mediante MIDI y la identificación de claves rítmicas. Culmina con la creación de paisajes sonoros que integran recursos compositivos e interpretativos.",
+        "description": "El plan está enfocado en la audición reflexiva y la producción creativa. Se guía el análisis de estructuras formales (motivos y secciones) y la dimensión espacial en obras populares y contemporáneas. Se aborda el reconocimiento de fuentes sonoras.",
         "tags": [
             "Paisaje Sonoro",
             "Fuentes Sonoras",
@@ -4676,7 +4648,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El promueve el desarrollo de habilidades técnicas en la interpretación vocal e instrumental, abordando la afinación, el control del aire y la articulación. Se presentan procesos de imitación, audición y creación colectiva, integrando el uso de tecnología para el registro y preservación musical. Se enfatiza el reconocimiento de consignas visuales y gestuales para la concertación grupal y la reflexión sobre la calidad del sonido en diversos géneros.",
+        "description": "El plan promueve el desarrollo de habilidades técnicas en la interpretación vocal e instrumental. Se presentan procesos de imitación, audición y creación colectiva, integrando el uso de tecnología y preservación musical. Se enfatiza el reconocimiento de consignas visuales y gestuales para la concertación grupal y la reflexión sobre la calidad del sonido en diversos géneros.",
         "tags": [
             "Interpretación Técnica",
             "Concertación Grupal",
@@ -4691,7 +4663,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan desarrolla el vínculo entre música, sociedad y tecnología. Se aborda la música como fenómeno geopolítico e histórico, analizando estilos del siglo XX y XXI, su relación con el género dramático (en formato ópera, cine, videojuegos) y el impacto tecnológico en la producción actual. Se analiza la oferta cultural de Buenos Aires, la identidad sonora en medios y la circulación en redes sociales. El trayecto culmina con la creación de remixes y la reflexión sobre las culturas juveniles.",
+        "description": "El plan desarrolla el vínculo entre música, sociedad y tecnología. Se aborda la música como fenómeno geopolítico e histórico, analizando estilos del siglo XX y XXI, on el género dramático (en formato ópera, cine, videojuegos) y el impacto teecnológico en la producción actual. ",
         "tags": [
             "Contextualización De Obras",
             "Circulación Cultural",
@@ -4706,7 +4678,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan propone el desarrollo de la escucha reflexiva y la experimentación musical. Incluye el análisis de los criterios de organización sonora (ritmo, melodía, textura) y el estudio de las raíces indígenas, africanas y europeas en los géneros populares latinoamericanos. Asimismo, explora la función de la música en los medios masivos, los videojuegos y el drama, promoviendo la producción creativa y el uso de herramientas digitales.",
+        "description": "El plan propone el desarrollo de la escucha reflexiva y la experimentación musical . Análisis de criterios de organización sonora (ritmo, melodía, textura) y el estudio de las raíces indígenas, africanas y europeas en los géneros populares de latinoamericanos.",
         "tags": [
             "Apreciación Musical",
             "Géneros Populares",
@@ -4721,7 +4693,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan fomenta la improvisación musical (vocal, corporal e instrumental) y su transformación en obras estructuradas. Se estudian técnicas de expansión (desarrollo motívico, ostinatos, polirritmias) y la aplicación de tecnología para la composición multimedial, la creación de arreglos y la sonorización de producciones audiovisuales. El objetivo es pasar de la idea espontánea a la pieza organizada.",
+        "description": "El plan fomenta la improvisación musical (vocal, corporal e instrumental) y su transformación en obras estructuradas. Se estudian técnicas de expansión (desarrollo motívico, ostinatos, polirritmias) y la aplicación de tecnología para la composición multimedial.",
         "tags": [
             "Improvisación",
             "Composición Musical",
@@ -4736,7 +4708,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan aborda la interpretación musical colectiva, enfocándose en la coordinación grupal y el ajuste sincrónico mediante la escucha activa y la comunicación no verbal. Se guían ejercicios de independencia rítmica (canto y percusión) y ajuste melódico-armónico sobre bases instrumentales. Asimismo, se trabaja la puesta en escena, la rotación de roles en la performance y el análisis de referentes musicales para enriquecer la práctica técnica.",
+        "description": "El plan aborda la interpretación musical colectiva, enfocándose en la coordinación grupal y el ajuste sincrónico mediante la escucha activa y la comunicación no verbal Se guían ejercicios de independencia rítmica (canto y percusión) y ajuste melódico-armónico sobre bases intrumentales.",
         "tags": [
             "Interpretación Colectiva",
             "Escucha Activa",
@@ -4751,7 +4723,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan propone el desarrollo de un proceso integral de producción y grabación musical, desde la captura sonora hasta la distribución digital. Se incluyen actividades sobre microfonía, interfaces de audio y el uso de estaciones de trabajo digitales (DAW) para la edición y procesamiento. Se abordan técnicas de mezcla, formatos de archivo y el impacto de innovaciones como la inteligencia artificial y el audio inmersivo, promoviendo una escucha crítica y profesional.",
+        "description": "El plan propone el desarrollo de un proceso integral de producción y grabación musical, desde la captura sonora hasta la distribución digital. Se incluyen actividades sobre microfonía, interfaces de audio y el uso de estaciones de trabajo digitales (DAW) para la edición y procesamiento. ",
         "tags": [
             "Producción Musical",
             "Composición Multimedial",
@@ -4766,7 +4738,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan analiza el vínculo entre música, tecnología y sociedad. Se analiza la industria cultural, los medios alternativos y las identidades juveniles, explorando la relación de la música con otros lenguajes artísticos. Se aborda la producción digital (DAW), la autogestión y la circulación en red. Propone proyectos integradores, como el diseño de festivales y podcasts, uniendo saberes técnicos y reflexivos.",
+        "description": "El plan analiza el vínculo entre música, tecnología y sociedad. Se analiza la industria cultural, los medios alternativos y las identidades juveniles, explorando la relación de la música con otros lenguajes artísticos. Se aborda la producción digital (DAW), la autogestión y la circulación en red.",
         "tags": [
             "Industria Cultural",
             "Intermedialidad",
@@ -4781,7 +4753,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan propone el desarrollo de proyectos culturales en el ámbito artístico. Se identifican así características y necesidades del entorno y la comunidad y se promueven intervenciones desde la música, centrándose en la gestión de proyectos culturales mediante la metodología cualitativa. Se guía a los estudiantes para formular objetivos claros, elaborar planes de trabajo, cronogramas y estrategias de sostenibilidad, y culminar con el seguimiento, la evaluación y memoria del proyecto.",
+        "description": "El plan propone el desarrollo de proyectos culturales en el ámbito artístico. Se identifican así características y necesidades del entorno y la comunidad y se promueven intervenciones desde la música, centrándose en la gestión de proyectos culturales mediante la metodología cualitativa. ",
         "tags": [
             "Gestión De Proyectos Culturales",
             "Metodología Cualitativa",
@@ -4796,7 +4768,7 @@
         "category": "Otro",
         "subject": "Proyecto de Vinculación con el Futuro",
         "mode": "Bachiller",
-        "description": "El plan propone la gestión de un proyecto final que utiliza la música como herramienta de transformación social. Los estudiantes exploran su entorno mediante cartografías sonoras y entrevistas para identificar problemáticas locales que inspiren su creación. Se promueve el diseño de un plan de acción con roles claros y la construcción de una identidad sonora coherente con el mensaje. Incluye la planificación de una pieza audiovisual que potencia la narrativa de la obra.",
+        "description": "El plan gestiona un proyecto final que usa la música como transformación social. Los estudiantes exploran su entorno mediante cartografías sonoras y entrevistas para identificar problemas locales. Diseñan un plan de acción con roles y una identidad sonora coherente.",
         "tags": [
             "Cartografía Sonora",
             "Guion Audiovisual",
@@ -4811,7 +4783,7 @@
         "category": "Otro",
         "subject": "Proyecto de Vinculación con el Futuro",
         "mode": "Bachiller",
-        "description": "El plan avanza en la materialización del proyecto musical colectivo, centrándose en el ensayo técnico para ajustar la precisión rítmica, la afinación y el empaste sonoro. Se integran recursos digitales (DAW, loops, instrumentos virtuales) para potenciar la expresividad de la obra. Asimismo, se aborda la gestión logística del evento (tiempos, espacios y roles) y el diseño de la identidad gráfica para la difusión y mediación con la comunidad.",
+        "description": "El plan avanza en la materialización del proyecto musical colectivo, centrándose en el ensayo técnico. Se integran recursos digitales para potenciar la expresividad de la obra. Se aborda la gestión logística del evento y el diseño de la identidad gráfica.",
         "tags": [
             "Arreglos Musicales",
             "Ensayo Técnico",
@@ -4826,7 +4798,7 @@
         "category": "Otro",
         "subject": "Proyecto de Vinculación con el Futuro",
         "mode": "Bachiller",
-        "description": "El plan abarca la etapa de cierre y evaluación reflexiva del proyecto, utilizando herramientas como matrices de evaluación y bitácoras de recuerdos para procesar la experiencia. Se promueve el diálogo con la comunidad para registrar las resonancias territoriales de la obra y su impacto social. El proceso culmina con la redacción de un informe final y un documental audiovisual que sistematizan la memoria colectiva y los aprendizajes logrados.",
+        "description": "El plan gestiona un proyecto final que usa la música como transformación social. Los estudiantes exploran su entorno mediante cartografías sonoras y entrevistas para identificar problemas locales. Diseñan un plan de acción con roles y una identidad sonora coherente.",
         "tags": [
             "Bitácora De Experiencias",
             "Informe Final",
@@ -4841,7 +4813,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "Este plan examina a las organizaciones como sistemas sociales abiertos en interacción con su entorno para abordar el desempleo juvenil. Se analizan el micro y macroambiente mediante la matriz FODA, la cultura organizacional y la responsabilidad social. Asimismo, se exploran estructuras formales e informales, estilos de liderazgo y procesos de toma de decisiones participativos para promover la inclusión y el desarrollo sustentable.",
+        "description": "Este plan examina a las organizaciones como sistemas sociales abiertos contra el desempleo juvenil. Analiza el micro y macroambiente mediante FODA, cultura y responsabilidad social. Explora estructuras, liderazgo y decisiones para promover la inclusión.",
         "tags": [
             "Sistema Abierto",
             "Responsabilidad Social",
@@ -4856,7 +4828,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "Este plan de aprendizaje analiza el desempleo juvenil vinculando la teoría económica con la gestión organizacional. Explora el mercado laboral mediante las leyes de oferta, demanda y elasticidad, reconociendo fallas estructurales y barreras de acceso. Asimismo, posiciona a los sistemas de información y la tecnología como activos estratégicos para la toma de decisiones éticas. El objetivo es que las organizaciones diseñen estrategias que promuevan la inserción laboral.",
+        "description": "Este plan analiza el desempleo juvenil vinculando teoría económica y gestión organizacional. Explora el mercado laboral mediante leyes de oferta, demanda y elasticidad, con sus fallas. Posiciona la tecnología como activo estratégico para decisiones éticas.",
         "tags": [
             "Desempleo Juvenil",
             "Mercado Laboral",
@@ -4871,7 +4843,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan prioriza aporta a la construcción de una mirada crítica y sistemática sobre fenómenos sociales, económicos y organizacionales; buscando promover la comprensión del hecho organizacional como una construcción compleja y dinámica. De este modo, fomenta la comprensión de la gestión responsable, el rol del Estado, la aplicación de sistemas administrativos (planeamiento, gestión y control) y la utilización de tecnologías de información y contabilidad.",
+        "description": "El plan aporta a una mirada crítica de fenómenos sociales y económicos, promoviendo la comprensión del hecho organizacional complejo. Fomenta la gestión responsable, el rol del Estado, sistemas administrativos y tecnologías de información y contabilidad.",
         "tags": [
             "Administración",
             "Organizaciones",
@@ -4886,7 +4858,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "Este plan de aprendizaje analiza la adaptación de los sistemas administrativos ante desafíos actuales como la tecnología y la sostenibilidad. Aborda los procesos de planeamiento, gestión y control en ámbitos públicos, privados y del tercer sector. Se enfoca en la toma de decisiones estratégicas, el uso de herramientas de análisis y el impacto de la innovación tecnológica, promoviendo una gestión ética y eficiente en entornos de alta complejidad.",
+        "description": "Este plan analiza la adaptación de los sistemas administrativos ante la tecnología y sostenibilidad. Aborda el planeamiento, gestión y control en ámbitos públicos, privados y del tercer sector. Se enfoca en decisiones estratégicas, análisis y gestión ética",
         "tags": [
             "Planeamiento",
             "Gestión",
@@ -4901,7 +4873,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "Este plan de aprendizaje analiza el rol del Estado en la economía mediante las finanzas públicas y el presupuesto nacional. Se abordan las funciones de asignación, redistribución y estabilización, junto con el sistema tributario y la política monetaria. El material profundiza en la inflación, el poder adquisitivo y el control ciudadano, vinculando variables macroeconómicas con la vida cotidiana y el ejercicio de la democracia.",
+        "description": "Este plan analiza el rol del Estado en la economía mediante finanzas públicas y el presupuesto. Aborda funciones de asignación, redistribución y estabilización, sistema tributario y política monetaria. Profundiza, vinculando variables macroeconómicas.",
         "tags": [
             "Presupuesto Público",
             "Control Ciudadano",
@@ -4916,7 +4888,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "Este plan examina indicadores como el PBI y el coeficiente de Gini para evaluar la actividad económica y la equidad social. Aborda la globalización, el comercio internacional y la integración regional. Asimismo profundiza en temáticas de presupuesto público, la inflación y el poder adquisitivo. Busca que los estudiantes analicen las políticas estatales y su impacto en el bienestar ciudadano.",
+        "description": "Este plan examina indicadores como el PBI y Gini para evaluar la actividad económica y equidad. Aborda la globalización, comercio internacional e integración. Profundiza en presupuesto público, inflación y poder adquisitivo para analizar el impacto estatal.",
         "tags": [
             "Indicadores Económicos",
             "Presupuesto Público",
@@ -4931,7 +4903,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan aborda el funcionamiento de las organizaciones, sus tipos y áreas funcionales. Se analiza el mercado laboral argentino, sus problemáticas (formalidad e informalidad) y el marco legal vigente. Se profundiza en la Ley de Contrato de Trabajo y la Ley de Teletrabajo, y en la interacción de los actores dominantes (trabajadores, empresas, sindicatos, Estado). Se fomenta el análisis crítico, el debate y las simulaciones para la aplicación de conocimientos en un proyecto integrador.",
+        "description": "El plan aborda las organizaciones y sus áreas. Analiza el mercado laboral argentino (formalidad e informalidad) y su marco legal (Leyes de Contrato de Trabajo y Teletrabajo) junto a sus actores clave. Fomenta el análisis crítico en un proyecto integrador.",
         "tags": [
             "Capital Humano",
             "Organizaciones",
@@ -4946,7 +4918,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "Este plan de aprendizaje aborda la gestión integral del capital humano en las organizaciones. Los estudiantes exploran políticas de personal, planificación de necesidades, sistemas salariales y beneficios. Se profundiza en procesos de reclutamiento, selección, capacitación y evaluación de desempeño, analizando cómo la motivación impacta en la productividad. Finalmente, examina desafíos actuales en contextos locales e internacionales.",
+        "description": "Este plan aborda la gestión del capital humano. Los estudiantes exploran políticas de personal, necesidades, salarios y beneficios. Se profundiza en procesos de reclutamiento, selección, capacitación y evaluación.",
         "tags": [
             "Capital Humano",
             "Políticas De Personal",
@@ -4954,36 +4926,8 @@
         ],
         "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/685ec0d55fa9910154a3621b"
     },
-    {
-        "id": 331,
-        "title": "Sistemas de administración A",
-        "level": "4° año",
-        "category": "Laboratorio, Taller",
-        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
-        "mode": "Bachiller",
-        "description": "Este plan de aprendizaje profundiza en la gestión financiera integral, analizando el sistema financiero argentino y el uso de herramientas de cálculo para la toma de decisiones. Los estudiantes abordan la planificación a través de presupuestos económicos y financieros, identifican riesgos y aplican estrategias de mitigación. Se destaca la importancia de generar informes oportunos y pertinentes, promoviendo el uso ético y responsable de la información para reflejar con transparencia la situación económica y financiera de la organización ante diversos usuarios.",
-        "tags": [
-            "Finanzas",
-            "Patrimonio",
-            "Informes Financieros"
-        ],
-        "url": "Link 1: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67cedb23764327296b11165a Link 2: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/689be1add7bb52f9be857545"
-    },
-    {
-        "id": 332,
-        "title": "Sistemas de administración B",
-        "level": "4° año",
-        "category": "Laboratorio, Taller",
-        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
-        "mode": "Bachiller",
-        "description": "Este plan aborda la gestión financiera integral, analizando las decisiones de inversión, financiamiento y administración del capital de trabajo. Los estudiantes exploran el mercado del crédito, los microcréditos y la operatoria con entidades bancarias. El material profundiza en la evaluación de factibilidad mediante el análisis de indicadores, junto con el control presupuestario para detectar desvíos y asegurar la sostenibilidad organizacional.",
-        "tags": [
-            "Inversión",
-            "Factibilidad",
-            "Presupuesto"
-        ],
-        "url": "Link 1: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67cede10f1362ac4a77f2117 Link 2: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/689be38fd7bb52f9be8576ab"
-    },
+   
+  
     {
         "id": 333,
         "title": "Gestión de marketing A",
@@ -4991,7 +4935,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "Este plan aborda el marketing como herramienta estratégica para la toma de decisiones. Analiza la evolución del concepto, el comportamiento del consumidor y la importancia de la investigación de mercado y segmentación. Se profundiza en branding, desarrollo de productos y estrategias de comunicación digital. Finalmente, integra la innovación, sostenibilidad y experiencia del cliente como pilares para generar valor y fidelización.",
+        "description": "Este plan aborda el marketing estratégico para decisiones. Analiza la evolución del concepto, el comportamiento del consumidor, investigación de mercado y segmentación. Profundiza en branding, productos y comunicación digital. Integra innovación y sostenibilidad para generar valor.",
         "tags": [
             "Marketing",
             "Branding",
@@ -5006,7 +4950,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "Este taller profundiza en la gestión del marketing: promoción, medios, canales de distribución y estrategias de precios. Propone analizar la evolución hacia entornos digitales, el marketing de influencers y el impacto emocional en los públicos. A través del diseño de una campaña integral, los estudiantes integran estas variables para construir relaciones significativas y coherentes que respondan a las demandas del mercado actual.",
+        "description": "Este taller profundiza en marketing: promoción, medios, canales y precios. Propone analizar la evolución digital, marketing de influencers e impacto emocional. Mediante una campaña integral, los estudiantes construyen relaciones que responden al mercado.",
         "tags": [
             "Marketing Mix",
             "Estrategia",
@@ -5021,7 +4965,7 @@
         "category": "Otro",
         "subject": "Proyecto de Vinculación con el Futuro",
         "mode": "Bachiller",
-        "description": "Este plan guía el diseño de un proyecto con impacto económico real basado en un diagnóstico situado del entorno. Los estudiantes eligen ejes como economía social o circular para investigar actores, formular objetivos y programar acciones, recursos y cronogramas detallados. El proceso incluye la validación de la propuesta mediante la retroalimentación, promoviendo la viabilidad técnica y el compromiso con la resolución de problemas locales.",
+        "description": "Este plan guía el diseño de un proyecto con impacto económico real basado en un diagnóstico situado. Los estudiantes eligen ejes como economía social o circular para investigar El proceso incluye la validación de la propuesta.",
         "tags": [
             "Diseño De Proyecto Organizacional",
             "Plan De Acción",
@@ -5536,21 +5480,7 @@
         ],
         "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/680a9d8b8e28333342a816d9"
     },
-    {
-        "id": 408,
-        "title": "La representación del interior de los objetos A",
-        "level": "3° año",
-        "category": "Espacio formativo",
-        "subject": "Tecnologia de la Representacion",
-        "mode": "Técnica",
-        "description": "El plan aborda la representación gráfica precisa del interior de objetos en arquitectura y mecánica. Se cubren fundamentos, la aplicación de escalas, y la representación de acabados (rugoso, liso, texturizado) mediante sombreado. Los docentes guiarán la aplicación de cortes y secciones, y el uso de técnicas manuales (lápiz, valores de línea) y digitales (CAD) para que los estudiantes desarrollen planos profesionales.",
-        "tags": [
-            "Palabras Clave: Escala",
-            "Cortes",
-            "Acabados"
-        ],
-        "url": "Link 1: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67ffd814dce538f2466dbb29 Link 2: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/680bcac949613dfafa21f143"
-    },
+  
      {
         "id": 409,
         "title": "Sistemas de representación  A",
@@ -6123,35 +6053,142 @@
         ],
         "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/688bbf425fcc5ca1f941c715"
     },
+    
     {
-        "id": 458,
-        "title": "Administración de sistemas y redes - A",
-        "level": "6° año",
+        "id": 462,
+        "title": "Análisis de sistemas - A",
+        "level": "5° año",
         "category": "Espacio de integración",
         "subject": "Espacios de Integración de Especialidad",
         "mode": "Técnica",
-        "description": "El plan examina la Administración de Sistemas y Redes, contrastando la realidad técnica con las representaciones mediáticas observadas en series como \"The IT Crowd\" y \"Mr. Robot\". Se analizan los servicios de red esenciales (DNS, DHCP, Proxy, FTP, Web), las amenazas comunes en redes (Phishing, Ransomware, DoS), y las técnicas de mitigación, incluyendo la criptografía (simétrica y asimétrica). Además, se abordan la gestión de sistemas operativos (Windows/Linux) y la configuración de acceso remoto seguro mediante protocolos como SSH, RDP y VPN.",
+        "description": "El plan introduce la clasificación de redes (LAN, WAN, P2P) y sus arquitecturas (Cliente-servidor). Se detalla la infraestructura de red (dispositivos finales e intermediarios) y los modelos de comunicación OSI/TCP/IP (segmentación y capas). Finalmente, se estudian los mecanismos esenciales para la estabilidad, como la redundancia, el balanceo de carga y la escalabilidad de las redes.",
         "tags": [
-            "Servicios De Red",
-            "Criptografía",
-            "Acceso Remoto"
+            "Redes",
+            "Tcp/Ip",
+            "Escalabilidad"
         ],
-        "url": "Link 1: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67cedb23764327296b11165a Link 2: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/689be1add7bb52f9be857545"
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67fd3c6d1c3ef748c5a307d6"
     },
     {
-        "id": 459,
-        "title": "Administración de sistemas y redes - B",
+        "id": 463,
+        "title": "Análisis de sistemas - B",
+        "level": "5° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan guía a los y las estudiantes a través de la planificación integral de proyectos informáticos. Aborda el análisis de sistemas y el uso de diagramas de flujo. Se profundiza en la calidad del software (cohesión/acoplamiento), la planificación de costos/recursos y la propiedad intelectual (licencias), enfatizando el diseño de soluciones escalables para evitar colapsos futuros.",
+        "tags": [
+            "Análisis De Sistemas",
+            "Calidad Del Software",
+            "Escalabilidad"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67fe55e6fea0ef48d1d65513"
+    },
+    {
+        "id": 464,
+        "title": "Diagnóstico de necesidades tecnológicas",
+        "level": "5° año, 6° año",
+        "category": "Espacio de integración, Otro",
+        "subject": "Espacios de Integración de Especialidad, Proyecto de Egreso",
+        "mode": "Técnica",
+        "description": "El plan orienta a los estudiantes en las fases iniciales de un proyecto integrador de Computación. Se enfoca en la detección de necesidades tecnológicas reales en la comunidad, el relevamiento de información con usuarios clave y la elaboración de un diagnóstico técnico estructurado. El material guía la planificación del trabajo colaborativo, la definición de roles, el diseño del Producto Mínimo Viable (MVP) y la sistematización de la propuesta técnica, preparatoria para la fase de desarrollo informático.",
+        "tags": [
+            "Diagnóstico",
+            "Usuario",
+            "Mvp"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6888ecf36cd76ecb1b51b61b"
+    },
+    {
+        "id": 465,
+        "title": "Diseño e implementación de la solución informática",
+        "level": "5° año, 6° año",
+        "category": "Espacio de integración, Otro",
+        "subject": "Espacios de Integración de Especialidad, Proyecto de Egreso",
+        "mode": "Técnica",
+        "description": "El plan está enfocado en el diseño e implementación de la solución informática, siguiendo el trabajo previo de identificación de necesidades. El documento guía al docente y al estudiante a través de la revisión de la planificación (UX/UI y cronogramas), el desarrollo de prototipos, la programación de módulos y las pruebas de funcionalidad. Culmina con la preparación para la implementación, la capacitación de usuarios, el seguimiento del impacto inicial y la organización final de la documentación técnica.",
+        "tags": [
+            "Implementación Solución Informática",
+            "Ux/Ui",
+            "Pruebas De Funcionalidad"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/689a7380d155a78b4c2d95df"
+    },
+    {
+        "id": 467,
+        "title": "Estructura de la materia y organización de los elementos - A",
+        "level": "4° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan desarrolla la estructura de la materia y la organizacion. Se analiza la evolución de los modelos atómicos y la periodicidad. Se estudian los tipos de enlace químico (iónico, covalente y metálico) para explicar cómo  se determinan las propiedades  de los materiales (conductividad, dureza, solubilidad). El módulo concluye aplicando la comprensión de la selección de materiales tecnológicos.",
+        "tags": [
+            "Modelo Atómico",
+            "Propiedades Periódicas  De Los Elementos",
+            "Conductividad"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/689213cda0600fc143af5030"
+    },
+    {
+        "id": 468,
+        "title": "Estructura de la materia y organización de los elementos - B",
+        "level": "4° año",
+        "category": "Espacio de integración",
+        "subject": "Espacios de Integración de Especialidad",
+        "mode": "Técnica",
+        "description": "El plan examina la estructura interna de los materiales (cristalina, amorfa, aleaciones) y su impacto en propiedades como la dureza y la conductividad. Se estudian las principales familias (metales, polímeros, cerámicos), los defectos estructurales y los tratamientos térmicos (temple, recocido). El enfoque es aplicar estos conocimientos a los procesos de transformación y la selección tecnológica de materiales para usos industriales.",
+        "tags": [
+            "Estructuras",
+            "Aleaciones",
+            "Tratamientos Térmico"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/689b86e8d155a78b4c2daff3"
+    },
+    {
+        "id": 471,
+        "title": "Aspectos legales y condiciones seguras",
         "level": "6° año",
         "category": "Espacio de integración",
         "subject": "Espacios de Integración de Especialidad",
         "mode": "Técnica",
-        "description": "El plan examina la infraestructura, clasificación y arquitectura de las redes de computadoras (LAN, MAN, WAN, Cliente-servidor). El material se centra en los modelos OSI y TCP/IP para desglosar el proceso de comunicación en capas, explicando funciones como la segmentación de datos, el enrutamiento (IP) y la garantía de entrega confiable (TCP/UDP). Además, aborda el diseño de redes eficientes mediante la tolerancia a fallos, la escalabilidad y la redundancia, así como medios de transmisión (cableado/WiFi) y tendencias futuras como 6G y SDN.",
+        "description": "El plan se centra en las condiciones seguras de trabajo y el marco legal que las regula, enfatizando que la seguridad y el cuidado ambiental son esenciales en el oficio técnico. El plan desarrolla la normativa argentina (Ley N° 19.587 y N° 24.557) y las obligaciones del empleador, el trabajador y la ART. Se analizan las causas de los accidentes (condiciones y actos inseguros) y sus costos. Además, se abordan los principios de prevención, ergonomía, riesgos específicos (eléctricos, altura) y el uso de EPP. Finaliza con la gestión ambiental (ISO 14001 y residuos) y la aplicación práctica de estos saberes.",
         "tags": [
-            "Modelos De Red",
-            "Infraestructura",
-            "Protocolos"
+            "Riesgos Del Trabajo",
+            "Prevención",
+            "Protección Personal",
+            "Seguridad E Higiene"
         ],
-        "url": "Link 1: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67cede10f1362ac4a77f2117 Link 2: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/689be38fd7bb52f9be8576ab"
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68bbb39fcd5dac6999fa1f7f"
+    },
+    {
+        "id": 473,
+        "title": "Diseño y fabricación de sistema de alimentación industrial",
+        "level": "5° año, 6° año",
+        "category": "Espacio de integración, Otro",
+        "subject": "Espacios de Integración de Especialidad, Proyecto de Egreso",
+        "mode": "Técnica",
+        "description": "El plan aborda el diseño y fabricación de un sistema de alimentación mecánica industrial para el transporte de piezas. Se inicia con el diagnóstico de fallas y el relevamiento de sistemas existentes. Se desarrollan planos técnicos detallados y se justifica la selección de materiales (acero/aluminio) y componentes de transmisión (engranajes, correas). La fase central es la fabricación mediante conformado y mecanizado, culminando con pruebas de funcionamiento, ajustes de precisión y la validación económica y técnica del sistema.",
+        "tags": [
+            "Diagnóstico",
+            "Mecanizado",
+            "Viabilidad"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68bbb210cd5dac6999fa1db3"
+    },
+    {
+        "id": 474,
+        "title": "Ejecución, montaje y validación técnica del sistema",
+        "level": "6° año",
+        "category": "Otro",
+        "subject": "Proyecto de Egreso",
+        "mode": "Técnica",
+        "description": "El plan se enfoca en la ejecución, montaje y validación técnica del sistema de alimentación mecánico. Cubre la fabricación precisa de la estructura y los componentes de transmisión (ejes, engranajes), seguido del ensamblaje de las piezas y la puesta en marcha inicial. El plan prioriza el diagnóstico y corrección de fallas (vibraciones, desalineación) para garantizar la funcionalidad y culmina con la organización de la carpeta técnica profesional.",
+        "tags": [
+            "Fabricación",
+            "Ensamblaje",
+            "Validación Técnica"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68bfb9cf8604d54bc5819873"
     }
 
 
