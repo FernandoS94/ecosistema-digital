@@ -6250,6 +6250,66 @@
             "Propiedades periódicas"
         ],
         "url": "https://es.khanacademy.org/science/chemistry/periodic-table/copy-of-periodic-table-of-elements/v/periodic-table-introduction"
+    },
+     {
+        "id": 609,
+        "title": "Grupos de la tabla periódica",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video explica cómo se puede predecir la variación de los orbitales atómicos en función de la posición de un elemento en la tabla periódica y cómo esa variación define las propiedades del átomo.",
+        "tags": [
+            "Tabla periódica",
+            "Orbitales atómicos",
+            "Propiedades periódicas"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/periodic-table/copy-of-periodic-table-of-elements/v/periodic-table-groups"
+    },
+    {
+        "id": 610,
+        "title": "La tabla periódica: metales de transición",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video define los metales de transición e indica cómo escribir su configuración electrónica y cómo varía periódicamente en la tabla.",
+        "tags": [
+            "Tabla periódica",
+            "Metales de transición",
+            "Propiedades periódicas"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/periodic-table/copy-of-periodic-table-of-elements/v/periodic-table-transition-metals"
+    },
+    {
+        "id": 611,
+        "title": "Enlaces iónicos",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video explica cómo se producen los enlaces iónicos como resultado de la atracción electrostática entre iones con cargas opuestas y cómo predecirlos observando la tabla periódica de los elementos. También explica el concepto de electrones de valencia.",
+        "tags": [
+            "Enlace ionico",
+            "Electrones de valencia",
+            "Atracción electrostática"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/chemical-bonds/types-chemical-bonds/v/ionic-bonds"
+    },
+    {
+        "id": 612,
+        "title": "Enlaces covalentes",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video explica cómo los enlaces covalentes comparten pares de electrones entre los átomos, así como el enlace covalente no polar (por ejemplo, H-H, o C-H), y el enlace covalente polar (tal como H-O) y cómo predecirlos observando la tabla periódica de los elementos.",
+        "tags": [
+            "Enlace covalente",
+            "Polaridad",
+            "Electrones de valencia"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/chemical-bonds/types-chemical-bonds/v/covalent-bonds"
     }
 
 
