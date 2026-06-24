@@ -4966,7 +4966,7 @@
         "category": "Otro",
         "subject": "Proyecto de Vinculación con el Futuro",
         "mode": "Bachiller",
-        "description": "Este plan guía la implementación y ejecución del proyecto diseñado, priorizando el paso de la planificación a la acción. Los estudiantes coordinan recursos y documentan el proceso con registros digitales para analizar el impacto inicial en el territorio. Se fomenta la flexibilidad ante imprevistos y la sistematización de evidencias, promoviendo una evaluación crítica del trabajo colectivo y la viabilidad de la propuesta en contextos reales.",
+        "description": "Este plan guía la ejecución del proyecto de la planificación a la acción. Los estudiantes coordinan recursos y documentan el proceso con registros digitales. Se fomenta la flexibilidad ante imprevistos y la viabilidad de la propuesta en contextos reales.",
         "tags": [
             "Implementación",
             "Sistematización",
@@ -4981,7 +4981,7 @@
         "category": "Otro",
         "subject": "Proyecto de Vinculación con el Futuro",
         "mode": "Bachiller",
-        "description": "Este tramo final del Proyecto de Egreso propone una evaluación sistemática de todo el recorrido realizado. Los estudiantes analizan el impacto económico y social de su intervención, reflexionan sobre el aprendizaje colectivo y realizan una autoevaluación de su desempeño individual. El plan culmina con la identificación de mejoras, la proyección de la propuesta y la presentación final de resultados mediante la sistematización de evidencias.",
+        "description": "Este tramo final propone una evaluación sistemática de todo el recorrido realizado. Los estudiantes analizan el impacto económico y social de su intervención, y realizan una autoevaluación. Culmina con la presentación final de resultados y evidencias.",
         "tags": [
             "Evaluación De Proyecto",
             "Impacto",
@@ -4996,7 +4996,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan  introduce a los estudiantes en los conceptos básicos de la gestión de bases de datos,  la resolución de problemas de almacenamiento y  del diseño y la manipulación de datos. Abarca modelos (jerárquico, relacional, NoSQL), terminología esencial, normalización, diagramas Entidad-Relación (ER), el uso de Sistemas Gestores de Bases de Datos (SGBD) y la aplicación de consultas SQL. El plan culmina con un proyecto práctico y una evaluación para consolidar el aprendizaje.",
+        "description": "El plan introduce a los estudiantes en conceptos de gestión de bases de datos. Abarca modelos (relacional, NoSQL), terminología, normalización, diagramas Entidad-Relación y la aplicación de consultas SQL. Culmina con un proyecto práctico y una evaluación.",
         "tags": [
             "Bases De Datos",
             "Modelización",
@@ -5011,7 +5011,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan aborda la metodología estructurada para el diseño y creación de bases de datos (BBDD), incluyendo el análisis del problema, el relevamiento de datos, el diseño conceptual (Modelo Entidad-Relación - MER) y el diseño lógico. Se enfatiza la normalización como proceso clave para organizar los datos, evitar la redundancia y garantizar su consistencia. Además, introduce los Principios de Ciencias de Datos: Aprendizaje Automático (ML), Minería de Datos e Inteligencia Artificial (IA), explicando cómo se utilizan para analizar grandes volúmenes de información y potenciar las aplicaciones digitales.",
+        "description": "El plan aborda el diseño y creación de bases de datos (BBDD) incluyendo análisis, diseño conceptual (MER) y el diseño lógico. Se enfatiza la normalización para evitar redundancia. Introduce Aprendizaje Automático (ML) e IA para analizar grandes volúmenes de información",
         "tags": [
             "Minería De Datos",
             "Modelo Entidad-Relación",
@@ -5026,7 +5026,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "Este plan explora la evolución de los videojuegos a través de tres ejes. Se analiza la Arquitectura de hardware (CPU, memorias, puertos de E/S y tipos de hardware: libre, abierto y propietario) para comprender las plataformas gamer. Se examinan las Imágenes Digitales (diferenciando pixelares y vectoriales) y su rol en la evolución gráfica. Finalmente, se estudian las Técnicas de Animación (tradicional, stop motion, 3D), la línea de tiempo y las etapas de un proyecto de animación.",
+        "description": "Este plan explora la evolución de videojuegos a través de tres ejes. Se analiza la Arquitectura de hardware (CPU, memorias, puertos de E/S y tipos de Hardware). Se examinan las Imágenes Digitales y su rol gráfico. Finalmente, se estudian Técnicas de Animación y sus etapas.",
         "tags": [
             "Arquitectura De Hardware",
             "Videojuegos",
@@ -5041,7 +5041,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El siguiente plan se centra en la Lógica de la Programación aplicada a la creación de videojuegos. Se abordan técnicas de resolución de problemas computacionales y diseño de algoritmos eficientes (como Divide y Vencerás y Backtracking). El plan cubre la comprensión de estructuras de datos (arreglos y registros), la Programación Orientada a Objetos (POO) (clases, objetos, herencia), las etapas de desarrollo de aplicaciones/videojuegos, y la importancia del testeo y la Interfaz de Usuario (UI).",
+        "description": "El plan se centra en la Lógica de la Programación para videojuegos. Se abordan resolución de problemas, algoritmos (Divide y Vencerás, Backtracking). Comprensión de estructuras de datos, Programación Orientada a Objetos, etapas de desarrollo, testeo e Interfaz de Usuario.",
         "tags": [
             "Pensamiento Computacional",
             "Programación",
@@ -5056,7 +5056,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El siguiente plan se focaliza en los Sistemas Digitales y el rol fundamental del Sistema Operativo (SO), detallando su arquitectura (núcleo, procesos, memoria) y la gestión de recursos. Se abordan las técnicas de instalación y mantenimiento de software, y la Seguridad Informática (amenazas como malware y prácticas de protección). _x000D_\nFinalmente, el plan explora las Redes Digitales: topologías comunes (estrella, bus, anillo), protocolos clave como TCP/IP, la evolución de Internet y la arquitectura cliente-servidor, integrando la relevancia de la Inteligencia Artificial (IA) en sistemas y ciberseguridad.",
+        "description": "El plan se focaliza en Sistemas Digitales y el Sistema Operativo (SO), detallando su arquitectura y gestión de recursos. Aborda instalación de software y Seguridad Informática. Explora Redes Digitales (topologías, TCP/IP), evolución Internet y relevancia de la IA.",
         "tags": [
             "Sistemas Operativos",
             "Redes Digitales",
@@ -5071,7 +5071,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan aborda el desarrollo de aplicaciones a través de una estructura de capas (interfaz, lógica de negocio y base de datos) para garantizar escalabilidad y mantenimiento. Se estudian los Entornos de Desarrollo Integrado (EDI) y los lenguajes de programación cliente-servidor (HTML, JavaScript, PHP). Además, incluye módulos de robótica y automatización utilizando plataformas como Arduino para programar sensores y actuadores, así como la creación de videojuegos 2D con HTML5/JavaScript, enfocándose en la detección de colisiones y el diseño de interfaces de usuario (UI).",
+        "description": "El plan aborda el desarrollo de aplicaciones en capas (interfaz, lógica y base de datos). Se estudian los Entornos de Desarrollo Integrado (EDI) y los lenguajes de programación cliente-servidor (HTML, JavaScript, PHP).Incluye módulos de robótica con Arduino.",
         "tags": [
             "Desarrollo De Aplicaciones",
             "Robótica",
@@ -5086,7 +5086,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan explora los diferentes conceptos de las imágenes digitales, las diferencias entre pixelares y vectoriales para su uso en la creación digital, especialmente en videojuegos. Se estudian las técnicas del Dibujo Vectorial, incluyendo la creación y transformación de formas (curvas Bézier, nodos, escala, rotación). Se cubren el manejo de color (modos RGB para pantallas y CMYK para impresión) y la manipulación del texto. Finalmente, se identifican los formatos de exportación vectoriales clave (.SVG, .AI, .PDF).",
+        "description": "El plan explora imágenes digitales, diferenciando pixelares y vectoriales para la creación, en espacial para videojuegos. Se estudia el Dibujo Vectorial, incluyendo formas (curvas Bézier, nodos, escala, rotación), manejo de color (RGB, CMYK), texto y formatos (.SVG, .AI, .PDF).",
         "tags": [
             "Dibujo Vectorial",
             "Imágenes Digitales",
@@ -5101,7 +5101,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan  profundiza  sobre el tratamiento de  las imágenes digitales, en particular  el movimiento y la animación interactiva. Se exploran los conceptos estructurales de la línea de tiempo y los fotogramas clave (keyframes). El plan distingue entre las técnicas de animación cuadro a cuadro e interpolación y detalla las etapas de un proyecto: preproducción, producción y postproducción. Finalmente, aborda la animación interactiva en videojuegos, la necesidad de estructuras de control (if... then) y las diferencias técnicas y estéticas entre animación 2D y 3D.",
+        "description": "El plan profundiza sobre imágenes digitales, movimiento y animación interactiva, explorando línea de tiempo y fotogramas clave (keyframes). Distingue animación cuadro a cuadro e interpolación, y etapas de un proyecto. Aborda animación interactiva en videojuegos 2D y 3D.",
         "tags": [
             "Animación Digital",
             "Interactividad",
@@ -5116,7 +5116,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan aborda la Gestión de Bases de Datos (BBDD), incluyendo la terminología esencial (registros, tablas, claves) y la caracterización de modelos (jerárquico, en red, relacional). Además, se abordan los conceptos clave de la organización de datos: normalización para eliminar redundancias y las transacciones ACID para garantizar la integridad. Finalmente, propone analizar las técnicas de consulta SQL (selección, ordenamiento, CRUD) y la comparación de lenguajes libres y propietarios.",
+        "description": "El plan aborda la Gestión de Bases de Datos, incluyendo terminología y modelos (jerárquico, red, relacional). Aborda conceptos clave: normalización para eliminar redundancias y transacciones ACID. Analiza técnicas de consulta SQL y lenguajes libres y propiestarios.",
         "tags": [
             "Palabras Clave: Bases De Datos (Bbdd)",
             "Normalización",
@@ -5131,7 +5131,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan indaga la metodología de diseño y creación de Bases de Datos (BBDD), cubriendo los 5 pasos fundamentales: desde el análisis del problema hasta la implementación. Se trabaja la traducción del Diseño Conceptual (MER) a Diseño Lógico mediante la normalización para eliminar redundancias y garantizar la consistencia de los datos. Por último, se aplican consultas SQL básicas (SELECT, INSERT, UPDATE, DELETE) para gestionar la información y se subraya el rol clave de los datos estructurados y limpios para alimentar sistemas de Inteligencia Artificial (IA) y Ciencia de Datos.",
+        "description": "El plan indaga la metodología de diseño de Bases de Datos en 5 pasos. Trabaja la traducción del Diseño Conceptual (MER) a Diseño Lógico mediante normalización. Aplica consultas SQL básicas y subraya el rol de datos limpios para Inteligencia Artificial (IA).",
         "tags": [
             "Bases De Datos (Bbdd)",
             "Normalización",
@@ -5146,7 +5146,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "Este plan propone el desarrollo de un prototipo de videojuego como base para diseñar y construir aplicaciones informáticas. Los estudiantes exploran la arquitectura cliente-servidor, la estructura de capas y el uso de Entornos de Desarrollo Integrado (EDI). Mediante tecnologías de web abierta (HTML, CSS y JavaScript), se aplican estrategias de análisis, codificación y testeo para transformar una idea inicial en un producto funcional.",
+        "description": "Este plan propone el desarrollo de un prototipo de videojuego como base para construir aplicaciones. Los estudiantes exploran la arquitectura cliente-servidor, capas y EDI., mediante HTML, CSS y JavaScript, aplican análisis, codificación y testeo.",
         "tags": [
 
             "Arquitectura Cliente-Servidor",
@@ -5162,7 +5162,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan explora la robótica y automatización como sistemas inteligentes, enfocándose en la integración de sensores (entradas, analógicos o digitales) y actuadores (salidas) a un controlador. Se busca aplicar la lógica algorítmica y las estructuras de control (como condicionales SI-SINO y bucles) para la programación de puertos de entrada y salida. El proceso se basa en el ciclo de percibir, procesar y accionar. También se enfatiza el rol de los simuladores como herramientas de prueba para verificar y corregir el comportamiento del sistema.",
+        "description": "El plan explora robótica y automatización como sistemas inteligentes, integrando sensores y actuadores a un controlador. Aplica lógica algorítmica y estructuras de control para programar puertos en el ciclo percibir, procesar y accionar, usando simuladores.",
         "tags": [
             "Robótica Y Automatización",
             "Programación",
@@ -5177,7 +5177,7 @@
         "category": "Otro",
         "subject": "Proyecto de Vinculación con el Futuro",
         "mode": "Bachiller",
-        "description": "El  presente plan  se centra en el diagnóstico y diseño de soluciones tecnológicas para instituciones comunitarias, aplicando la metodología de diseño de proyectos. El proceso incluye la elección del eje (Sitio Web, Base de Datos, Aplicación o reacondicionamiento de laboratorio), el relevamiento de necesidades (observación, encuestas y análisis de infraestructura), y la priorización de problemas. Finalmente, se aborda la programación del desarrollo, que incluye la definición de roles, la creación de un cronograma y el diseño de prototipos iniciales (wireframes o esquemas de BBDD).",
+        "description": "Este plan diagnostica y diseña soluciones tecnológicas para instituciones comunitarias eligiendo un eje (web, BBDD, app o laboratorio). Incluye relevamiento de necesidades, priorización de problemas, roles, cronograma y prototipos iniciales de desarrollo.",
         "tags": [
             "Diseño De Proyectos",
             "Planificación",
@@ -5192,7 +5192,7 @@
         "category": "Otro",
         "subject": "Proyecto de Vinculación con el Futuro",
         "mode": "Bachiller",
-        "description": "El Plan se centra en la Implementación y Producción de una solución tecnológica (sitio web, BBDD o aplicación) diseñada para una institución aliada. Las fases clave incluyen el ajuste final del plan de acción y la verificación de recursos y cronograma, el desarrollo técnico (codificación), la realización de pruebas piloto, la elaboración de manuales de usuario, y la capacitación de los usuarios finales. El plan culmina con la puesta en funcionamiento en la institución y el seguimiento del impacto inicial.",
+        "description": "El plan implementa una solución tecnológica (web, BBDD o app) en una institución aliada. Las fases clave son: ajuste del cronograma, desarrollo técnico, pruebas piloto, manuales, capacitación, puesta en funcionamiento y seguimiento del impacto inicial.",
         "tags": [
             "Implementación De Proyecto",
             "Experiencia De Usuario",
@@ -5207,7 +5207,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "Este plan de aprendizaje orienta a los estudiantes a explorar el mundo del juego como fenomeno cultural y social. Se analizan los juegos tradicionales, su logica interna (reglas, roles y objetivos), se promueve la invencion de nuevas dinamicas ludicas, y se reflexiona sobre la competencia sana y la transformacion del juego en la era digital.",
+        "description": "Este plan orienta a explorar el juego como fenómeno cultural y social. Analiza juegos tradicionales y su lógica interna (reglas, roles y objetivos), promueve la invención de nuevas dinámicas lúdicas y reflexiona sobre la competencia y la era digital.",
         "tags": [
             "Juegos Tradicionales",
             "Reglas",
@@ -5222,7 +5222,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan orienta a los estudiantes a explorar el mundo del juego como fenómeno cultural y social. Se analizan los juegos tradicionales, su lógica interna (reglas, roles y objetivos), se promueve la invención de nuevas dinámicas lúdicas, y se reflexiona sobre la competencia sana y la transformación del juego en la era digital.",
+        "description": "El plan orienta a explorar el juego como fenómeno cultural y social. Analiza juegos tradicionales y su lógica interna (reglas, roles, objetivos), promueve la invención de nuevas dinámicas lúdicas y reflexiona sobre la competencia sana y la nueva era digital.",
         "tags": [
             "Juegos Tradicionales",
             "Reglas",
@@ -5237,7 +5237,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan presenta una propuesta pedagógica que aborda el deporte colectivo como una práctica social compleja, integrando dimensiones prácticas, teóricas y éticas. El contenido se organiza en bloques que invitan a los estudiantes a reflexionar sobre la toma de decisiones compartida, el uso táctico del espacio y el respeto por las reglas como acuerdos de convivencia. Promueve una mirada crítica sobre la inclusión y la diversidad, proponiendo el deporte como un derecho y un espacio para fortalecer vínculos solidarios.",
+        "description": "El plan aborda el deporte colectivo como práctica social, integrando teoría, práctica y ética. En bloques, invita a reflexionar sobre decisiones, táctica y reglas como convivencia, promoviendo inclusión, diversidad, deporte como derecho y lazos solidarios.",
         "tags": [
             "Deportes Colectivos","Inclusión","Diversidad"
         ],
@@ -5250,7 +5250,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan propone un abordaje pedagógico del atletismo escolar que trasciende la técnica y el rendimiento para centrarse en el desarrollo integral y el bienestar del estudiante. A través de pruebas adaptadas y la reflexión crítica, se busca transformar la competencia en una experiencia de autosuperación, resiliencia y construcción de comunidad. Finalmente, reivindica el deporte como un derecho inclusivo, analizando el impacto de la actividad física tanto en la salud mental como en la integración social.",
+        "description": "El plan propone un atletismo escolar integral que trasciende la técnica por el bienestar. Mediante pruebas adaptadas transforma la competencia en motivaciones: autosuperación, construccion de comunidad, y reivindica el deporte inclusivo, la salud mental y la integración social.",
         "tags": [
             "Atletismo Escolar","Autosuperación",
             "Bienestar"
@@ -5264,7 +5264,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan propone explorar las dimensiones práctica, conceptual y social del movimiento a través de la gimnasia artística, acrobática, expresiva y circense. El objetivo es desarrollar habilidades motrices y capacidad crítica para desnaturalizar modelos corporales hegemónicos, promoviendo espacios escolares más inclusivos y diversos. El recorrido culmina en un proyecto grupal colaborativo que integra técnica, expresión y toma de decisiones colectivas para comunicar un mensaje a través del cuerpo.",
+        "description": "El plan explora el movimiento mediante la gimnasia artística, acrobática, expresiva y circense para desarrollar habilidades y cuestionar modelos corporales hegemónicos. Culmina en un proyecto grupal que integra técnica, expresión y las decisiones colectivas.",
         "tags": [
             "Prácticas Gimnásticas","Habilidades Motrices","Inclusión"
         ],
@@ -5277,7 +5277,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan profundiza en la creación de producciones grupales que integran gimnasia artística, aeróbica, expresiva y circense como lenguajes para comunicar mensajes. El enfoque combina la precisión técnica y la composición escénica con una mirada social crítica que cuestiona los modelos corporales hegemónicos. El proceso culmina en una producción colectiva y un podcast reflexivo que valoran la diversidad, la cooperación y el protagonismo de todos los cuerpos en escena.",
+        "description": "El plan profundiza en producciones grupales que integran gimnasia y circo para comunicar mensajes. Combina técnica y composición con una mirada crítica que cuestiona modelos corporales hegemónicos. Culmina en una obra colectiva y un podcast reflexivo.",
         "tags": [
             "Prácticas Gimnásticas","Circo","Expresión Corporal"
         ],
@@ -5290,7 +5290,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan promueve la exploración segura y consciente del entorno natural, desde parques urbanos hasta bosques, desarrollando habilidades motoras como caminata, trepa y equilibrio. El enfoque integra la preparación técnica y nutricional con una conexión sensorial y emocional, buscando que los estudiantes aprendan a disfrutar de la naturaleza minimizando su impacto ambiental a través de la planificación responsable y el trabajo en equipo.",
+        "description": "El plan promueve la exploración segura del entorno natural (parques o bosques) desarrollando habilidades motoras. Integra preparación técnica y nutricional con conexión sensorial para disfrutar la naturaleza minimizando el impacto ambiental en equipo.",
         "tags": [
             "Medio Natural","Habilidades Motoras","Equipo"
         ],
@@ -5303,7 +5303,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan pretende desarrollar habilidades fundamentales para la vida al aire libre, centrándose en la prevención y respuesta ante emergencias mediante técnicas de primeros auxilios y la instalación segura de campamentos. A través de la colaboración grupal y la planificación responsable, se busca que los estudiantes se desenvuelvan con autonomía y seguridad, manteniendo siempre un compromiso ético con la sostenibilidad y el respeto por el entorno natural.",
+        "description": "El plan desarrolla habilidades al aire libre enfocadas en prevención, primeros auxilios y campamentos seguros. Mediante colaboración y planificación, busca que los alumnos logren autonomía con un compromiso ético, sostenible y de respeto natural.",
         "tags": [
             "Medio Natural; Técnicas De Primeros Auxilios",
             "Colaboración"
@@ -5317,7 +5317,7 @@
         "category": "Laboratorio, Taller",
         "subject": "Laboratorio de la Orientación + Taller de la Orientación",
         "mode": "Bachiller",
-        "description": "El plan aborda el movimiento como un lenguaje poderoso capaz de transmitir emociones y narrar historias más allá de las palabras. A través de la exploración de la velocidad, la intensidad y la dirección, los estudiantes integran música, imágenes y relatos para crear secuencias motrices complejas. El enfoque principal es el desarrollo de la creatividad personal y la construcción de producciones grupales basadas en la improvisación y el trabajo en equipo.",
+        "description": "El plan aborda el movimiento como lenguaje para transmitir emociones. Explorando velocidad, intensidad y dirección, los alumnos integran música y relatos en secuencias complejas. El foco es la creatividad y las obras grupales basadas en improvisar.",
         "tags": [
             "Movimiento Expresivo","Exploración","Creatividad"
         ],
@@ -6310,6 +6310,156 @@
             "Electrones de valencia"
         ],
         "url": "https://es.khanacademy.org/science/chemistry/chemical-bonds/types-chemical-bonds/v/covalent-bonds"
+    },
+     {
+        "id": 653,
+        "title": "Catalizadores",
+        "level": "3° año",
+        "category": "Espacio de integración",
+        "subject": "Espacio de integración Ciencias Naturales",
+        "mode": "Técnica",
+        "description": "El video explica cómo los catalizadores aumentan la velocidad de una reacción sin consumirse, mediante el ejemplo de la descomposición del peróxido de hidrógeno. Propone un mecanismo para la reacción catalizada e introduce el concepto de reducción de la energía de activación.",
+        "tags": [
+            "Cinética química",
+            "Catalizadores",
+            "Energía de activación"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/chem-kinetics/arrhenius-equation/v/catalysts"
+    },
+    {
+        "id": 654,
+        "title": "Tipos de catalizadores",
+        "level": "3° año",
+        "category": "Espacio de integración",
+        "subject": "Espacio de integración Ciencias Naturales",
+        "mode": "Técnica",
+        "description": "El video presenta a los catalizadores homogéneos, heterogéneos y enzimáticos con diferentes ejemplos. Explica además, cómo los sustratos interactúan en los sitios activos, mostrando su mecanismo de acción.",
+        "tags": [
+            "Catalizadores",
+            "Enzimas",
+            "Sitio activo"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/chem-kinetics/arrhenius-equation/v/types-of-catalysts"
+    },
+    {
+        "id": 656,
+        "title": "Masa atómica promedio",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video introduce el concepto de unidad de masa atómica y masa atómica relativa. Además, plantea la masa atómica de un elemento como el promedio ponderado de la masas atómicas de los isótopos.",
+        "tags": [
+            "Masa atómica",
+            "Isótopos",
+            "Unidad de masa atómica"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/atomic-structure-and-properties/introduction-to-the-atom/v/average-atomic-mass"
+    },
+    {
+        "id": 657,
+        "title": "El mol y el número de Avogadro",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video explica el concepto de mol e introduce el valor del número de Avogadro. Mediante ejemplos, muestra cómo calcular el número de átomos presentes en una masa dada de una sustancia.",
+        "tags": [
+            "Mol",
+            "Número de Avogadro",
+            "Número de átomos"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/atomic-structure-and-properties/introduction-to-the-atom/v/the-mole-and-avogadro-s-number"
+    },
+    {
+        "id": 658,
+        "title": "Molaridad",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El artículo plantea los conceptos de sistemas homogéneos y heterogéneos. Introduce y desarrolla el tema de las soluciones, moles y concentración molar. Además, presenta diferentes cálculos paso a paso sobre molaridad.",
+        "tags": [
+            "Soluciones",
+            "Concentración",
+            "Molaridad"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/states-of-matter-and-intermolecular-forces/mixtures-and-solutions/a/molarity"
+    },
+    {
+        "id": 659,
+        "title": "Estequiometría",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El artículo explica la estequiometría y las proporciones molares. Aborda el uso de ecuaciones balanceadas y proporciones molares para calcular cantidades de reactivos y productos, realizando diferentes ejemplos de cálculos estequiométricos.",
+        "tags": [
+            "Estequiometría",
+            "Proporción molar",
+            "Balance de ecuaciones"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/stoichiometry-ideal/a/stoichiometry"
+    },
+    {
+        "id": 660,
+        "title": "Reactivos limitantes y rendimiento porcentual",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El artículo explica cómo hallar el reactivo limitante y calcular el rendimiento de una reacción. Aborda el uso de proporciones molares, ecuaciones balanceadas y plantea algunos factores que reducen la cantidad de producto real obtenido.",
+        "tags": [
+            "Reactivo limitante",
+            "Rendimiento",
+            "Estequiometría"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/limiting-reagent-stoichiometry/a/limiting-reagents-and-percent-yield"
+    },
+    {
+        "id": 661,
+        "title": "Ejemplo resuelto: Calcular cantidades de reactivos y productos",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video enseña a calcular cantidades de reactivos necesarios para que ocurra una reacción química. Explica el uso de proporciones molares y masas atómicas para convertir gramos a moles y viceversa, ejemplificado con la combustión de la glucosa.",
+        "tags": [
+            "Estequiometría",
+            "Proporciones molares",
+            "Masas atómicas"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/stoichiometry-ideal/v/worked-example-calculating-amounts-of-reactants-and-products"
+    },
+    {
+        "id": 662,
+        "title": "Ejemplo resuelto: análisis de la pureza de una mezcla",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video enseña a analizar la pureza de una muestra química mediante el análisis elemental. Aborda el cálculo del porcentaje en masa de un elemento, usando masas atómicas para identificar contaminantes en una muestra de cloruro de sodio.",
+        "tags": [
+            "Estequiometría",
+            "Pureza",
+            "Análisis elemental"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/x822131fc:more-about-mixtures/x822131fc:mixtures/v/worked-example-analyzing-purity-of-a-mixture"
+    },
+    {
+        "id": 663,
+        "title": "El pH, pOH y la escala de pH",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El artículo define el pH y pOH, explicando su cálculo en soluciones de ácidos y bases fuertes. Detalla la escala logarítmica, la relación inversa entre acidez y concentración de protones, y cómo realizar conversiones matemáticas entre unidades.",
+        "tags": [
+            "Acidez y basicidad",
+            "Escala de pH",
+            "pH y pOH"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/ph-poh-and-the-ph-scale"
     }
 
 
