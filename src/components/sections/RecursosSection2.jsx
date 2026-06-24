@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
 import './RecursosSection2.css';
 import { BibliotecaCard } from './BibliotecaCard';
-//import { StarRating } from '../ui/StarRating';
+import { StarRating } from '../ui/StarRating';
 
 const PAGE_SIZE = 4;
 
@@ -54,7 +54,8 @@ function ResourceCard({ resource }) {
           {resource.mode && <span className="tag mode">{resource.mode}</span>}
           {resource.tags?.map(t => <span className="tag" key={t}>{t}</span>)}
         </div>
-           {/*<StarRating resourceId={resource.id} /> */} {/* ← agregá acá */}
+          {/*  */} {/* ← agregá acá */}
+ <StarRating resourceId={resource.id} />
       </div>
       <div className="resource-actions">
         <button className="btn-view-pdf" onClick={() => window.open(resource.url, '_blank')}>
