@@ -6460,6 +6460,156 @@
             "pH y pOH"
         ],
         "url": "https://es.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases/a/ph-poh-and-the-ph-scale"
+    },
+      {
+        "id": 664,
+        "title": "Introducción a las reacciones químicas",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video define las reacciones químicas como procesos de formación y ruptura de enlaces. Analiza reactivos y productos, la conservación de la materia, la transferencia de energía y la distinción entre reacciones reversibles e irreversibles.",
+        "tags": [
+            "Reacciones químicas",
+            "Reactivos y productos",
+            "Reversibilidad"
+        ],
+        "url": "https://es.khanacademy.org/science/ap-chemistry/stoichiometry-and-molecular-composition-ap/balancing-chemical-equations-ap/v/chemical-reactions-introduction"
+    },
+    {
+        "id": 613,
+        "title": "Enlaces metálicos",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video explica el enlace metálico como resultado de la atracción electrostática entre cationes metálicos. Presenta el concepto de electrones deslocalizados e indica cómo el enlace metálico explica propiedades físicas como la conductividad y la maleabilidad.",
+        "tags": [
+            "Enlace metálico",
+            "Electronegatividad",
+            "Conductividad"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/chemical-bonds/types-chemical-bonds/v/metallic-bonds"
+    },
+    {
+        "id": 615,
+        "title": "Electronegatividad",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video presenta los conceptos de electronegatividad y electroafinidad, y su comportamiento como propiedad periódica.",
+        "tags": [
+            "Electronegatividad",
+            "Electroafinidad",
+            "Tabla periódica"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/periodic-table/periodic-table-trends-bonding/v/electronegativity-trends"
+    },
+    {
+        "id": 616,
+        "title": "Nomenclatura de iones y compuestos iónicos",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video presenta un ejercicio para predecir enlaces iónicos utilizando la tabla periódica de los elemento. También explica conceptos de nomenclatura.",
+        "tags": [
+            "Aniones",
+            "Cationes",
+            "Enlace iónico."
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/atomic-structure-and-properties/introduction-to-compounds/v/naming-ions-and-ionic-compounds"
+    },
+    {
+        "id": 617,
+        "title": "Predicción del tipo de enlace (electronegatividad)",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video explica cómo predecir tipos de enlace al comparar la electronegatividad de los elementos.",
+        "tags": [
+            "Electronegatividad",
+            "Pauling",
+            "Tabla periódica."
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/chemical-bonds/types-chemical-bonds/v/predicting-bond-type-electronegativity"
+    },
+    {
+        "id": 618,
+        "title": "Dibujo de estructuras de puntos",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video explica cómo se representan los enlaces utilizando la estructura de Lewis.",
+        "tags": [
+            "Estructura de Lewis",
+            "Enlace",
+            "Electrones de valencia."
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/chemical-bonds/copy-of-dot-structures/v/drawing-dot-structures"
+    },
+    {
+        "id": 619,
+        "title": "Representando soluciones usando modelos de partículas",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video muestra cómo predecir el comportamiento de las soluciones entre solutos iónicos y solventes polares teniendo en cuenta el tamaño de los iones.",
+        "tags": [
+            "Solución",
+            "Polar",
+            "Disociación"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/states-of-matter-and-intermolecular-forces/mixtures-and-solutions/v/representing-solutions-using-particulate-models"
+    },
+    {
+        "id": 620,
+        "title": "Naturaleza metálica",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video posiciona los metales en la Tabla periódica, introduce sus propiedades y cómo pueden explicarse dichas propiedades al usar el modelo del \"mar\" de electrones.",
+        "tags": [
+            "Mar de electrones",
+            "Metales",
+            "Electronegatividad."
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/chemical-bonds/types-chemical-bonds/v/metallic-nature-trends"
+    },
+    {
+        "id": 621,
+        "title": "Predicción del tipo de enlace (metales vs. no metales)",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video muestra la manera de predecir el tipo de enlace utilizando la tabla periódica de los elementos.",
+        "tags": [
+            "Enlace iónico",
+            "Covalente",
+            "Enlace metálico"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/chemical-bonds/types-chemical-bonds/v/predicting-bond-type-metals-nonmetals"
+    },
+    {
+        "id": 622,
+        "title": "Puente de hidrógeno",
+        "level": "5° año, 3° año",
+        "category": "Laboratorio, Espacio de integración",
+        "subject": "Laboratorio Ciencias Naturales, Espacio de integración Ciencias Naturales",
+        "mode": "Bachiller, Técnica",
+        "description": "El video indica la naturaleza de los enlaces de hidrógeno e introduce el concepto de momento dipolar que justifica las uniones puente hidrógeno. También utiliza el concepto de fuerzas de dispersión de London.",
+        "tags": [
+            "Hidrógeno",
+            "Enlace puente hidrógeno",
+            "Fuerzas dipolo-dipolo"
+        ],
+        "url": "https://es.khanacademy.org/science/chemistry/states-of-matter-and-intermolecular-forces/introduction-to-intermolecular-forces/v/hydrogen-bonding"
     }
 
 
