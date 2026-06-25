@@ -1,27 +1,25 @@
 import { useState, useEffect } from 'react';
-import { doc, getDoc, setDoc, updateDoc, increment } from 'firebase/firestore';
+import { doc, getDoc, setDoc, updateDoc } from 'firebase/firestore';
 import { db } from '../../firebase';
 import './StarRating.css';
 
-export function StarRating({ resourceId }) {
-  const [promedio, setPromedio]   = useState(0);
-  const [votos, setVotos]         = useState(0);
-  const [hover, setHover]         = useState(0);
-  const [yaVoto, setYaVoto]       = useState(false);
-  const [miVoto, setMiVoto]       = useState(0);
-  const [loading, setLoading]     = useState(true);
+export function StarRating({ resourceId, resourceTitle }) {
+  const [promedio, setPromedio] = useState(0);
+  const [votos, setVotos]       = useState(0);
+  const [hover, setHover]       = useState(0);
+  const [yaVoto, setYaVoto]     = useState(false);
+  const [miVoto, setMiVoto]     = useState(0);
+  const [loading, setLoading]   = useState(true);
 
   const STORAGE_KEY = `voto_${resourceId}`;
 
   useEffect(() => {
-    // Verificar si ya votó este usuario
     const votoGuardado = localStorage.getItem(STORAGE_KEY);
     if (votoGuardado) {
       setYaVoto(true);
       setMiVoto(Number(votoGuardado));
     }
 
-    // Cargar datos de Firestore
     const cargarDatos = async () => {
       try {
         const ref = doc(db, 'recursos', String(resourceId));
@@ -64,8 +62,11 @@ export function StarRating({ resourceId }) {
         setVotos(nuevosVotos);
       } else {
         await setDoc(ref, {
+          titulo: resourceTitle || '',  // ← guarda el título
           votos: 1,
           promedio: estrellas,
+          clicks_ver: 0,
+          clicks_compartir: 0,
         });
         setPromedio(estrellas);
         setVotos(1);

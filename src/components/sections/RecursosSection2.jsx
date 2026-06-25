@@ -1,11 +1,14 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
 import './RecursosSection2.css';
 import { BibliotecaCard } from './BibliotecaCard';
-//import { StarRating } from '../ui/StarRating';
+import { StarRating } from '../ui/StarRating';
+import { doc, getDoc, setDoc, updateDoc, increment } from 'firebase/firestore';
+import { db } from '../../firebase';
 
 const PAGE_SIZE = 4;
 
 function normalize(str) {
+  if (!str) return '';
   return str.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
 }
 
@@ -19,11 +22,33 @@ function matchesFilter(resourceValue, filterSet) {
   return splitValues(resourceValue).some(v => filterSet.has(v));
 }
 
+// ── Registrar click en Firestore ─────────────────
+async function registrarClick(resourceId, resourceTitle, campo) {
+  try {
+    const ref = doc(db, 'recursos', String(resourceId));
+    const snap = await getDoc(ref);
+    if (snap.exists()) {
+      await updateDoc(ref, { [campo]: increment(1) });
+    } else {
+      await setDoc(ref, {
+        titulo: resourceTitle || '',
+        votos: 0,
+        promedio: 0,
+        clicks_ver: campo === 'clicks_ver' ? 1 : 0,
+        clicks_compartir: campo === 'clicks_compartir' ? 1 : 0,
+      });
+    }
+  } catch (err) {
+    console.error('Error registrando click:', err);
+  }
+}
+
 // ── Resource Card ────────────────────────────────
 function ResourceCard({ resource }) {
   const [copiado, setCopiado] = useState(false);
 
   const handleCompartir = async () => {
+    registrarClick(resource.id, resource.title, 'clicks_compartir');
     if (navigator.share && /Mobi|Android/i.test(navigator.userAgent)) {
       try {
         await navigator.share({
@@ -46,7 +71,6 @@ function ResourceCard({ resource }) {
         <h3 className="resource-title">{resource.title}</h3>
       </div>
       <div className="resource-meta">
-       
         <p className="resource-description">{resource.description}</p>
         <div className="resource-tags">
           <span className="tag category">{resource.category}</span>
@@ -54,11 +78,16 @@ function ResourceCard({ resource }) {
           {resource.mode && <span className="tag mode">{resource.mode}</span>}
           {resource.tags?.map(t => <span className="tag" key={t}>{t}</span>)}
         </div>
-          {/*  <StarRating resourceId={resource.id} /> */} {/* ← agregá acá */}
-
+        <StarRating resourceId={resource.id} resourceTitle={resource.title} />
       </div>
       <div className="resource-actions">
-        <button className="btn-view-pdf" onClick={() => window.open(resource.url, '_blank')}>
+        <button
+          className="btn-view-pdf"
+          onClick={() => {
+            registrarClick(resource.id, resource.title, 'clicks_ver');
+            window.open(resource.url, '_blank');
+          }}
+        >
           Ver material
         </button>
         <button
@@ -166,19 +195,13 @@ function Pagination({ currentPage, totalPages, onPageChange }) {
 
   const handlePage = (page) => {
     onPageChange(page);
-    //document.getElementById('recursos')?.scrollIntoView({ behavior: 'smooth' });
   };
 
   return (
     <div className="pagination">
-     <button
-  className="pagination-btn"
-  onClick={() => handlePage(currentPage - 1)}
-  disabled={currentPage === 1}
->
-  <i className="fas fa-chevron-left"></i>
-</button>
-
+      <button className="pagination-btn" onClick={() => handlePage(currentPage - 1)} disabled={currentPage === 1}>
+        <i className="fas fa-chevron-left"></i>
+      </button>
       <div className="pagination-pages">
         {getPages().map((item, i) =>
           item === '...' ? (
@@ -194,14 +217,9 @@ function Pagination({ currentPage, totalPages, onPageChange }) {
           )
         )}
       </div>
-
-      <button
-  className="pagination-btn"
-  onClick={() => handlePage(currentPage + 1)}
-  disabled={currentPage === totalPages}
->
-  <i className="fas fa-chevron-right"></i>
-</button>
+      <button className="pagination-btn" onClick={() => handlePage(currentPage + 1)} disabled={currentPage === totalPages}>
+        <i className="fas fa-chevron-right"></i>
+      </button>
     </div>
   );
 }
@@ -227,7 +245,6 @@ export function RecursosSection() {
   const start      = (currentPage - 1) * PAGE_SIZE;
   const rendered   = filtered.slice(start, start + PAGE_SIZE);
 
-  // Carga JSON
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}resources.json`)
       .then(r => { if (!r.ok) throw new Error(); return r.json(); })
@@ -235,7 +252,6 @@ export function RecursosSection() {
       .catch(() => { setError(true); setLoading(false); });
   }, []);
 
-  // Filtros
   useEffect(() => {
     const q = normalize(searchQuery.trim());
     const hasFilters = Object.values(activeFilters).some(s => s.size > 0);
@@ -255,7 +271,7 @@ export function RecursosSection() {
         normalize(r.title).includes(q) ||
         normalize(r.description).includes(q) ||
         normalize(r.subject).includes(q) ||
-        r.tags?.some(t => normalize(t).includes(q))
+        r.tags?.some(t => normalize(t || '').includes(q))
       );
     }
 
@@ -286,124 +302,120 @@ export function RecursosSection() {
   ];
 
   return (
-      <section id="recursos" className="recursos-section">
+    <section id="recursos" className="recursos-section">
 
-    {/* Encabezado */}
-    <div className="container">
-      <div className="recursos-header">
-        <h2 className="recursos-title">Material didáctico</h2>
-        <p className="recursos-desc">
-          Para explorar el material didáctico, utilizá los filtros por año, nivel, espacio,
-          materia y modalidad; luego, simplemente seleccioná el recurso, previsualizalo,
-          vinculalo a tu aula virtual y adaptalo a las necesidades de tus estudiantes.
-        </p>
-      </div>
-    </div>
-     
-
-    {/* Filtros — ocupa todo el ancho */}
-    <div className="filters-section-full">
       <div className="container">
-       {/*} <BibliotecaCard /> */}
-
-        <div className="global-search-bar">
-          <div className="global-search-wrapper">
-            <i className="fas fa-search global-search-icon"></i>
-            <input
-              type="text"
-              className="global-search-input"
-              placeholder="Buscar recurso..."
-              value={searchQuery}
-              onChange={e => setSearchQuery(e.target.value)}
-              autoComplete="off"
-            />
-            {searchQuery && (
-              <button className="global-search-clear" onClick={() => setSearchQuery('')}>
-                <i className="fas fa-times"></i>
-              </button>
-            )}
-          </div>
+        <div className="recursos-header">
+          <h2 className="recursos-title">Material didáctico</h2>
+          <p className="recursos-desc">
+            Para explorar el material didáctico, utilizá los filtros por año, nivel, espacio,
+            materia y modalidad; luego, simplemente seleccioná el recurso, previsualizalo,
+            vinculalo a tu aula virtual y adaptalo a las necesidades de tus estudiantes.
+          </p>
         </div>
-
-        <div className="filters-header">
-          <h2 className="filters-title">
-            <i className="fas fa-filter"></i> Filtros
-          </h2>
-          <button className="reset-filters-btn" onClick={resetFilters}>
-            <i className="fas fa-redo"></i> Limpiar
-          </button>
-        </div>
-
-        <div className="filters-content">
-          <div className="filter-categories">
-            <div className="filter-category">
-              <div className="filter-category-title">Nivel:</div>
-              <Chips values={allLevels} activeSet={activeFilters.level} filterType="level" extraClass="" onToggle={toggleFilter} />
-            </div>
-            <div className="filter-category">
-              <div className="filter-category-title">Espacio:</div>
-              <Chips values={allCategories} activeSet={activeFilters.category} filterType="category" extraClass="category-chip" onToggle={toggleFilter} />
-            </div>
-            <div className="filter-category">
-              <div className="filter-category-title">Materia:</div>
-              <SubjectDropdown allSubjects={allSubjects} activeSubjects={activeFilters.subject} onToggle={toggleFilter} />
-            </div>
-            <div className="filter-category">
-              <div className="filter-category-title">Modalidad:</div>
-              <Chips values={allModes} activeSet={activeFilters.mode} filterType="mode" extraClass="mode-chip" onToggle={toggleFilter} />
-            </div>
-          </div>
-        </div>
-
-        {allActiveTags.length > 0 && (
-          <div className="filters-footer">
-            <div className="active-filter-tags">
-              {allActiveTags.map(f => (
-                <div key={f.type + f.value} className="active-filter-tag">
-                  {f.value}
-                  <span className="remove-filter" onClick={() => toggleFilter(f.type, f.value)}>×</span>
-                </div>
-              ))}
-            </div>
-            <div className="results-count">{filtered.length} de {resources.length} recursos</div>
-          </div>
-        )}
-        {!hasActiveFilters && !searchQuery && (
-          <div className="results-count-simple">{resources.length} recursos</div>
-        )}
-
       </div>
-    </div>
 
-    {/* Grid de recursos */}
-    <div className="container">
-      {loading && <div className="recursos-loading"><p>Cargando recursos...</p></div>}
-      {error && (
-        <div className="recursos-error">
-          <h3>⚠️ Error al cargar los recursos</h3>
-          <p>Por favor, recargá la página.</p>
-        </div>
-      )}
-      {!loading && !error && rendered.length === 0 && (
-        <div className="no-results">
-          <h3>No se encontraron resultados</h3>
-          <p>Intentá ajustar tus filtros de búsqueda.</p>
-        </div>
-      )}
-      {!loading && !error && rendered.length > 0 && (
-        <>
-          <div className="resources-grid">
-            {rendered.map(r => <ResourceCard key={r.id} resource={r} />)}
+      <div className="filters-section-full">
+        <div className="container">
+          {/*} <BibliotecaCard /> */}
+
+          <div className="global-search-bar">
+            <div className="global-search-wrapper">
+              <i className="fas fa-search global-search-icon"></i>
+              <input
+                type="text"
+                className="global-search-input"
+                placeholder="Buscar recurso..."
+                value={searchQuery}
+                onChange={e => setSearchQuery(e.target.value)}
+                autoComplete="off"
+              />
+              {searchQuery && (
+                <button className="global-search-clear" onClick={() => setSearchQuery('')}>
+                  <i className="fas fa-times"></i>
+                </button>
+              )}
+            </div>
           </div>
-          <Pagination
-            currentPage={currentPage}
-            totalPages={totalPages}
-            onPageChange={setCurrentPage}
-          />
-        </>
-      )}
-    </div>
 
-  </section>
+          <div className="filters-header">
+            <h2 className="filters-title">
+              <i className="fas fa-filter"></i> Filtros
+            </h2>
+            <button className="reset-filters-btn" onClick={resetFilters}>
+              <i className="fas fa-redo"></i> Limpiar
+            </button>
+          </div>
+
+          <div className="filters-content">
+            <div className="filter-categories">
+              <div className="filter-category">
+                <div className="filter-category-title">Nivel:</div>
+                <Chips values={allLevels} activeSet={activeFilters.level} filterType="level" extraClass="" onToggle={toggleFilter} />
+              </div>
+              <div className="filter-category">
+                <div className="filter-category-title">Espacio:</div>
+                <Chips values={allCategories} activeSet={activeFilters.category} filterType="category" extraClass="category-chip" onToggle={toggleFilter} />
+              </div>
+              <div className="filter-category">
+                <div className="filter-category-title">Materia:</div>
+                <SubjectDropdown allSubjects={allSubjects} activeSubjects={activeFilters.subject} onToggle={toggleFilter} />
+              </div>
+              <div className="filter-category">
+                <div className="filter-category-title">Modalidad:</div>
+                <Chips values={allModes} activeSet={activeFilters.mode} filterType="mode" extraClass="mode-chip" onToggle={toggleFilter} />
+              </div>
+            </div>
+          </div>
+
+          {allActiveTags.length > 0 && (
+            <div className="filters-footer">
+              <div className="active-filter-tags">
+                {allActiveTags.map(f => (
+                  <div key={f.type + f.value} className="active-filter-tag">
+                    {f.value}
+                    <span className="remove-filter" onClick={() => toggleFilter(f.type, f.value)}>×</span>
+                  </div>
+                ))}
+              </div>
+              <div className="results-count">{filtered.length} de {resources.length} recursos</div>
+            </div>
+          )}
+          {!hasActiveFilters && !searchQuery && (
+            <div className="results-count-simple">{resources.length} recursos</div>
+          )}
+
+        </div>
+      </div>
+
+      <div className="container">
+        {loading && <div className="recursos-loading"><p>Cargando recursos...</p></div>}
+        {error && (
+          <div className="recursos-error">
+            <h3>⚠️ Error al cargar los recursos</h3>
+            <p>Por favor, recargá la página.</p>
+          </div>
+        )}
+        {!loading && !error && rendered.length === 0 && (
+          <div className="no-results">
+            <h3>No se encontraron resultados</h3>
+            <p>Intentá ajustar tus filtros de búsqueda.</p>
+          </div>
+        )}
+        {!loading && !error && rendered.length > 0 && (
+          <>
+            <div className="resources-grid">
+              {rendered.map(r => <ResourceCard key={r.id} resource={r} />)}
+            </div>
+            <Pagination
+              currentPage={currentPage}
+              totalPages={totalPages}
+              onPageChange={setCurrentPage}
+            />
+          </>
+        )}
+      </div>
+
+    </section>
   );
 }
