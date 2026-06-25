@@ -17,6 +17,13 @@ const NOVEDADES = [
     icon: 'fas fa-rocket',
     color: '#F9B2FA',
   },
+ //   {
+//    id: 5,
+//    titulo: 'Nueva funcionalidad: calificación de materiales',
+//    desc: 'Ya podés valorar los recursos didácticos con estrellas para ayudarnos a mejorar.',
+//    icon: 'fas fa-star',
+//    color: '#f5a623',
+//  },
   // {
   //   id: 1,
   //   titulo: 'Nuevos avatares disponibles',
