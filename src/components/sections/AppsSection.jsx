@@ -49,7 +49,7 @@ export function AppsSection() {
     <section className="section apps-section" id="apps">
       <div className="container">
         <div className="header">
-          <h2 className="section-title animate-on-scroll">Aplicaciones del Ecosistema</h2>
+          <h2 className="section-title animate-on-scroll">Recursos IA</h2>
         </div>
 
         <div className="carousel-container">

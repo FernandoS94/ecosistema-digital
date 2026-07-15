@@ -77,20 +77,32 @@ export function Navbar() {
                 <path d="M2 3.5 L5 6.5 L8 3.5" stroke="currentColor" strokeWidth="1.5" fill="none" strokeLinecap="round" />
               </svg>
             </a>
-            <div className="nav-dropdown-menu">
-              <Link to="/docentes" className="nav-dropdown-item" onClick={closeMenu}>Docentes</Link>
-              <Link to="/familias" className="nav-dropdown-item" onClick={closeMenu}>Familias</Link>
-           
-             <a 
-  href="https://drive.google.com/file/d/1vOrbnME4xLNHOFlO_vN95vk2ApPK4jeP/view"
-  className="nav-dropdown-item"
-  target="_blank"
-  rel="noreferrer"
-  onClick={closeMenu}
->
-  Documento PDF del Ecosistema
-</a>
-            </div>
+           <div className="nav-dropdown-menu">
+  
+  {/* Escuelas con submenú */}
+  <div className="nav-subdropdown">
+    <div className="nav-dropdown-item nav-dropdown-item--sub">
+      Escuelas
+      <i className="fas fa-chevron-right" style={{ fontSize: '0.65rem', marginLeft: 'auto' }}></i>
+    </div>
+    <div className="nav-subdropdown-menu">
+      <Link to="/docentes-secundaria-aprende" className="nav-dropdown-item" onClick={closeMenu}>Docentes Secundaria Aprende</Link>
+      <Link to="/directivos" className="nav-dropdown-item" onClick={closeMenu}>Directivos</Link>
+    </div>
+  </div>
+
+  <Link to="/familias" className="nav-dropdown-item" onClick={closeMenu}>Familias</Link>
+
+  <a 
+    href="https://drive.google.com/file/d/1vOrbnME4xLNHOFlO_vN95vk2ApPK4jeP/view"
+    className="nav-dropdown-item"
+    target="_blank"
+    rel="noreferrer"
+    onClick={closeMenu}
+  >
+    Documento PDF del Ecosistema
+  </a>
+</div>
           </div>
 
           <a href="#faq" className="nav-link" onClick={(e) => scrollToSection(e, '#faq')}>Ayuda</a>

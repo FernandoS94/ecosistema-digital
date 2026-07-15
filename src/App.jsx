@@ -19,7 +19,14 @@ import { SecundariaAprendePage } from './pages/SecundariaAprende';
 import { FamiliasPage } from './pages/FamiliasPage';
 import { ToastNovedades } from './components/ToastNovedades';
 import { Breadcrumb } from './components/Breadcrumb';
+import { DirectivosPage } from './pages/DirectivosPage';
 
+import { useVideo } from './context/VideoContext';
+
+import { VideosSection } from './components/sections/VideosSection';
+import { VideosGrid } from './components/sections/VideosGrid';
+
+import { FaqSectionColapsable } from './components/sections/FaqSectionColapsable';
 
 
 
@@ -31,7 +38,10 @@ function HomePage() {
       <AboutSection />
     <AccessSection />
        <AppsSection />
-      <FaqSection />
+        <VideosGrid />
+     
+      <FaqSectionColapsable/>
+       
     </main>
   );
 }
@@ -49,6 +59,7 @@ function AppContent() {
         <Route path="/docentes" element={<DocentesPage />} />
         <Route path="/docentes-secundaria-aprende" element={<SecundariaAprendePage />} />
         <Route path="/familias" element={<FamiliasPage />} />
+        <Route path="/directivos" element={<DirectivosPage />} />
       </Routes>
       <Footer />
     </>

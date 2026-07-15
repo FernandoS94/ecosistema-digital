@@ -1,0 +1,186 @@
+/* ── Hero ───────────────────────────────────────── */
+.directivos-hero {
+  background-color: var(--tercer-color);
+  padding: 60px 20px;
+  text-align: center;
+  padding-top: 150px;
+}
+
+.directivos-hero-title {
+  font-size: clamp(3rem, 8vw, 4rem);
+  font-weight: 800;
+  color: #1a202c;
+  margin: 0;
+}
+
+/* ── Intro ──────────────────────────────────────── */
+.directivos-intro {
+  background: #fff;
+  padding: 30px 50px;
+  
+}
+
+.directivos-intro-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding-left: 28px;
+  
+  
+}
+
+.directivos-intro-text {
+  font-size: clamp(1rem, 1.5vw, 1.15rem);
+  color: #444;
+  line-height: 1.7;
+  margin-bottom: 0px;
+}
+
+.directivos-intro-buttons {
+  display: flex;
+  gap: 24px;
+  flex-wrap: wrap;
+  max-width: 200px;
+  max-height: 50px;
+  
+ 
+  
+}
+
+.directivos-intro-btn {
+  flex: 1;
+  min-width: 200px;
+  /*min-height: 120px;*/
+  padding: 28px 24px;
+  background-color: var(--primary-color);
+  color: #1a202c;
+  font-size: 1.3rem;
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 12px;
+  transition: background 0.2s, transform 0.2s;
+  line-height: 1.4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.directivos-intro-btn:hover {
+  background-color: var(--tercer-color);
+  transform: translateY(-3px);
+}
+
+/* ── Sección NotebookLM ─────────────────────────── */
+.directivos-notebook-section {
+  background: #f8f9fa;
+  padding: 20px 20px;
+  
+}
+
+.directivos-section-title {
+  font-size: clamp(1.8rem, 4vw, 2.3rem);
+  font-weight: 700;
+  color: var(--secondary-color);
+  text-align: center;
+  margin-bottom: 14px;
+  margin-top: 0px;
+ 
+}
+
+.directivos-section-desc {
+  font-size: clamp(0.95rem, 1.4vw, 1.05rem);
+  color: #666;
+  text-align: center;
+  margin-bottom: 40px;
+  line-height: 1.6;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ── Card NotebookLM ────────────────────────────── */
+.directivos-notebook-card {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+ /* background: linear-gradient(135deg, #1a2f3f 0%, #24a0a5 100%); */
+ background: linear-gradient(135deg, #1c2b3a 0%, #2d4a6b 100%);
+  border-radius: 20px;
+  padding: 28px 32px;
+  max-width: 500px;
+  margin: 0 auto;
+  box-shadow: 0 8px 30px rgba(36, 160, 165, 0.2);
+  transition: transform 0.2s, box-shadow 0.2s;
+  flex-wrap: wrap;
+}
+
+.directivos-notebook-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 40px rgba(36, 160, 165, 0.3);
+}
+
+
+
+.directivos-notebook-content {
+  flex: 1;
+  min-width: 200px;
+}
+
+.directivos-notebook-content h3 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 6px;
+}
+
+.directivos-notebook-content p {
+  font-size: 0.9rem;
+  color: rgba(255, 255, 255, 0.85);
+  line-height: 1.5;
+  margin: 0;
+}
+
+.directivos-notebook-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 24px;
+  background: #fff;
+  color: #1a2f3f;
+  font-weight: 700;
+  font-size: 0.9rem;
+  border-radius: 50px;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: background 0.2s, transform 0.2s;
+  font-family: var(--font-main);
+}
+
+.directivos-notebook-btn:hover {
+  background: var(--tercer-color);
+  transform: translateY(-2px);
+}
+
+/* ── Responsive ─────────────────────────────────── */
+@media (max-width: 768px) {
+  .directivos-intro-buttons {
+    flex-direction: column;
+  }
+
+  .directivos-intro-btn {
+    min-width: unset;
+    width: 100%;
+  }
+
+  .directivos-notebook-card {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 22px 20px;
+    gap: 16px;
+  }
+
+  .directivos-notebook-btn {
+    width: 100%;
+    justify-content: center;
+  }
+}

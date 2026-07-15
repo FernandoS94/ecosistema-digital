@@ -5,7 +5,7 @@ import './AccessSection.css';
 const PROFILES = [
   {
     id: 'docentes',
-    label: 'Docentes',
+    label: 'Escuelas',
     desc: 'Planificá tus clases con IA.',
     to: '/docentes',
     btnText: 'Ingresar',
