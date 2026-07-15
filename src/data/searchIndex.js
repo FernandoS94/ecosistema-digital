@@ -37,7 +37,7 @@ const DOCUMENTOS_FAMILIAS = [
 // Páginas principales
 const PAGES = [
   { id: 'p1', title: 'Inicio',                   desc: 'Página principal del Ecosistema Digital',           route: '/',                              section: 'about',      icon: 'fas fa-home' },
-  { id: 'p2', title: 'Docentes',                  desc: 'Recursos y materiales para docentes',               route: '/docentes',                       section: null,         icon: 'fas fa-chalkboard-teacher' },
+  { id: 'p2', title: 'Escuelas',                  desc: 'Recursos y materiales para docentes y directivos',               route: '/docentes',                       section: null,         icon: 'fas fa-chalkboard-teacher' },
   { id: 'p3', title: 'Docentes Secundaria Aprende', desc: 'Materiales, avatares y recursos para secundaria', route: '/docentes-secundaria-aprende',    section: null,         icon: 'fas fa-school' },
   { id: 'p4', title: 'Familias',                  desc: 'Recursos y videos para familias',                   route: '/familias',                       section: null,         icon: 'fas fa-users' },
   { id: 'p5', title: 'Avatares',                  desc: 'Asistentes pedagógicos con IA por materia',          route: '/docentes-secundaria-aprende',   section: 'avatares', icon: 'fas fa-robot' },
@@ -46,6 +46,7 @@ const PAGES = [
   { id: 'p8', title: 'Material didáctico',        desc: 'Recursos didácticos por nivel, espacio y materia',  route: '/docentes-secundaria-aprende',   section: 'recursos',   icon: 'fas fa-book' },
   { id: 'p9', title: 'Videos tutoriales',         desc: 'Tutoriales en video para docentes',                 route: '/',                      section: 'videos',     icon: 'fas fa-play-circle' },
   { id: 'p10', title: 'Docente IA',              desc: 'Creá tu propio asistente de planificación con IA',  route: '/docentes',                      section: null,         icon: 'fas fa-star' },
+   { id: 'p11', title: 'Directivos',              desc: 'Recursos y materiales para directivos',               route: '/directivos',                       section: null,         icon: 'fas fa-chalkboard-teacher' },
 ];
 
 export function buildSearchIndex() {
