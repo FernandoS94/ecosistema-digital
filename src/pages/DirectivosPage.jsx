@@ -111,11 +111,7 @@ function NotebookLMSection() {
           <div className="directivos-notebook-content">
             <h3></h3>
             <p>Herramienta de IA para consultas, análisis y gestión de información educativa institucional.</p>
-            {clicks > 0 && (
-              <p style={{ fontSize: '0.78rem', color: 'rgba(255,255,255,0.6)', marginTop: '8px' }}>
-                {clicks} {clicks === 1 ? 'acceso' : 'accesos'}
-              </p>
-            )}
+          
           </div>
           <a
             href="https://notebooklm.google.com/notebook/0caf2e73-b986-4757-8a1a-c3c21254cbda"
