@@ -7,6 +7,7 @@ export const APPS = [
     description: ' Plataforma educativa con actividades y recursos gratuitos para trabajar en el aula con perspectiva humanística y foco en IA.',
     tag: 'Plataforma',
     videoKey: 'futurizaje',
+    url: 'https://futurizaje.org/',
   },
   {
     id: 'classroom',
@@ -16,6 +17,7 @@ export const APPS = [
     description: ' Plataformas para gestionar clases y organizar materiales de forma eficiente.',
     tag: 'Entorno',
     videoKey: 'classroom',
+    url: 'https://classroom.google.com/',
   },
   {
     id: 'gemini',
@@ -25,6 +27,7 @@ export const APPS = [
     description: ' Ayuda con tareas de investigación, escritura y programación.',
     tag: 'IA',
     videoKey: 'gemini',
+    url: 'https://gemini.google.com/',
   },
   {
     id: 'khanacademy',
@@ -34,6 +37,7 @@ export const APPS = [
     description: 'Ofrece ejercicios y videos gratuitos de diversas materias para estudiantes.',
     tag: 'Recursos',
     videoKey: 'khanacademy',
+    url: 'https://es.khanacademy.org/',
   },
   {
     id: 'khanmigo',
@@ -43,6 +47,7 @@ export const APPS = [
     description: 'Asistente de enseñanza de Khan Academy que ofrece ayuda personalizada para estudiar y apoyo a los docentes.',
     tag: 'IA',
     videoKey: 'khanmigo',
+    url: 'https://www.khanmigo.ai/',
   },
   {
     id: 'notebook',
@@ -52,6 +57,7 @@ export const APPS = [
     description: 'Te ayuda a organizar notas y crear resúmenes a partir de tus propios documentos.',
     tag: 'IA',
     videoKey: 'notebook',
+    url: 'https://notebook.google.com/',
   },
   {
     id: 'teachingandlearning',
@@ -61,6 +67,7 @@ export const APPS = [
     description: 'Herramientas avanzadas para videoconferencias, organización y análisis.',
     tag: 'Complemento',
     videoKey: 'teachingandlearning',
+    url: 'https://knowledge.workspace.google.com/admin/getting-started/editions/teaching-and-learning-add-on?hl=es',
   },
 
 ];

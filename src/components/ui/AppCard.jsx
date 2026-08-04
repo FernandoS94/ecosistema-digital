@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { useVideo } from '../../context/VideoContext';
 import './AppCard.css';
 
-export function AppCard({ img, alt, name, description, tag, videoKey }) {
+export function AppCard({ img, alt, name, description, tag, videoKey, url }) {
   const { openAppVideo } = useVideo();
   const [flipped, setFlipped] = useState(false);
 
@@ -21,9 +21,8 @@ export function AppCard({ img, alt, name, description, tag, videoKey }) {
           <div className="app-card-name">{name}</div>
         </div>
 
-        {/* DORSO: descripción + tag + botón */}
+        {/* DORSO: descripción + botón + link */}
         <div className="app-card-back">
-          {/*<span className="app-card-tag">{tag}</span>*/}
           <p className="app-card-desc">{description}</p>
           <button
             className="app-card-btn"
@@ -31,6 +30,17 @@ export function AppCard({ img, alt, name, description, tag, videoKey }) {
           >
             <i className="fas fa-play-circle"></i> Ver tutorial
           </button>
+          {url && (
+            <a
+              href={url}
+  target="_blank"
+  rel="noreferrer"
+  className="app-card-btn app-card-link"
+  onClick={(e) => e.stopPropagation()}
+>
+  <i className="fas fa-external-link-alt"></i> Abrir
+</a>
+          )}
         </div>
 
       </div>
