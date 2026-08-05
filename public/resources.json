@@ -5774,7 +5774,7 @@
         "category": "Espacio de integración",
         "subject": "Espacios de Integración de Especialidad",
         "mode": "Técnica",
-        "description": "El plan se centra en la electrónica vehicular, analizando el instrumental de tablero (analógico, digital, mixto) y los principios de comunicación mediante redes multiplexadas (CAN). El foco es capacitar al futuro técnico en la interpretación de señales de sensores (NTC, Hall, potenciómetro) y el diagnóstico electrónico profesional,,. Se profundiza en el estándar OBD II y sus protocolos (CAN, ISO, SAE) para la lectura y el análisis de códigos de falla (DTCs) y parámetros en tiempo real (PIDs) en el vehículo real, culminando con la elaboración de un informe técnico.",
+        "description": "El plan se centra en la electrónica vehicular, analizando el instrumental de tablero y los principios de comunicación mediante redes multiplexadas. Capacita en la interpretación de señales de sensores, el diagnóstico electrónico, el estándar OBD II y el análisis de códigos de falla y parámetros en tiempo real, culminando con la elaboración de un informe técnico.",
         "tags": [
             "Diagnostico Automotor",
             "Electrónica Vehicular",
@@ -5789,7 +5789,7 @@
         "category": "Espacio de integración",
         "subject": "Espacios de Integración de Especialidad",
         "mode": "Técnica",
-        "description": "El plan se centra en el estudio técnico de vehículos pesados, transporte de pasajeros y maquinaria especializada. Aborda sistemas de transmisión, mecanismos de enganche, frenos auxiliares y configuraciones de ejes bajo la normativa vigente. Incluye el análisis de tecnologías ferroviarias y maquinaria de orugas, promoviendo el diagnóstico y mantenimiento profesional en entornos exigentes.",
+        "description": "El plan se centra en el estudio técnico de vehículos pesados, transporte de pasajeros y maquinaria especializada. Aborda sistemas de transmisión, mecanismos de enganche, frenos auxiliares, configuraciones de ejes, tecnologías ferroviarias y maquinaria de orugas, promoviendo el diagnóstico y mantenimiento profesional.",
         "tags": [
             "Diagnóstico",
             "Acoplamiento",
@@ -5804,7 +5804,7 @@
         "category": "Espacio de integración",
         "subject": "Espacios de Integración de Especialidad",
         "mode": "Técnica",
-        "description": "El plan explora los principios del magnetismo y los circuitos magnéticos en CC y CA. Se clasifican los materiales magnéticos (ferro, para, dia) y se estudian propiedades fundamentales como la permeabilidad y reluctancia. Se analiza la Fuerza Magnetomotriz (FMM) y la excitación, abordando también las pérdidas en núcleos (histéresis y corrientes parásitas), la comparación entre electroimanes e imanes permanentes, y el fenómeno de la saturación magnética.",
+        "description": "El plan explora los principios del magnetismo y los circuitos magnéticos en CC y CA. Clasifica los materiales magnéticos y estudia propiedades fundamentales, la Fuerza Magnetomotriz, las pérdidas en núcleos, los electroimanes e imanes permanentes y el fenómeno de la saturación magnética.",
         "tags": [
             "Permeabilidad",
             "Fuerza Magneto Motriz",
@@ -5819,7 +5819,7 @@
         "category": "Espacio de integración",
         "subject": "Espacios de Integración de Especialidad",
         "mode": "Técnica",
-        "description": "El plan modela circuitos magnéticos mediante la Ley de Hopkinson, estableciendo su analogía con los circuitos eléctricos (voltaje vs. FMM, resistencia vs. reluctancia). Se abordan leyes fundamentales (Ampère, Biot-Savart, Gauss). Se analiza el impacto del entrehierro y la dispersión, la saturación en materiales alineales, y las pérdidas (histéresis y parásitas). El módulo aplica estos conceptos al diseño eficiente de transformadores y motores de CA.",
+        "description": "El plan modela circuitos magnéticos mediante la Ley de Hopkinson y su analogía con los circuitos eléctricos. Aborda leyes fundamentales, el impacto del entrehierro y la dispersión, la saturación de materiales, las pérdidas magnéticas y su aplicación al diseño eficiente de transformadores y motores de CA.",
         "tags": [
             "Hopkinson",
             "Entrehierro",
@@ -5834,7 +5834,7 @@
         "category": "Espacio de integración",
         "subject": "Espacios de Integración de Especialidad",
         "mode": "Técnica",
-        "description": "El plan explora la transformación de energía para la generación eléctrica, abordando los fundamentos de trabajo, potencia y energía. Se diferencian las fuentes renovables y no renovables y se analiza el proceso de conversión térmica. Aborda los principios de la termodinámica (Leyes de conservación y entropía), el rendimiento térmico (Ciclo de Carnot), y la criticidad del almacenamiento energético para una transición sostenible.",
+        "description": "El plan explora la transformación de energía para la generación eléctrica, abordando los fundamentos de trabajo, potencia y energía. Diferencia las fuentes renovables y no renovables, analiza la conversión térmica, los principios de la termodinámica, el rendimiento térmico y el almacenamiento energético para una transición sostenible.",
         "tags": [
             "Termodinámica",
             "Renovables",
@@ -5849,7 +5849,7 @@
         "category": "Espacio de integración",
         "subject": "Espacios de Integración de Especialidad",
         "mode": "Técnica",
-        "description": "El plan examina las centrales térmicas (convencionales, nucleares y de ciclo combinado) y sus ciclos termodinámicos (Rankine y Brayton) para convertir calor en electricidad. Se detallan los componentes principales (turbinas, generadores) y la función de los auxiliares, como el desgasificador y la planta de tratamiento de agua, esenciales para evitar la corrosión y mantener la eficiencia operativa. El plan también aborda la seguridad nuclear (fisión, moderadores, barras de control) y analiza los sistemas de refrigeración (ciclo abierto/cerrado), evaluando su impacto ambiental y el control de emisiones contaminantes.",
+        "description": "El plan examina las centrales térmicas, nucleares y de ciclo combinado, y sus ciclos termodinámicos para la generación de electricidad. Detalla los componentes principales, los sistemas auxiliares, la seguridad nuclear, los sistemas de refrigeración y el control de emisiones para mantener la eficiencia operativa y reducir el impacto ambiental.",
         "tags": [
             "Ciclo Combinado",
             "Tratamiento De Agua",
@@ -5864,7 +5864,7 @@
         "category": "Espacio de integración",
         "subject": "Espacios de Integración de Especialidad",
         "mode": "Técnica",
-        "description": "El plan aborda los sistemas trifásicos, clave en la industria. Se exploran las conexiones Estrella y Triángulo,, el análisis de sistemas equilibrados/desequilibrados,, y la gestión de la potencia (activa, reactiva, FP) y su corrección,,. El foco es el diagnóstico práctico, el análisis de fallas (simétricas/asimétricas), mediante componentes simétricas, y la aplicación de métodos de medición avanzada (Aron, cofímetro),,, esenciales para la eficiencia y seguridad.",
+        "description": "El plan aborda los sistemas trifásicos, explorando las conexiones Estrella y Triángulo, el análisis de sistemas equilibrados y desequilibrados, la gestión de la potencia y su corrección. Se centra en el diagnóstico de fallas y la aplicación de métodos de medición para mejorar la eficiencia y la seguridad.",
         "tags": [
             "Circuitos Trifasicos",
             "Mediciones",
@@ -5879,7 +5879,7 @@
         "category": "Espacio de integración",
         "subject": "Espacios de Integración de Especialidad",
         "mode": "Técnica",
-        "description": "El plan  aborda sistemas eléctricos avanzados en entornos industriales. Se enfoca en cargas lineales y no lineales, distorsión armónica y el uso de la serie de Fourier. Desarrolla conceptos de potencia en sistemas trifásicos, resolución de circuitos por superposición y corrección del factor de potencia. Finalmente, integra la instrumentación virtual y tarjetas DAQ para el diagnóstico de la calidad de energía en tiempo real.",
+        "description": "El plan aborda sistemas eléctricos avanzados en entornos industriales, enfocándose en cargas lineales y no lineales, la distorsión armónica y la calidad de energía. Desarrolla conceptos de potencia en sistemas trifásicos, resolución de circuitos, corrección del factor de potencia e instrumentación virtual para el diagnóstico en tiempo real.",
         "tags": [
             "Armónicos",
             "Potencia",
@@ -5894,7 +5894,7 @@
         "category": "Espacio de integración",
         "subject": "Espacios de Integración de Especialidad",
         "mode": "Técnica",
-        "description": "El plan introduce el uso de bases de datos para optimizar la gestión contable. Los contenidos abarcan la distinción entre dato e información, el diseño de estructuras (tablas, campos y claves) y el manejo de herramientas como Excel, Access y SQL. Las actividades proponen resolver desafíos reales mediante la organización de registros financieros, la automatización de procesos y la generación de informes técnicos para la toma de decisiones",
+        "description": "El plan introduce el uso de bases de datos para optimizar la gestión contable. Aborda el diseño de estructuras, el manejo de herramientas como Excel, Access y SQL, y propone la organización de registros financieros, la automatización de procesos y la generación de informes para la toma de decisiones.",
         "tags": [
             "Consultas Bases",
             "Tablas",
@@ -5909,7 +5909,7 @@
         "category": "Espacio de integración",
         "subject": "Espacios de Integración de Especialidad",
         "mode": "Técnica",
-        "description": "El plan aborda los fundamentos de la contabilidad empresarial, enfocándose en la estructura del patrimonio: activos, pasivos y patrimonio neto. Introduce procedimientos críticos de control como el arqueo de caja y la conciliación bancaria. También desarrolla conceptos de bienes de uso, amortizaciones y activos intangibles. A través del diseño de un proyecto propio, se promueve la aplicación práctica de saberes para la gestión y toma de decisiones financieras",
+        "description": "El plan aborda los fundamentos de la contabilidad empresarial, enfocándose en la estructura del patrimonio, los procedimientos de control y la gestión de activos. Desarrolla conceptos de amortizaciones y activos intangibles, promoviendo su aplicación práctica para la gestión y la toma de decisiones financieras.",
         "tags": [
             "Arqueo",
             "Bancos",
@@ -5924,7 +5924,7 @@
         "category": "Espacio de integración",
         "subject": "Espacios de Integración de Especialidad",
         "mode": "Técnica",
-        "description": "El plan introduce el Diseño UX/UI y el Marketing Digital como áreas clave para el desarrollo exitoso de productos y servicios en el entorno digital. Se analizan los principios fundamentales de la experiencia de usuario (usabilidad, estética, feedback). Además, se explora la aplicación de metodologías ágiles como Design Thinking y se diferencia el marketing digital del tradicional. Los docentes verán el desarrollo de conceptos sobre diseño web (responsive y Mobile First), culminando con la producción integradora de una infografía que vincula la estructura web con los objetivos del negocio.",
+        "description": "El plan introduce el Diseño UX/UI y el Marketing Digital como áreas clave para el desarrollo de productos y servicios digitales. Analiza los principios de la experiencia de usuario, las metodologías ágiles, el diseño web y las diferencias entre el marketing digital y el tradicional, culminando con la producción de una infografía integradora.",
         "tags": [
             "Diseño Ux/Ui",
             "Marketing Digital",
@@ -5939,7 +5939,7 @@
         "category": "Espacio de integración",
         "subject": "Espacios de Integración de Especialidad",
         "mode": "Técnica",
-        "description": "El plan profundiza en estrategias de marketing digital y diseño UX/UI para la creación de valor y fidelización de clientes. Aborda el análisis competitivo mediante las fuerzas de Porter y el modelo PESTEL. Los estudiantes exploran la segmentación de mercado, el comportamiento del consumidor y tácticas de comunicación multicanal. Las actividades proponen el diseño de una marca y la producción de una infografía que integre la propuesta estratégica.",
+        "description": "El plan profundiza en estrategias de marketing digital y diseño UX/UI para la creación de valor y fidelización de clientes. Aborda el análisis competitivo, la segmentación de mercado, el comportamiento del consumidor y las estrategias de comunicación multicanal, culminando con el diseño de una marca y una infografía integradora.",
         "tags": [
             "Diseño Ux",
             "Segmentación",
@@ -5955,7 +5955,7 @@
         "category": "Espacio de integración",
         "subject": "Espacios de Integración de Especialidad",
         "mode": "Técnica",
-        "description": "El plan aborda los fundamentos del derecho civil y comercial en Argentina. Los contenidos incluyen el funcionamiento del Poder Judicial, la creación de leyes y la distinción entre personas físicas y jurídicas. Se profundiza en atributos de la personalidad, derechos personalísimos, actos jurídicos y la extinción de obligaciones. Mediante simulaciones y análisis de casos, se busca que el estudiante comprenda la influencia del marco legal en la vida cotidiana.",
+        "description": "El plan aborda los fundamentos del derecho civil y comercial en Argentina. Incluye el funcionamiento del Poder Judicial, la creación de leyes, las personas físicas y jurídicas, los derechos personalísimos, los actos jurídicos y la extinción de obligaciones, promoviendo el análisis de casos para comprender el marco legal.",
         "tags": [
             "Jurisprudencia",
             "Legislación",
@@ -5970,7 +5970,7 @@
         "category": "Espacio de integración",
         "subject": "Espacios de Integración de Especialidad",
         "mode": "Técnica",
-        "description": "El plan profundiza en la geografía económica de Argentina, integrando perspectivas geográficas, ambientales y sociales. Analiza procesos productivos, sectores económicos e indicadores clave como el PBI y la inflación. Aborda la evolución histórica de modelos económicos y las dinámicas entre espacios rurales y urbanos. Las actividades promueven la investigación sobre sustentabilidad, circuitos productivos y desafíos ambientales para proponer soluciones.",
+        "description": "El plan profundiza en la geografía económica de Argentina, integrando perspectivas geográficas, ambientales y sociales. Analiza los procesos productivos, los sectores económicos, los principales indicadores, la evolución de los modelos económicos y las dinámicas entre espacios rurales y urbanos, promoviendo la investigación sobre sustentabilidad y desafíos ambientales.",
         "tags": [
             "Circuitos",
             "Sustentabilidad",
@@ -5985,7 +5985,7 @@
         "category": "Espacio de integración",
         "subject": "Espacios de Integración de Especialidad",
         "mode": "Técnica",
-        "description": "El plan  profundiza en la economía y su influencia en la gestión organizacional. Aborda el estudio de los factores productivos y la generación de valor en los sectores económicos. Analiza modelos económicos históricos, el impacto de la política fiscal y la problemática de la inflación. Finalmente, explora el comercio internacional, promoviendo la integración de saberes mediante el análisis de casos reales y la producción de infografías.",
+        "description": "El plan profundiza en la economía y su influencia en la gestión organizacional. Aborda los factores productivos, la generación de valor, los modelos económicos, el impacto de la política fiscal y la inflación, y explora el comercio internacional mediante el análisis de casos reales y la producción de infografías.",
         "tags": [
             "Economia",
             "Valor Agregado",
@@ -6001,7 +6001,7 @@
         "category": "Otro",
         "subject": "Proyecto de Egreso",
         "mode": "Técnica",
-        "description": "El plan guía el diseño de un negocio de triple impacto (económico, social y ambiental) en la Ciudad de Buenos Aires. Los estudiantes realizan un diagnóstico de necesidades mediante encuestas, entrevistas y el mapeo de oportunidades estratégicas. Se desarrollan herramientas de gestión operativa como bases de datos, presupuestos y checklists legales. El proceso culmina con la sistematización final y una reflexión crítica sobre la viabilidad del proyecto.",
+        "description": "El plan guía el diseño de un negocio de triple impacto en la Ciudad de Buenos Aires. Desarrolla el diagnóstico de necesidades, el mapeo de oportunidades y herramientas de gestión operativa como bases de datos y presupuestos, culminando con la sistematización y la evaluación de la viabilidad del proyecto.",
         "tags": [
             "Triple Impacto",
             "Sistematización",
@@ -6016,7 +6016,7 @@
         "category": "Otro",
         "subject": "Proyecto de Egreso",
         "mode": "Técnica",
-        "description": "El plan guía la ejecución de un negocio de triple impacto en CABA mediante una prueba piloto. Los estudiantes desarrollan la presencia digital y promoción del proyecto, gestionando operativamente el negocio con bases de datos y análisis de resultados. Se aborda la resolución de imprevistos y el marco legal-ético. El proceso culmina con la sistematización y una evaluación crítica sobre la viabilidad y los aprendizajes logrados.",
+        "description": "El plan guía la ejecución de un negocio de triple impacto en CABA mediante una prueba piloto. Desarrolla la presencia digital, la gestión operativa, el análisis de resultados y la resolución de imprevistos, abordando el marco legal y ético, y culminando con la sistematización y la evaluación de la viabilidad del proyecto.",
         "tags": [
             "Presencia Digital",
             "Prueba Piloto",
@@ -6031,7 +6031,7 @@
         "category": "Otro",
         "subject": "Proyecto de Egreso",
         "mode": "Técnica",
-        "description": "El plan finaliza el Proyecto Integrador de Administración, centrándose en la evaluación integral de la idea de negocio de triple impacto. Se requiere analizar datos contables, de feedback y de impacto social/ambiental y reflexionar sobre el proceso, los resultados y los desafío. El plan incluye la creación de un diagrama de impacto visual. la revisión tecnológica entre pares para identificar errores de usabilidad en la página web y la formulación de propuestas de mejora para la base de datos y la estrategia de marketing. Concluye con la presentación técnica profesional multimedial de los resultados.",
+        "description": "El plan finaliza el Proyecto Integrador de Administración, centrándose en la evaluación integral de la idea de negocio de triple impacto. Analiza datos contables, de impacto y de retroalimentación, incorpora la revisión tecnológica y propuestas de mejora, y concluye con la presentación técnica profesional de los resultados.",
         "tags": [
             "Diagrama De Impacto Visual",
             "Negocio De Triple Impacto",
@@ -6047,7 +6047,7 @@
         "category": "Espacio de integración",
         "subject": "Espacios de Integración de Especialidad",
         "mode": "Técnica",
-        "description": "El plan introduce la clasificación de redes (LAN, WAN, P2P) y sus arquitecturas (Cliente-servidor). Se detalla la infraestructura de red (dispositivos finales e intermediarios) y los modelos de comunicación OSI/TCP/IP (segmentación y capas). Finalmente, se estudian los mecanismos esenciales para la estabilidad, como la redundancia, el balanceo de carga y la escalabilidad de las redes.",
+        "description": "El plan introduce la clasificación de redes y sus arquitecturas, abordando la infraestructura de red y los modelos de comunicación OSI/TCP/IP. Estudia los mecanismos esenciales para la estabilidad, como la redundancia, el balanceo de carga y la escalabilidad de las redes.",
         "tags": [
             "Redes",
             "Tcp/Ip",
@@ -6062,7 +6062,7 @@
         "category": "Espacio de integración",
         "subject": "Espacios de Integración de Especialidad",
         "mode": "Técnica",
-        "description": "El plan guía a los y las estudiantes a través de la planificación integral de proyectos informáticos. Aborda el análisis de sistemas y el uso de diagramas de flujo. Se profundiza en la calidad del software (cohesión/acoplamiento), la planificación de costos/recursos y la propiedad intelectual (licencias), enfatizando el diseño de soluciones escalables para evitar colapsos futuros.",
+        "description": "El plan guía a los y las estudiantes en la planificación integral de proyectos informáticos. Aborda el análisis de sistemas, el uso de diagramas de flujo, la calidad del software, la planificación de costos y recursos, la propiedad intelectual y el diseño de soluciones escalables.",
         "tags": [
             "Análisis De Sistemas",
             "Calidad Del Software",
@@ -6077,7 +6077,7 @@
         "category": "Espacio de integración, Otro",
         "subject": "Espacios de Integración de Especialidad, Proyecto de Egreso",
         "mode": "Técnica",
-        "description": "El plan orienta a los estudiantes en las fases iniciales de un proyecto integrador de Computación. Se enfoca en la detección de necesidades tecnológicas reales en la comunidad, el relevamiento de información con usuarios clave y la elaboración de un diagnóstico técnico estructurado. El material guía la planificación del trabajo colaborativo, la definición de roles, el diseño del Producto Mínimo Viable (MVP) y la sistematización de la propuesta técnica, preparatoria para la fase de desarrollo informático.",
+        "description": "El plan orienta a los estudiantes en las fases iniciales de un proyecto integrador de Computación. Se enfoca en la detección de necesidades tecnológicas, el relevamiento de información, la elaboración de un diagnóstico técnico, la planificación del trabajo colaborativo y el diseño del Producto Mínimo Viable (MVP).",
         "tags": [
             "Diagnóstico",
             "Usuario",
@@ -6092,7 +6092,7 @@
         "category": "Espacio de integración, Otro",
         "subject": "Espacios de Integración de Especialidad, Proyecto de Egreso",
         "mode": "Técnica",
-        "description": "El plan está enfocado en el diseño e implementación de la solución informática, siguiendo el trabajo previo de identificación de necesidades. El documento guía al docente y al estudiante a través de la revisión de la planificación (UX/UI y cronogramas), el desarrollo de prototipos, la programación de módulos y las pruebas de funcionalidad. Culmina con la preparación para la implementación, la capacitación de usuarios, el seguimiento del impacto inicial y la organización final de la documentación técnica.",
+        "description": "El plan está enfocado en el diseño e implementación de la solución informática. Guía la revisión de la planificación, el desarrollo de prototipos, la programación de módulos y las pruebas de funcionalidad, culminando con la implementación, la capacitación de usuarios, el seguimiento del impacto y la organización de la documentación técnica.",
         "tags": [
             "Implementación Solución Informática",
             "Ux/Ui",
@@ -6107,7 +6107,7 @@
         "category": "Espacio de integración",
         "subject": "Espacios de Integración de Especialidad",
         "mode": "Técnica",
-        "description": "El plan desarrolla la estructura de la materia y la organizacion. Se analiza la evolución de los modelos atómicos y la periodicidad. Se estudian los tipos de enlace químico (iónico, covalente y metálico) para explicar cómo  se determinan las propiedades  de los materiales (conductividad, dureza, solubilidad). El módulo concluye aplicando la comprensión de la selección de materiales tecnológicos.",
+        "description": "El plan desarrolla la estructura y organización de la materia. Analiza la evolución de los modelos atómicos, la periodicidad y los tipos de enlace químico para explicar las propiedades de los materiales, culminando con su aplicación en la selección de materiales tecnológicos.",
         "tags": [
             "Modelo Atómico",
             "Propiedades Periódicas  De Los Elementos",
@@ -6137,7 +6137,7 @@
         "category": "Espacio de integración",
         "subject": "Espacios de Integración de Especialidad",
         "mode": "Técnica",
-        "description": "El plan se centra en las condiciones seguras de trabajo y el marco legal que las regula, enfatizando que la seguridad y el cuidado ambiental son esenciales en el oficio técnico. El plan desarrolla la normativa argentina (Ley N° 19.587 y N° 24.557) y las obligaciones del empleador, el trabajador y la ART. Se analizan las causas de los accidentes (condiciones y actos inseguros) y sus costos. Además, se abordan los principios de prevención, ergonomía, riesgos específicos (eléctricos, altura) y el uso de EPP. Finaliza con la gestión ambiental (ISO 14001 y residuos) y la aplicación práctica de estos saberes.",
+        "description": "El plan se centra en las condiciones seguras de trabajo y el marco legal que las regula. Desarrolla la normativa vigente, las obligaciones de los actores involucrados, la prevención de riesgos, la ergonomía, el uso de elementos de protección personal y la gestión ambiental, promoviendo la aplicación práctica de estos saberes.",
         "tags": [
             "Riesgos Del Trabajo",
             "Prevención",
@@ -6153,7 +6153,7 @@
         "category": "Espacio de integración, Otro",
         "subject": "Espacios de Integración de Especialidad, Proyecto de Egreso",
         "mode": "Técnica",
-        "description": "El plan aborda el diseño y fabricación de un sistema de alimentación mecánica industrial para el transporte de piezas. Se inicia con el diagnóstico de fallas y el relevamiento de sistemas existentes. Se desarrollan planos técnicos detallados y se justifica la selección de materiales (acero/aluminio) y componentes de transmisión (engranajes, correas). La fase central es la fabricación mediante conformado y mecanizado, culminando con pruebas de funcionamiento, ajustes de precisión y la validación económica y técnica del sistema.",
+        "description": "El plan aborda el diseño y fabricación de un sistema de alimentación mecánica industrial para el transporte de piezas. Desarrolla el diagnóstico de fallas, el relevamiento de sistemas, el diseño técnico, la selección de materiales y componentes, la fabricación, las pruebas de funcionamiento y la validación técnica y económica del sistema.",
         "tags": [
             "Diagnóstico",
             "Mecanizado",
@@ -6168,7 +6168,7 @@
         "category": "Otro",
         "subject": "Proyecto de Egreso",
         "mode": "Técnica",
-        "description": "El plan se enfoca en la ejecución, montaje y validación técnica del sistema de alimentación mecánico. Cubre la fabricación precisa de la estructura y los componentes de transmisión (ejes, engranajes), seguido del ensamblaje de las piezas y la puesta en marcha inicial. El plan prioriza el diagnóstico y corrección de fallas (vibraciones, desalineación) para garantizar la funcionalidad y culmina con la organización de la carpeta técnica profesional.",
+        "description": "El plan se enfoca en la ejecución, montaje y validación técnica de un sistema de alimentación mecánico. Aborda la fabricación de componentes, el ensamblaje, la puesta en marcha, el diagnóstico de fallas y la organización de la documentación técnica profesional.",
         "tags": [
             "Fabricación",
             "Ensamblaje",

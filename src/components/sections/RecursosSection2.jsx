@@ -4,6 +4,7 @@ import { BibliotecaCard } from './BibliotecaCard';
 import { StarRating } from '../ui/StarRating';
 import { doc, getDoc, setDoc, updateDoc, increment } from 'firebase/firestore';
 import { db } from '../../firebase';
+//import { useRecursosTour } from '../../hooks/useRecursosTour';
 
 const PAGE_SIZE = 4;
 
@@ -226,6 +227,7 @@ function Pagination({ currentPage, totalPages, onPageChange }) {
 
 // ── Componente principal ──────────────────────────
 export function RecursosSection() {
+   //useRecursosTour();
   const [resources, setResources]         = useState([]);
   const [filtered, setFiltered]           = useState([]);
   const [currentPage, setCurrentPage]     = useState(1);
