@@ -1,0 +1,168 @@
+/* ════════════════════════════════════════════════
+   Driver.js — Tour Ecosistema Digital
+   ════════════════════════════════════════════════ */
+
+/* ── Popover contenedor ─────────────────────────── */
+.ecosistema-tour-popover.driver-popover {
+  background: #0f1923 !important;
+  border-radius: 16px !important;
+  padding: 0 !important;
+  box-shadow: 0 24px 64px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(255,255,255,0.06) !important;
+  max-width: 320px !important;
+  min-width: 280px !important;
+  font-family: var(--font-main, 'Nunito', sans-serif) !important;
+  overflow: hidden !important;
+}
+
+
+
+/* ── Header del popover ─────────────────────────── */
+.ecosistema-tour-popover .driver-popover-header {
+  padding: 18px 20px 0 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+}
+
+/* ── Título ─────────────────────────────────────── */
+.ecosistema-tour-popover .driver-popover-title {
+  font-size: 0.92rem !important;
+  font-weight: 700 !important;
+  color: #ffffff !important;
+  margin: 10px !important;
+  font-family: var(--font-main, 'Nunito', sans-serif) !important;
+  letter-spacing: -0.01em !important;
+}
+
+/* ── Botón cerrar ───────────────────────────────── */
+.ecosistema-tour-popover .driver-popover-close-btn {
+  background: rgba(255, 255, 255, 0.08) !important;
+  border: none !important;
+  color: rgba(255, 255, 255, 0.5) !important;
+  width: 26px !important;
+  height: 26px !important;
+  border-radius: 50% !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  cursor: pointer !important;
+  font-size: 0.85rem !important;
+  padding: 0 !important;
+  min-width: unset !important;
+  transition: background 0.15s, color 0.15s !important;
+}
+
+.ecosistema-tour-popover .driver-popover-close-btn:hover {
+  background: rgba(255, 255, 255, 0.15) !important;
+  color: #fff !important;
+}
+
+/* ── Descripción ────────────────────────────────── */
+.ecosistema-tour-popover .driver-popover-description {
+  font-size: 0.82rem !important;
+  color: rgba(255, 255, 255, 0.72) !important;
+  line-height: 1.65 !important;
+  font-family: var(--font-main, 'Nunito', sans-serif) !important;
+  padding: 10px 20px 0 !important;
+  margin: 0 !important;
+}
+
+/* ── Footer ─────────────────────────────────────── */
+.ecosistema-tour-popover .driver-popover-footer {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  padding: 14px 20px 18px !important;
+  margin: 0 !important;
+  gap: 8px !important;
+  border-top: 1px solid rgba(255, 255, 255, 0.06) !important;
+  margin-top: 14px !important;
+}
+
+/* ── Progreso ───────────────────────────────────── */
+.ecosistema-tour-popover .driver-popover-progress-text {
+  font-size: 0.68rem !important;
+  color: rgba(255, 255, 255, 0.35) !important;
+  font-family: var(--font-main, 'Nunito', sans-serif) !important;
+  white-space: nowrap !important;
+  flex-shrink: 0 !important;
+  letter-spacing: 0.04em !important;
+  text-transform: uppercase !important;
+}
+
+/* ── Grupo botones ──────────────────────────────── */
+.ecosistema-tour-popover .driver-popover-navigation-btns {
+  display: flex !important;
+  gap: 6px !important;
+  align-items: center !important;
+}
+
+/* ── Botón anterior ─────────────────────────────── */
+.ecosistema-tour-popover .driver-popover-prev-btn {
+  background: rgba(255, 255, 255, 0.08) !important;
+  color: rgba(255, 255, 255, 0.6) !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  border-radius: 8px !important;
+  padding: 7px 14px !important;
+  font-size: 0.78rem !important;
+  font-weight: 600 !important;
+  font-family: var(--font-main, 'Nunito', sans-serif) !important;
+  cursor: pointer !important;
+  transition: all 0.15s !important;
+  min-width: 86px !important;
+  text-align: center !important;
+}
+
+.ecosistema-tour-popover .driver-popover-prev-btn:hover {
+  background: rgba(255, 255, 255, 0.14) !important;
+  color: #fff !important;
+}
+
+/* ── Botón siguiente / listo ────────────────────── */
+.ecosistema-tour-popover .driver-popover-next-btn {
+  background: #24a0a5 !important;
+  color: #fff !important;
+  border: none !important;
+  border-radius: 8px !important;
+  padding: 7px 14px !important;
+  font-size: 0.78rem !important;
+  font-weight: 700 !important;
+  font-family: var(--font-main, 'Nunito', sans-serif) !important;
+  cursor: pointer !important;
+  transition: all 0.15s !important;
+  min-width: 86px !important;
+  text-align: center !important;
+}
+
+.ecosistema-tour-popover .driver-popover-next-btn:hover {
+  background: #1d8f8f !important;
+  transform: translateY(-1px) !important;
+}
+
+/* ── Flecha del popover ─────────────────────────── */
+.ecosistema-tour-popover.driver-popover .driver-popover-arrow {
+  border-color: transparent !important;
+}
+
+.ecosistema-tour-popover.driver-popover .driver-popover-arrow-side-top {
+  border-bottom-color: #0f1923 !important;
+}
+
+.ecosistema-tour-popover.driver-popover .driver-popover-arrow-side-bottom {
+  border-top-color: #0f1923 !important;
+}
+
+.ecosistema-tour-popover.driver-popover .driver-popover-arrow-side-left {
+  border-right-color: #0f1923 !important;
+}
+
+.ecosistema-tour-popover.driver-popover .driver-popover-arrow-side-right {
+  border-left-color: #0f1923 !important;
+}
+
+/* ── Elemento resaltado ─────────────────────────── */
+.driver-active-element,
+.driver-active-element * {
+  border-radius: 8px !important;
+}
