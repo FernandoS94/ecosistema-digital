@@ -13,7 +13,7 @@ import { Breadcrumb } from '../components/Breadcrumb';
 
 
 const STATS = [
-  { value: '350', label: 'Recursos disponibles' },
+  { value: '449', label: 'Recursos disponibles' },
   { value: '30', label: 'Materias cubiertas' },
   { value: '100%', label: 'Gratuito' },
   { value: '24/7', label: 'Disponibilidad' },
@@ -113,7 +113,7 @@ export function SecundariaAprendePage() {
       
       <SecundariaHero />
       
-   <SecundariaStats />
+   
    
         <SecundariaIntro />
     <AvatarsSection />
@@ -121,6 +121,7 @@ export function SecundariaAprendePage() {
       <DocenteGemSection />
        <RecursosSection /> 
        <BibliotecaCard />
+       <SecundariaStats />
     </main>
   );
 }
