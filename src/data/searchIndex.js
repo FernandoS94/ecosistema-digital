@@ -47,6 +47,7 @@ const PAGES = [
   { id: 'p9', title: 'Videos tutoriales',         desc: 'Tutoriales en video para docentes',                 route: '/',                      section: 'videos',     icon: 'fas fa-play-circle' },
   { id: 'p10', title: 'Docente IA',              desc: 'Creá tu propio asistente de planificación con IA',  route: '/docentes',                      section: null,         icon: 'fas fa-star' },
    { id: 'p11', title: 'Directivos',              desc: 'Recursos y materiales para directivos',               route: '/directivos',                       section: null,         icon: 'fas fa-chalkboard-teacher' },
+   {id: 'p12', title: 'Supervisores', desc: 'Asistentes de IA para equipos de supervisión escolar', route: '/supervisores', section: null, icon: 'fas fa-user-tie'},
 ];
 
 export function buildSearchIndex() {

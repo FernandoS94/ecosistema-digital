@@ -6,7 +6,7 @@ const PROFILES = [
   {
     id: 'docentes',
     label: 'Escuelas',
-    desc: 'Planificá tus clases con IA.',
+    desc: 'Potencia tu enseñanza con Inteligencia Artificial.',
     to: '/docentes',
     btnText: 'Ingresar',
     colorClass: 'card-yellow',

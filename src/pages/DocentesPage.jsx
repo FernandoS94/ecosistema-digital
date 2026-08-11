@@ -33,6 +33,9 @@ function DocentesIntro() {
     <Link to="/directivos" className="docentes-intro-btn">
   Directivos
 </Link>
+ <Link to="/supervisores" className="docentes-intro-btn">
+  Supervisores
+</Link>
         </div>
       </div>
     </section>

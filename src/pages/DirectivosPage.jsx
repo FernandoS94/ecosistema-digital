@@ -134,7 +134,7 @@ export function DirectivosPage() {
   return (
     <main>
       <DirectivosHero />
-      <DirectivosIntro />
+  {/*    <DirectivosIntro /> */}
       <NotebookLMSection />
     </main>
   );

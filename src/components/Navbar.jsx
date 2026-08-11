@@ -88,6 +88,7 @@ export function Navbar() {
     <div className="nav-subdropdown-menu">
       <Link to="/docentes-secundaria-aprende" className="nav-dropdown-item" onClick={closeMenu}>Docentes Secundaria Aprende</Link>
       <Link to="/directivos" className="nav-dropdown-item" onClick={closeMenu}>Directivos</Link>
+      <Link to="/supervisores" className="nav-dropdown-item" onClick={closeMenu}>Supervisores</Link>
     </div>
   </div>
 

@@ -28,6 +28,7 @@ import { VideosGrid } from './components/sections/VideosGrid';
 
 import { FaqSectionColapsable } from './components/sections/FaqSectionColapsable';
 
+import { SupervisoresPage } from './pages/SupervisoresPage';
 
 
 function HomePage() {
@@ -60,6 +61,7 @@ function AppContent() {
         <Route path="/docentes-secundaria-aprende" element={<SecundariaAprendePage />} />
         <Route path="/familias" element={<FamiliasPage />} />
         <Route path="/directivos" element={<DirectivosPage />} />
+        <Route path="/supervisores" element={<SupervisoresPage />} />
       </Routes>
       <Footer />
     </>
