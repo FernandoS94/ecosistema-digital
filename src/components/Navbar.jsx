@@ -6,6 +6,7 @@ export function Navbar() {
   const [searchOpen, setSearchOpen] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
   const [dropdownOpen, setDropdownOpen] = useState(false);
+  const [subOpen, setSubOpen] = useState(false);
   const navigate = useNavigate();
   const location = useLocation();
 
@@ -14,6 +15,7 @@ export function Navbar() {
   const closeMenu = () => {
     setMenuOpen(false);
     setDropdownOpen(false);
+    setSubOpen(false);
   };
 
   const toggleDropdown = (e) => {
@@ -21,9 +23,18 @@ export function Navbar() {
     setDropdownOpen((prev) => !prev);
   };
 
+  const toggleSub = (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    setSubOpen((prev) => !prev);
+  };
+
   useEffect(() => {
     const handleOutside = (e) => {
-      if (!e.target.closest('.nav-dropdown')) setDropdownOpen(false);
+      if (!e.target.closest('.nav-dropdown')) {
+        setDropdownOpen(false);
+        setSubOpen(false);
+      }
     };
     document.addEventListener('click', handleOutside);
     return () => document.removeEventListener('click', handleOutside);
@@ -77,33 +88,39 @@ export function Navbar() {
                 <path d="M2 3.5 L5 6.5 L8 3.5" stroke="currentColor" strokeWidth="1.5" fill="none" strokeLinecap="round" />
               </svg>
             </a>
-           <div className="nav-dropdown-menu">
-  
-  {/* Escuelas con submenú */}
-  <div className="nav-subdropdown">
-    <div className="nav-dropdown-item nav-dropdown-item--sub">
-      Escuelas
-      <i className="fas fa-chevron-right" style={{ fontSize: '0.65rem', marginLeft: 'auto' }}></i>
-    </div>
-    <div className="nav-subdropdown-menu">
-      <Link to="/docentes-secundaria-aprende" className="nav-dropdown-item" onClick={closeMenu}>Docentes Secundaria Aprende</Link>
-      <Link to="/directivos" className="nav-dropdown-item" onClick={closeMenu}>Directivos</Link>
-      <Link to="/supervisores" className="nav-dropdown-item" onClick={closeMenu}>Supervisores</Link>
-    </div>
-  </div>
+            <div className="nav-dropdown-menu">
 
-  <Link to="/familias" className="nav-dropdown-item" onClick={closeMenu}>Familias</Link>
+              {/* Escuelas con submenú */}
+              <div className={`nav-subdropdown${subOpen ? ' open' : ''}`}>
+                <div
+                  className="nav-dropdown-item nav-dropdown-item--sub"
+                  onClick={toggleSub}
+                >
+                  Escuelas
+                  <i
+                    className="fas fa-chevron-right nav-sub-chevron"
+                    style={{ fontSize: '0.65rem', marginLeft: 'auto' }}
+                  ></i>
+                </div>
+                <div className="nav-subdropdown-menu">
+                  <Link to="/docentes-secundaria-aprende" className="nav-dropdown-item" onClick={closeMenu}>Docentes Secundaria Aprende</Link>
+                  <Link to="/directivos" className="nav-dropdown-item" onClick={closeMenu}>Directivos</Link>
+                  <Link to="/supervisores" className="nav-dropdown-item" onClick={closeMenu}>Supervisores</Link>
+                </div>
+              </div>
 
-  <a 
-    href="https://drive.google.com/file/d/1vOrbnME4xLNHOFlO_vN95vk2ApPK4jeP/view"
-    className="nav-dropdown-item"
-    target="_blank"
-    rel="noreferrer"
-    onClick={closeMenu}
-  >
-    Documento PDF del Ecosistema
-  </a>
-</div>
+              <Link to="/familias" className="nav-dropdown-item" onClick={closeMenu}>Familias</Link>
+
+              <a
+                href="https://drive.google.com/file/d/1vOrbnME4xLNHOFlO_vN95vk2ApPK4jeP/view"
+                className="nav-dropdown-item"
+                target="_blank"
+                rel="noreferrer"
+                onClick={closeMenu}
+              >
+                Documento PDF del Ecosistema
+              </a>
+            </div>
           </div>
 
           <a href="#faq" className="nav-link" onClick={(e) => scrollToSection(e, '#faq')}>Ayuda</a>
