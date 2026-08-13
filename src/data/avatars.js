@@ -43,7 +43,7 @@ export const AVATAR_CATEGORIES = [
     fullWidth: false,
     avatars: [
       {
-        href: 'https://gemini.google.com/gem/1ycOfE-_RnNMDKl7w6r_-9gm7qI8_vZhA?usp=sharing',
+        href: 'https://gemini.google.com/gem/7aec8e6fd60b?usp=sharing',
         img: './img/avatares/historia.png',
         label: 'Historia',
         alt: 'Historia',
