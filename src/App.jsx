@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+import { lazy, Suspense } from 'react';
 import { Routes, Route } from 'react-router-dom';
 import { VideoProvider } from './context/VideoContext';
 import { useScrollAnimation } from './hooks/useScrollAnimation';
@@ -9,27 +9,28 @@ import { FlyerModal } from './components/FlyerModal';
 import { VideoModal } from './components/VideoModal';
 
 import { AboutSection } from './components/sections/AboutSection';
-
 import { AppsSection } from './components/sections/AppsSection';
 import { AccessSection } from './components/sections/AccessSection';
-import { FaqSection } from './components/sections/FaqSection';
-
-import { DocentesPage } from './pages/DocentesPage';
-import { SecundariaAprendePage } from './pages/SecundariaAprende';
-import { FamiliasPage } from './pages/FamiliasPage';
-import { ToastNovedades } from './components/ToastNovedades';
-import { Breadcrumb } from './components/Breadcrumb';
-import { DirectivosPage } from './pages/DirectivosPage';
-
-import { useVideo } from './context/VideoContext';
-
-import { VideosSection } from './components/sections/VideosSection';
 import { VideosGrid } from './components/sections/VideosGrid';
-
 import { FaqSectionColapsable } from './components/sections/FaqSectionColapsable';
 
-import { SupervisoresPage } from './pages/SupervisoresPage';
+import { ToastNovedades } from './components/ToastNovedades';
 
+// ── Páginas con carga diferida (lazy) ──────────────
+const DocentesPage        = lazy(() => import('./pages/DocentesPage').then(m => ({ default: m.DocentesPage })));
+const SecundariaAprendePage = lazy(() => import('./pages/SecundariaAprende').then(m => ({ default: m.SecundariaAprendePage })));
+const FamiliasPage        = lazy(() => import('./pages/FamiliasPage').then(m => ({ default: m.FamiliasPage })));
+const DirectivosPage      = lazy(() => import('./pages/DirectivosPage').then(m => ({ default: m.DirectivosPage })));
+const SupervisoresPage    = lazy(() => import('./pages/SupervisoresPage').then(m => ({ default: m.SupervisoresPage })));
+
+// ── Fallback de carga con estilo del sitio ─────────
+function PageLoader() {
+  return (
+    <div className="page-loader">
+      <div className="page-loader-spinner"></div>
+    </div>
+  );
+}
 
 function HomePage() {
   useScrollAnimation();
@@ -37,32 +38,34 @@ function HomePage() {
   return (
     <main>
       <AboutSection />
-    <AccessSection />
-       <AppsSection />
-        <VideosGrid />
-     
-      <FaqSectionColapsable/>
-       
+      <AccessSection />
+      <AppsSection />
+      <VideosGrid />
+      <FaqSectionColapsable />
     </main>
   );
 }
 
 function AppContent() {
-    return (
+  return (
     <>
-    <ToastNovedades />
+      <ToastNovedades />
       <Navbar />
-      
+
       <FlyerModal />
       <VideoModal />
-      <Routes>
-        <Route path="/" element={<HomePage />} />
-        <Route path="/docentes" element={<DocentesPage />} />
-        <Route path="/docentes-secundaria-aprende" element={<SecundariaAprendePage />} />
-        <Route path="/familias" element={<FamiliasPage />} />
-        <Route path="/directivos" element={<DirectivosPage />} />
-        <Route path="/supervisores" element={<SupervisoresPage />} />
-      </Routes>
+
+      <Suspense fallback={<PageLoader />}>
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/docentes" element={<DocentesPage />} />
+          <Route path="/docentes-secundaria-aprende" element={<SecundariaAprendePage />} />
+          <Route path="/familias" element={<FamiliasPage />} />
+          <Route path="/directivos" element={<DirectivosPage />} />
+          <Route path="/supervisores" element={<SupervisoresPage />} />
+        </Routes>
+      </Suspense>
+
       <Footer />
     </>
   );

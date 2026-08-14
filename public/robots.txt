@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ecosistemadigital.bue.edu.ar/sitemap.xml
