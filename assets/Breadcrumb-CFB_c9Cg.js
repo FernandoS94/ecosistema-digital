@@ -1,0 +1,1 @@
+import{i as e}from"./index-D913wWD1.js";e();
