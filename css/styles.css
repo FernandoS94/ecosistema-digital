@@ -1928,6 +1928,7 @@ span {
     padding: 16px;
 }
 .flyer-modal.active { display: flex; }
+ 
 .flyer-modal-overlay {
     position: absolute;
     inset: 0;
@@ -1940,9 +1941,12 @@ span {
     border-radius: 16px;
     overflow: hidden;
     width: 100%;
-    max-width: 1000px;
+    max-width: 720px;          /* más angosto porque la imagen es casi cuadrada */
+    max-height: 92vh;          /* no supera el alto de la pantalla */
     box-shadow: 0 20px 60px rgba(0,0,0,0.35);
     animation: flyerFadeIn 0.35s ease;
+    display: flex;
+    flex-direction: column;
 }
 @keyframes flyerFadeIn {
     from { opacity: 0; transform: scale(0.92); }
@@ -1967,22 +1971,24 @@ span {
     transition: background 0.2s;
 }
 .flyer-modal-close:hover { background: rgba(0,0,0,0.7); }
+ 
 .flyer-modal-img {
     width: 100%;
     display: block;
-    aspect-ratio: 16/9;
-    object-fit: cover;
-    height: auto;
+    height: auto;              /* respeta la proporción real de la imagen */
+    object-fit: contain;       /* muestra la imagen completa sin recortar */
+    max-height: 92vh;
 }
+ 
 .flyer-modal-footer {
-    position: absolute;
-    bottom: 8%;
+    /*position: absolute;*/
+    bottom: 4%;
     left: 0;
     right: 0;
     display: flex;
     justify-content: center;
     background: transparent;
-    padding: 0;
+    padding: 10px;
     pointer-events: none;
 }
 .flyer-modal-btn {
@@ -2004,6 +2010,13 @@ span {
     color: #000;
 }
 
+.flyer-modal-btn i {
+  transition: transform 0.2s;
+  margin-left: 6px;
+}
+.flyer-modal-btn:hover i {
+  transform: translateX(4px);
+}
 /* ── animate-on-scroll override ─────────────────── */
 .about-text.animate-on-scroll,
 .categoria-header.animate-on-scroll,
