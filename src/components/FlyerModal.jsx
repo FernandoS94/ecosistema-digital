@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-const MOSTRAR_FLYER = false;
+const MOSTRAR_FLYER = true;
 
 export function FlyerModal() {
   const [isOpen, setIsOpen] = useState(false);
@@ -32,11 +32,11 @@ export function FlyerModal() {
       <div className="flyer-modal-overlay" onClick={close}></div>
       <div className="flyer-modal-content">
         <button className="flyer-modal-close" onClick={close} aria-label="Cerrar">✕</button>
-        <img src="./img/flyer.png" alt="Nuevos Cursos de Educación Digital" className="flyer-modal-img" />
+        <img src="./img/IA.png" alt="Nuevos Cursos de Educación Digital" className="flyer-modal-img" />
         <div className="flyer-modal-footer">
-          <a href="https://sga-escuelademaestros.buenosaires.gob.ar/" target="_blank" rel="noreferrer" className="flyer-modal-btn">
-            🎓 Quiero inscribirme
-          </a>
+          <a href="https://buenosairesaprendeconia.bue.edu.ar/" className="flyer-modal-btn">
+  Conocé más <i className="fas fa-plus"></i>
+</a>
         </div>
       </div>
     </div>
