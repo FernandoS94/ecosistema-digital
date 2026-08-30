@@ -1,1 +1,0 @@
-import{i as e}from"./index-BEZ7PU6w.js";e();
