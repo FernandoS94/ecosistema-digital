@@ -34,7 +34,7 @@ export function FlyerModal() {
         <button className="flyer-modal-close" onClick={close} aria-label="Cerrar">✕</button>
         <img src="./img/IA.png" alt="Nuevos Cursos de Educación Digital" className="flyer-modal-img" />
         <div className="flyer-modal-footer">
-          <a href="https://buenosairesaprendeconia.bue.edu.ar/" className="flyer-modal-btn">
+          <a href="https://buenosairesaprendeconia.bue.edu.ar/" className="flyer-modal-btn" target="_blank">
   Conocé más <i className="fas fa-plus"></i>
 </a>
         </div>
