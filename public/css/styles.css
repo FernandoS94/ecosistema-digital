@@ -1935,14 +1935,15 @@ span {
     background: rgba(0,0,0,0.65);
     backdrop-filter: blur(4px);
 }
+ 
 .flyer-modal-content {
     position: relative;
     background: #153244;
     border-radius: 16px;
     overflow: hidden;
-    width: 100%;
-    max-width: 720px;          /* más angosto porque la imagen es casi cuadrada */
-    max-height: 92vh;          /* no supera el alto de la pantalla */
+    width: auto;                    /* se ajusta al ancho de la imagen */
+    max-width: min(720px, 95vw);    /* nunca más ancho que la pantalla */
+    max-height: 95vh;               /* nunca más alto que la pantalla */
     box-shadow: 0 20px 60px rgba(0,0,0,0.35);
     animation: flyerFadeIn 0.35s ease;
     display: flex;
@@ -1952,6 +1953,7 @@ span {
     from { opacity: 0; transform: scale(0.92); }
     to   { opacity: 1; transform: scale(1); }
 }
+ 
 .flyer-modal-close {
     position: absolute;
     top: 10px;
@@ -1972,50 +1974,54 @@ span {
 }
 .flyer-modal-close:hover { background: rgba(0,0,0,0.7); }
  
-.flyer-modal-img {
-    width: 100%;
-    display: block;
-    height: auto;              /* respeta la proporción real de la imagen */
-    object-fit: contain;       /* muestra la imagen completa sin recortar */
-    max-height: 92vh;
+/* Contenedor que envuelve imagen + botón, con scroll si no entra */
+.flyer-modal-scroll {
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
  
+.flyer-modal-img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: contain;
+}
+ 
+/* El botón ahora va DEBAJO de la imagen, no encima */
 .flyer-modal-footer {
-    /*position: absolute;*/
-    bottom: 4%;
-    left: 0;
-    right: 0;
+    width: 100%;
     display: flex;
     justify-content: center;
-    background: transparent;
-    padding: 10px;
-    pointer-events: none;
+    padding: 16px;
+    background: #153244;
 }
+ 
 .flyer-modal-btn {
-    pointer-events: all;
-    display: inline-block;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
     background: var(--primary-color);
     color: white;
     text-decoration: none;
     font-weight: 700;
-    font-size: clamp(0.75rem, 2vw, 1rem);
-    padding: clamp(8px, 1.5vw, 12px) clamp(16px, 3vw, 32px);
+    font-size: clamp(0.8rem, 2vw, 1rem);
+    padding: clamp(10px, 1.5vw, 12px) clamp(20px, 3vw, 32px);
     border-radius: 50px;
     transition: background 0.2s, transform 0.2s;
     white-space: nowrap;
+}
+.flyer-modal-btn i {
+    transition: transform 0.2s;
 }
 .flyer-modal-btn:hover {
     background: var(--tercer-color);
     transform: translateY(-2px);
     color: #000;
 }
-
-.flyer-modal-btn i {
-  transition: transform 0.2s;
-  margin-left: 6px;
-}
 .flyer-modal-btn:hover i {
-  transform: translateX(4px);
+    transform: translateX(4px);
 }
 /* ── animate-on-scroll override ─────────────────── */
 .about-text.animate-on-scroll,
