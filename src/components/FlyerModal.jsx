@@ -1,4 +1,7 @@
 import { useState, useEffect } from 'react';
+import { doc, getDoc, setDoc, updateDoc, increment } from 'firebase/firestore';
+import { db } from '../firebase';
+import { trackEvent } from '../utils/trackEvent';
 
 const MOSTRAR_FLYER = true;
 
@@ -25,6 +28,21 @@ export function FlyerModal() {
     sessionStorage.setItem('flyerVisto', 'true');
   };
 
+  const registrarClick = async () => {
+    try {
+      // Contador rápido (colección 'flyer', doc 'IA-progresiones')
+      const ref = doc(db, 'flyer', 'IA-progresiones');
+      const snap = await getDoc(ref);
+      if (snap.exists()) {
+        await updateDoc(ref, { clicks: increment(1) });
+      } else {
+        await setDoc(ref, { clicks: 1, titulo: 'IA-progresiones' });
+      }
+    } catch (err) {}
+    // Evento con timestamp
+    trackEvent('flyer', 'IA-progresiones');
+  };
+
   if (!isOpen) return null;
 
   return (
@@ -40,6 +58,7 @@ export function FlyerModal() {
               className="flyer-modal-btn"
               target="_blank"
               rel="noreferrer"
+              onClick={registrarClick}
             >
               Conocé más <i className="fas fa-plus"></i>
             </a>

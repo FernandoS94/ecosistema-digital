@@ -16,6 +16,8 @@ import { FaqSectionColapsable } from './components/sections/FaqSectionColapsable
 
 import { ToastNovedades } from './components/ToastNovedades';
 
+{/*import { HomePageV2 } from './pages/HomePageV2';*/}
+
 // ── Páginas con carga diferida (lazy) ──────────────
 const DocentesPage        = lazy(() => import('./pages/DocentesPage').then(m => ({ default: m.DocentesPage })));
 const SecundariaAprendePage = lazy(() => import('./pages/SecundariaAprende').then(m => ({ default: m.SecundariaAprendePage })));
@@ -63,6 +65,8 @@ function AppContent() {
           <Route path="/familias" element={<FamiliasPage />} />
           <Route path="/directivos" element={<DirectivosPage />} />
           <Route path="/supervisores" element={<SupervisoresPage />} />
+         {/* <Route path="/nueva" element={<HomePageV2 />} /> */}
+      
         </Routes>
       </Suspense>
 

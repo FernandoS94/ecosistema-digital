@@ -4,6 +4,7 @@ import './DirectivosPage.css';
 import { useState, useEffect } from 'react';
 import { doc, getDoc, setDoc, updateDoc, increment } from 'firebase/firestore';
 import { db } from '../firebase';
+import { trackEvent } from '../utils/trackEvent';
 
 
 function DirectivosHero() {
@@ -97,6 +98,8 @@ function NotebookLMSection() {
       }
       setClicks(prev => prev + 1);
     } catch (err) {}
+    // Evento con timestamp
+    trackEvent('directivo', 'notebooklm');
   };
 
   return (

@@ -4,6 +4,7 @@ import './SupervisoresPage.css';
 import { useState, useEffect } from 'react';
 import { doc, getDoc, setDoc, updateDoc, increment } from 'firebase/firestore';
 import { db } from '../firebase';
+import { trackEvent } from '../utils/trackEvent';
 import { ComoFuncionaSection } from '../components/sections/ComoFuncionaSection';
 
 function SupervisoresHero() {
@@ -53,6 +54,8 @@ function GemaCard({ titulo, descripcion, href, firestoreKey }) {
       }
       setClicks(prev => prev + 1);
     } catch (err) {}
+    // Evento con timestamp
+    trackEvent('supervisor', firestoreKey);
   };
 
   return (
@@ -85,6 +88,8 @@ function PromptCard() {
         await setDoc(ref, { clicks: 1 });
       }
     } catch (err) {}
+    // Evento con timestamp
+    trackEvent('supervisor', 'prompt-modelo');
   };
 
   return (
