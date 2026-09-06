@@ -122,9 +122,7 @@
   transition: transform var(--v2-transition);
 }
 
-.v2-intro-image img:hover {
-  transform: scale(1.03) rotate(-1deg);
-}
+
 
 /* ════════════════════════════════════════ */
 /*  PANEL DERECHO (acceso)                   */
@@ -373,9 +371,7 @@
   transition: transform var(--v2-transition);
 }
 
-.v2-familias:hover .v2-familias-ico {
-  transform: rotate(-5deg) scale(1.05);
-}
+
 
 .v2-familias-ico i {
   font-size: 1.35rem;
@@ -527,14 +523,14 @@
 }
 
 .v2-home .app-card-back {
-  background: linear-gradient(145deg, #24a0a5 0%, #1d8f8f 100%) !important;
+  background: linear-gradient(145deg, #f1ee35 0%, #f5b342 100%) !important;
   color: #fff;
 }
 
 .v2-home .app-card-desc {
   font-size: 0.76rem !important;
   line-height: 1.45 !important;
-  color: rgba(255, 255, 255, 0.92);
+  color: black;
 }
 
 .v2-home .app-card-back button,
