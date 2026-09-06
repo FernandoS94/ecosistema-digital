@@ -1,1 +1,0 @@
-import{d as e}from"./index-B_Pp0bac.js";e();
