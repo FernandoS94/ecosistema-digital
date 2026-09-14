@@ -108,7 +108,7 @@ function AccesoV2() {
           </div>
           <div className="v2-familias-text">
             <h3>Familias</h3>
-            <p>Recursos y acompañamiento para el hogar</p>
+            
           </div>
         </Link>
 

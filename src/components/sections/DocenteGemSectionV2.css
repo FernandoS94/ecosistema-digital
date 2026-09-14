@@ -1,0 +1,190 @@
+/* ── Docente GEM V2 (split con pasos) ── */
+.gem2 {
+  background: #fff;
+  padding: 20px 40px 50px;
+}
+
+.gem2-card {
+  max-width: 1100px;
+  margin: 0 auto;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid #eef1f4;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  box-shadow: 0 8px 30px rgba(28, 43, 58, 0.06);
+}
+
+/* ── Panel izquierdo (oscuro) ── */
+.gem2-left {
+  background: linear-gradient(145deg, #1a2535 0%, #24344a 100%);
+  padding: 44px 40px;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+
+
+
+.gem2-eyebrow {
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--cuarto-color);
+  margin-bottom: 12px;
+  position: relative;
+}
+
+.gem2-title {
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  font-weight: 800;
+  margin: 0 0 12px;
+  letter-spacing: -0.02em;
+  position: relative;
+}
+
+.gem2-desc {
+  font-size: clamp(0.9rem, 1.4vw, 1.05rem);
+  color: rgba(255, 255, 255, 0.82);
+  line-height: 1.55;
+  margin: 0 0 24px;
+  max-width: 380px;
+  position: relative;
+}
+
+.gem2-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 13px 30px;
+  font-size: 0.92rem;
+  font-weight: 700;
+  background: var(--cuarto-color);
+  color: #1a202c;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  font-family: var(--font-main);
+  transition: background 0.2s, transform 0.2s;
+  width: fit-content;
+  position: relative;
+}
+
+.gem2-btn i {
+  font-size: 0.78rem;
+}
+
+.gem2-btn:hover {
+  background: var(--tercer-color);
+  transform: translateY(-2px);
+}
+
+.gem2-politicas {
+  display: inline-block;
+  margin-top: 16px;
+  font-size: 0.78rem;
+  color: rgba(255, 255, 255, 0.7);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  font-weight: 500;
+  width: fit-content;
+  position: relative;
+  transition: color 0.2s;
+}
+
+.gem2-politicas:hover {
+  color: #fff;
+}
+
+/* ── Panel derecho (pasos) ── */
+.gem2-right {
+  background: #f8fafb;
+  padding: 44px 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.gem2-steps-label {
+  font-size: 0.66rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--ink-3, #8899a6);
+  margin-bottom: 22px;
+}
+
+/* Pasos con línea conectora vertical */
+.gem2-steps {
+  position: relative;
+  padding-left: 38px;
+}
+
+.gem2-steps::before {
+  content: '';
+  position: absolute;
+  left: 15px;
+  top: 8px;
+  bottom: 8px;
+  width: 2px;
+  background: #e0e6ea;
+}
+
+.gem2-step {
+  position: relative;
+  margin-bottom: 22px;
+}
+
+.gem2-step:last-child {
+  margin-bottom: 0;
+}
+
+.gem2-step-num {
+  position: absolute;
+  left: -38px;
+  top: 0;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: var(--primary-color);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+.gem2-step-title {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #1a202c;
+  margin: 4px 0 3px;
+}
+
+.gem2-step-desc {
+  font-size: 0.78rem;
+  color: #667;
+  line-height: 1.5;
+  margin: 0;
+}
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+  .gem2 {
+    padding: 16px 20px 40px;
+  }
+
+  .gem2-card {
+    grid-template-columns: 1fr;
+  }
+
+  .gem2-left,
+  .gem2-right {
+    padding: 32px 26px;
+  }
+}

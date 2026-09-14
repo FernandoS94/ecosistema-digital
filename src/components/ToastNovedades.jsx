@@ -17,6 +17,13 @@ const NOVEDADES = [
     icon: 'fas fa-rocket',
     color: '#F9B2FA',
   },
+  {
+  id: 5,
+  titulo: 'Renovamos el inicio',
+  desc: 'Nuevo diseño, más simple e intuitivo. Ingresá a tu espacio según tu nivel.',
+  icon: 'fas fa-house',
+  color: 'white',
+},
  //   {
 //    id: 5,
 //    titulo: 'Nueva funcionalidad: calificación de materiales',

@@ -1,0 +1,283 @@
+/* ═══════════════════════════════════════════════════
+   SecundariaAprendeV2 — versión de prueba aislada
+   Prefijo sec2- para no chocar con nada de producción.
+   NO redefine :root — usa las variables globales del sitio.
+   ═══════════════════════════════════════════════════ */
+
+/* ── Hero (título + botones, limpio) ── */
+.sec2-hero {
+  background: #F1F55A;
+  padding: 150px 40px 50px;
+}
+
+.sec2-hero-inner {
+  max-width: 1100px;   /* mismo ancho que el acordeón, alineado */
+  margin: 0 auto;
+}
+
+.sec2-hero-title {
+  font-size: clamp(1.9rem, 4.5vw, 3rem);
+  font-weight: 800;
+  color: #1a202c;
+  margin: 0 0 26px;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+}
+
+/* Botones rectangulares limpios (Opción 3) */
+.sec2-hero-buttons {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.sec2-hero-btn {
+  padding: 13px 28px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 10px;
+  background: #fff;
+  color: #1a202c;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.sec2-hero-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.12);
+}
+
+.sec2-hero-btn--solid {
+  background: #1a202c;
+  color: #fff;
+  box-shadow: none;
+}
+
+.sec2-hero-btn--solid:hover {
+  background: #2d3748;
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.18);
+}
+
+/* ── Avatares (acordeón por área) ── */
+.sec2-avatares {
+  background: #fff;
+  padding: 40px 40px 50px;
+}
+
+.sec2-avatares-head {
+  max-width: 1100px;
+  margin: 0 auto 26px;
+}
+
+.sec2-avatares-title {
+  font-size: clamp(1.6rem, 3vw, 2rem);
+  font-weight: 700;
+  color: var(--secondary-color);
+  margin: 0 0 8px;
+  letter-spacing: -0.01em;
+}
+
+.sec2-avatares-intro {
+  font-size: 0.95rem;
+  color: #555;
+  line-height: 1.6;
+  margin: 0;
+  max-width: 640px;
+}
+
+/* Contenedor del acordeón */
+.sec2-acordeon {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+/* Cada ítem del acordeón */
+.sec2-acc {
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgba(28, 43, 58, 0.06);
+}
+
+/* Barra (header) del acordeón */
+.sec2-acc-head {
+  width: 100%;
+  border: none;
+  cursor: pointer;
+  padding: 16px 20px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  font-family: var(--font-main);
+  transition: filter 0.2s;
+}
+
+.sec2-acc-head:hover {
+  filter: brightness(1.05);
+}
+
+/* Colores de marca para las barras del acordeón */
+.sec2-acc-head.acc-teal    { background: linear-gradient(135deg, #24a0a5, #1d8f8f); }
+.sec2-acc-head.acc-violeta { background: linear-gradient(135deg, #4A487A, #322f5c); }
+.sec2-acc-head.acc-coral   { background: linear-gradient(135deg, #f18489, #d96c6c); }
+
+.sec2-acc-ico {
+  width: 40px;
+  height: 40px;
+  min-width: 40px;
+  border-radius: 11px;
+  background: rgba(255, 255, 255, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 1.1rem;
+}
+
+.sec2-acc-titulo {
+  flex: 1;
+  text-align: left;
+  font-size: 0.98rem;
+  font-weight: 700;
+  color: #fff;
+}
+
+.sec2-acc-count {
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.9);
+  background: rgba(255, 255, 255, 0.18);
+  padding: 4px 12px;
+  border-radius: 50px;
+  white-space: nowrap;
+}
+
+.sec2-acc-chevron {
+  color: #fff;
+  font-size: 0.9rem;
+  transition: transform 0.3s ease;
+}
+
+.sec2-acc.abierto .sec2-acc-chevron {
+  transform: rotate(180deg);
+}
+
+/* Cuerpo colapsable */
+.sec2-acc-body {
+  max-height: 0;
+  overflow: hidden;
+  background: #f8fafb;
+  transition: max-height 0.4s ease;
+}
+
+.sec2-acc.abierto .sec2-acc-body {
+  max-height: 600px;
+}
+
+.sec2-acc-avatares {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 28px;
+  padding: 26px 24px;
+  justify-content: flex-start;
+}
+
+/* Los avatares usan las clases globales; les damos ancho fijo */
+.sec2-acc-avatares .avatar-circular {
+  width: 110px;
+  flex: 0 0 auto;
+}
+
+/* ── Beta notice ── */
+.sec2-beta {
+  max-width: 1400px;
+  margin: 36px auto 0;
+  text-align: center;
+}
+
+.sec2-beta p {
+  font-size: 0.95rem;
+  color: black;
+  background: #f8fafb;
+  border: 1px solid #eef1f4;
+  border-radius: 10px;
+  padding: 14px 20px;
+  margin: 0;
+}
+
+.sec2-beta a {
+  color: var(--primary-color);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.sec2-beta a:hover {
+  text-decoration: underline;
+}
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+  .sec2-hero {
+    padding: 120px 20px 40px;
+  }
+
+  .sec2-hero-stats {
+    gap: 24px;
+  }
+
+  .sec2-hero-buttons {
+    flex-direction: column;
+  }
+
+  .sec2-hero-btn {
+    text-align: center;
+  }
+
+  .sec2-avatares {
+    padding: 36px 20px;
+  }
+
+  .sec2-avatares-fila {
+    gap: 18px;
+    justify-content: center;
+  }
+
+  .sec2-avatares-fila .avatar-circular {
+    width: 90px;
+  }
+}
+
+/* ── Filtros de avatares por área ── */
+.sec2-filtros {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.sec2-filtro {
+  padding: 8px 18px;
+  border-radius: 50px;
+  border: 1px solid var(--v2-border, #e4eaee);
+  background: #fff;
+  color: #3a4a58;
+  font-size: 0.8rem;
+  font-weight: 600;
+  font-family: var(--font-main);
+  cursor: pointer;
+  transition: all 0.18s;
+}
+
+.sec2-filtro:hover {
+  border-color: var(--primary-color);
+  color: var(--primary-color);
+}
+
+.sec2-filtro.active {
+  background: var(--primary-color);
+  border-color: var(--primary-color);
+  color: #fff;
+}

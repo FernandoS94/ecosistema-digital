@@ -47,11 +47,12 @@
   content: "";
   position: absolute;
   inset: -15px;
-  background-image: url("./img/banner.png");
+  /*background-image: url("./img/banner.png");*/
+ background: #f7f9fb;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  filter: blur(10px);
+  filter: blur(6px);
   z-index: 0;
   transform: scale(1.02);
 }
@@ -281,6 +282,7 @@
 .v2-actor-ico {
   font-size: 1.6rem;
   color: rgba(255, 255, 255, 0.9);
+  
   margin-bottom: 8px;
   display: block;
 }
@@ -325,9 +327,12 @@
 .v2-actor-card.actor-rosa {
   background: linear-gradient(145deg, #f9b2fa 0%, #e8a0b4 100%);
 }
+
 .v2-actor-card.actor-rosa .v2-actor-ico { color: rgba(26, 32, 44, 0.6); }
 .v2-actor-card.actor-rosa .v2-actor-bottom h3 { color: #1a202c; }
-.v2-actor-card.actor-rosa .v2-actor-badge { color: #1a202c; background: rgba(26, 32, 44, 0.12); }
+.v2-actor-card.actor-rosa .v2-actor-badge { color: #1a202c; background: rgba(26, 32, 44, 0.12); } 
+
+
 
 /* ════════════════════════════════════════ */
 /*  FAMILIAS                                 */

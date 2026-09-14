@@ -15,9 +15,11 @@ import { VideosGrid } from './components/sections/VideosGrid';
 import { FaqSectionColapsable } from './components/sections/FaqSectionColapsable';
 
 import { ToastNovedades } from './components/ToastNovedades';
+{/*
+ 
+import { SecundariaAprendeV2Page } from './pages/SecundariaAprendeV2';*/}
 
-{/* import { HomePageV2 } from './pages/HomePageV2'; */}
-
+ import { HomePageV2 } from './pages/HomePageV2';
 
 // ── Páginas con carga diferida (lazy) ──────────────
 const DocentesPage        = lazy(() => import('./pages/DocentesPage').then(m => ({ default: m.DocentesPage })));
@@ -60,14 +62,15 @@ function AppContent() {
 
       <Suspense fallback={<PageLoader />}>
         <Routes>
-          <Route path="/" element={<HomePage />} />
+           <Route path="/" element={<HomePageV2 />} />
+         {/* <Route path="/" element={<HomePage />} /> */}
           <Route path="/docentes" element={<DocentesPage />} />
           <Route path="/docentes-secundaria-aprende" element={<SecundariaAprendePage />} />
           <Route path="/familias" element={<FamiliasPage />} />
           <Route path="/directivos" element={<DirectivosPage />} />
           <Route path="/supervisores" element={<SupervisoresPage />} />
-         {/*   <Route path="/nueva" element={<HomePageV2 />} />
-      */}
+         {/*  <Route path="/secundaria-v2" element={<SecundariaAprendeV2Page />} /> */}
+        
         
         </Routes>
       </Suspense>
