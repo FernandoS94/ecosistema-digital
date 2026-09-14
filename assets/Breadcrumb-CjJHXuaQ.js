@@ -1,0 +1,1 @@
+import{d as e}from"./index-C1Btykrm.js";e();
