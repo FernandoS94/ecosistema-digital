@@ -1,0 +1,57 @@
+/* ═══ Docentes Primaria ═══ */
+
+/* Hero verde */
+.primaria-hero {
+  background-color: #5a8f6b;
+  padding: 150px 20px 60px;
+  text-align: center;
+}
+.primaria-hero-title {
+  font-size: clamp(2.2rem, 5vw, 3.5rem);
+  font-weight: 800;
+  color: #fff;
+  margin: 0;
+  letter-spacing: -0.02em;
+}
+
+/* Intro */
+.primaria-intro {
+  background: #fff;
+  padding: 36px 20px 20px;
+}
+.primaria-intro-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.primaria-intro-text {
+  font-size: clamp(1rem, 1.5vw, 1.2rem);
+  color: #444;
+  line-height: 1.7;
+  margin: 0;
+  max-width: 760px;
+}
+
+/* Avatares */
+.primaria-avatares {
+  background: #fff;
+  padding: 20px 20px 40px;
+}
+.primaria-avatares-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.primaria-avatares-title {
+  font-size: clamp(1.4rem, 2.6vw, 1.8rem);
+  font-weight: 700;
+  color: #3f6b4f;
+  margin: 0 0 24px;
+}
+.primaria-avatares-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+}
+.primaria-avatares-grid .avatar-circular {
+  width: 130px;
+  flex: 0 0 auto;
+}

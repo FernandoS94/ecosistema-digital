@@ -380,12 +380,12 @@ export function RecursosSection() {
                   </div>
                 ))}
               </div>
-              <div className="results-count">{filtered.length} de {resources.length} recursos</div>
+        {/*   <div className="results-count">{filtered.length} de {resources.length} recursos</div> */}
             </div>
           )}
-          {!hasActiveFilters && !searchQuery && (
+       {/*  {!hasActiveFilters && !searchQuery && (
             <div className="results-count-simple">{resources.length} recursos</div>
-          )}
+          )} */}
 
         </div>
       </div>

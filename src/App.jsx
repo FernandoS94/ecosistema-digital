@@ -15,6 +15,8 @@ import { VideosGrid } from './components/sections/VideosGrid';
 import { FaqSectionColapsable } from './components/sections/FaqSectionColapsable';
 
 import { ToastNovedades } from './components/ToastNovedades';
+
+import { DocentesPrimariaPage } from './pages/DocentesPrimariaPage';
 {/*
  
 import { SecundariaAprendeV2Page } from './pages/SecundariaAprendeV2';*/}
@@ -69,6 +71,7 @@ function AppContent() {
           <Route path="/familias" element={<FamiliasPage />} />
           <Route path="/directivos" element={<DirectivosPage />} />
           <Route path="/supervisores" element={<SupervisoresPage />} />
+          <Route path="/docentes-primaria" element={<DocentesPrimariaPage />} />
          {/*  <Route path="/secundaria-v2" element={<SecundariaAprendeV2Page />} /> */}
         
         

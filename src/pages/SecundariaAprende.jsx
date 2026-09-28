@@ -121,7 +121,7 @@ export function SecundariaAprendePage() {
       <DocenteGemSection />
        <RecursosSection /> 
        <BibliotecaCard />
-       <SecundariaStats />
+    
     </main>
   );
 }

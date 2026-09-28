@@ -31,6 +31,17 @@ const DOCUMENTOS = [
     title: 'Mapa de riesgos digitales en el entorno escolar',
     desc: 'Infografía que presenta los riesgos digitales en el entorno escolar.',
   },
+   {
+    id: 4,
+    href: 'https://buenosaires.gob.ar/gcaba_historico/noticias/monitoreo-de-uso-de-pantallas-un-estudio-para-seguir-acompanando-el?utm_source=chatgpt.com',
+    iconClass: 'doc-icon-wrap--otro',
+    icon: 'fas fa-link',
+    badge: 'Web',
+    badgeClass: 'doc-badge--otro',
+    title: ' Monitoreo de uso de pantallas',
+    desc: 'Conocé la investigación conjunta entre el Ministerio de Educación y el ITBA relevó cómo se relacionan los adolescentes con la tecnología.',
+  },
+
   // Para agregar un nuevo documento, copiá este bloque y completá los datos:
   // {
   //   id: 3,
