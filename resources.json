@@ -716,7 +716,7 @@
             "Educación Física",
             "Disgnostico"
         ],
-        "url": "https://rise.articulate.com/share/80btzPdDKlAi0eoxUMT5YzNzafUS47YF#/"
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6871741459e2236f0dca7de3"
     },
     {
         "id": 402,
@@ -830,7 +830,7 @@
    
    
     {
-        "id": 437.0,
+        "id": 437,
         "title": "PROYECTO INTEGRADOR 3",
         "level": "6° año",
         "category": "Otro",
@@ -6610,6 +6610,122 @@
             "Fuerzas dipolo-dipolo"
         ],
         "url": "https://es.khanacademy.org/science/chemistry/states-of-matter-and-intermolecular-forces/introduction-to-intermolecular-forces/v/hydrogen-bonding"
+    },
+     {
+        "id": 220,
+        "title": "Modos de construir sentido, Lenguajes, estéticas y discursos A",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan analiza la construcción de sentido en el ecosistema comunicacional. Examina factores económicos, políticos y tecnológicos que condicionan la producción y recepción de discursos sociales. A través de teorías como Agenda Setting y Framing, aborda la formación de la opinión pública y la construcción de la realidad. También explora la ética periodística y el impacto de los estereotipos en la ficción.",
+        "tags": [
+            "Discursos sociales",
+            "Agenda temática",
+            "Opinión pública"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67b61a190661d7006b10ec71"
+    },
+    {
+        "id": 221,
+        "title": "Modos de construir sentido, Lenguajes, estéticas y discursos B",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "El plan profundiza sobre la construcción de sentido en el ecosistema comunicacional, explorando distintos conceptos y teorías, por ejemplo, el giro semiótico, los géneros discursivos y el sujeto de la enunciación. Asimismo, analiza la distinción entre significado y sentido. Finalmente, examina la pragmática y los actos de habla, vinculando la teoría con interacciones en redes para un análisis crítico.",
+        "tags": [
+            "Semiótica",
+            "Construcción de sentido",
+            "Pragmática"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67be0e1e17d9350d9687106c"
+    },
+    {
+        "id": 230,
+        "title": "Proyecto de egreso 2",
+        "level": "5° año",
+        "category": "Otro",
+        "subject": "Proyecto de Vinculación con el Futuro",
+        "mode": "Bachiller",
+        "description": "El plan orienta a los estudiantes en el diseño de un proyecto sociocomunitario. El proceso incluye la elaboración de un diagnóstico comunicacional, la selección de ejes temáticos y la recolección de datos mediante entrevistas y encuestas. Finalmente, se planifica una estrategia de intervención con objetivos claros, roles y cronogramas, con el fin de transformar realidades locales con compromiso ético y una mirada crítica del territorio.",
+        "tags": [
+            "Proyecto sociocomunitario",
+            "Diagóstico",
+            "Territorio"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/684c4901f84ef51d367b45cd"
+    },
+    {
+        "id": 231,
+        "title": "Proyecto de egreso 3: ejecución e implementación",
+        "level": "5° año",
+        "category": "Otro",
+        "subject": "Proyecto de Vinculación con el Futuro",
+        "mode": "Bachiller",
+        "description": "El plan guía a los estudiantes en el paso de la etapa de planificación a la ejecución de la estrategia de comunicación comunitaria. El material aborda la producción de piezas, la implementación territorial y el monitoreo de impacto inicial. Promueve la revisión de roles, la anticipación de escenarios imprevistos y la sistematización final para fortalecer la creatividad y el compromiso en contextos reales.",
+        "tags": [
+            "Plan de acción",
+            "Implementación",
+            "Producción"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68755233bf350565a1b6811a"
+    },
+    {
+        "id": 232,
+        "title": "Proyecto de egreso 4: evaluación y cierre",
+        "level": "5° año",
+        "category": "Otro",
+        "subject": "Proyecto de Vinculación con el Futuro",
+        "mode": "Bachiller",
+        "description": "El plan orienta el cierre del proyecto mediante una evaluación de impacto y una reflexión metacognitiva. Los estudiantes reconstruyen su recorrido, evalúan efectos reales en la comunidad y valoran los aprendizajes colectivos e individuales. El material también promueve la sistematización del proceso y la proyección de mejoras, culminando en una presentación creativa que vincula la experiencia con contextos reales.",
+        "tags": [
+            "Impacto comunicacional",
+            "Sistematización",
+            "Evaluación"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6876cef94e191ddea967dffb"
+    },
+    {
+        "id": 307,
+        "title": "Evaluación y cierre del proyecto",
+        "level": "5° año",
+        "category": "Otro",
+        "subject": "Proyecto de Vinculación con el Futuro",
+        "mode": "Bachiller",
+        "description": "Este plan guía el cierre y evaluación del Proyecto de Egreso. Propone una reflexión crítica sobre el recorrido, desde el diagnóstico hasta la implementación. Aborda la medición del impacto social, la valoración del patrimonio y la sistematización de aprendizajes grupales e individuales. Finalmente, orienta la presentación de resultados y la proyección de mejoras para asegurar la sostenibilidad de la propuesta turística.",
+        "tags": [
+            "Evaluación de proyecto. Impacto social. Sostenibilidad del proyecto."
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/687fe28646f02bdfa3eb474b"
+    },
+    {
+        "id": 352,
+        "title": "Evaluación y cierre del proyecto",
+        "level": "5° año",
+        "category": "Otro",
+        "subject": "Proyecto de Vinculación con el Futuro",
+        "mode": "Bachiller",
+        "description": "El plan se enfoca en la evaluación y cierre del proyecto de egreso. Implica una revisión integral del proceso (desde el diagnóstico hasta la implementación) para identificar logros, desafíos y decisiones clave. El foco principal es la evaluación del impacto de la solución tecnológica en la comunidad, analizando su usabilidad y sostenibilidad a largo plazo. Finalmente, fomenta la reflexión sobre los aprendizajes colectivos/individuales y la exploración de la continuidad, escalabilidad o potencial emprendedor del proyecto.",
+        "tags": [
+            "Evaluación de Proyectos",
+            "Impacto de Solución",
+            "Continuidad y Escalabilidad"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/689cb23ad155a78b4c2dd75a"
+    },
+    {
+        "id": 368,
+        "title": "Proyecto de egreso 3",
+        "level": "5° año",
+        "category": "Otro",
+        "subject": "Proyecto de Vinculación con el Futuro",
+        "mode": "Bachiller",
+        "description": "Este plan propone la implementación de proyectos de intervención motriz. Los estudiantes trasladan sus diseños al territorio, gestionando recursos y coordinando con actores institucionales. Se busca transformar ideas en acciones públicas significativas, promoviendo el compromiso social, el trabajo colaborativo y el análisis crítico del impacto generado en la comunidad..",
+        "tags": [
+            "Comunidad. Proyecto motriz. Transformación."
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68938217c011677e350d4479"
     }
 
 
