@@ -6882,6 +6882,353 @@
             "Presión. Deriva. Estabilidad"
         ],
         "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6887ae4510709d4772869155"
+    },
+    {
+        "id": 162,
+        "title": "Estrategias y estructuras de programación",
+        "level": "1° año",
+        "category": "Taller",
+        "subject": "Taller de Tecnología",
+        "mode": "Bachiller",
+        "description": "El plan introduce al estudiante en la programación para el diseño de un robot móvil. Se analiza el sistema de control (sensor, controlador, actuador) y la relación entre hardware y software. El foco está puesto principalmente en el desarrollo del Pensamiento Computacional, aplicando estructuras lógicas (secuencias, condicionales y bucles) para implementar el control por sensores, permitiendo que el robot tome decisiones autónomas ante estímulos del entorno. Se enfatiza el valor de la planificación y la iteración (prueba y error).",
+        "tags": [
+            "Pensamiento Computacional",
+            "Control",
+            "Programación Lógica"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68a4d63f42943721b3b0d7a5"
+    },
+    {
+        "id": 163,
+        "title": "Procesamiento de imágenes",
+        "level": "2° año",
+        "category": "Taller",
+        "subject": "Taller de Tecnología",
+        "mode": "Bachiller",
+        "description": "El plan se centra en el Procesamiento de Imágenes Digitales (edición, collage y restauración) como un proceso tecnológico donde la información visual funciona como insumo. Se explora la estructura de la imagen (píxeles, resolución). El enfoque promueve la Cultura Maker y el diseño sustentable a través del rescate creativo (reutilizar, rediseñar y reparar digital o materialmente), culminando en una campaña gráfica con propósito.",
+        "tags": [
+            "Procesamiento de Imágenes","Diseño Sustentable","Cultura Maker"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/686fe1c859e2236f0dca2a90"
+    },
+    {
+        "id": 164,
+        "title": "Diseñar para transformar",
+        "level": "2° año",
+        "category": "Taller",
+        "subject": "Taller de Tecnología",
+        "mode": "Bachiller",
+        "description": "El plan explora los pilares del pensamiento de diseño para transformar objetos cotidianos en desuso. Se enfoca en la reutilización y la reparación para resolver problemas funcionales. Los estudiantes diagnostican fallas en objetos, generan alternativas, las representan visualmente y evalúan su impacto, promoviendo una mirada crítica sobre el consumo y la obsolescencia.",
+        "tags": [
+            "Diseño Sustentable",
+            "Rediseño y Reutilización", "Pensamiento de Diseño"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/687a822d16d20c2e104c9a8b"
+    },
+    {
+        "id": 165,
+        "title": "Sistemas automáticos",
+        "level": "1° año",
+        "category": "Taller",
+        "subject": "Taller de Tecnología",
+        "mode": "Bachiller",
+        "description": "El plan invita a explorar cómo la robótica, la automatización y la Inteligencia Artificial (IA) pueden mejorar la gestión eficiente y sustentable de residuos. Los estudiantes podrán diseñar y construir un prototipo de sistema inteligente de clasificación de materiales. Abarca el estudio de sistemas automáticos, el uso de sensores y la aplicación de principios básicos de programación y algoritmos de machine learning. Además, se promueve la reflexión sobre el impacto ambiental del tratamiento de los residuos y el reciclaje.",
+        "tags": [
+            "Robótica",
+            "Automatización",
+            "Machine learning"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68768624bf350565a1b6951c"
+    },
+    {
+        "id": 166,
+        "title": "Diseño, análisis y optimización de sistemas automáticos",
+        "level": "1° año",
+        "category": "Taller",
+        "subject": "Taller de Tecnología",
+        "mode": "Bachiller",
+        "description": "El plan se centra en la optimización y el rediseño de sistemas automáticos de gestión de residuos. Los estudiantes podrán analizar las fases de los sistemas técnicos (insumo, transformación, producto) y la interacción de los flujos de materiales e información. Se promueve el diseño sustentable (upcycling) y la cultura maker (mejora iterativa) para buscar soluciones eficientes y ecológicas.",
+        "tags": [
+            "Optimización",
+            "Sistemas Automáticos",
+            "Diseño Sustentable"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6894dd724788b60bf05f0a91"
+    },
+    {
+        "id": 167,
+        "title": "¿Cómo se conectan las cosas?",
+        "level": "2° año",
+        "category": "Taller",
+        "subject": "Taller de Tecnología",
+        "mode": "Bachiller",
+        "description": "El plan introduce al estudiante en el concepto de “Internet de las Cosas (IoT)”, explorando cómo los objetos \"inteligentes\" detectan información (sensores), la procesan (microcontroladores) y ejecutan acciones (actuadores). Se simulan circuitos con lógica condicional (input-process-output) y se analiza la comunicación en red (protocolo MQTT). Se promueve el Pensamiento de Diseño para crear soluciones tecnológicas y se fomenta la reflexión crítica sobre los desafíos éticos, la seguridad y la privacidad digital que implica vivir hiperconectados.",
+        "tags": [
+            "Internet de las Cosas (IoT)",
+            "Sensores y Actuadores",
+            "Privacidad y Ética Digital"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/687905debf350565a1b6bee3"
+    },
+    {
+        "id": 168,
+        "title": "Objetos conectados",
+        "level": "2° año",
+        "category": "Taller",
+        "subject": "Taller de Tecnología",
+        "mode": "Bachiller",
+        "description": "El siguiente plan propone el análisis de las redes digitales y la World Wide Web, explorando la infraestructura física de Internet como una \"red de redes\" compuesta por cables, servidores y protocolos. Se analizan los códigos (binario, IP, HTTP) y las estructuras de comunicación (unidireccional, dúplex, punto a punto). El plan fomenta el pensamiento crítico al examinar los efectos sociales de la conexión digital, como el filtrado algorítmico, la desinformación y la privacidad.",
+        "tags": [
+            "Redes Digitales",
+            "Protocolos",
+            "Impacto Social de la Web"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/688d1e6fa0600fc143af295b"
+    },
+    {
+        "id": 169,
+        "title": "Hojas de cálculo: organizar, procesar y gestionar datos",
+        "level": "3° año",
+        "category": "Taller",
+        "subject": "Taller de Tecnología",
+        "mode": "Bachiller",
+        "description": "El plan explora la Big Data y la Ciencia de Datos (recolección, limpieza, análisis y visualización). Se utiliza la planilla de cálculo como base de datos para organizar, filtrar y cruzar información, aplicando funciones como =SUMA y =CONTAR.SI. Además, se fomenta una reflexión crítica sobre la privacidad, el uso de datos en Internet y la toma de decisiones basada en el análisis de variables.",
+        "tags": [
+            "Base de datos",
+            "hoja de cálculos",
+            "funciones"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6877c0e0bf350565a1b6b01d"
+    },
+    {
+        "id": 170,
+        "title": "Aplicaciones y lenguajes de programación",
+        "level": "3° año",
+        "category": "Taller",
+        "subject": "Taller de Tecnología",
+        "mode": "Bachiller",
+        "description": "El plan explora algunas funcionalidades de la Inteligencia Artificial (IA) y cómo los algoritmos influyen en nuestras decisiones digitales. Se diferencian la automatización, los algoritmos simples y la IA, centrando el estudio en el aprendizaje automático (machine learning), tanto supervisado como no supervisado, y la formación de clústeres para agrupar usuarios. El objetivo es desarrollar un pensamiento crítico sobre los límites éticos, el sesgo de datos y la autonomía en la toma de decisiones en diversos ámbitos.",
+        "tags": [
+            "Inteligencia Artificial (IA) Aprendizaje Automático (Machine Learning) Pensamiento Crítico"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/687674914e191ddea967cd59"
+    },
+    {
+        "id": 171,
+        "title": "Pensamiento computacional y creación digital",
+        "level": "3° año",
+        "category": "Taller",
+        "subject": "Taller de Tecnología",
+        "mode": "Bachiller",
+        "description": "El siguiente plan se centra en la creación de Videojuegos para la aplicación en contextos educativos. A partir de la programación, se transforma una idea en algoritmos, poniendo en juego estructuras de programación (variables, condicionales, bucles) para la lógica y la interacción con el usuario. Se abordan la planificación, el diseño de personajes y narrativas básicas, promoviendo el desarrollo de la autonomía y el trabajo colaborativo.",
+        "tags": [
+            "Pensamiento Computacional",
+            "videojuegos",
+            "programación"
+        ],
+        "url": "Link 1: https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/688ba81f52b5cae9ab8681af \nLink 2 (ocultar o eliminar): https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/688ba760ef2c2ec9afbbf607"
+    },
+    {
+        "id": 172,
+        "title": "Diseño y desarrollo avanzado de videojuegos",
+        "level": "3° año",
+        "category": "Taller",
+        "subject": "Taller de Tecnología",
+        "mode": "Bachiller",
+        "description": "El plan se centra en las etapas avanzadas en la creación de videojuegos, en especial aquellas que van desde el prototipo hasta el lanzamiento. Se profundiza en diseño visual, modelado y animación de personajes y escenarios, aplicando principios de diseño gráfico y comunicación audiovisual. La metodología enfatiza la gestión colaborativa de proyectos, el testing (funcional, UX y pedagógico) y la iteración, asumiendo el error como parte esencial para la mejora continua del diseño.",
+        "tags": [
+            "Diseño",
+            "Videojuegos",
+            "Gestión de Proyectos"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6892014e52b5cae9ab86d4db"
+    },
+    {
+        "id": 173,
+        "title": "Arte generativo",
+        "level": "4° año",
+        "category": "Taller",
+        "subject": "Taller de Tecnología",
+        "mode": "Bachiller",
+        "description": "El plan introduce a los estudiantes en el llamado arte generativo, explorando las posibilidades de la programación (con herramientas como p5.js o Processing) como una herramienta creativa para la producción artística digital. En una primer aproximación, diseñarán sistemas y algoritmos que generen composiciones dinámicas a través de la automatización, aleatoriedad e iteración. Se aplica el uso de variables, funciones y bucles para crear patrones visuales y se reflexiona sobre el rol del artista en la colaboración humano-máquina y la edición de la imagen digital.",
+        "tags": [
+            "Arte Generativo",
+            "Patrones visuales",
+            "Programación"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6849aa8d492485c6a03fd79d"
+    },
+    {
+        "id": 174,
+        "title": "Algoritmos y lenguajes",
+        "level": "4° año",
+        "category": "Taller",
+        "subject": "Taller de Tecnología",
+        "mode": "Bachiller",
+        "description": "El plan indaga sobre arte Generativo e Interactivo a partir de algoritmos y programación con lenguajes como Processing, de manera de poder crear obras visuales dinámicas. Se exploran las ideas de repetición, aleatoriedad y patrones, analizando cómo movimientos de vanguardia (Op Art, Cinético, Lumínico) evolucionaron hacia instalaciones digitales inmersivas. Los estudiantes diseñan obras que aplican los principios de Entrada, Procesamiento y Salida de datos en sistemas computacionales.",
+        "tags": [
+            "Arte Generativo",
+            "programación",
+            "Instalaciones Interactivas"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/684ae517224d41adfae1c386"
+    },
+    {
+        "id": 175,
+        "title": "Función de la comunicación",
+        "level": "4° año",
+        "category": "Taller",
+        "subject": "Taller de Tecnología",
+        "mode": "Bachiller",
+        "description": "El plan aborda la función de la comunicación a través del lenguaje audiovisual y multimedial. Los estudiantes exploran cómo la imagen en movimiento, el sonido y la edición (montaje y ritmo) construyen narrativas y emociones. Se analiza críticamente el impacto de la tecnología (incluyendo IA generativa) en la comunicación y en la ambigüedad expresiva. Culmina con el desarrollo de un proyecto colaborativo aplicando planificación y roles de producción.",
+        "tags": [
+            "Lenguaje Audiovisual",
+            "Narrativa Visual",
+            "Edición y Montaje"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/684afc1ff84ef51d367b402d"
+    },
+    {
+        "id": 176,
+        "title": "Etapas de entrenamiento",
+        "level": "4° año",
+        "category": "Taller",
+        "subject": "Taller de Tecnología",
+        "mode": "Bachiller",
+        "description": "Este plan aborda la Inteligencia Artificial (IA) Generativa y su aplicación en la creación y consumo musical. Se explora cómo los algoritmos (mediante filtrado colaborativo o basado en contenido) personalizan las recomendaciones de streaming. Los estudiantes analizan el entrenamiento de la IA, experimentan con la manipulación de audio digital y debaten los dilemas éticos y legales sobre la autoría y la creatividad artificial versus la humana.",
+        "tags": [
+            "Inteligencia Artificial (IA)",
+            "Música Generativa",
+            "Algoritmos"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/684c2dbc492485c6a03fe146"
+    },
+    {
+        "id": 177,
+        "title": "Producciones articuladas",
+        "level": "4° año",
+        "category": "Taller",
+        "subject": "Taller de Tecnología",
+        "mode": "Bachiller",
+        "description": "Este plan analiza la música como producto sociocultural y digital. Explora herramientas de Inteligencia Artificial (IA) generativa, para la programación sonora (p. ej., con Sonic Pi o P5.js) y el remix. Se analizan hitos tecnológicos (sampling, DAWs) y se experimenta con la síntesis de sonido y el procesamiento digital (reverb, distorsión). El objetivo es debatir la autoría de la IA y aplicar estos conocimientos en un proyecto musical co-creado.",
+        "tags": [
+            "Programación Sonora",
+            "Inteligencia Artificial",
+            "remix"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/67f3c459408e5e9af8c2ff04"
+    },
+    {
+        "id": 178,
+        "title": "Reflexión, crítica y autonomía con IA",
+        "level": "4° año",
+        "category": "Taller",
+        "subject": "Taller de Tecnología",
+        "mode": "Bachiller",
+        "description": "Este plan aborda el uso de la IA generativa en la creación musical. Analiza la transformación de géneros, la creación de deepfakes vocales y la música interactiva en tiempo real, fomentando la reflexión sobre la autoría y la autenticidad artística. Se analiza críticamente el impacto de los algoritmos en la creatividad y el consumo, y se experimenta con la conversión visual-sonora (sinestesia) y la performance escénica asistida por IA.",
+        "tags": [
+            "Inteligencia artificial",
+            "sinestesia",
+            "performance"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68515e535275dfde607ac3a0"
+    },
+    {
+        "id": 154,
+        "title": "El discurso",
+        "level": "1° año, 2° año",
+        "category": "Taller",
+        "subject": "Taller de Artes",
+        "mode": "Bachiller",
+        "description": "El plan aborda el discurso como construcción escénica a partir de la voz, el cuerpo, el ritmo, la intención y la relación con el público. A través de lecturas, improvisaciones y producción de textos, los estudiantes exploran cómo organizar ideas, definir un punto de vista y generar efectos dramáticos, potenciando la expresividad y la comunicación teatral.",
+        "tags": [
+            "Discurso",
+            "expresividad",
+            "punto de vista"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/681b78dc6ebb4fde87fc5b4f"
+    },
+    {
+        "id": 155,
+        "title": "Teatro en todas partes",
+        "level": "1° año, 2° año",
+        "category": "Taller",
+        "subject": "Taller de Artes",
+        "mode": "Bachiller",
+        "description": "El plan propone reconocer el teatro en la vida cotidiana y en diversos espacios culturales, analizando cómo interviene en la comunicación, los vínculos y las prácticas sociales. A través de juegos, observaciones, improvisaciones y producción de escenas, los estudiantes exploran el teatro como lenguaje presente en la comunidad y reflexionan sobre sus múltiples manifestaciones.",
+        "tags": [
+            "Teatralidad",
+            "vida cotidiana",
+            "comunidad"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/680a6e4b8e28333342a80d4f"
+    },
+    {
+        "id": 145,
+        "title": "El cuerpo y la actitud corporal",
+        "level": "1° año, 2° año",
+        "category": "Taller",
+        "subject": "Taller de Artes",
+        "mode": "Bachiller",
+        "description": "El plan propone explorar el cuerpo y la actitud corporal como herramientas expresivas fundamentales del teatro. A través de actividades prácticas, improvisaciones y referentes del teatro físico, los estudiantes desarrollan conciencia corporal, gestualidad, uso del espacio, manejo de la tensión y la voz para construir personajes y potenciar la comunicación escénica.",
+        "tags": [
+            "Cuerpo",
+            "gestualidad",
+            "actitud corporal"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/68092c6f8e28333342a8074b"
+    },
+    {
+        "id": 146,
+        "title": "La acción, conflicto y desenlace",
+        "level": "1° año, 2° año",
+        "category": "Taller",
+        "subject": "Taller de Artes",
+        "mode": "Bachiller",
+        "description": "El plan profundiza en la construcción dramática a partir de la acción, conflicto, entorno, personajes y texto, integrando la voz, el cuerpo, los objetos y la interacción con el público. A través de análisis, improvisaciones, escritura y puesta en escena, los estudiantes exploran cómo se desarrolla una historia teatral, cómo evolucionan los personajes y cómo las decisiones escénicas impactan en el espectador.",
+        "tags": [
+            "Acción dramática",
+            "conflicto",
+            "entorno"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/680914098723950c169cf80a"
+    },
+    {
+        "id": 156,
+        "title": "Música y artes visuales: Ocupando el espacio sonoro",
+        "level": "4° año",
+        "category": "Taller",
+        "subject": "Taller de Artes",
+        "mode": "Bachiller",
+        "description": "Este plan propone una exploración interdisciplinaria entre el sonido, la interpretación cororal-gestual y la creación visual. Aborda la interpretación escénica y la improvisación corporal a partir de estímulos sonoros, la exploración de calidades acústicas con objetos cotidianos e instrumentos no convencionales, y el diseño de instalaciones y ensamblajes. Asimismo, promueve la audición crítica de músicas tradicionales latinoamericanas desde sus dimensiones poética, musical, sonora, performática y cultural.",
+        "tags": [
+            "Espacio sonoro","Interpretación escénica","Performance."
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/6842eb56640cf19858fd92e0"
+    },
+    {
+        "id": 386,
+        "title": "Posibilidades de la fotografía y lo audiovisual",
+        "level": "3° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "",
+        "tags": [""],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/687e76a3abdf98e6cf511c62"
+    },
+    {
+        "id": 390,
+        "title": "¿Esto es arte? B",
+        "level": "4° año",
+        "category": "Laboratorio, Taller",
+        "subject": "Laboratorio de la Orientación + Taller de la Orientación",
+        "mode": "Bachiller",
+        "description": "Este plan aborda la tensión conceptual entre el arte, la artesanía y los objetos cotidianos, concibiendo el arte como una construcción social e histórica cambiante. Propone recorrer la conformación de las academinas y el canon occidental, así como las rupturas modernas, a través del análisis de las funciones de las creaciones visuales. La propuesta concluye con una actividad de producción: una instalación curatorial colectiva.",
+        "tags": [
+            "Funciones de las creaciones visuales", "Arte y artesanía"
+        ],
+        "url": "https://biblioteca-aprendizaje-autonomo.ticmas.io/resource/689ce7be9010a7c26b185d81"
     }
 
 
