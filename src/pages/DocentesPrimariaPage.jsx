@@ -12,15 +12,51 @@ function PrimariaHero() {
   );
 }
 
+const ACCESOS_PRIMARIA = [
+  { id: 'avatares', label: 'Avatares' },
+  { id: 'experiencias', label: 'Recursero de experiencias' },
+];
+
+function irASeccion(id) {
+  const destino = document.getElementById(id);
+  if (!destino) return;
+  const reducirMovimiento = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  destino.scrollIntoView({ behavior: reducirMovimiento ? 'auto' : 'smooth', block: 'start' });
+}
+
 function PrimariaIntro() {
   return (
     <section className="primaria-intro">
       <div className="primaria-intro-container">
         <p className="primaria-intro-text">
-          Encontrá proyectos educativos, asistentes de IA y recursos pensados para el nivel
-          primario. Explorá por grado, ciclo, temática o área curricular.
+          Potenciá tu clase con avatares de IA y experiencias de otros docentes. Accedé
+          haciendo click en los botones:
         </p>
+
+        <nav className="primaria-accesos" aria-label="Secciones de Docentes Primaria">
+          {ACCESOS_PRIMARIA.map(({ id, label }) => (
+            <a
+              key={id}
+              className="primaria-acceso-btn"
+              href={`#${id}`}
+              onClick={(e) => {
+                e.preventDefault();
+                irASeccion(id);
+              }}
+            >
+              {label}
+            </a>
+          ))}
+        </nav>
       </div>
+    </section>
+  );
+}
+
+function ExperienciasPrimaria() {
+  return (
+    <section className="primaria-experiencias" id="experiencias">
+      <ProyectosBuscador />
     </section>
   );
 }
@@ -93,9 +129,9 @@ export function DocentesPrimariaPage() {
   return (
     <main>
       <PrimariaHero />
-     
+      <PrimariaIntro />
       <AvataresPrimaria />
-    
+      {/*<ExperienciasPrimaria />*/}
     </main>
   );
 }

@@ -14,6 +14,62 @@
   letter-spacing: -0.02em;
 }
 
+/* ═══ Intro + botones de acceso ═══ */
+.primaria-intro {
+  background: #eeeeee;
+  padding: 40px 20px 48px;
+}
+.primaria-intro-container {
+  max-width: 1080px;
+  margin: 0 auto;
+  text-align: center;
+}
+.primaria-intro-text {
+  margin: 0 0 36px;
+  font-size: 1.15rem;
+  color: #1f2a24;
+  line-height: 1.5;
+}
+
+.primaria-accesos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 24px;
+}
+.primaria-acceso-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 1 340px;
+  min-height: 100px;
+  padding: 16px 24px;
+  border-radius: 12px;
+  background: #5a8f6b;
+  color: #fff;
+  font-size: 1.15rem;
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none;
+  box-shadow: 0 4px 12px rgba(40, 70, 50, 0.12);
+  transition: transform 0.25s ease, box-shadow 0.25s ease, background-color 0.25s ease;
+}
+.primaria-acceso-btn:hover {
+  background: #4b7a5b;
+  transform: translateY(-3px);
+  box-shadow: 0 10px 20px rgba(40, 70, 50, 0.18);
+}
+.primaria-acceso-btn:focus-visible {
+  outline: 3px solid #e6b85c;
+  outline-offset: 3px;
+}
+
+/* Que el header fijo no tape el título al saltar a una sección */
+#avatares,
+#experiencias {
+  scroll-margin-top: 90px;
+}
+
 /* ═══ Avatares ═══ */
 .primaria-avatares {
   position: relative;
@@ -218,7 +274,8 @@
   .asistente-card,
   .asistente-card-img,
   .asistente-card-sparkle,
-  .asistente-card-btn {
+  .asistente-card-btn,
+  .primaria-acceso-btn {
     animation: none;
     transition: none;
   }
@@ -226,6 +283,9 @@
 
 /* Mobile */
 @media (max-width: 600px) {
+  .primaria-intro { padding: 32px 16px 40px; }
+  .primaria-accesos { gap: 16px; }
+  .primaria-acceso-btn { flex-basis: 100%; min-height: 72px; }
   .primaria-avatares { padding: 40px 16px 56px; }
   .asistente-card-img { width: 160px; height: 160px; }
   .asistente-card-halo { width: 170px; height: 170px; }
