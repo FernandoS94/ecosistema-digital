@@ -41,7 +41,7 @@ function AsistenteCard({ label, nombre, grados, descripcion, img, href, tema }) 
         <span className="asistente-card-chip">{grados}</span>
         <h3 className="asistente-card-ciclo">{label}</h3>
       
-        <p className="asistente-card-desc">{descripcion}</p>
+        
 
         {disponible ? (
           <a
