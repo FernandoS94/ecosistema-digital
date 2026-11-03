@@ -1,0 +1,1 @@
+import{d as e}from"./index-aCyPaBgI.js";e();

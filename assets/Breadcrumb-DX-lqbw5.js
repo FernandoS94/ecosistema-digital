@@ -1,1 +1,0 @@
-import{d as e}from"./index-BNOTxN_k.js";e();
