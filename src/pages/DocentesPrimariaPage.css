@@ -1,8 +1,16 @@
 /* ═══ Docentes Primaria ═══ */
 
-/* Hero verde */
+/* Variantes de la paleta del :root para hover/estados */
+.primaria-hero,
+.primaria-intro,
+.primaria-avatares {
+  --primary-dark: #1d8589;   /* --primary-color oscurecido */
+  --primary-soft: #e3f4f5;   /* --primary-color muy claro */
+}
+
+/* Hero sólido */
 .primaria-hero {
-  background-color: #5a8f6b;
+  background-color: var(--primary-color);
   padding: 150px 20px 60px;
   text-align: center;
 }
@@ -45,22 +53,22 @@
   min-height: 100px;
   padding: 16px 24px;
   border-radius: 12px;
-  background: #5a8f6b;
+  background: var(--primary-color);
   color: #fff;
   font-size: 1.15rem;
   font-weight: 700;
   text-align: center;
   text-decoration: none;
-  box-shadow: 0 4px 12px rgba(40, 70, 50, 0.12);
+  box-shadow: 0 4px 12px rgba(26, 32, 44, 0.12);
   transition: transform 0.25s ease, box-shadow 0.25s ease, background-color 0.25s ease;
 }
 .primaria-acceso-btn:hover {
-  background: #4b7a5b;
+  background: var(--primary-dark);
   transform: translateY(-3px);
-  box-shadow: 0 10px 20px rgba(40, 70, 50, 0.18);
+  box-shadow: 0 10px 20px rgba(26, 32, 44, 0.18);
 }
 .primaria-acceso-btn:focus-visible {
-  outline: 3px solid #e6b85c;
+  outline: 3px solid var(--secondary-color);
   outline-offset: 3px;
 }
 
@@ -74,10 +82,7 @@
 .primaria-avatares {
   position: relative;
   padding: 56px 20px 72px;
-  background:
-    radial-gradient(circle at 10% 20%, rgba(90, 143, 107, 0.10) 0, transparent 40%),
-    radial-gradient(circle at 90% 80%, rgba(230, 184, 92, 0.12) 0, transparent 40%),
-    linear-gradient(180deg, #fff 0%, #f3f8f4 100%);
+  background: #fff;
   overflow: hidden;
 }
 .primaria-avatares-inner {
@@ -95,8 +100,8 @@
   font-weight: 700;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: #5a8f6b;
-  background: rgba(90, 143, 107, 0.12);
+  color: var(--primary-dark);
+  background: var(--primary-soft);
   padding: 6px 14px;
   border-radius: 999px;
   margin-bottom: 12px;
@@ -104,13 +109,13 @@
 .primaria-avatares-title {
   font-size: clamp(1.6rem, 3vw, 2.2rem);
   font-weight: 800;
-  color: #3f6b4f;
+  color: var(--secondary-color);
   margin: 0 0 8px;
   letter-spacing: -0.01em;
 }
 .primaria-avatares-sub {
   margin: 0;
-  color: #5c6b62;
+  color: #4a5568;
   font-size: 1.05rem;
 }
 
@@ -123,10 +128,10 @@
 /* ─── Tarjeta ─── */
 .asistente-card {
   /* colores por tema (se sobreescriben abajo) */
-  --c-main: #5a8f6b;
-  --c-soft: #eef5f0;
-  --c-halo: #dbe9df;
-  --c-text: #3f6b4f;
+  --c-main: var(--primary-color);
+  --c-soft: #e3f4f5;
+  --c-halo: #c4e7e9;
+  --c-text: #1d8589;
 
   position: relative;
   display: flex;
@@ -134,13 +139,13 @@
   background: #fff;
   border-radius: 28px;
   border: 1px solid rgba(0, 0, 0, 0.05);
-  box-shadow: 0 10px 30px rgba(40, 70, 50, 0.08);
+  box-shadow: 0 10px 30px rgba(26, 32, 44, 0.08);
   overflow: hidden;
   transition: transform 0.35s ease, box-shadow 0.35s ease;
 }
 .asistente-card:hover {
   transform: translateY(-6px);
-  box-shadow: 0 18px 40px rgba(40, 70, 50, 0.14);
+  box-shadow: 0 18px 40px rgba(26, 32, 44, 0.14);
 }
 
 .asistente-card--plata {
@@ -162,14 +167,14 @@
   display: grid;
   place-items: center;
   padding: 32px 20px 16px;
-  background: linear-gradient(180deg, var(--c-soft) 0%, #fff 100%);
+  background: var(--c-soft);
 }
 .asistente-card-halo {
   position: absolute;
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  background: radial-gradient(circle, var(--c-halo) 0%, var(--c-halo) 55%, transparent 72%);
+  background: var(--c-halo);
   top: 50%;
   left: 50%;
   transform: translate(-50%, -46%);
