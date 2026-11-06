@@ -12,7 +12,7 @@ export const PROYECTOS = [
     tematicas: ["Ciudadanía Digital"],
     areas: ["Lengua", "Conocimiento del mundo", "Educación Digital"],
     url: "https://drive.google.com/file/d/1OwGKB2-bijeAwDMKo_4vfyV27eyi6GEF/view",
-  },
+  },/*
   {
     titulo: "Los materiales y su interacción frente a la electricidad y el magnetismo",
     institucion: "Juan Agustín Maza",
@@ -793,8 +793,8 @@ export const PROYECTOS = [
     tematicas: ["Inteligencia Artificial"],
     areas: ["Lengua", "Matemática", "Ciencias Sociales", "Artes visuales", "Ed. Física", "Educación Digital"],
     url: "https://drive.google.com/file/d/1p1_2PhzeA2SfhtOGiB97HQj5ATUtBJEsEwqWc3DTDok/view",
-  },
-];
+  },*/
+]; 
 
 export const GRADOS = ["1.° grado", "2.° grado", "3.° grado", "4.° grado", "5.° grado", "6.° grado", "7.° grado"];
 
@@ -803,3 +803,4 @@ export const CICLOS = ["1.° Ciclo", "2.° Ciclo"];
 export const TEMATICAS = ["Ciudadanía Digital", "Inteligencia Artificial", "PCPyR", "STEAM", "PDIyA", "Producción multimedial"];
 
 export const AREAS = ["Lengua", "Matemática", "Ciencias Sociales", "Ciencias Naturales", "Conocimiento del mundo", "Artes visuales", "Ed. Tecnológica", "Idiomas", "Ed. Física", "Educación Digital", "Música"];
+ 

@@ -7,14 +7,14 @@ import './DocentesPrimariaPage.css';
 function PrimariaHero() {
   return (
     <section className="primaria-hero">
-      <h1 className="primaria-hero-title">Docentes Primaria Aprende</h1>
+      <h1 className="primaria-hero-title">Docentes de Nivel Primario</h1>
     </section>
   );
 }
 
 const ACCESOS_PRIMARIA = [
   { id: 'avatares', label: 'Avatares' },
-  { id: 'experiencias', label: 'Recursero de experiencias' },
+  { id: 'experiencias', label: 'Material didáctico' },
 ];
 
 function irASeccion(id) {
@@ -29,8 +29,7 @@ function PrimariaIntro() {
     <section className="primaria-intro">
       <div className="primaria-intro-container">
         <p className="primaria-intro-text">
-          Potenciá tu clase con avatares de IA y experiencias de otros docentes. Accedé
-          haciendo click en los botones:
+          Potenciá tu clase con avatares de IA y material didáctico pensado para el nivel primario. Accedé haciendo click en los botones:
         </p>
 
         <nav className="primaria-accesos" aria-label="Secciones de Docentes Primaria">
@@ -131,7 +130,7 @@ export function DocentesPrimariaPage() {
       <PrimariaHero />
       <PrimariaIntro />
       <AvataresPrimaria />
-      {/*<ExperienciasPrimaria />*/}
+     {/* <ExperienciasPrimaria /> */}
     </main>
   );
 }

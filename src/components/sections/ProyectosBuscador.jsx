@@ -87,10 +87,11 @@ export function ProyectosBuscador() {
     <section className="proy-seccion" id="proyectos">
       <div className="proy-container">
 
-        <div className="proy-head">
-          <h2 className="proy-titulo">Proyectos educativos</h2>
-          <p className="proy-sub">Explorá proyectos por grado, ciclo, temática o área curricular.</p>
-        </div>
+        <header className="proy-head">
+          <span className="proy-eyebrow">Recursos para el aula</span>
+          <h2 className="proy-titulo">Materiales didácticos</h2>
+          <p className="proy-sub">Explorá materiales por grado, ciclo, temática o área curricular.</p>
+        </header>
 
         {/* Buscador */}
         <div className="proy-search">
@@ -156,7 +157,7 @@ export function ProyectosBuscador() {
         {/* Barra resultados */}
         <div className="proy-resultbar">
           <span className="proy-count">
-            {resultados.length} {resultados.length === 1 ? 'proyecto' : 'proyectos'}
+            {resultados.length} {resultados.length === 1 ? 'material' : 'materiales'}
           </span>
         </div>
 
@@ -164,7 +165,7 @@ export function ProyectosBuscador() {
         {resultados.length === 0 ? (
           <div className="proy-empty">
             <i className="fas fa-folder-open" aria-hidden="true"></i>
-            <p>No se encontraron proyectos con estos criterios.</p>
+            <p>No se encontraron materiales con estos criterios.</p>
           </div>
         ) : (
           <>
