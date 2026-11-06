@@ -1,1 +1,0 @@
-import{d as e}from"./index-Q3ego-I1.js";e();
