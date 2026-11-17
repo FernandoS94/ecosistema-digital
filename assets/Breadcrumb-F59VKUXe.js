@@ -1,1 +1,0 @@
-import{d as e}from"./index-BgYdc1WM.js";e();
