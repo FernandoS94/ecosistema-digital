@@ -130,7 +130,7 @@ export function DocentesPrimariaPage() {
       <PrimariaHero />
       <PrimariaIntro />
       <AvataresPrimaria />
-     {/* <ExperienciasPrimaria /> */}
+     <ExperienciasPrimaria /> 
     </main>
   );
 }
